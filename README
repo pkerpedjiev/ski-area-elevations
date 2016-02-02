@@ -1,0 +1,4 @@
+Download the elevations:
+
+scp pkerp@fluidspace.tbi.univie.ac.at:/scr/fluidspace/pkerp/projects/chairliftplot/ski_area_elevations/south-america-latest.json jsons/ski-area-elevations.json
+
