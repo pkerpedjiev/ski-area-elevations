@@ -145,14 +145,6 @@ function skiAreaElevationsPlot() {
                     return xScale(Math.log(d.area)) - xScale(0); 
                 }
 
-                function resortLabelPosition(d, i) {
-                    return `translate(${scaledX(d,i) + rectWidth(d,i) / 2},${yScale(d.max_elev) - 7})`;
-                    /*
-                    else
-                        return `translate(${scaledX(d,i) + rectWidth(d,i) / 2},${yScale(d.min_elev) + 12})`;
-                        */
-                }
-
 
                 gMain.selectAll('.resort-rect')
                 .attr('x', scaledX)
@@ -167,11 +159,13 @@ function skiAreaElevationsPlot() {
                         return true;
                     return false;
                 }
-                let visibleAreas = data.filter(labelFilter);
                 let labelText = (d) => { return d.name; };
                 let labelAnchor = (d) => { return 'middle' };
                 let labelId = (d) => { return `n-${d.uid}`; }
-                let labelPosition = resortLabelPosition;
+                let labelPosition = (d,i) => { 
+                    return `translate(${scaledX(d,i) + rectWidth(d,i) / 2},
+                                      ${yScale(d.max_elev) - 7})`;
+                }
 
                 var zoomableLabelsOrientation = zoomableLabels()
                 .labelFilter(labelFilter)
