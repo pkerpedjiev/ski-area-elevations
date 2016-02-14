@@ -53,23 +53,27 @@ def make_tiles(entries, options, zoom_level, start_x, end_x):
     """
     # show only a subset of the entries that fall within this tile
     tile = {}
-    tile['shown'] = sorted(entries, key=lambda x: x[options.importance])[:options.max_entries_per_tile]
+    tile['shown'] = sorted(entries, key=lambda x: -x[options.importance])[:options.max_entries_per_tile]
     tile['start_x'] = start_x
     tile['end_x'] = end_x
     tile['zoom'] = zoom_level
 
-    midpoint = (end_x - start_x) / 2
+    midpoint = (end_x + start_x) / 2.
+
+    tile['num'] = int(((midpoint - options.min_pos) /
+                   ((options.max_pos - options.min_pos) / float(2 ** zoom_level))))
 
     left_entries = filter(lambda x: x[options.position] <= midpoint, entries)
     right_entries = filter(lambda x: x[options.position] > midpoint, entries)
+    tiles = [tile]
 
-    if zoom < options.max_zoom:
+    if zoom_level < options.max_zoom:
         tiles += make_tiles(left_entries, options, zoom_level+1, start_x = start_x,
                 end_x = midpoint)
         tiles += make_tiles(right_entries, options, zoom_level+1, start_x = midpoint,
                 end_x = end_x)
 
-    pass
+    return tiles
 
 def main():
     usage = """
@@ -104,6 +108,8 @@ def main():
 
         options.max_pos = max(map(lambda x: x[options.position], entries))
         options.min_pos = min(map(lambda x: x[options.position], entries))
+
+        options.total_x_width = options.max_pos - options.min_pos
 
         entries = sorted(entries, key= lambda x: -float(x[options.importance]))
 
