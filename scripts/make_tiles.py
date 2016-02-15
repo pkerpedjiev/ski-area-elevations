@@ -1,8 +1,10 @@
 #!/usr/bin/python
 
+import argparse
 import json
+import os
+import os.path as op
 import sys
-from optparse import OptionParser
 
 def make_tiles(entries, options, zoom_level, start_x, end_x):
     """
@@ -53,7 +55,7 @@ def make_tiles(entries, options, zoom_level, start_x, end_x):
     """
     # show only a subset of the entries that fall within this tile
     tile = {}
-    tile['shown'] = sorted(entries, key=lambda x: -x[options.importance])[:options.max_entries_per_tile]
+    tile['shown'] = sorted(entries, key=lambda x: -float(x[options.importance]))[:options.max_entries_per_tile]
     tile['start_x'] = start_x
     tile['end_x'] = end_x
     tile['zoom'] = zoom_level
@@ -82,42 +84,75 @@ def main():
     Create tiles for all of the entries in the JSON file.
     """
     num_args= 1
-    parser = OptionParser(usage=usage)
+    parser = argparse.ArgumentParser()
 
-    #parser.add_option('-o', '--options', dest='some_option', default='yo', help="Place holder for a real option", type='str')
-    #parser.add_option('-u', '--useless', dest='uselesss', default=False, action='store_true', help='Another useless option')
-    parser.add_option('-i', '--importance', dest='importance', default='importance',
+    #parser.add_argument('-o', '--options', dest='some_option', default='yo', help="Place holder for a real option", type='str')
+    #parser.add_argument('-u', '--useless', dest='uselesss', default=False, action='store_true', help='Another useless option')
+    parser.add_argument('json_file')
+    parser.add_argument('-i', '--importance', dest='importance', default='importance',
             help='The field in each JSON entry that indicates how important that entry is',
-            type='string')
-    parser.add_option('-p', '--position', dest='position', default='position',
+            type=str)
+
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument('-p', '--position', dest='position', default='position',
             help='Where this entry would be placed on the x axis',
-            type='string')
-    parser.add_option('-e', '--max-entries-per-tile', dest='max_entries_per_tile', default=100,
+            type=str)
+    group.add_argument('-s', '--sort-by', 
+            default=None,
+            help='Sort by a field and use as the position') 
+
+    parser.add_argument('-e', '--max-entries-per-tile', dest='max_entries_per_tile', default=100,
         help='The maximum number of entries that can be displayed on a single tile')
-    parser.add_option('-m', '--max-zoom', dest='max_zoom', default=5,
+    parser.add_argument('-m', '--max-zoom', dest='max_zoom', default=5,
             help='The maximum zoom level')
+    parser.add_argument('-o', '--output-dir', help='The directory to place the tiles',
+                        required=True)
 
-    (options, args) = parser.parse_args()
+    args = parser.parse_args()
 
-    if len(args) < num_args:
-        parser.print_help()
-        sys.exit(1)
 
-    with open(args[0], 'r') as f:
+    with open(args.json_file, 'r') as f:
         entries = json.load(f)
 
-        options.max_pos = max(map(lambda x: x[options.position], entries))
-        options.min_pos = min(map(lambda x: x[options.position], entries))
+        if args.sort_by is not None:
+            # we want the position to be equal to the index of each entry
+            # when the whole list is sorted by a certain value
+            entries = sorted(entries, key=lambda x: x[args.sort_by])
+            for i, entry in enumerate(entries):
+                entry['sorted_position'] = i
+            args.position = 'sorted_position'
 
-        options.total_x_width = options.max_pos - options.min_pos
+        args.max_pos = max(map(lambda x: x[args.position], entries))
+        args.min_pos = min(map(lambda x: x[args.position], entries))
 
-        entries = sorted(entries, key= lambda x: -float(x[options.importance]))
+        args.total_x_width = args.max_pos - args.min_pos
 
-        make_tiles(entries, options, zoom_level = 0, 
-                   start_x = options.min_pos, end_x = options.max_pos)
+        entries = sorted(entries, key= lambda x: -float(x[args.importance]))
 
-        print >>sys.stderr, "Entries:", entries
+        tiles = make_tiles(entries, args, zoom_level = 0, 
+                   start_x = args.min_pos, end_x = args.max_pos)
 
+        tileset = {'min_pos': args.min_pos,
+                   'max_pos': args.max_pos,
+                   'max_zoom': args.max_zoom}
+
+        if not op.exists(args.output_dir):
+            os.makedirs(args.output_dir)
+
+        print >>sys.stderr, "tileset:", tileset
+
+        with open(op.join(args.output_dir, 'tile_info.json'), 'w') as f:
+            json.dump(tileset, f)
+
+        for tile in tiles:
+            output_dir = op.join(args.output_dir, str(tile['zoom']))
+
+            if not op.exists(output_dir):
+                os.makedirs(output_dir)
+
+            output_file = op.join(output_dir, '{}.json'.format(tile['num']))
+            with open(output_file, 'w') as f:
+                json.dump(tile, f)
 
 if __name__ == '__main__':
     main()
