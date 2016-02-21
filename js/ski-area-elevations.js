@@ -55,10 +55,13 @@ function skiAreaElevationsPlot() {
                 return r;
                 }, []);
 
+            /*
             var totalWidth = cumWidths[cumWidths.length - 1] + 
                 Math.log(data[data.length - 1].area);
+            */
 
-            var xScaleDomain = [-totalWidth / 10, cumWidths[cumWidths.length - 1] + totalWidth / 10];
+            //var xScaleDomain = [-totalWidth / 10, cumWidths[cumWidths.length - 1] + totalWidth / 10];
+            let xScaleDomain = [0, cumWidths[cumWidths.length - 1]];
 
             var xScale = d3.scale.linear()
             .domain(xScaleDomain)
@@ -177,6 +180,15 @@ function skiAreaElevationsPlot() {
                 .labelSort(labelSort);
 
                 gResorts.call(zoomableLabelsOrientation);
+
+                // this will become the tiling code
+                let zoomLevel = Math.log(zoom.scale());
+                console.log('zoom.scale', zoom.scale(), zoomLevel);
+                console.log('zoom', zoom.x().domain());
+
+                // the ski areas are positioned according to their
+                // cumulative widths, which means the tiles need to also
+                // be calculated according to cumulative width
             }
         });
     }
