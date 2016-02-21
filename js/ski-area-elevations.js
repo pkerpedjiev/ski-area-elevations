@@ -82,7 +82,6 @@ function skiAreaElevationsPlot() {
 
             gYAxis.call(yAxis);
 
-
             var gMain = gEnter.append('g')
             .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
@@ -182,13 +181,24 @@ function skiAreaElevationsPlot() {
                 gResorts.call(zoomableLabelsOrientation);
 
                 // this will become the tiling code
-                let zoomLevel = Math.log(zoom.scale());
+                let zoomLevel = Math.round(Math.log(zoom.scale()) / Math.LN2);
                 console.log('zoom.scale', zoom.scale(), zoomLevel);
                 console.log('zoom', zoom.x().domain());
 
                 // the ski areas are positioned according to their
                 // cumulative widths, which means the tiles need to also
                 // be calculated according to cumulative width
+                let totalWidth = cumWidths[cumWidths.length - 1];
+
+                var tileWidth = totalWidth /  Math.pow(2, zoomLevel);
+                console.log('totalWidth:', totalWidth, 'tileWidth:', tileWidth);
+                let rows = d3.range(Math.floor(zoom.x().domain()[0] / tileWidth),
+                                 Math.ceil(zoom.x().domain()[1] / tileWidth));
+
+                let tiles = [];
+                rows.forEach((r) => { tiles.push([zoomLevel, r]);});
+                console.log('tiles', tiles);
+
             }
         });
     }
