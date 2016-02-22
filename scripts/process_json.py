@@ -32,7 +32,7 @@ def main():
                                               fudge_factor) +
                                      2)
     
-        print json.dumps(entries)
+        print json.dumps(entries, indent=2)
 
 if __name__ == '__main__':
     main()
