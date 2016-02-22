@@ -102,9 +102,14 @@ def main():
             help='Sort by a field and use as the position') 
 
     parser.add_argument('-e', '--max-entries-per-tile', dest='max_entries_per_tile', default=100,
-        help='The maximum number of entries that can be displayed on a single tile')
+        help='The maximum number of entries that can be displayed on a single tile',
+        type=int)
     parser.add_argument('-m', '--max-zoom', dest='max_zoom', default=5,
             help='The maximum zoom level')
+    parser.add_argument('--min-pos', dest='min_pos', default=None,
+            help='The minimum x position', type=float)
+    parser.add_argument('--max-pos', dest='max_pos', default=None,
+            help='The maximum x position', type=float)
     parser.add_argument('-o', '--output-dir', help='The directory to place the tiles',
                         required=True)
 
@@ -122,8 +127,10 @@ def main():
                 entry['sorted_position'] = i
             args.position = 'sorted_position'
 
-        args.max_pos = max(map(lambda x: x[args.position], entries))
-        args.min_pos = min(map(lambda x: x[args.position], entries))
+        if args.max_pos is None:
+            args.max_pos = max(map(lambda x: x[args.position], entries))
+        if args.min_pos is None:
+            args.min_pos = min(map(lambda x: x[args.position], entries))
 
         args.total_x_width = args.max_pos - args.min_pos
 

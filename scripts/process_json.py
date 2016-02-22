@@ -21,15 +21,15 @@ def main():
 
     args = parser.parse_args()
     with open(args.json_file[0], 'r') as f:
-        entries = json.load(f)
+        entries = sorted(json.load(f), key=lambda x: -int(x['max_elev']))
 
         fudge_factor = 1.8
         entries[0]['cumarea'] = math.log(float(entries[0]['area']) + fudge_factor)
 
         for i in range(1,len(entries)):
+            entries[i]['area'] =  float(entries[i]['area']) + fudge_factor
             entries[i]['cumarea'] = (entries[i-1]['cumarea'] + 
-                                     math.log(float(entries[i]['area']) +
-                                              fudge_factor) +
+                                     math.log(entries[i]['area']) +
                                      2)
     
         print json.dumps(entries, indent=2)
