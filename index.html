@@ -24,7 +24,8 @@
                 console.log('tile_info:', tile_info);
                 elevationsPlot.minX(tile_info.min_pos)
                 .maxX(tile_info.max_pos)
-                .maxZoom(tile_info.max_zoom);
+                .maxZoom(tile_info.max_zoom)
+                .tileDirectory('/jsons/tiles');
                 
                 d3.json('/jsons/processed-ski-area-elevations.json', function(error, data) {
                     data.map(function(d) {
@@ -36,7 +37,7 @@
                     });
                     console.log('data', data[30]);
                     d3.select('#ski-area-elevations')
-                        .datum(data)
+                        //.datum(data)
                         .call(elevationsPlot)
                 });
             });

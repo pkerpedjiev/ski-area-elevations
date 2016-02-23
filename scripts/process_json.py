@@ -14,14 +14,25 @@ def main():
 """)
 
     parser.add_argument('json_file', nargs=1)
+    parser.add_argument('--uids-to-names', default=None)
     #parser.add_argument('-o', '--options', default='yo',
     #					 help="Some option", type='str')
     #parser.add_argument('-u', '--useless', action='store_true', 
     #					 help='Another useless option')
 
     args = parser.parse_args()
+
+    uids_to_names = {}
+    if args.uids_to_names is not None:
+        with open(args.uids_to_names, 'r') as f:
+            uids_to_names = json.load(f)
+
     with open(args.json_file[0], 'r') as f:
         entries = sorted(json.load(f), key=lambda x: -int(x['max_elev']))
+
+        for entry in entries:
+            if entry['uid'] in uids_to_names:
+                entry['name'] = uids_to_names[entry['uid']]
 
         fudge_factor = 1.8
         entries[0]['cumarea'] = math.log(float(entries[0]['area']) + fudge_factor)

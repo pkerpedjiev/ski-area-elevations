@@ -149,7 +149,7 @@ def main():
         print >>sys.stderr, "tileset:", tileset
 
         with open(op.join(args.output_dir, 'tile_info.json'), 'w') as f:
-            json.dump(tileset, f)
+            json.dump(tileset, f, indent=2)
 
         for tile in tiles:
             output_dir = op.join(args.output_dir, str(tile['zoom']))
@@ -159,7 +159,7 @@ def main():
 
             output_file = op.join(output_dir, '{}.json'.format(tile['num']))
             with open(output_file, 'w') as f:
-                json.dump(tile, f)
+                json.dump(tile, f, indent=2)
 
 if __name__ == '__main__':
     main()
