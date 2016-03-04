@@ -132,6 +132,9 @@ def main():
         if args.min_pos is None:
             args.min_pos = min(map(lambda x: x[args.position], entries))
 
+        args.min_importance = (min(map(lambda x: float(x[args.importance]), entries)))
+        args.max_importance = (max(map(lambda x: float(x[args.importance]), entries)))
+
         args.total_x_width = args.max_pos - args.min_pos
 
         entries = sorted(entries, key= lambda x: -float(x[args.importance]))
@@ -141,6 +144,8 @@ def main():
 
         tileset = {'min_pos': args.min_pos,
                    'max_pos': args.max_pos,
+                   'min_importance': args.min_importance,
+                   'max_importance': args.max_importance,
                    'max_zoom': args.max_zoom}
 
         if not op.exists(args.output_dir):
