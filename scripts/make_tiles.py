@@ -112,6 +112,10 @@ def main():
             help='The maximum x position', type=float)
     parser.add_argument('-o', '--output-dir', help='The directory to place the tiles',
                         required=True)
+    parser.add_argument('--min-y', help='The field indicating the minimum y position',
+                        default='min_y')
+    parser.add_argument('--max-y', help='The field indicating the maximum y position',
+                        default='max_y')
 
     args = parser.parse_args()
 
@@ -135,6 +139,9 @@ def main():
         args.min_importance = (min(map(lambda x: float(x[args.importance]), entries)))
         args.max_importance = (max(map(lambda x: float(x[args.importance]), entries)))
 
+        args.min_y = (min(map(lambda x: float(x[args.min_y]), entries)))
+        args.max_y = (max(map(lambda x: float(x[args.max_y]), entries)))
+
         args.total_x_width = args.max_pos - args.min_pos
 
         entries = sorted(entries, key= lambda x: -float(x[args.importance]))
@@ -144,6 +151,8 @@ def main():
 
         tileset = {'min_pos': args.min_pos,
                    'max_pos': args.max_pos,
+                   'min_y': args.min_y,
+                   'max_y': args.max_y,
                    'min_importance': args.min_importance,
                    'max_importance': args.max_importance,
                    'max_zoom': args.max_zoom}

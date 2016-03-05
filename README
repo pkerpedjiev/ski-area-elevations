@@ -6,3 +6,4 @@ scp pkerp@fluidspace.tbi.univie.ac.at:/scr/fluidspace/pkerp/projects/chairliftpl
 
 python scripts/process_json.py --uids-to-names jsons/ski-areas/south-america/uids-to-names.json jsons/ski-area-elevations.json > jsons/processed-ski-area-elevations.json
 python scripts/make_tiles.py jsons/processed-ski-area-elevations.json -p cumarea -i area -o jsons/tiles -e 10 --min-pos 0
+python scripts/make_tiles.py jsons/processed-ski-area-elevations.json -p cumarea -i area -o jsons/tiles -e 10 --min-pos 0 --min-y min_elev --max-y max_elev
