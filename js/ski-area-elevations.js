@@ -50,42 +50,59 @@ function skiAreaElevationsPlot() {
             .classed('hovered', false);
         }
 
-        function showTile(tile) {
+        function skiAreaId(d) {
+            return d.uid;
+        }
+
+        function showTiles(tiles) {
             // load a tile [zoom_level, position]
             //
             // Create all of the svg elements needed to display this tile
             // this should just be the rectangles and the labels associated
             // with each ski area
-            if (shownTiles.has(tileId(tile)))
-                return;
-            else
-                shownTiles.add(tileId(tile));
+            let gTiles = gMain.selectAll('.tile-g')
+            .data(tiles, tileId)
 
-            let data = loadedTiles[tileId(tile)].shown;
+            let gTilesEnter = gTiles.enter()
+            let gTilesExit = gTiles.exit()
 
-            data.map(function(d) { 
-                d.area = +d.area;
-                d.cumarea = +d.cumarea;
-                //d.cumarea = Math.log(d.area); 
-            });
+            gTilesEnter.append('g')
+            .classed('tile-g', true)
+            .each(function(tile) {
+                let gTile = d3.select(this);
+                let data = loadedTiles[tileId(tile)].shown;
 
-            //let labelSort = (a,b) => { return b.area - a.area; };
-            let elevationSort = (a,b) => { return b.max_elev - a.max_elev; };
-            data.sort(elevationSort);
+                data.map(function(d) { 
+                    d.area = +d.area;
+                    d.cumarea = +d.cumarea;
+                    //d.cumarea = Math.log(d.area); 
+                });
 
-            gResorts = gMain.selectAll('.resort-g')
-            .data(data)
-            .enter()
-            .append('g')
-            .attr("clip-path", "url(#clip)");
+                //let labelSort = (a,b) => { return b.area - a.area; };
+                let elevationSort = (a,b) => { return b.max_elev - a.max_elev; };
+                data.sort(elevationSort);
 
-            // the rectangle showing each rect
-            gResorts.append('rect')
-            .classed('resort-rect', true)
-            .on('mouseover', skiAreaMouseover)
-            .on('mouseout', skiAreaMouseout);
+                gResorts = gTile.selectAll('.resort-g')
+                .data(data, skiAreaId)
+                .enter()
+                .append('g')
+                .attr("clip-path", "url(#clip)")
+                .each(function(d) { console.log('each d:', d); });
 
-            draw();
+                // the rectangle showing each rect
+                gResorts.append('rect')
+                .classed('resort-rect', true)
+                .on('mouseover', skiAreaMouseover)
+                .on('mouseout', skiAreaMouseout);
+            })
+
+            gTilesExit.remove();
+            
+            // only redraw if the tiles have changed
+            console.log('gTilesEnter:', gTilesEnter);
+            console.log('gTilesExit:', gTilesExit);
+            if (gTilesEnter.size() > 0 || gTilesExit.size() > 0)
+                draw();
         }
 
         function removeTile(tile) {
@@ -94,7 +111,6 @@ function skiAreaElevationsPlot() {
         }
 
         function refreshTiles(currentTiles) {
-            // go through all the shown tiles and remove those that shouldn't
             // be shown and add those that should be shown
             currentTiles.forEach((tile) => {
                 if (!isTileLoaded(tile)) {
@@ -103,10 +119,10 @@ function skiAreaElevationsPlot() {
                             function(error, data) {
                                 console.log('loaded:', tile);
                                 loadedTiles[tileId(tile)] = data;
-                                showTile(tile);
+                                showTiles(currentTiles);
                             });
                 } else {
-                    showTile(tile);
+                    showTiles(currentTiles);
                 }
             });
         }
@@ -119,7 +135,7 @@ function skiAreaElevationsPlot() {
         .attr('height', height);
 
         var zoom = d3.behavior.zoom()
-        .on("zoom", draw);
+        .on("zoom", zoomed);
 
         gEnter.insert("rect", "g")
         .attr("class", "pane")
@@ -173,7 +189,7 @@ function skiAreaElevationsPlot() {
             .range([0, width - margin.left - margin.right]);
 
             zoom.x(xScale).scaleExtent([1,Math.pow(2, maxZoom)])
-            .xExtent(xScaleDomain);
+            //.xExtent(xScaleDomain);
 
             var yAxis = d3.svg.axis()
             .scale(yScale)
@@ -186,9 +202,19 @@ function skiAreaElevationsPlot() {
             refreshTiles([[0,0]]);
         });
 
+        function zoomed() {
+            // limit panning and zooming
+            let xScaleMinX = Math.max(xScale.domain()[0], minX);
+            let xScaleMaxX = Math.min(xScale.domain()[1], maxX);
 
+            xScale.domain([xScaleMinX, xScaleMaxX]);
+
+            draw();
+        }
 
         function draw() {
+            // draw the scene, if we're zooming, then we need to check if we
+            // need to redraw the tiles, otherwise it's irrelevant
             function scaledX(d,i) {
                 return xScale(d.cumarea) - (xScale(Math.log(d.area)) - xScale(0));
             }
@@ -245,14 +271,14 @@ function skiAreaElevationsPlot() {
             let rows = d3.range(Math.floor(zoom.x().domain()[0] / tileWidth),
                                 Math.ceil(zoom.x().domain()[1] / tileWidth));
 
-                                // hey hye
-                                let tiles = [];
-                                rows.forEach((r) => { tiles.push([zoomLevel, r]);});
-                                tiles.forEach((t) => {
-                                    console.log('t:', t);
-                                });
+            // hey hye
+            let tiles = [];
+            rows.forEach((r) => { tiles.push([zoomLevel, r]);});
+            tiles.forEach((t) => {
+                console.log('t:', t);
+            });
 
-                                refreshTiles(tiles);
+            refreshTiles(tiles);
         }
     }
 
