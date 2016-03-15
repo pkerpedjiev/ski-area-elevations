@@ -23,6 +23,7 @@ function skiAreaElevationsPlot() {
     let gMain = null;
     let gResorts = null;
     let shownTiles = new Set();
+    let rectId = (d) => { return `r-${d.uid}`; };
 
     function tileId(tile) {
         // uniquely identify the tile with a string
@@ -89,7 +90,6 @@ function skiAreaElevationsPlot() {
                 //let labelSort = (a,b) => { return b.area - a.area; };
                 let elevationSort = (a,b) => { return b.max_elev - a.max_elev; };
                 data.sort(elevationSort);
-                console.log('data:',data[data.length-1]);
 
                 gResorts = gTile.selectAll('.resort-g')
                 .data(data, skiAreaId)
@@ -101,6 +101,7 @@ function skiAreaElevationsPlot() {
                 // the rectangle showing each rect
                 gResorts.append('rect')
                 .classed('resort-rect', true)
+                .attr('id', rectId)
                 .on('mouseover', skiAreaMouseover)
                 .on('mouseout', skiAreaMouseout);
             })
@@ -130,7 +131,6 @@ function skiAreaElevationsPlot() {
                     // if the tile isn't loaded, load it
                     d3.json(tileDirectory + `/${tile[0]}/${tile[1]}.json`,
                             function(error, data) {
-                                //console.log('loaded:', tile);
                                 loadedTiles[tileId(tile)] = data;
                                 showTiles(currentTiles);
                             });
@@ -183,8 +183,8 @@ function skiAreaElevationsPlot() {
             minY = tile_info.min_y;
             maxY = tile_info.max_y;
 
-            minArea = tile_info.min_area;
-            maxArea = tile_info.max_area;
+            minArea = tile_info.min_importance;
+            maxArea = tile_info.max_importance;
 
             maxZoom = tile_info.max_zoom;
 
@@ -196,7 +196,7 @@ function skiAreaElevationsPlot() {
 
             widthScale = d3.scale.linear()
             .domain([0, Math.log(maxArea)])
-            .range([1, 10]);
+            .range([1, 7]);
 
             xScale = d3.scale.linear()
             .domain(xScaleDomain)
@@ -221,9 +221,6 @@ function skiAreaElevationsPlot() {
         function zoomed() {
             var reset_s = 0;
 
-        //console.log('zoom:', zoom.translate(), zoom.scale());
-        //console.log('xScale.domain:', xScale.domain(), xScale.domain()[1] - xScale.domain()[0]);
-
           if ((xScale.domain()[1] - xScale.domain()[0]) >= (maxX - minX)) {
             zoom.x(xScale.domain([minX, maxX]));
             reset_s = 1;
@@ -243,16 +240,10 @@ function skiAreaElevationsPlot() {
             }
             if (xScale.domain()[1] > maxX) {
               var xdom0 = xScale.domain()[0] - xScale.domain()[1] + maxX;
-              /*
-              console.log('xScale.range()[0]', xOrigScale.range()[0]);
-              console.log('xSvale(xdom0):', xOrigScale(xdom0), zoom.scale());
-              console.log('a:', xOrigScale.range()[0] - xOrigScale(xScale.domain()[0]) * zoom.scale())
-              */
               xScale.domain([xdom0, maxX]);
 
               zoom.translate([xOrigScale.range()[0] - xOrigScale(xScale.domain()[0] * zoom.scale()),
                               xScale.domain()[1]])
-              //console.log('t:', zoom.translate()[0]);
             }
             if (yScale.domain()[0] < minY) {
               yScale.domain([minY, yScale.domain()[1] - yScale.domain()[0] + minY]);
@@ -281,7 +272,8 @@ function skiAreaElevationsPlot() {
             gMain.selectAll('.resort-rect')
             .attr('x', scaledX)
             .attr('y', (d) => { return yScale(d.max_elev); })
-            .attr('width', rectWidth)
+            //.attr('width', rectWidth)
+            .attr('width', (w) => { return(widthScale(Math.log(w.area))); })
             .attr('height', (d) => { return yScale(d.min_elev) - yScale(d.max_elev);  })
             .classed('resort-rect', true)
 
@@ -293,7 +285,7 @@ function skiAreaElevationsPlot() {
             }
             let labelText = (d) => { return d.name; };
             let labelAnchor = (d) => { return 'middle' };
-            let labelId = (d) => { return `n-${d.uid}`; }
+            let labelId = (d) => { return `n-${d.uid}`; };
             let labelPosition = (d,i) => { 
                 return `translate(${scaledX(d,i) + rectWidth(d,i) / 2},
                 ${yScale(d.max_elev) - 7})`;
@@ -302,13 +294,16 @@ function skiAreaElevationsPlot() {
             gResorts = gMain.selectAll('.resort-g');
 
             var zoomableLabelsOrientation = zoomableLabels()
-            .labelFilter(labelFilter)
+            .labelLeftBoundary(margin.left / 3)
+            .labelRightBoundary(width - margin.right / 3)
+            .labelFilter((d) => { return true; })
             .labelText(labelText)
             .labelAnchor(labelAnchor)
             .labelId(labelId)
             .labelPosition(labelPosition)
             .labelParent(gMain)
-            .labelSort(labelSort);
+            .labelSort(labelSort)
+            .labelMarkerId(rectId);
 
             gResorts.call(zoomableLabelsOrientation);
 
