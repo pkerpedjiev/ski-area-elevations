@@ -57,6 +57,7 @@ function zoomableLabels() {
                 if (bb1.left < labelLeftBoundary) {
                     d3.select(this).attr('visibility', 'hidden')
                     d3.select('#' + labelMarkerId(d)).attr('visibility', 'hidden');
+                    return;
                 }
             }
 
@@ -65,6 +66,7 @@ function zoomableLabels() {
                 if (bb1.right > labelRightBoundary) {
                     d3.select(this).attr('visibility', 'hidden')
                     d3.select('#' + labelMarkerId(d)).attr('visibility', 'hidden');
+                    return;
                 }
             }
 
@@ -78,7 +80,6 @@ function zoomableLabels() {
                 if (intersectRect(bb1, bb2, 2) || intersectRect(rb1, rb2, 2)) {
                     d3.select(this).attr('visibility', 'hidden');
                     d3.select('#' + labelMarkerId(e)).attr('visibility', 'hidden');
-                    return;
                 }
             });
         });

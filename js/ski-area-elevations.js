@@ -257,6 +257,27 @@ function skiAreaElevationsPlot() {
             draw();
         }
 
+        let labelFilter =  (d) => {
+            if ((d.cumarea - Math.log(d.area)) > xScale.invert(0) &&
+                (d.cumarea) < xScale.invert(width - margin.left - margin.right))
+            return true;
+            return false;
+        }
+        let labelText = (d) => { return d.name; };
+        let labelAnchor = (d) => { return 'middle' };
+        let labelId = (d) => { return `n-${d.uid}`; };
+
+        var zoomableLabelsOrientation = zoomableLabels()
+        .labelLeftBoundary(margin.left / 3)
+        .labelRightBoundary(width - margin.right / 3)
+        .labelFilter((d) => { return true; })
+        .labelText(labelText)
+        .labelAnchor(labelAnchor)
+        .labelId(labelId)
+        .labelParent(gMain)
+        .labelSort(labelSort)
+        .labelMarkerId(rectId);
+
         function draw() {
             // draw the scene, if we're zooming, then we need to check if we
             // need to redraw the tiles, otherwise it's irrelevant
@@ -268,7 +289,6 @@ function skiAreaElevationsPlot() {
                 return xScale(Math.log(d.area)) - xScale(0); 
             }
 
-
             gMain.selectAll('.resort-rect')
             .attr('x', scaledX)
             .attr('y', (d) => { return yScale(d.max_elev); })
@@ -277,38 +297,19 @@ function skiAreaElevationsPlot() {
             .attr('height', (d) => { return yScale(d.min_elev) - yScale(d.max_elev);  })
             .classed('resort-rect', true)
 
-            let labelFilter =  (d) => {
-                if ((d.cumarea - Math.log(d.area)) > xScale.invert(0) &&
-                    (d.cumarea) < xScale.invert(width - margin.left - margin.right))
-                return true;
-                return false;
-            }
-            let labelText = (d) => { return d.name; };
-            let labelAnchor = (d) => { return 'middle' };
-            let labelId = (d) => { return `n-${d.uid}`; };
-            let labelPosition = (d,i) => { 
-                return `translate(${scaledX(d,i) + rectWidth(d,i) / 2},
-                ${yScale(d.max_elev) - 7})`;
-            }
-
             gResorts = gMain.selectAll('.resort-g');
 
-            var zoomableLabelsOrientation = zoomableLabels()
-            .labelLeftBoundary(margin.left / 3)
-            .labelRightBoundary(width - margin.right / 3)
-            .labelFilter((d) => { return true; })
-            .labelText(labelText)
-            .labelAnchor(labelAnchor)
-            .labelId(labelId)
-            .labelPosition(labelPosition)
-            .labelParent(gMain)
-            .labelSort(labelSort)
-            .labelMarkerId(rectId);
+            let labelPosition = (d,i) => { 
+                return `translate(${scaledX(d,i) + widthScale(Math.log(d.area)) / 2},
+                ${yScale(d.max_elev) - 7})`;
+            }
+            zoomableLabelsOrientation
+            .labelPosition(labelPosition);
 
             gResorts.call(zoomableLabelsOrientation);
 
             // this will become the tiling code
-            let zoomLevel = Math.round(Math.log(zoom.scale()) / Math.LN2);
+            let zoomLevel = Math.round(Math.log(zoom.scale()) / Math.LN2) + 2;
 
             // the ski areas are positioned according to their
             // cumulative widths, which means the tiles need to also

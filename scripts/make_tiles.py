@@ -105,7 +105,7 @@ def main():
         help='The maximum number of entries that can be displayed on a single tile',
         type=int)
     parser.add_argument('-m', '--max-zoom', dest='max_zoom', default=5,
-            help='The maximum zoom level')
+            help='The maximum zoom level', type=int)
     parser.add_argument('--min-pos', dest='min_pos', default=None,
             help='The minimum x position', type=float)
     parser.add_argument('--max-pos', dest='max_pos', default=None,
