@@ -104,6 +104,15 @@ function skiAreaElevationsPlot() {
                 .attr('id', rectId)
                 .on('mouseover', skiAreaMouseover)
                 .on('mouseout', skiAreaMouseout);
+
+                var textLabels = gResorts
+                .append('text')
+                .classed('zoomable-label', true)
+                .attr('id', labelId)
+                .attr('text-anchor', labelAnchor)
+                .text(labelText)
+                .attr('visibility', 'hidden')
+                .each((d) => { d.shown = false; d.shownTime = null});
             })
 
             gTilesExit.remove();
@@ -276,7 +285,8 @@ function skiAreaElevationsPlot() {
         .labelId(labelId)
         .labelParent(gMain)
         .labelSort(labelSort)
-        .labelMarkerId(rectId);
+        .labelMarkerId(rectId)
+        .labelClass('.zoomable-label');
 
         function draw() {
             // draw the scene, if we're zooming, then we need to check if we
@@ -303,6 +313,10 @@ function skiAreaElevationsPlot() {
                 return `translate(${scaledX(d,i) + widthScale(Math.log(d.area)) / 2},
                 ${yScale(d.max_elev) - 7})`;
             }
+
+            let textLabels = gResorts.selectAll('.zoomable-label')
+                .attr('transform', labelPosition)
+
             zoomableLabelsOrientation
             .labelPosition(labelPosition);
 

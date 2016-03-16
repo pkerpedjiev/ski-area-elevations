@@ -10,12 +10,16 @@ function zoomableLabels() {
     let labelSort = null;
     let labelLeftBoundary = null;
     let labelRightBoundary = null;
+    let labelClass = 'zoomable-label';
 
     let labelMarkerId = null;
 
     function intersectRect(r1, r2, padding) {
         if (arguments.length < 3)
             padding = 0;
+
+        if (r1.width == 0 || r2.width == 0)
+            return false;
 
         return !(r2.left > (r1.right + padding) || 
                  r2.right < (r1.left - padding) || 
@@ -24,34 +28,38 @@ function zoomableLabels() {
     }
 
     function chart(selection) {
-        let visibleAreas = selection.data().filter(labelFilter);
-        visibleAreas.sort(labelSort);
+        //let visibleAreas = selection.data().filter(labelFilter);
+        //visibleAreas.sort(labelSort);
 
         // remove all the labels
-        labelParent.selectAll('.zoomable-label').remove();
+        //labelParent.selectAll('.zoomable-label').remove();
 
-        var textLabels = labelParent.selectAll('.zoomable-label')
-        .data(visibleAreas)
-        .enter()
-        .append('text')
-        .classed('zoomable-label', true)
-        .attr('id', labelId)
-        .attr('text-anchor', labelAnchor)
-        .text(labelText)
-        .attr('transform', labelPosition);
 
+        /*
         textLabels.each(function(d,i) {
             labelParent.select('#' + labelMarkerId(d)).attr('visibility', 'visible');
         });
+        */
 
+       // go through 
+        let textLabels = selection.selectAll(labelClass)
+        .attr('visibility', 'visible');
 
-        textLabels.each(function(d,i) {
+        console.log('textLabels:', textLabels);
+
+        textLabels.each(function(d) {
             let bb1 = this.getBoundingClientRect();
             let rb1 = labelParent.select('#' + labelMarkerId(d)).node().getBoundingClientRect();
 
+            let rectIntersect = false;
+            let labelIntersect = false;
+
+            /*
             if (d3.select(this).attr('visibility') == 'hidden')
                 return;
+                */
 
+               /*
             if (labelLeftBoundary != null) {
                 // if the label sticks out on the left side, hide it
                 if (bb1.left < labelLeftBoundary) {
@@ -69,20 +77,50 @@ function zoomableLabels() {
                     return;
                 }
             }
+            */
 
-            textLabels.each(function(e,j) {
+            textLabels.each(function(e) {
+                if (d == e)
+                    return;
+                /*
                 if (j <= i)
                     return;
+                    */
 
                 let bb2 = d3.select(this).node().getBoundingClientRect();
                 let rb2 = d3.select('#' + labelMarkerId(e)).node().getBoundingClientRect();
 
+                //console.log('bb1, bb2', bb1, bb2);
+
+                if (e.shown && intersectRect(bb1, bb2, 2)) {
+                    labelIntersect = true;
+                    console.log('intersection:', d.name, e.name, bb1, bb2);
+                }
+
+                if (e.shown && intersectRect(rb1, rb2, 2)) {
+                    rectIntersect = true;
+                }
+
+                /*
                 if (intersectRect(bb1, bb2, 2) || intersectRect(rb1, rb2, 2)) {
                     d3.select(this).attr('visibility', 'hidden');
                     d3.select('#' + labelMarkerId(e)).attr('visibility', 'hidden');
                 }
+                */
             });
+
+            if (!labelIntersect && !rectIntersect) {
+                //console.log('showing:', d.name);
+                d.shown = true;
+            } else {
+                console.log('not showing:', d.name, labelIntersect, rectIntersect);
+            }
         });
+
+        textLabels.filter((d) => { return !d.shown; })
+        //.each((d) => { console.log('hiding', d.name); })
+        .attr('visibility', 'hidden');
+
     }
 
     chart.labelFilter = function(_) {
@@ -142,6 +180,12 @@ function zoomableLabels() {
     chart.labelMarkerId = function(_) {
         if (!arguments.length) return labelMarkerId;
         labelMarkerId = _;
+        return chart;
+    }
+
+    chart.labelClass = function(_) {
+        if (!arguments.length) return labelClass;
+        labelClass = _;
         return chart;
     }
 
