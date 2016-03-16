@@ -17,6 +17,9 @@ function zoomableLabels() {
         if (arguments.length < 3)
             padding = 0;
 
+        if (r1.width == 0 || r2.width == 0)
+            return false;
+
         return !(r2.left > (r1.right + padding) || 
                  r2.right < (r1.left - padding) || 
                  r2.top > (r1.bottom + padding) ||
