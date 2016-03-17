@@ -96,14 +96,14 @@ function skiAreaElevationsPlot() {
                 .enter()
                 .append('g')
                 .classed('resort-g', true)
-                .attr("clip-path", "url(#clip)")
 
                 // the rectangle showing each rect
                 gResorts.append('rect')
                 .classed('resort-rect', true)
                 .attr('id', rectId)
                 .on('mouseover', skiAreaMouseover)
-                .on('mouseout', skiAreaMouseout);
+                .on('mouseout', skiAreaMouseout)
+                .attr("clip-path", "url(#clip)")
 
                 var textLabels = gResorts
                 .append('text')

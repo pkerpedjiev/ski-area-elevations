@@ -13,6 +13,7 @@ function zoomableLabels() {
     let labelClass = 'zoomable-label';
 
     let labelMarkerId = null;
+    let previouslyVisible = {};
 
     function intersectRect(r1, r2, padding) {
         if (arguments.length < 3)
@@ -45,7 +46,10 @@ function zoomableLabels() {
         let textLabels = selection.selectAll(labelClass)
         .attr('visibility', 'visible');
 
-        console.log('textLabels:', textLabels);
+        textLabels.each(function(d) {
+            if (d.uid in previouslyVisible)
+                d.shown = true;
+        });
 
         textLabels.each(function(d) {
             let bb1 = this.getBoundingClientRect();
@@ -54,71 +58,41 @@ function zoomableLabels() {
             let rectIntersect = false;
             let labelIntersect = false;
 
-            /*
-            if (d3.select(this).attr('visibility') == 'hidden')
-                return;
-                */
-
-               /*
-            if (labelLeftBoundary != null) {
-                // if the label sticks out on the left side, hide it
-                if (bb1.left < labelLeftBoundary) {
-                    d3.select(this).attr('visibility', 'hidden')
-                    d3.select('#' + labelMarkerId(d)).attr('visibility', 'hidden');
-                    return;
-                }
-            }
-
-            if (labelRightBoundary != null) {
-                // if the label sticks out on the left side, hide it
-                if (bb1.right > labelRightBoundary) {
-                    d3.select(this).attr('visibility', 'hidden')
-                    d3.select('#' + labelMarkerId(d)).attr('visibility', 'hidden');
-                    return;
-                }
-            }
-            */
-
             textLabels.each(function(e) {
                 if (d == e)
                     return;
-                /*
-                if (j <= i)
-                    return;
-                    */
 
                 let bb2 = d3.select(this).node().getBoundingClientRect();
                 let rb2 = d3.select('#' + labelMarkerId(e)).node().getBoundingClientRect();
 
-                //console.log('bb1, bb2', bb1, bb2);
-
                 if (e.shown && intersectRect(bb1, bb2, 2)) {
                     labelIntersect = true;
-                    console.log('intersection:', d.name, e.name, bb1, bb2);
+
+                    if (d.shown) {
+                        if (previouslyVisible[d.uid] < previouslyVisible[e.uid])
+                            e.shown = false;
+                    }
+                    //console.log('intersection:', d.name, e.name, bb1, bb2);
                 }
 
                 if (e.shown && intersectRect(rb1, rb2, 2)) {
-                    rectIntersect = true;
+                    //rectIntersect = true;
                 }
 
-                /*
-                if (intersectRect(bb1, bb2, 2) || intersectRect(rb1, rb2, 2)) {
-                    d3.select(this).attr('visibility', 'hidden');
-                    d3.select('#' + labelMarkerId(e)).attr('visibility', 'hidden');
-                }
-                */
             });
 
             if (!labelIntersect && !rectIntersect) {
-                //console.log('showing:', d.name);
                 d.shown = true;
+                let date = new Date();
+                if (!(d.uid in previouslyVisible)) {
+                    previouslyVisible[d.uid] = date.getTime();
+                    console.log('dt:', previouslyVisible[d.uid]);
+                }
             } else {
-                console.log('not showing:', d.name, labelIntersect, rectIntersect);
             }
         });
 
         textLabels.filter((d) => { return !d.shown; })
-        //.each((d) => { console.log('hiding', d.name); })
         .attr('visibility', 'hidden');
 
     }
