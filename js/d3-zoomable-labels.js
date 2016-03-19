@@ -11,9 +11,11 @@ function zoomableLabels() {
     let labelLeftBoundary = null;
     let labelRightBoundary = null;
     let labelClass = 'zoomable-label';
+    let markerClass = 'resort-rect';
 
     let labelMarkerId = null;
     let previouslyVisible = {};
+    let markerPreviouslyVisible = {};
 
     function intersectRect(r1, r2, padding) {
         if (arguments.length < 3)
@@ -29,26 +31,21 @@ function zoomableLabels() {
     }
 
     function chart(selection) {
-        //let visibleAreas = selection.data().filter(labelFilter);
-        //visibleAreas.sort(labelSort);
-
-        // remove all the labels
-        //labelParent.selectAll('.zoomable-label').remove();
-
-
-        /*
-        textLabels.each(function(d,i) {
-            labelParent.select('#' + labelMarkerId(d)).attr('visibility', 'visible');
-        });
-        */
-
        // go through 
         let textLabels = selection.selectAll(labelClass)
+        .attr('visibility', 'visible');
+
+        let markerObjs = selection.selectAll(markerClass)
         .attr('visibility', 'visible');
 
         textLabels.each(function(d) {
             if (d.uid in previouslyVisible)
                 d.shown = true;
+        });
+
+        markerObjs.each(function(d) {
+            if (d.uid in markerPreviouslyVisible)
+                d.markerShown = true;
         });
 
         textLabels.each(function(d) {
@@ -72,28 +69,49 @@ function zoomableLabels() {
                         if (previouslyVisible[d.uid] < previouslyVisible[e.uid])
                             e.shown = false;
                     }
-                    //console.log('intersection:', d.name, e.name, bb1, bb2);
                 }
 
-                if (e.shown && intersectRect(rb1, rb2, 2)) {
-                    //rectIntersect = true;
+                if (e.markerShown && intersectRect(rb1, rb2, 2)) {
+
+                    if (d.shown) {
+                        if (previouslyVisible[d.uid] < previouslyVisible[e.uid])
+                            e.shown = false;
+                    }
+
+                    if (d.markerShown) {
+                        if (markerPreviouslyVisible[d.uid] < markerPreviouslyVisible[e.uid])
+                            e.markerShown = false;
+                    }
+
+                    rectIntersect = true;
                 }
 
             });
 
+            let date = new Date();
             if (!labelIntersect && !rectIntersect) {
                 d.shown = true;
-                let date = new Date();
+                d.markerShown = true;
+
                 if (!(d.uid in previouslyVisible)) {
                     previouslyVisible[d.uid] = date.getTime();
-                    console.log('dt:', previouslyVisible[d.uid]);
+                    markerPreviouslyVisible[d.uid] = date.getTime();
                 }
-            } else {
+            } else if (!rectIntersect) {
+                d.markerShown = true;
+
+                if (!(d.uid in previouslyVisible)) {
+                    markerPreviouslyVisible[d.uid] = date.getTime();
+                }
             }
         });
 
         textLabels.filter((d) => { return !d.shown; })
         .attr('visibility', 'hidden');
+
+        markerObjs.filter((d) => { return !d.markerShown; })
+        .attr('visibility', 'hidden');
+
 
     }
 
@@ -160,6 +178,12 @@ function zoomableLabels() {
     chart.labelClass = function(_) {
         if (!arguments.length) return labelClass;
         labelClass = _;
+        return chart;
+    }
+
+    chart.markerClass = function(_) {
+        if (!arguments.length) return markerClass;
+        markerClass = _;
         return chart;
     }
 

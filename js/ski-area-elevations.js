@@ -45,6 +45,8 @@ function skiAreaElevationsPlot() {
         function skiAreaMouseover(d, i) {
             d3.select(this)
             .classed('hovered', true);
+
+            console.log('mouseover:', d.name);
         }
 
         function skiAreaMouseout(d) {
@@ -112,7 +114,7 @@ function skiAreaElevationsPlot() {
                 .attr('text-anchor', labelAnchor)
                 .text(labelText)
                 .attr('visibility', 'hidden')
-                .each((d) => { d.shown = false; d.shownTime = null});
+                .each((d) => { d.shown = false; d.markerShown = false; d.shownTime = null});
             })
 
             gTilesExit.remove();
@@ -286,7 +288,8 @@ function skiAreaElevationsPlot() {
         .labelParent(gMain)
         .labelSort(labelSort)
         .labelMarkerId(rectId)
-        .labelClass('.zoomable-label');
+        .labelClass('.zoomable-label')
+        .markerClass('.resort-rect');
 
         function draw() {
             // draw the scene, if we're zooming, then we need to check if we
@@ -303,7 +306,8 @@ function skiAreaElevationsPlot() {
             .attr('x', scaledX)
             .attr('y', (d) => { return yScale(d.max_elev); })
             //.attr('width', rectWidth)
-            .attr('width', (w) => { return(widthScale(Math.log(w.area))); })
+            .attr('width', (w) => { 
+                return(Math.max(1, widthScale(Math.log(w.area)))); })
             .attr('height', (d) => { return yScale(d.min_elev) - yScale(d.max_elev);  })
             .classed('resort-rect', true)
 
