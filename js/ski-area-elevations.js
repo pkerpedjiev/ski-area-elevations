@@ -14,6 +14,7 @@ function skiAreaElevationsPlot() {
     let widthScale = null;
 
     let loadedTiles = {};
+    let loadingTiles = {};
 
     let minArea = 0;
     let maxArea = 0;
@@ -31,6 +32,15 @@ function skiAreaElevationsPlot() {
     }
 
     function chart(selection) {
+        function isTileLoading(tile) {
+            // check if a particular tile is currently being loaded
+
+            if (tileId(tile) in loadingTiles)
+                return true;
+            else
+                return false;
+        }
+
         function isTileLoaded(tile) {
             // check if a particular tile is already loaded
             // go through the shownTiles dictionary to check
@@ -90,8 +100,8 @@ function skiAreaElevationsPlot() {
                 });
 
                 //let labelSort = (a,b) => { return b.area - a.area; };
-                let elevationSort = (a,b) => { return b.max_elev - a.max_elev; };
-                data.sort(elevationSort);
+                //let elevationSort = (a,b) => { return b.max_elev - a.max_elev; };
+                data.sort(labelSort);
 
                 gResorts = gTile.selectAll('.resort-g')
                 .data(data, skiAreaId)
@@ -138,10 +148,14 @@ function skiAreaElevationsPlot() {
         function refreshTiles(currentTiles) {
             // be shown and add those that should be shown
             currentTiles.forEach((tile) => {
-                if (!isTileLoaded(tile)) {
+                if (!isTileLoaded(tile) && !isTileLoading(tile)) {
                     // if the tile isn't loaded, load it
-                    d3.json(tileDirectory + `/${tile[0]}/${tile[1]}.json`,
+                    let tilePath = tileDirectory + `/${tile[0]}/${tile[1]}.json`;
+                    loadingTiles[tileId(tile)] = true;
+                    console.log('loading...', tilePath);
+                    d3.json(tilePath,
                             function(error, data) {
+                                delete loadingTiles[tileId(tile)];
                                 loadedTiles[tileId(tile)] = data;
                                 showTiles(currentTiles);
                             });
@@ -327,7 +341,7 @@ function skiAreaElevationsPlot() {
             gResorts.call(zoomableLabelsOrientation);
 
             // this will become the tiling code
-            let zoomLevel = Math.round(Math.log(zoom.scale()) / Math.LN2) + 2;
+            let zoomLevel = Math.round(Math.log(zoom.scale()) / Math.LN2) + 3;
 
             // the ski areas are positioned according to their
             // cumulative widths, which means the tiles need to also

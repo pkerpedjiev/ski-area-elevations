@@ -71,7 +71,7 @@ function zoomableLabels() {
                     }
                 }
 
-                if (e.markerShown && intersectRect(rb1, rb2, 2)) {
+                if (e.markerShown && intersectRect(rb1, rb2, 1)) {
 
                     if (d.shown) {
                         if (previouslyVisible[d.uid] < previouslyVisible[e.uid])

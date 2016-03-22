@@ -4,5 +4,10 @@ scp pkerp@fluidspace.tbi.univie.ac.at:/scr/fluidspace/pkerp/projects/chairliftpl
 
 ## Preprocess them to add additional information necessary for creating the tiles
 
-python scripts/process_json.py --uids-to-names jsons/ski-areas/europe/uids-to-names.json jsons/ski-area-elevations.json > jsons/processed-ski-area-elevations.json
-python scripts/make_tiles.py jsons/processed-ski-area-elevations.json -p cumarea -i area -o jsons/tiles --max-entries-per-tile 40 --min-pos 0 --min-y min_elev --max-y max_elev
+base_dir=jsons/ski-areas/; python scripts/combine_jsons.py $base_dir/europe/uids-to-names.json $base_dir/north-america/uids-to-names.json $base_dir/south-america/uids-to-names.json $base_dir/asia/uids-to-names.json $base_dir/africa/uids-to-names.json > jsons/combined/uids-to-names.json
+
+base_dir=jsons/ski_area_elevations/; python scripts/combine_jsons.py $base_dir/europe-latest.json $base_dir/north-america-latest.json $base_dir/south-america-latest.json $base_dir/africa-latest.json $base_dir/asia-latest.json > jsons/combined/world-latest.json
+
+python scripts/process_json.py --uids-to-names jsons/combined/uids-to-names.json jsons/combined/world-latest.json > jsons/processed-ski-area-elevations.json
+
+python scripts/make_tiles.py jsons/processed-ski-area-elevations.json -p cumarea -i area -o jsons/tiles --max-entries-per-tile 10 --min-pos 0 --min-y min_elev --max-y max_elev --max-zoom 11
