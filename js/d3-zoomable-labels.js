@@ -33,7 +33,13 @@ function zoomableLabels() {
     function chart(selection) {
        // go through 
         let textLabels = selection.selectAll(labelClass)
-        .attr('visibility', 'visible');
+        .attr('visibility', 'visible')
+
+        let objs = []
+        textLabels.each((d) => { objs.push(d) })
+        objs.sort((a,b) => { return +b.area - (+a.area); })
+
+        //objs.forEach((d) => { console.log('d.area:', d.area )});
 
         let markerObjs = selection.selectAll(markerClass)
         .attr('visibility', 'visible');
@@ -46,21 +52,36 @@ function zoomableLabels() {
         markerObjs.each(function(d) {
             if (d.uid in markerPreviouslyVisible)
                 d.markerShown = true;
-        });
+        })
+        .on('mouseover', function(d) {
+            console.log('uid:', d.uid);
+            console.log('pv:', d.name, markerPreviouslyVisible[d.uid] - 1458700000000);
+        });;
+
+
+        let textRects = {};
+        let rectRects = {};
 
         textLabels.each(function(d) {
-            let bb1 = this.getBoundingClientRect();
-            let rb1 = labelParent.select('#' + labelMarkerId(d)).node().getBoundingClientRect();
+            textRects[d.uid] = this.getBoundingClientRect();
+            rectRects[d.uid] = labelParent.select('#' + labelMarkerId(d)).node().getBoundingClientRect();
+        });
+
+        //console.log('-------------------');
+        objs.forEach(function(d,i) {
+            //console.log('d:', d.area);
+            let bb1 = textRects[d.uid];
+            let rb1 = rectRects[d.uid];
 
             let rectIntersect = false;
             let labelIntersect = false;
 
-            textLabels.each(function(e) {
+            objs.forEach(function(e,i) {
                 if (d == e)
                     return;
 
-                let bb2 = d3.select(this).node().getBoundingClientRect();
-                let rb2 = d3.select('#' + labelMarkerId(e)).node().getBoundingClientRect();
+                let bb2 = textRects[e.uid]; 
+                let rb2 = rectRects[e.uid]; 
 
                 if (e.shown && intersectRect(bb1, bb2, 2)) {
                     labelIntersect = true;
@@ -72,14 +93,32 @@ function zoomableLabels() {
                 }
 
                 if (e.markerShown && intersectRect(rb1, rb2, 1)) {
+                    let contact = false;
+                    let uid1 = '8e8aa';
+                    let uid2 = '1ef59';
+
+                    if (d.uid.search(uid1) >= 0 && e.uid.search(uid2) >= 0) {
+                        contact = true;
+                        //console.log('contact');
+                    }
+
+                    if (e.uid.search(uid1) >= 0 && d.uid.search(uid2) >= 0) {
+                        contact = true;
+                        //console.log('contact');
+                    }
 
                     if (d.shown) {
-                        if (previouslyVisible[d.uid] < previouslyVisible[e.uid])
+                        if (previouslyVisible[d.uid] <= previouslyVisible[e.uid])
                             e.shown = false;
                     }
 
                     if (d.markerShown) {
-                        if (markerPreviouslyVisible[d.uid] < markerPreviouslyVisible[e.uid])
+                        /*
+                        if (contact)
+                            console.log('markerPreviouslyVisible', markerPreviouslyVisible[d.uid],
+                                        markerPreviouslyVisible[e.uid]);
+                                        */
+                        if (markerPreviouslyVisible[d.uid] <= markerPreviouslyVisible[e.uid])
                             e.markerShown = false;
                     }
 
@@ -100,7 +139,7 @@ function zoomableLabels() {
             } else if (!rectIntersect) {
                 d.markerShown = true;
 
-                if (!(d.uid in previouslyVisible)) {
+                if (!(d.uid in markerPreviouslyVisible)) {
                     markerPreviouslyVisible[d.uid] = date.getTime();
                 }
             }

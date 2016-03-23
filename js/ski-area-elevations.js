@@ -56,7 +56,7 @@ function skiAreaElevationsPlot() {
             d3.select(this)
             .classed('hovered', true);
 
-            console.log('mouseover:', d.name);
+            console.log('mouseover:', d.name, d.uid);
         }
 
         function skiAreaMouseout(d) {
@@ -113,11 +113,12 @@ function skiAreaElevationsPlot() {
                 gResorts.append('rect')
                 .classed('resort-rect', true)
                 .attr('id', rectId)
-                .on('mouseover', skiAreaMouseover)
+                //.on('mouseover', skiAreaMouseover)
                 .on('mouseout', skiAreaMouseout)
                 .attr("clip-path", "url(#clip)")
 
                 var textLabels = gResorts
+                //.filter((d,i) => { if (i < 3) return true; else return false; })
                 .append('text')
                 .classed('zoomable-label', true)
                 .attr('id', labelId)
@@ -138,6 +139,7 @@ function skiAreaElevationsPlot() {
                 */
                 draw();
             }
+
         }
 
         function removeTile(tile) {
