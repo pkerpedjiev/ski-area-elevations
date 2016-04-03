@@ -27,10 +27,14 @@ def main():
         with open(args.uids_to_names, 'r') as f:
             uids_to_names = json.load(f)
 
+    uids = set()
+
+    print >>sys.stderr, "args.json_file:", args.json_file[0]
     with open(args.json_file[0], 'r') as f:
         entries = sorted(json.load(f), key=lambda x: -int(x['max_elev']))
 
         for entry in entries:
+            uids.add(entry['uid'])
             if entry['uid'] in uids_to_names:
                 entry['name'] = uids_to_names[entry['uid']]
 

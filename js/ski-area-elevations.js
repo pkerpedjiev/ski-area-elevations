@@ -14,6 +14,7 @@ function skiAreaElevationsPlot() {
     let widthScale = null;
 
     let loadedTiles = {};
+    let loadingTiles = {};
 
     let minArea = 0;
     let maxArea = 0;
@@ -31,6 +32,15 @@ function skiAreaElevationsPlot() {
     }
 
     function chart(selection) {
+        function isTileLoading(tile) {
+            // check if a particular tile is currently being loaded
+
+            if (tileId(tile) in loadingTiles)
+                return true;
+            else
+                return false;
+        }
+
         function isTileLoaded(tile) {
             // check if a particular tile is already loaded
             // go through the shownTiles dictionary to check
@@ -45,6 +55,8 @@ function skiAreaElevationsPlot() {
         function skiAreaMouseover(d, i) {
             d3.select(this)
             .classed('hovered', true);
+
+            console.log('mouseover:', d.name, d.uid);
         }
 
         function skiAreaMouseout(d) {
@@ -88,22 +100,32 @@ function skiAreaElevationsPlot() {
                 });
 
                 //let labelSort = (a,b) => { return b.area - a.area; };
-                let elevationSort = (a,b) => { return b.max_elev - a.max_elev; };
-                data.sort(elevationSort);
+                //let elevationSort = (a,b) => { return b.max_elev - a.max_elev; };
+                data.sort(labelSort);
 
                 gResorts = gTile.selectAll('.resort-g')
                 .data(data, skiAreaId)
                 .enter()
                 .append('g')
                 .classed('resort-g', true)
-                .attr("clip-path", "url(#clip)")
 
                 // the rectangle showing each rect
                 gResorts.append('rect')
                 .classed('resort-rect', true)
                 .attr('id', rectId)
-                .on('mouseover', skiAreaMouseover)
-                .on('mouseout', skiAreaMouseout);
+                //.on('mouseover', skiAreaMouseover)
+                .on('mouseout', skiAreaMouseout)
+                .attr("clip-path", "url(#clip)")
+
+                var textLabels = gResorts
+                //.filter((d,i) => { if (i < 3) return true; else return false; })
+                .append('text')
+                .classed('zoomable-label', true)
+                .attr('id', labelId)
+                .attr('text-anchor', labelAnchor)
+                .text(labelText)
+                .attr('visibility', 'hidden')
+                .each((d) => { d.shown = false; d.markerShown = false; d.shownTime = null});
             })
 
             gTilesExit.remove();
@@ -117,6 +139,7 @@ function skiAreaElevationsPlot() {
                 */
                 draw();
             }
+
         }
 
         function removeTile(tile) {
@@ -127,10 +150,14 @@ function skiAreaElevationsPlot() {
         function refreshTiles(currentTiles) {
             // be shown and add those that should be shown
             currentTiles.forEach((tile) => {
-                if (!isTileLoaded(tile)) {
+                if (!isTileLoaded(tile) && !isTileLoading(tile)) {
                     // if the tile isn't loaded, load it
-                    d3.json(tileDirectory + `/${tile[0]}/${tile[1]}.json`,
+                    let tilePath = tileDirectory + `/${tile[0]}/${tile[1]}.json`;
+                    loadingTiles[tileId(tile)] = true;
+                    console.log('loading...', tilePath);
+                    d3.json(tilePath,
                             function(error, data) {
+                                delete loadingTiles[tileId(tile)];
                                 loadedTiles[tileId(tile)] = data;
                                 showTiles(currentTiles);
                             });
@@ -276,7 +303,9 @@ function skiAreaElevationsPlot() {
         .labelId(labelId)
         .labelParent(gMain)
         .labelSort(labelSort)
-        .labelMarkerId(rectId);
+        .labelMarkerId(rectId)
+        .labelClass('.zoomable-label')
+        .markerClass('.resort-rect');
 
         function draw() {
             // draw the scene, if we're zooming, then we need to check if we
@@ -293,7 +322,8 @@ function skiAreaElevationsPlot() {
             .attr('x', scaledX)
             .attr('y', (d) => { return yScale(d.max_elev); })
             //.attr('width', rectWidth)
-            .attr('width', (w) => { return(widthScale(Math.log(w.area))); })
+            .attr('width', (w) => { 
+                return(Math.max(1, widthScale(Math.log(w.area)))); })
             .attr('height', (d) => { return yScale(d.min_elev) - yScale(d.max_elev);  })
             .classed('resort-rect', true)
 
@@ -303,13 +333,17 @@ function skiAreaElevationsPlot() {
                 return `translate(${scaledX(d,i) + widthScale(Math.log(d.area)) / 2},
                 ${yScale(d.max_elev) - 7})`;
             }
+
+            let textLabels = gResorts.selectAll('.zoomable-label')
+                .attr('transform', labelPosition)
+
             zoomableLabelsOrientation
             .labelPosition(labelPosition);
 
             gResorts.call(zoomableLabelsOrientation);
 
             // this will become the tiling code
-            let zoomLevel = Math.round(Math.log(zoom.scale()) / Math.LN2) + 2;
+            let zoomLevel = Math.round(Math.log(zoom.scale()) / Math.LN2) + 3;
 
             // the ski areas are positioned according to their
             // cumulative widths, which means the tiles need to also
