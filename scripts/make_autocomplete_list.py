@@ -20,8 +20,9 @@ def save_autcomplete_list(substr_dict, output_dir):
         # added so that we can have a suggestions without for length 0
         # substrings (i.e. the when the user hasn't typed anything in yet)
         out_filename = op.join(output_dir, 'ac_' + substr + '.json')
+        print >>sys.stderr, "substr:", substr, "out_filename:", out_filename
         with open(out_filename, 'w') as f:
-            json.dump(substr_dict, f)
+            json.dump(substr_dict[substr], f)
 
 def make_autocomplete_list(entries, options):
     '''
@@ -41,14 +42,19 @@ def make_autocomplete_list(entries, options):
     for entry in entries:
         if options.name not in entry:
             # if an entry doesn't have a name field, print a warning and continue
-            print >>sys.stderr, "Found entry without a name:", entry['uid']
+            #print >>sys.stderr, "Found entry without a name:", entry['uid']
             continue
         # for each entry get each substring and add the entry to the list
         # of entries containing that substring
         # these lists will then be pruned down to create autocomplete suggestions
-        for size in range(len(entry[options.name])):
+        for size in range(1,len(entry[options.name])):
             for i in range(len(entry[options.name])-size+1):
                 substr = entry[options.name][i:i+size]
+
+                # make the substrings file and token friendly
+                substr = substr.replace('/', ' ').lower()
+                substr = ' '.join(substr.split()).replace(' ', '_')
+                print >>sys.stderr, "substr:", substr
 
                 substrs[substr] += [entry]
 

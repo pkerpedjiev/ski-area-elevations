@@ -11,3 +11,7 @@ base_dir=jsons/ski_area_elevations/; python scripts/combine_jsons.py $base_dir/e
 python scripts/process_json.py --uids-to-names jsons/combined/uids-to-names.json jsons/combined/world-latest.json > jsons/processed-ski-area-elevations.json
 
 python scripts/make_tiles.py jsons/processed-ski-area-elevations.json -p cumarea -i area -o jsons/tiles --max-entries-per-tile 10 --min-pos 0 --min-y min_elev --max-y max_elev --max-zoom 11
+
+## Autocomplete
+
+python scripts/make_autocomplete_list.py --importance area --reverse-importance --output-dir jsons/autocomplete-suggestions/ jsons/processed-ski-area-elevations.json

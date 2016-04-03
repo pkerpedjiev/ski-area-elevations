@@ -16,6 +16,7 @@ def test_make_autocomplete_list():
             self.name = name
             self.max_entries_per_autocomplete = 1
             self.max_zoom = 3
+            self.reverse_importance = True
 
     options = Options('importance', 'name')
 
