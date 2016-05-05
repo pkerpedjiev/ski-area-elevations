@@ -12,6 +12,7 @@ function skiAreaElevationsPlot() {
     let xScale = null;
     let yScale = null;
     let widthScale = null;
+    let zoomTo = null;
 
     let loadedTiles = {};
     let loadingTiles = {};
@@ -154,7 +155,7 @@ function skiAreaElevationsPlot() {
                     // if the tile isn't loaded, load it
                     let tilePath = tileDirectory + `/${tile[0]}/${tile[1]}.json`;
                     loadingTiles[tileId(tile)] = true;
-                    console.log('loading...', tilePath);
+                    //console.log('loading...', tilePath);
                     d3.json(tilePath,
                             function(error, data) {
                                 delete loadingTiles[tileId(tile)];
@@ -245,8 +246,29 @@ function skiAreaElevationsPlot() {
             refreshTiles([[0,0]]);
         });
 
+        zoomTo = function(xValue, area) {
+            // what are the zoom transition and scale parameters that need to center
+            // this ski area and show three or four ski areas in its vicinity?
+            let totalWidth = maxX - minX
+
+            // scale = 1, xs * totalWidth = width
+            // so we need scale * xs * totalWidth = width
+            
+            let scale = 1 / (20 / totalWidth);
+            let translate = [xOrigScale.range()[0] - xOrigScale((xValue - 10 - Math.log(area)) * scale), 0];
+
+            gEnter.transition()
+            .duration(750)
+            .call(zoom.translate(translate).scale(scale).event);
+
+            // so the visible area needs to encompass [cumarea - 10, cumarea + 20]
+        };
+
         function zoomed() {
+            //console.log('maxZoom:', maxZoom);
             var reset_s = 0;
+
+            //console.log('zoom.scale()', zoom.scale());
 
           if ((xScale.domain()[1] - xScale.domain()[0]) >= (maxX - minX)) {
             zoom.x(xScale.domain([minX, maxX]));
@@ -257,6 +279,7 @@ function skiAreaElevationsPlot() {
             reset_s += 1;
           }
           if (reset_s == 2) { // Both axes are full resolution. Reset.
+              console.log('here');
             zoom.scale(1);
             zoom.translate([0,0]);
           }
@@ -269,8 +292,10 @@ function skiAreaElevationsPlot() {
               var xdom0 = xScale.domain()[0] - xScale.domain()[1] + maxX;
               xScale.domain([xdom0, maxX]);
 
+              console.log('zoom.translate:', zoom.translate(), xScale.domain());
               zoom.translate([xOrigScale.range()[0] - xOrigScale(xScale.domain()[0] * zoom.scale()),
                               xScale.domain()[1]])
+              console.log('zoom.translate:', zoom.translate(), xScale.domain());
             }
             if (yScale.domain()[0] < minY) {
               yScale.domain([minY, yScale.domain()[1] - yScale.domain()[0] + minY]);
@@ -317,6 +342,7 @@ function skiAreaElevationsPlot() {
             function rectWidth(d,i) {
                 return xScale(Math.log(d.area)) - xScale(0); 
             }
+            console.log('xScale.domain():', xScale.domain());
 
             gMain.selectAll('.resort-rect')
             .attr('x', scaledX)
@@ -397,6 +423,11 @@ function skiAreaElevationsPlot() {
         if (!arguments.length) return tileDirectory;
         tileDirectory = _;
         return chart;
+    };
+
+    chart.zoomTo = function(_) {
+        // 
+        return zoomTo;
     };
 
     return chart;

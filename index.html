@@ -4,11 +4,23 @@
 <html>
 <title>Ski Area Elevations</title>
 <link rel='stylesheet' href='/css/ski-area-elevations.css'>
+<link rel='stylesheet' href='css/autocomplete.css' />
+<link rel='stylesheet' href='css/typeaheadjs.css' />
+
+    <div class="input-group" id="remote">
+      <input type="text" class="form-control typeahead" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+      </span>
+    </div>
 
 <div id="resort-list" style="position: fixed; top: 300px; left: 0; height: 300px"></div>
 <div id="ski-area-elevations"></div>
 
-    <script src="/js/lib/d3.min.js"></script>
+    <script   src="https://code.jquery.com/jquery-2.2.2.min.js"   integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI="   crossorigin="anonymous"></script>
+    <script src="js/typeahead.bundle.min.js"></script>
+    <script src="js/autocomplete.js"></script>
+        <script src="/js/lib/d3.min.js"></script>
     <script src="/js/ski-area-elevations.js"></script>
     <script src="/js/d3-zoomable-labels.js"></script>
     <script src="/js/lib/d3.min.js"></script>
@@ -30,6 +42,15 @@
                 //.datum(data)
                 .call(elevationsPlot)
         });
+
+    $('#remote .typeahead').typeahead(null, {
+        name: 'best-pictures',
+        display: 'name',
+        source: bestPictures
+    }).on('typeahead:selected', function(evt, data) {
+        console.log('data', data);   
+        elevationsPlot.zoomTo()(+data.cumarea, +data.area);
+    });
 
     </script>
 </html>

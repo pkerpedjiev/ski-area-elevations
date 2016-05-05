@@ -17,6 +17,8 @@ function zoomableLabels() {
     let previouslyVisible = {};
     let markerPreviouslyVisible = {};
 
+    let visibilityCounter = 0;
+
     function intersectRect(r1, r2, padding) {
         if (arguments.length < 3)
             padding = 0;
@@ -55,7 +57,7 @@ function zoomableLabels() {
         })
         .on('mouseover', function(d) {
             console.log('uid:', d.uid);
-            console.log('pv:', d.name, markerPreviouslyVisible[d.uid] - 1458700000000);
+            console.log('pv:', d.name, markerPreviouslyVisible[d.uid] - 1458700000000, d.cumarea);
         });;
 
 
@@ -87,8 +89,9 @@ function zoomableLabels() {
                     labelIntersect = true;
 
                     if (d.shown) {
-                        if (previouslyVisible[d.uid] < previouslyVisible[e.uid])
+                        if (previouslyVisible[d.uid] <= previouslyVisible[e.uid])
                             e.shown = false;
+
                     }
                 }
 
@@ -133,8 +136,9 @@ function zoomableLabels() {
                 d.markerShown = true;
 
                 if (!(d.uid in previouslyVisible)) {
-                    previouslyVisible[d.uid] = date.getTime();
-                    markerPreviouslyVisible[d.uid] = date.getTime();
+                    previouslyVisible[d.uid] = visibilityCounter;
+                    markerPreviouslyVisible[d.uid] = visibilityCounter;
+                    visibilityCounter += 1;
                 }
             } else if (!rectIntersect) {
                 d.markerShown = true;

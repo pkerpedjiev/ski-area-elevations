@@ -47,14 +47,14 @@ def make_autocomplete_list(entries, options):
         # for each entry get each substring and add the entry to the list
         # of entries containing that substring
         # these lists will then be pruned down to create autocomplete suggestions
-        for size in range(1,len(entry[options.name])):
+        for size in range(0,len(entry[options.name])+1):
             for i in range(len(entry[options.name])-size+1):
                 substr = entry[options.name][i:i+size]
 
                 # make the substrings file and token friendly
                 substr = substr.replace('/', ' ').lower()
                 substr = ' '.join(substr.split()).replace(' ', '_')
-                print >>sys.stderr, "substr:", substr
+                print >>sys.stderr, "substr:", i, size, substr
 
                 substrs[substr] += [entry]
 

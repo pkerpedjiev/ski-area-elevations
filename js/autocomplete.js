@@ -27,8 +27,3 @@ var bestPictures = new Bloodhound({
     }
 });
 
-$('#remote .typeahead').typeahead(null, {
-    name: 'best-pictures',
-    display: 'name',
-    source: bestPictures
-});

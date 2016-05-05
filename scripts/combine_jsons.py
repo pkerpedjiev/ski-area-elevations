@@ -25,21 +25,25 @@ def main():
         with open(arg, 'r') as f:
             js = json.load(f)
 
-            if combined is None:
-                # we haven't loaded the first json
-                combined = []
-
-            if type(combined) != type(js):
+            if combined is not None and type(combined) != type(js):
                 print >>sys.stderr, "Mismatched JSON types", type(combined), type(js)
+                print >>sys.stderr, "Offending file:", arg
                 return
 
-            if type(combined) == list:
+            if type(js) == list:
                 for j in js:
                     j['source'] = arg
 
+                if combined is None:
+                    # we haven't loaded the first json
+                    combined = []
+
                 combined += js
 
-            elif type(combined) == dict:
+            elif type(js) == dict:
+                if combined is None:
+                    combined = {}
+
                 combined = dict( combined.items() + js.items() )
 
     print json.dumps(combined, indent=2)

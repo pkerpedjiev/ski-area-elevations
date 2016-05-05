@@ -6,7 +6,8 @@ scp pkerp@fluidspace.tbi.univie.ac.at:/scr/fluidspace/pkerp/projects/chairliftpl
 
 base_dir=jsons/ski-areas/; python scripts/combine_jsons.py $base_dir/europe/uids-to-names.json $base_dir/north-america/uids-to-names.json $base_dir/south-america/uids-to-names.json $base_dir/asia/uids-to-names.json $base_dir/africa/uids-to-names.json > jsons/combined/uids-to-names.json
 
-base_dir=jsons/ski_area_elevations/; python scripts/combine_jsons.py $base_dir/europe-latest.json $base_dir/north-america-latest.json $base_dir/south-america-latest.json $base_dir/africa-latest.json $base_dir/asia-latest.json > jsons/combined/world-latest.json
+base_dir=jsons/ski_area_elevations/; python scripts/combine_jsons.py $base_dir/europe-latest.json $base_dir/north-america-latest.json $base_dir/south-america-latest.json $base_dir/africa-latest.json $base_dir/asia-latest.json $base_dir/australia-oceania-latest.json > jsons/combined/world-combined.json
+cp jsons/combined/uids-to-names.json ~/projects/ski-area-annotation/page/jsons/ski-areas/world/
 
 python scripts/process_json.py --uids-to-names jsons/combined/uids-to-names.json jsons/combined/world-latest.json > jsons/processed-ski-area-elevations.json
 

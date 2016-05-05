@@ -1,10 +1,101 @@
 #!/usr/bin/python
 
 import argparse
+import itertools as it
 import json
 import os
 import os.path as op
+import pandas as pd
 import sys
+
+def split_data(data, dim_names, mins, maxs, zoom_level, max_tile_dim):
+    '''
+    Split the data into an n-dimensional array (where
+    n = len(mins) = len(maxs)). Each dimension will have
+    2 ** zoom_level entries.
+
+    :param data: The data set
+    :param dim_names: The names of the dimensions
+    :param mins: The minimum values along each dimension
+    :param maxs: The maximum values along each dimension
+    :return: A dictionary indexed by zoom and position (i.e. (4, 15, 19))
+    '''
+    tile_width = (max_tile_dim) / 2 ** zoom_level
+
+    positions = range(int((maxs[0] - mins[0]) / tile_width))
+    tile_positions = it.product(positions, repeat= len(dim_names))
+
+    split_data = {}
+
+    for position in tile_positions:
+        filtered_data = data
+        for dim_num,pos in enumerate(position):
+            dim_name = dim_names[dim_num]
+            filtered_data = filter(lambda x: x[dim_name] >= mins[dim_num] + pos * tile_width, filtered_data)
+            filtered_data = filter(lambda x: x[dim_name] < mins[dim_num] + (pos + 1) * tile_width, filtered_data)
+
+        split_data[tuple([zoom_level] + list(position))] = filtered_data
+
+    return split_data
+
+def make_all_tiles(entries, dim_names, max_zoom):
+    '''
+    Make all the tiles for a set of data
+
+    :param data: The entire data set
+    :param dim_names: The column names which contain the different 
+                      position values of the data points
+    :param max_zoom: The maximum zoom level allowed
+    :return: A set of tiles, each one containing a position which
+             is an array of length n, where n is equal to len(dim_names) 
+    '''
+    # record the minimum and maximum values in each dimension
+    mins = [min(map(lambda x: x[pos], entries)) for pos in dim_names]
+    maxs = [max(map(lambda x: x[pos], entries)) for pos in dim_names]
+
+    # the largest width along one axis
+    # we need this so we can create square tiles
+    max_tile_dim = max(map(lambda x: x[1] - x[0], zip(mins, maxs)))
+
+    # calculate the subsets of data corresponding to each zoom level
+    # the result of each split_data should be an n-dimensional array
+    # containing the data in each tile
+    data_subsets = [split_data(entries, dim_names, mins, maxs, zl, max_tile_dim) for zl in range(max_zoom)]
+
+    print >>sys.stderr, "data_subsets:", data_subsets
+
+
+def make_tiles_from_file(filename, options):
+    '''
+    Create tiles for a dataset stored in a file.
+
+    The data set can be either in JSON or tsv format. We will first try loading
+    it as JSON and if that fails, we will default to tsv.
+
+    :param filename: The name of the file containing the data for which to
+                     make tiles.
+
+    :return: An array of tiles, each in json format.
+    '''
+    with open(filename, 'r') as f:
+        try:
+            json.load(f)
+        except ValueError:
+            # not a JSON file
+            df = pd.read_csv('test/data/hic_small.tsv', delimiter='\t')
+
+            entries = map(lambda x: dict(zip(df.columns, x)), df.values)
+            print >>sys.stderr, "df.columns:", df.columns
+            print >>sys.stderr, "entries:", entries
+
+            make_all_tiles(entries, options.position, 3)
+            '''
+            options.min_pos = min(map(lambda x: x[options.position], entries))
+            options.max_pos = max(map(lambda x: x[options.position], entries))
+
+            return make_tiles(entries, options, zoom_level = 0,
+                    start_x = options.min_pos, end_x = options.max_pos)
+            '''
 
 def make_tiles(entries, options, zoom_level, start_x, end_x):
     """
@@ -48,11 +139,17 @@ def make_tiles(entries, options, zoom_level, start_x, end_x):
 
     :entries: The list of objects to make tiles for
     :options: Options passed in to the program
-    :zoom_level: The current zoom level
-    :start_x: The initial x position
-    :end_x: The final x position
+    :options.position: The name of the column containing the position
+    :options.importance: The name of the column indicating how important each data
+                 point is
+    :options.max_entries: The maximum number of entries per tile
+    :options.zoom_level: The current zoom level
+    :options.start_x: The initial x position
+    :options.end_x: The final x position
     :returns:
     """
+    #print >>sys.stderr, "options:", vars(options)
+
     # show only a subset of the entries that fall within this tile
     tile = {}
     tile['shown'] = sorted(entries, key=lambda x: -float(x[options.importance]))[:options.max_entries_per_tile]
@@ -79,7 +176,7 @@ def make_tiles(entries, options, zoom_level, start_x, end_x):
 
 def main():
     usage = """
-    python make_tiles.py json_file
+    python make_tiles.py input_file
 
     Create tiles for all of the entries in the JSON file.
     """
@@ -88,7 +185,7 @@ def main():
 
     #parser.add_argument('-o', '--options', dest='some_option', default='yo', help="Place holder for a real option", type='str')
     #parser.add_argument('-u', '--useless', dest='uselesss', default=False, action='store_true', help='Another useless option')
-    parser.add_argument('json_file')
+    parser.add_argument('input_file')
     parser.add_argument('-i', '--importance', dest='importance', default='importance',
             help='The field in each JSON entry that indicates how important that entry is',
             type=str)
@@ -120,7 +217,7 @@ def main():
     args = parser.parse_args()
 
 
-    with open(args.json_file, 'r') as f:
+    with open(args.input_file, 'r') as f:
         entries = json.load(f)
 
         if args.sort_by is not None:
