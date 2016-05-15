@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2056, 
+      "cumarea": 2686.6382183985793, 
+      "area": 7.29, 
+      "num_lifts": 8, 
+      "name": "Krippenstein - Obertraun", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 596, 
+      "uid": "daaa79b1-f655-45e3-9f7f-0a19c166b79b"
+    }, 
+    {
+      "max_elev": 2057, 
+      "uid": "b8910cfb-10d5-427d-86e6-3bf24e1655d7", 
+      "area": 4.31, 
+      "num_lifts": 26, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1625, 
+      "cumarea": 2682.6517148525586
+    }
+  ], 
+  "end_x": 2686.826088976105, 
+  "num": 611, 
+  "zoom": 12, 
+  "start_x": 2682.4358502686277
+}

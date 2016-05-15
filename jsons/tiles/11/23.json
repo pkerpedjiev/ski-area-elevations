@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3460, 
+      "cumarea": 206.80621074817302, 
+      "area": 58.68, 
+      "num_lifts": 338, 
+      "name": "Tignes-Val d'Is\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1562, 
+      "uid": "d9e43279-e4be-42d8-a483-b8e48d84f599"
+    }, 
+    {
+      "max_elev": 3445, 
+      "uid": "aba9d4fb-7231-4529-b7b0-f7b403a8f129", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3202, 
+      "cumarea": 209.4159763197939
+    }
+  ], 
+  "end_x": 210.7314579589102, 
+  "num": 23, 
+  "zoom": 11, 
+  "start_x": 201.9509805439556
+}

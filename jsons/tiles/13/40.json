@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3752, 
+      "cumarea": 89.58893831713533, 
+      "area": 12.9, 
+      "num_lifts": 88, 
+      "name": "Copper Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2960, 
+      "uid": "15aaf30a-6dbd-4cd4-b238-c87cec41ac2f"
+    }
+  ], 
+  "end_x": 89.99989350328457, 
+  "num": 40, 
+  "zoom": 13, 
+  "start_x": 87.80477414954592
+}

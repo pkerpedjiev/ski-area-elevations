@@ -1,0 +1,101 @@
+{
+  "shown": [
+    {
+      "max_elev": 2046, 
+      "cumarea": 2718.9553587073947, 
+      "area": 5.48, 
+      "num_lifts": 31, 
+      "name": "Campo Felice-Rocca di Cambio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1425, 
+      "uid": "713d91aa-8acc-46fa-bd75-fb59b1bd3e9e"
+    }, 
+    {
+      "max_elev": 2046, 
+      "cumarea": 2722.6097699854713, 
+      "area": 5.23, 
+      "num_lifts": 13, 
+      "name": "Seefeld", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1231, 
+      "uid": "724e63fd-fa6a-4c4f-8b76-873b2dc873d8"
+    }, 
+    {
+      "max_elev": 2045, 
+      "cumarea": 2726.240969389687, 
+      "area": 5.11, 
+      "num_lifts": 15, 
+      "name": "Spieljoch - F\u00fcgen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 639, 
+      "uid": "b6a517d0-ab29-4aaa-89cf-15430f240ce7"
+    }, 
+    {
+      "max_elev": 2043, 
+      "uid": "c58600ef-dbd3-4387-9dd7-5317549d6595", 
+      "area": 4.24, 
+      "num_lifts": 27, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1424, 
+      "cumarea": 2735.365429035013
+    }, 
+    {
+      "max_elev": 2050, 
+      "uid": "cfe07839-9618-4794-b2f7-2c552f291141", 
+      "area": 3.63, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1268, 
+      "cumarea": 2706.322264010786
+    }, 
+    {
+      "max_elev": 2049, 
+      "uid": "f0c794c5-b35e-483f-a737-8cbdf2ad8aec", 
+      "area": 3.58, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1503, 
+      "cumarea": 2715.2542536064348
+    }, 
+    {
+      "max_elev": 2043, 
+      "uid": "801e6d0e-574d-49b9-9e5e-c9012266f79a", 
+      "area": 3.01, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1157, 
+      "cumarea": 2738.467369113774
+    }, 
+    {
+      "max_elev": 2045, 
+      "uid": "cf05b1ba-5f5b-4305-a014-054e6a345d81", 
+      "area": 2.9000000000000004, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1491, 
+      "cumarea": 2729.3056801266794
+    }, 
+    {
+      "max_elev": 2050, 
+      "uid": "5aca24ef-5ca5-4440-8d02-7c944e6fa4e1", 
+      "area": 2.88, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1387, 
+      "cumarea": 2709.3800543049338
+    }, 
+    {
+      "max_elev": 2045, 
+      "uid": "a275c7b7-1fc6-47cb-86b5-e5be6f10ab01", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1564, 
+      "cumarea": 2731.9208657657696
+    }
+  ], 
+  "end_x": 2739.5089534658327, 
+  "num": 77, 
+  "zoom": 9, 
+  "start_x": 2704.3870438060144
+}

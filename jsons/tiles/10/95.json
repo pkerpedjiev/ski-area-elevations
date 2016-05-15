@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 2361, 
+      "cumarea": 1670.5135084655228, 
+      "area": 6.87, 
+      "num_lifts": 57, 
+      "name": "Les Angles", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1640, 
+      "uid": "dbcc4ad9-a035-4217-afda-fb342e55b736"
+    }, 
+    {
+      "max_elev": 2354, 
+      "uid": "49f62ff3-a7e3-46d6-8f41-67b493393bec", 
+      "area": 2.29, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1949, 
+      "cumarea": 1678.6955473212327
+    }, 
+    {
+      "max_elev": 2357, 
+      "uid": "89190b8d-1cd4-4edf-abc7-7bdcf4456018", 
+      "area": 2.0700000000000003, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1205, 
+      "cumarea": 1673.2410570728
+    }, 
+    {
+      "max_elev": 2353, 
+      "cumarea": 1683.9944302253416, 
+      "area": 1.96, 
+      "num_lifts": 2, 
+      "name": "Davos Klosters", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1850, 
+      "uid": "54f51665-c82c-4fac-bca6-bd34b77fae2f"
+    }, 
+    {
+      "max_elev": 2356, 
+      "uid": "d287f9d0-e534-4cd9-9b5e-b1020eb5e599", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1808, 
+      "cumarea": 1675.8669955036664
+    }, 
+    {
+      "max_elev": 2354, 
+      "uid": "9fcf8a06-e8e2-4cb0-be48-49dc85cb08db", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1884, 
+      "cumarea": 1681.321485752099
+    }
+  ], 
+  "end_x": 1685.8516636712816, 
+  "num": 95, 
+  "zoom": 10, 
+  "start_x": 1668.2907088413724
+}

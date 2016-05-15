@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 3510, 
+      "cumarea": 180.4616200378252, 
+      "area": 21.86, 
+      "num_lifts": 171, 
+      "name": "Les Deux Alpes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 955, 
+      "uid": "66d77664-4f12-451c-86a9-fc3d9bbfd396"
+    }, 
+    {
+      "max_elev": 3491, 
+      "uid": "a9d19292-fe47-4688-9f74-0e8d4c2d3f98", 
+      "area": 4.88, 
+      "num_lifts": 44, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2931, 
+      "cumarea": 193.16729828501383
+    }, 
+    {
+      "max_elev": 3509, 
+      "uid": "01ce6ebf-f0d8-4bd8-b429-09b5879afb51", 
+      "area": 3.77, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2797, 
+      "cumarea": 183.78869503928513
+    }, 
+    {
+      "max_elev": 3495, 
+      "cumarea": 189.58215306514876, 
+      "area": 3.1799999999999997, 
+      "num_lifts": 2, 
+      "name": "Silverton", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2902, 
+      "uid": "68851bbf-58ee-4cc1-93ba-37380ff9e56d"
+    }, 
+    {
+      "max_elev": 3506, 
+      "uid": "65fb8d6f-9204-428d-af51-8316cfb6f63e", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3162, 
+      "cumarea": 186.42527186835667
+    }
+  ], 
+  "end_x": 193.17050312900102, 
+  "num": 10, 
+  "zoom": 10, 
+  "start_x": 175.60954829909184
+}

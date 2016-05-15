@@ -1,0 +1,104 @@
+{
+  "shown": [
+    {
+      "max_elev": 2799, 
+      "cumarea": 712.8792078261358, 
+      "area": 28.82, 
+      "num_lifts": 178, 
+      "name": "Serfaus - Fiss - Ladis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "10a39d47-7af7-45f9-9695-87287fa7ae3f"
+    }, 
+    {
+      "max_elev": 2794, 
+      "cumarea": 723.5310387678544, 
+      "area": 10.41, 
+      "num_lifts": 42, 
+      "name": "Scuol Motta Naluns", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1292, 
+      "uid": "61166ba3-295d-448e-a606-68cfa9e01f36"
+    }, 
+    {
+      "max_elev": 2789, 
+      "cumarea": 730.6999046849683, 
+      "area": 9.950000000000001, 
+      "num_lifts": 64, 
+      "name": "Sun Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1757, 
+      "uid": "73c64bd0-62f8-4a22-99f6-6a514c8296f6"
+    }, 
+    {
+      "max_elev": 2798, 
+      "cumarea": 719.1882718852276, 
+      "area": 5.5, 
+      "num_lifts": 22, 
+      "name": "Molines en Queyras", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1741, 
+      "uid": "aa9acf79-5990-4bfc-8802-23d14afc2422"
+    }, 
+    {
+      "max_elev": 2787, 
+      "uid": "c86f47fa-c8c6-4218-81fa-b78353158baf", 
+      "area": 4.88, 
+      "num_lifts": 23, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1674, 
+      "cumarea": 734.2850499048333
+    }, 
+    {
+      "max_elev": 2803, 
+      "cumarea": 707.5181382355645, 
+      "area": 4.35, 
+      "num_lifts": 11, 
+      "name": "Tsakhkadzor", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1965, 
+      "uid": "c270c1a4-cb11-4648-86fb-292efc6f25ec"
+    }, 
+    {
+      "max_elev": 2794, 
+      "uid": "df3a7b7d-dbe4-45ff-8b6a-53a528c79cdb", 
+      "area": 2.39, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2539, 
+      "cumarea": 726.4023321337978
+    }, 
+    {
+      "max_elev": 2805, 
+      "cumarea": 704.0479623904639, 
+      "area": 1.99, 
+      "num_lifts": 10, 
+      "name": "Los Puquios", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2685, 
+      "uid": "6813f1ce-e04e-4de1-bcba-32b2f7c69997"
+    }, 
+    {
+      "max_elev": 2799, 
+      "uid": "5171604b-d081-4e2e-9bec-219dc6409b33", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2574, 
+      "cumarea": 715.4835237929891
+    }, 
+    {
+      "max_elev": 2787, 
+      "uid": "d254b090-e5c5-4fa0-b2f0-62e56fe3b28b", 
+      "area": 1.8, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2787, 
+      "cumarea": 736.8728365697353
+    }
+  ], 
+  "end_x": 737.5601028561857, 
+  "num": 20, 
+  "zoom": 9, 
+  "start_x": 702.4381931963674
+}

@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2779, 
+      "cumarea": 742.7131487276095, 
+      "area": 46.54, 
+      "num_lifts": 250, 
+      "name": "Sestriere", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "uid": "4cda8c6e-c67d-4fe1-8d31-639f8600092b"
+    }, 
+    {
+      "max_elev": 2872, 
+      "cumarea": 641.4728577211829, 
+      "area": 42.129999999999995, 
+      "num_lifts": 165, 
+      "name": "Ischgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1354, 
+      "uid": "c0046460-20b1-4ba9-b3cb-4d53b00a64ec"
+    }, 
+    {
+      "max_elev": 2853, 
+      "cumarea": 662.1966346052185, 
+      "area": 39.04, 
+      "num_lifts": 145, 
+      "name": "Arosa Lenzerheide", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1159, 
+      "uid": "553bdf47-5505-4b03-9f54-49bfad297a07"
+    }, 
+    {
+      "max_elev": 2817, 
+      "cumarea": 690.1051205988803, 
+      "area": 30.78, 
+      "num_lifts": 84, 
+      "name": "Davos - Klosters", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "7c75991d-105c-4ceb-8f3a-f362472c9db9"
+    }, 
+    {
+      "max_elev": 2799, 
+      "cumarea": 712.8792078261358, 
+      "area": 28.82, 
+      "num_lifts": 178, 
+      "name": "Serfaus - Fiss - Ladis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "10a39d47-7af7-45f9-9695-87287fa7ae3f"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 756.5142216207764, 
+      "area": 28.740000000000002, 
+      "num_lifts": 188, 
+      "name": "Serre Chevalier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1212, 
+      "uid": "800c6557-0a85-43f7-b9b3-03cb3cc7c47e"
+    }, 
+    {
+      "max_elev": 2728, 
+      "cumarea": 803.3507176825019, 
+      "area": 28.64, 
+      "num_lifts": 143, 
+      "name": "Vars", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1639, 
+      "uid": "3075b935-b72c-4bc9-b343-d739282ddbee"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 761.6025330756235, 
+      "area": 21.94, 
+      "num_lifts": 163, 
+      "name": "St. Anton am Arlberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1279, 
+      "uid": "1fca6592-d5f9-4eda-b94b-7d587982aa38"
+    }, 
+    {
+      "max_elev": 2742, 
+      "cumarea": 788.5307101419714, 
+      "area": 17.71, 
+      "num_lifts": 114, 
+      "name": "Termignon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1295, 
+      "uid": "35ccc4fa-055e-4ff6-b7ec-9060931da9ec"
+    }, 
+    {
+      "max_elev": 2868, 
+      "cumarea": 649.6266780102001, 
+      "area": 16.08, 
+      "num_lifts": 87, 
+      "name": "Fiesch - Eggishorn - Aletsch", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 766, 
+      "uid": "03424069-bf65-407f-b644-7bc7f5d4d5ea"
+    }
+  ], 
+  "end_x": 842.9258318356408, 
+  "num": 2, 
+  "zoom": 6, 
+  "start_x": 561.9505545570938
+}

@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 1314, 
+      "cumarea": 6354.967920718488, 
+      "area": 2.23, 
+      "num_lifts": 6, 
+      "name": "Obermatt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 551, 
+      "uid": "bfe91d72-7f83-42d4-a5af-595486542e24"
+    }
+  ], 
+  "end_x": 6355.9680887502545, 
+  "num": 5790, 
+  "zoom": 14, 
+  "start_x": 6354.870529073385
+}

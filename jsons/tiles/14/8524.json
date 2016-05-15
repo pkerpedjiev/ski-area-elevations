@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 888, 
+      "cumarea": 9355.670860462964, 
+      "area": 12.15, 
+      "num_lifts": 73, 
+      "name": "Mont Tremblant", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 239, 
+      "uid": "575de683-495f-4e6f-920a-96df9f8fedfc"
+    }
+  ], 
+  "end_x": 9356.696245310988, 
+  "num": 8524, 
+  "zoom": 14, 
+  "start_x": 9355.598685634119
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2483, 
+      "cumarea": 1308.8183874543254, 
+      "area": 20.51, 
+      "num_lifts": 138, 
+      "name": "Zillertal Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 574, 
+      "uid": "33d7078a-b84d-4193-b52e-a8ddcc85cc9a"
+    }, 
+    {
+      "max_elev": 2483, 
+      "uid": "c990160a-1461-416d-bfb0-c4a3e6b217d7", 
+      "area": 2.87, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1958, 
+      "cumarea": 1311.872699484097
+    }
+  ], 
+  "end_x": 1312.6813735357114, 
+  "num": 298, 
+  "zoom": 12, 
+  "start_x": 1308.2911348282341
+}

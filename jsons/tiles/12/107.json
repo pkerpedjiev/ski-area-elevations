@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3045, 
+      "cumarea": 470.67368481925195, 
+      "area": 25.71, 
+      "num_lifts": 258, 
+      "name": "Park City", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2010, 
+      "uid": "840fc397-3ae5-4396-9653-832715382296"
+    }, 
+    {
+      "max_elev": 3042, 
+      "uid": "fb2dd037-5ba5-4202-b7a9-27eadc330765", 
+      "area": 2.6100000000000003, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1612, 
+      "cumarea": 473.63303504058655
+    }
+  ], 
+  "end_x": 474.14578040754793, 
+  "num": 107, 
+  "zoom": 12, 
+  "start_x": 469.75554170007064
+}

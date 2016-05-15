@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1828, 
+      "cumarea": 3708.1152144535386, 
+      "area": 22.52, 
+      "num_lifts": 95, 
+      "name": "Schwyz - Rotenfluh (Mythen)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 583, 
+      "uid": "59909f2f-dbce-4fa0-9afa-83b56a1c060b"
+    }, 
+    {
+      "max_elev": 1826, 
+      "cumarea": 3720.426574012456, 
+      "area": 5.5, 
+      "num_lifts": 20, 
+      "name": "Tsugaike kogen Ski Area", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 778, 
+      "uid": "02b3ba73-d846-4e2d-b9cb-e11a23eae323"
+    }, 
+    {
+      "max_elev": 1827, 
+      "uid": "25a527ef-cd75-48c3-b0e6-cfc197d8558a", 
+      "area": 2.84, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1233, 
+      "cumarea": 3711.1590185057116
+    }, 
+    {
+      "max_elev": 1827, 
+      "uid": "67552fc5-22f9-4413-84dc-b734d6438a3f", 
+      "area": 2.23, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1232, 
+      "cumarea": 3713.961020091184
+    }, 
+    {
+      "max_elev": 1826, 
+      "uid": "9626da0a-0249-4e3e-a8a8-cb4690f8999c", 
+      "area": 2.14, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1466, 
+      "cumarea": 3716.7218259202177
+    }
+  ], 
+  "end_x": 3722.9224239407467, 
+  "num": 211, 
+  "zoom": 10, 
+  "start_x": 3705.361469110838
+}

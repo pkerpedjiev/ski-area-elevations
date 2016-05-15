@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2516, 
+      "cumarea": 1178.9182986443182, 
+      "area": 4.44, 
+      "num_lifts": 17, 
+      "name": "Pischa", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1804, 
+      "uid": "e6755080-be62-4f1a-aed6-74f294be0d83"
+    }, 
+    {
+      "max_elev": 2515, 
+      "uid": "0b8c330f-5cfb-4129-a019-457e0bc604a5", 
+      "area": 4.13, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1625, 
+      "cumarea": 1182.336576051291
+    }
+  ], 
+  "end_x": 1185.36445101887, 
+  "num": 134, 
+  "zoom": 11, 
+  "start_x": 1176.5839736039154
+}

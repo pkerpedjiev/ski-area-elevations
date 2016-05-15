@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2514, 
+      "cumarea": 1195.0812194732869, 
+      "area": 10.22, 
+      "num_lifts": 38, 
+      "name": "Bansko", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 993, 
+      "uid": "3a1692b0-4dd5-421a-846f-6d6db9f7db1c"
+    }, 
+    {
+      "max_elev": 2514, 
+      "uid": "f8aa6d25-4cb3-4ec8-b14f-05610784a552", 
+      "area": 4.03, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1640, 
+      "cumarea": 1198.4749858492455
+    }
+  ], 
+  "end_x": 1198.5351671413018, 
+  "num": 272, 
+  "zoom": 12, 
+  "start_x": 1194.1449284338246
+}

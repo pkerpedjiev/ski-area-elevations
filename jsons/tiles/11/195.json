@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2337, 
+      "cumarea": 1717.3250537209253, 
+      "area": 5.7700000000000005, 
+      "num_lifts": 23, 
+      "name": "Moena - Alpe Lusia - Bellamonte / Trevalli", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1367, 
+      "uid": "b1d9d274-3410-484b-8c72-4ddc71bee13f"
+    }, 
+    {
+      "max_elev": 2338, 
+      "uid": "30aae67e-222d-432b-9952-ac34d4c360ef", 
+      "area": 2.64, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1868, 
+      "cumarea": 1713.5723816404054
+    }, 
+    {
+      "max_elev": 2337, 
+      "uid": "362efad6-74ed-4ed9-b0b0-26f2ff4685fd", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1992, 
+      "cumarea": 1719.961630549997
+    }
+  ], 
+  "end_x": 1720.9735733311, 
+  "num": 195, 
+  "zoom": 11, 
+  "start_x": 1712.1930959161455
+}

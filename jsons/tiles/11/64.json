@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2962, 
+      "cumarea": 563.7488673194497, 
+      "area": 10.42, 
+      "num_lifts": 69, 
+      "name": "Lauterbrunnen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 804, 
+      "uid": "05758ad4-8ff3-440b-844c-9051256ff37f"
+    }, 
+    {
+      "max_elev": 2954, 
+      "cumarea": 567.6344206679642, 
+      "area": 6.59, 
+      "num_lifts": 14, 
+      "name": "Pejo 3000 - Val di Sole", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1406, 
+      "uid": "306fa6d2-965a-47bc-9b56-821ff7bd4d61"
+    }, 
+    {
+      "max_elev": 2952, 
+      "uid": "acd80e46-b529-4941-aa7a-98808fbcdfd2", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2200, 
+      "cumarea": 570.291940670881
+    }
+  ], 
+  "end_x": 570.7310319720484, 
+  "num": 64, 
+  "zoom": 11, 
+  "start_x": 561.9505545570938
+}

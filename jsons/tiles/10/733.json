@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 539, 
+      "uid": "2d71a34b-0dc0-46ad-b803-2c2ecea1031a", 
+      "area": 2.48, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 441, 
+      "cumarea": 12881.486703729137
+    }, 
+    {
+      "max_elev": 538, 
+      "uid": "f92ae331-38fb-482f-ac91-e450a3c3596e", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 339, 
+      "cumarea": 12889.315648508156
+    }, 
+    {
+      "max_elev": 539, 
+      "uid": "865a1503-0f93-4ce4-b622-158c52f3ac4c", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 426, 
+      "cumarea": 12873.391791478405
+    }, 
+    {
+      "max_elev": 538, 
+      "uid": "a701fd48-2b81-43e6-9455-feed7377a20f", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 497, 
+      "cumarea": 12884.085540230226
+    }, 
+    {
+      "max_elev": 538, 
+      "uid": "6c00d530-9532-48fd-8bb3-892d0f8131c7", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 396, 
+      "cumarea": 12886.684376731315
+    }, 
+    {
+      "max_elev": 539, 
+      "uid": "e3b44d3d-7677-4df3-8172-2c5a4c2d1fec", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 513, 
+      "cumarea": 12875.985118323682
+    }, 
+    {
+      "max_elev": 539, 
+      "uid": "b02eeaef-9b32-46a2-8f47-32b6dae84850", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 490, 
+      "cumarea": 12878.57844516896
+    }
+  ], 
+  "end_x": 12889.740845153341, 
+  "num": 733, 
+  "zoom": 10, 
+  "start_x": 12872.179890323432
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1279, 
+      "cumarea": 6545.396868437499, 
+      "area": 16.07, 
+      "num_lifts": 152, 
+      "name": "Killington", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 354, 
+      "uid": "9223c9de-54e0-4047-a2ae-0bd0b77da174"
+    }, 
+    {
+      "max_elev": 1279, 
+      "uid": "91d074f3-d018-425e-919c-4fc39b6f8e4e", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 492, 
+      "cumarea": 6548.03344526657
+    }
+  ], 
+  "end_x": 6550.236151556126, 
+  "num": 745, 
+  "zoom": 11, 
+  "start_x": 6541.455674141171
+}

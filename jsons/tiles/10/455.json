@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1056, 
+      "uid": "59ede5dc-0319-4359-9d36-bd73e43cc56c", 
+      "area": 2.49, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 488, 
+      "cumarea": 7993.688259054446
+    }, 
+    {
+      "max_elev": 1055, 
+      "uid": "62bcd3ff-a52a-48cf-9dbc-c792770396b6", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 906, 
+      "cumarea": 8001.600415916696
+    }, 
+    {
+      "max_elev": 1055, 
+      "uid": "dab572a7-0c8b-4c4e-8a6a-6c0a700dc6e9", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 488, 
+      "cumarea": 8004.236992745768
+    }, 
+    {
+      "max_elev": 1056, 
+      "uid": "6f94cb7a-4a75-4a7b-8d7e-208d53713c39", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 893, 
+      "cumarea": 7996.303444693536
+    }, 
+    {
+      "max_elev": 1055, 
+      "uid": "9736380b-0e00-4d21-84cb-224ccb8196b1", 
+      "area": 1.84, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1010, 
+      "cumarea": 8006.846758317389
+    }, 
+    {
+      "max_elev": 1057, 
+      "uid": "1e60d1b2-7edb-4920-acae-be878249e05a", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 986, 
+      "cumarea": 7990.775976343969
+    }, 
+    {
+      "max_elev": 1056, 
+      "uid": "b45821c9-64fd-4dce-baf8-4de49b8450e6", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1022, 
+      "cumarea": 7998.902281194625
+    }
+  ], 
+  "end_x": 8007.795402438587, 
+  "num": 455, 
+  "zoom": 10, 
+  "start_x": 7990.234447608678
+}

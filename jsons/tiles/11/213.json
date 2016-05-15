@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2285, 
+      "cumarea": 1870.9035954039475, 
+      "area": 9.65, 
+      "num_lifts": 36, 
+      "name": "S\u00f6renberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1119, 
+      "uid": "44a93633-f244-4b61-8be7-49130dd307b9"
+    }, 
+    {
+      "max_elev": 2285, 
+      "uid": "62dcd968-5d14-480d-802b-534e7db1c980", 
+      "area": 4.94, 
+      "num_lifts": 42, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1635, 
+      "cumarea": 1874.5009607351474
+    }, 
+    {
+      "max_elev": 2285, 
+      "uid": "ac67cf8a-6f73-459f-b5c0-3043acbd772b", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1884, 
+      "cumarea": 1877.1161463742376
+    }
+  ], 
+  "end_x": 1879.0221668002825, 
+  "num": 213, 
+  "zoom": 11, 
+  "start_x": 1870.2416893853278
+}

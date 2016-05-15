@@ -1,0 +1,46 @@
+{
+  "shown": [
+    {
+      "max_elev": 2009, 
+      "cumarea": 2904.245773638356, 
+      "area": 9.44, 
+      "num_lifts": 66, 
+      "name": "Valberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1416, 
+      "uid": "dd7e3227-9955-4767-9aa7-fe9f8f7a63cf"
+    }, 
+    {
+      "max_elev": 2008, 
+      "cumarea": 2912.053923909719, 
+      "area": 9.35, 
+      "num_lifts": 67, 
+      "name": "Dorfgastein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 867, 
+      "uid": "4e74ef6b-4015-4a6d-a5aa-10a9e3ebcaed"
+    }, 
+    {
+      "max_elev": 2009, 
+      "uid": "220611dd-a8df-43b9-beee-63b508fb79a4", 
+      "area": 4.82, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1528, 
+      "cumarea": 2907.818547566418
+    }, 
+    {
+      "max_elev": 2011, 
+      "uid": "18938932-8cc6-4ad7-b642-9c85570b7e04", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1384, 
+      "cumarea": 2900.0008176581982
+    }
+  ], 
+  "end_x": 2915.1185017649245, 
+  "num": 165, 
+  "zoom": 10, 
+  "start_x": 2897.557546935015
+}

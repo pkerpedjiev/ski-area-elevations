@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1877, 
+      "cumarea": 3426.451054923315, 
+      "area": 8.280000000000001, 
+      "num_lifts": 52, 
+      "name": "Les Houches", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 979, 
+      "uid": "89e6441f-f54a-4409-95db-0e7bfc044f3e"
+    }, 
+    {
+      "max_elev": 1877, 
+      "uid": "65a04cd4-91df-4dd2-a6e9-41e4c68cbb2a", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1484, 
+      "cumarea": 3429.149189645386
+    }, 
+    {
+      "max_elev": 1877, 
+      "uid": "c93ec870-f1a9-4767-aa1d-5ee2b7b1d21e", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1656, 
+      "cumarea": 3431.753505612239
+    }
+  ], 
+  "end_x": 3433.1666692472454, 
+  "num": 390, 
+  "zoom": 11, 
+  "start_x": 3424.386191832291
+}

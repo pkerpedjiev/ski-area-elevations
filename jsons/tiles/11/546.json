@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1619, 
+      "uid": "1bd33d3c-616a-4877-932b-cb8af41aa6c9", 
+      "area": 3.4699999999999998, 
+      "num_lifts": 25, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 957, 
+      "cumarea": 4800.484087997406
+    }, 
+    {
+      "max_elev": 1619, 
+      "cumarea": 4797.239933403447, 
+      "area": 1.9300000000000002, 
+      "num_lifts": 4, 
+      "name": "Pastaza", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1607, 
+      "uid": "21e75395-ac37-4f1b-81d7-d8362d3a4f11"
+    }, 
+    {
+      "max_elev": 1620, 
+      "uid": "e1fd9e93-67c0-4fae-90b0-e1b05d0b1730", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1488, 
+      "cumarea": 4794.582413400531
+    }
+  ], 
+  "end_x": 4802.921145980162, 
+  "num": 546, 
+  "zoom": 11, 
+  "start_x": 4794.140668565207
+}

@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 3928, 
+      "cumarea": 45.670119177773074, 
+      "area": 16.53, 
+      "num_lifts": 124, 
+      "name": "Breckenridge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2914, 
+      "uid": "691431f3-fe50-4648-8883-d7971df1dc3e"
+    }, 
+    {
+      "max_elev": 3943, 
+      "cumarea": 38.212617079900454, 
+      "area": 3.12, 
+      "num_lifts": 14, 
+      "name": "Gulmarg", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2647, 
+      "uid": "e00f8cec-a280-4073-8efc-abb7fb24e31d"
+    }, 
+    {
+      "max_elev": 3882, 
+      "uid": "56abb78b-ad2d-4ca2-9e12-4d02d2d9fe97", 
+      "area": 2.14, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2232, 
+      "cumarea": 51.01871167170895
+    }, 
+    {
+      "max_elev": 3937, 
+      "cumarea": 40.864942265940144, 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "name": "(urban, Quito)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 3126, 
+      "uid": "8288741d-0a81-44c6-8eef-7d20ec1b5a9d"
+    }, 
+    {
+      "max_elev": 3919, 
+      "uid": "8e28218c-d2d4-418e-9b51-7dbdbdcb0988", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3913, 
+      "cumarea": 48.25790584267519
+    }
+  ], 
+  "end_x": 52.68286448972755, 
+  "num": 2, 
+  "zoom": 10, 
+  "start_x": 35.121909659818364
+}

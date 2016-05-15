@@ -1,0 +1,57 @@
+{
+  "shown": [
+    {
+      "max_elev": 3285, 
+      "cumarea": 289.4119308429745, 
+      "area": 42.599999999999994, 
+      "num_lifts": 254, 
+      "name": "Alpe d'Huez", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "254f7968-1636-4a75-b272-c5cb306514a3"
+    }, 
+    {
+      "max_elev": 3258, 
+      "cumarea": 297.39646053918943, 
+      "area": 24.0, 
+      "num_lifts": 135, 
+      "name": "S\u00f6lden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1353, 
+      "uid": "23ee062c-4f8c-4427-94d6-a20680ad0298"
+    }, 
+    {
+      "max_elev": 3286, 
+      "cumarea": 281.0341381588327, 
+      "area": 4.45, 
+      "num_lifts": 9, 
+      "name": "Purgatory", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2679, 
+      "uid": "16dfa086-35d1-4360-94b3-b433be9ebace"
+    }, 
+    {
+      "max_elev": 3266, 
+      "uid": "a7d0c98e-4d2d-450b-801b-ed9c58a74988", 
+      "area": 2.24, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2270, 
+      "cumarea": 292.2184067088415
+    }, 
+    {
+      "max_elev": 3286, 
+      "cumarea": 283.6600765896992, 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "name": "Purgatory", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2839, 
+      "uid": "c5e774c4-0045-4324-bbb8-083097e9a09c"
+    }
+  ], 
+  "end_x": 298.53623210845615, 
+  "num": 16, 
+  "zoom": 10, 
+  "start_x": 280.9752772785469
+}

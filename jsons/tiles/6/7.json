@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2246, 
+      "cumarea": 2043.1572639781343, 
+      "area": 91.42, 
+      "num_lifts": 482, 
+      "name": "Portes du Soleil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 946, 
+      "uid": "57b10664-312b-4882-9f1e-ee404ee74aff"
+    }, 
+    {
+      "max_elev": 2216, 
+      "cumarea": 2157.1708838901195, 
+      "area": 17.169999999999998, 
+      "num_lifts": 62, 
+      "name": "Flumserberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 436, 
+      "uid": "d95e1ee4-ddef-4c19-8c61-698031c55e69"
+    }, 
+    {
+      "max_elev": 2192, 
+      "cumarea": 2247.0624414685694, 
+      "area": 16.94, 
+      "num_lifts": 80, 
+      "name": "Adelboden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1072, 
+      "uid": "33e8d1ca-e837-4026-b15c-5157934ea463"
+    }, 
+    {
+      "max_elev": 2260, 
+      "cumarea": 1994.56060160417, 
+      "area": 16.36, 
+      "num_lifts": 70, 
+      "name": "Toggenburg \u2013 Wildhaus/\u200bUnterwasser/\u200bAlt St. Johann", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 530, 
+      "uid": "77cd69d5-4c9d-4137-aa1b-f9a99e440196"
+    }, 
+    {
+      "max_elev": 2200, 
+      "cumarea": 2195.041750495582, 
+      "area": 15.200000000000001, 
+      "num_lifts": 61, 
+      "name": "Sextner Dolomiten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1150, 
+      "uid": "d0ef0d09-dda4-40c8-b493-0efaf3957b36"
+    }, 
+    {
+      "max_elev": 2238, 
+      "cumarea": 2061.9912205895707, 
+      "area": 12.08, 
+      "num_lifts": 85, 
+      "name": "Formigal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1500, 
+      "uid": "b7e5de6f-dd4e-4e17-a964-1a505908f882"
+    }, 
+    {
+      "max_elev": 2200, 
+      "cumarea": 2199.332263007342, 
+      "area": 9.88, 
+      "num_lifts": 62, 
+      "name": "Katschberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1051, 
+      "uid": "c24ba31e-e650-418e-a6bb-3a3226c18ba6"
+    }, 
+    {
+      "max_elev": 2255, 
+      "cumarea": 2014.167475289917, 
+      "area": 9.15, 
+      "num_lifts": 52, 
+      "name": "Aprica", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1152, 
+      "uid": "e7855354-0b24-4b10-890a-20f5b4abc9ff"
+    }, 
+    {
+      "max_elev": 2229, 
+      "cumarea": 2099.507589596066, 
+      "area": 8.88, 
+      "num_lifts": 64, 
+      "name": "Peyragudes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1384, 
+      "uid": "ef5ec115-a6e0-4811-80f5-d983dfd9e7b3"
+    }, 
+    {
+      "max_elev": 2227, 
+      "cumarea": 2110.4570976887403, 
+      "area": 8.32, 
+      "num_lifts": 80, 
+      "name": "Mt Hood Meadows", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1382, 
+      "uid": "4b30cf26-e16a-43f3-ba04-5adf59b9b8ed"
+    }
+  ], 
+  "end_x": 2247.8022182283753, 
+  "num": 7, 
+  "zoom": 6, 
+  "start_x": 1966.8269409498284
+}

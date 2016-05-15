@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2984, 
+      "cumarea": 523.1916664983806, 
+      "area": 11.63, 
+      "num_lifts": 26, 
+      "name": "Les diablerets - Glacier 3000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1322, 
+      "uid": "531e03fb-ebae-4635-b556-da8d263cddeb"
+    }, 
+    {
+      "max_elev": 2983, 
+      "uid": "afc58a30-444d-43b6-9aca-cba1f7bc4af1", 
+      "area": 2.23, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2495, 
+      "cumarea": 525.9936680838526
+    }
+  ], 
+  "end_x": 526.8286448972755, 
+  "num": 119, 
+  "zoom": 12, 
+  "start_x": 522.4384061897981
+}

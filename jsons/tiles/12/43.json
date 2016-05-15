@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3491, 
+      "uid": "a9d19292-fe47-4688-9f74-0e8d4c2d3f98", 
+      "area": 4.88, 
+      "num_lifts": 44, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2931, 
+      "cumarea": 193.16729828501383
+    }, 
+    {
+      "max_elev": 3495, 
+      "cumarea": 189.58215306514876, 
+      "area": 3.1799999999999997, 
+      "num_lifts": 2, 
+      "name": "Silverton", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2902, 
+      "uid": "68851bbf-58ee-4cc1-93ba-37380ff9e56d"
+    }
+  ], 
+  "end_x": 193.17050312900102, 
+  "num": 43, 
+  "zoom": 12, 
+  "start_x": 188.78026442152373
+}

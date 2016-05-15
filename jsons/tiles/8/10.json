@@ -1,0 +1,107 @@
+{
+  "shown": [
+    {
+      "max_elev": 2779, 
+      "cumarea": 742.7131487276095, 
+      "area": 46.54, 
+      "num_lifts": 250, 
+      "name": "Sestriere", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "uid": "4cda8c6e-c67d-4fe1-8d31-639f8600092b"
+    }, 
+    {
+      "max_elev": 2799, 
+      "cumarea": 712.8792078261358, 
+      "area": 28.82, 
+      "num_lifts": 178, 
+      "name": "Serfaus - Fiss - Ladis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "10a39d47-7af7-45f9-9695-87287fa7ae3f"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 756.5142216207764, 
+      "area": 28.740000000000002, 
+      "num_lifts": 188, 
+      "name": "Serre Chevalier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1212, 
+      "uid": "800c6557-0a85-43f7-b9b3-03cb3cc7c47e"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 761.6025330756235, 
+      "area": 21.94, 
+      "num_lifts": 163, 
+      "name": "St. Anton am Arlberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1279, 
+      "uid": "1fca6592-d5f9-4eda-b94b-7d587982aa38"
+    }, 
+    {
+      "max_elev": 2779, 
+      "cumarea": 747.3775952912296, 
+      "area": 14.360000000000001, 
+      "num_lifts": 89, 
+      "name": "Livigno", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1815, 
+      "uid": "fbfabb40-3727-4410-8163-130b4d89982d"
+    }, 
+    {
+      "max_elev": 2794, 
+      "cumarea": 723.5310387678544, 
+      "area": 10.41, 
+      "num_lifts": 42, 
+      "name": "Scuol Motta Naluns", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1292, 
+      "uid": "61166ba3-295d-448e-a606-68cfa9e01f36"
+    }, 
+    {
+      "max_elev": 2789, 
+      "cumarea": 730.6999046849683, 
+      "area": 9.950000000000001, 
+      "num_lifts": 64, 
+      "name": "Sun Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1757, 
+      "uid": "73c64bd0-62f8-4a22-99f6-6a514c8296f6"
+    }, 
+    {
+      "max_elev": 2777, 
+      "cumarea": 751.1559317401255, 
+      "area": 5.92, 
+      "num_lifts": 28, 
+      "name": "Disentis 3000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1220, 
+      "uid": "f3454ced-3fc4-4444-8276-310ad2132e5b"
+    }, 
+    {
+      "max_elev": 2798, 
+      "cumarea": 719.1882718852276, 
+      "area": 5.5, 
+      "num_lifts": 22, 
+      "name": "Molines en Queyras", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1741, 
+      "uid": "aa9acf79-5990-4bfc-8802-23d14afc2422"
+    }, 
+    {
+      "max_elev": 2787, 
+      "uid": "c86f47fa-c8c6-4218-81fa-b78353158baf", 
+      "area": 4.88, 
+      "num_lifts": 23, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1674, 
+      "cumarea": 734.2850499048333
+    }
+  ], 
+  "end_x": 772.6820125160041, 
+  "num": 10, 
+  "zoom": 8, 
+  "start_x": 702.4381931963674
+}

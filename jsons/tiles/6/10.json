@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 1988, 
+      "cumarea": 3004.7178520767566, 
+      "area": 42.75, 
+      "num_lifts": 150, 
+      "name": "Kitzb\u00fchel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "c965577c-b08b-4bf4-bdc1-ca717c167622"
+    }, 
+    {
+      "max_elev": 2031, 
+      "cumarea": 2815.535443629346, 
+      "area": 41.059999999999995, 
+      "num_lifts": 231, 
+      "name": "Espace Diamant", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 954, 
+      "uid": "00cc16ad-f5de-447d-96f2-e5057673a906"
+    }, 
+    {
+      "max_elev": 1985, 
+      "cumarea": 3016.8059444352107, 
+      "area": 26.11, 
+      "num_lifts": 166, 
+      "name": "Schladming", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 726, 
+      "uid": "cd2186dc-1e96-4022-abc4-bd2af5f10c80"
+    }, 
+    {
+      "max_elev": 2003, 
+      "cumarea": 2948.539446326348, 
+      "area": 22.470000000000002, 
+      "num_lifts": 68, 
+      "name": "Sch\u00f6nfeld - Thomatal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 945, 
+      "uid": "35bac140-b5d6-4c12-86f2-c2d7d485d35a"
+    }, 
+    {
+      "max_elev": 1984, 
+      "cumarea": 3026.7926146959244, 
+      "area": 16.0, 
+      "num_lifts": 134, 
+      "name": "Nassfeld", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 610, 
+      "uid": "dd9e6748-f2a8-460e-a502-083f98cdd707"
+    }, 
+    {
+      "max_elev": 2011, 
+      "cumarea": 2897.3642408291266, 
+      "area": 15.370000000000001, 
+      "num_lifts": 143, 
+      "name": "Heuberg Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "uid": "f5f961d6-609e-48b4-9cf0-9789b6ff59ba"
+    }, 
+    {
+      "max_elev": 2014, 
+      "cumarea": 2889.3620627267123, 
+      "area": 13.770000000000001, 
+      "num_lifts": 88, 
+      "name": "Dam\u00fcls", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 690, 
+      "uid": "bb6710bf-0c9f-484d-b9c3-85a9003f2c83"
+    }, 
+    {
+      "max_elev": 1992, 
+      "cumarea": 2978.8356137180876, 
+      "area": 11.59, 
+      "num_lifts": 65, 
+      "name": "Demanovska Dolina", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 944, 
+      "uid": "81c5196a-ba3e-4a20-bc75-7561d252f7af"
+    }, 
+    {
+      "max_elev": 2021, 
+      "cumarea": 2873.061973176893, 
+      "area": 11.530000000000001, 
+      "num_lifts": 70, 
+      "name": "Le Grand-Bornand", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 936, 
+      "uid": "9d492f65-8ba2-427a-8c0a-ac620a3e3c54"
+    }, 
+    {
+      "max_elev": 1974, 
+      "cumarea": 3065.373679041462, 
+      "area": 10.92, 
+      "num_lifts": 47, 
+      "name": "Brandnertal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 891, 
+      "uid": "5eb3093d-eb88-43ac-8322-830cd1b8cc33"
+    }
+  ], 
+  "end_x": 3090.7280500640163, 
+  "num": 10, 
+  "zoom": 6, 
+  "start_x": 2809.7527727854695
+}

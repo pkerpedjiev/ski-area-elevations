@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 3199, 
+      "cumarea": 360.69342950832225, 
+      "area": 141.25, 
+      "num_lifts": 564, 
+      "name": "Sella Ronda", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1003, 
+      "uid": "c4585162-ee23-4631-a0cd-d8e63ac02f3e"
+    }, 
+    {
+      "max_elev": 3216, 
+      "cumarea": 343.0265432780363, 
+      "area": 115.13, 
+      "num_lifts": 729, 
+      "name": "Les 3 Vall\u00e9es", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 628, 
+      "uid": "ece7b2d5-86aa-461b-ad16-1a9a3cc98e80"
+    }, 
+    {
+      "max_elev": 3187, 
+      "cumarea": 380.0274318976269, 
+      "area": 75.48, 
+      "num_lifts": 498, 
+      "name": "Les Arcs", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1202, 
+      "uid": "594b2549-d83a-4c80-84c4-3aeae60acbad"
+    }, 
+    {
+      "max_elev": 3285, 
+      "cumarea": 289.4119308429745, 
+      "area": 42.599999999999994, 
+      "num_lifts": 254, 
+      "name": "Alpe d'Huez", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "254f7968-1636-4a75-b272-c5cb306514a3"
+    }, 
+    {
+      "max_elev": 3258, 
+      "cumarea": 297.39646053918943, 
+      "area": 24.0, 
+      "num_lifts": 135, 
+      "name": "S\u00f6lden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1353, 
+      "uid": "23ee062c-4f8c-4427-94d6-a20680ad0298"
+    }, 
+    {
+      "max_elev": 3236, 
+      "cumarea": 314.92097170377923, 
+      "area": 19.75, 
+      "num_lifts": 71, 
+      "name": "Monterosa Ski - Champoluc", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1166, 
+      "uid": "963bc883-03e7-4d03-8d13-d5ab8d6950e3"
+    }, 
+    {
+      "max_elev": 3199, 
+      "cumarea": 365.26221764209095, 
+      "area": 13.05, 
+      "num_lifts": 64, 
+      "name": "Stubaier Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1745, 
+      "uid": "92b4f01d-e594-4438-9210-995305612055"
+    }, 
+    {
+      "max_elev": 3229, 
+      "cumarea": 322.9329341573954, 
+      "area": 11.440000000000001, 
+      "num_lifts": 63, 
+      "name": "Hintertuxer Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1496, 
+      "uid": "8af09368-3e19-4ceb-997b-06ef993892ee"
+    }, 
+    {
+      "max_elev": 3175, 
+      "cumarea": 394.81187570986003, 
+      "area": 9.47, 
+      "num_lifts": 81, 
+      "name": "Jackson Hole", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1926, 
+      "uid": "0530830c-123a-4688-a000-48a6470d2283"
+    }, 
+    {
+      "max_elev": 3210, 
+      "cumarea": 347.18294586085227, 
+      "area": 8.64, 
+      "num_lifts": 46, 
+      "name": "Steamboat Springs", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2075, 
+      "uid": "cf26651d-c07f-4259-a6e7-4ca203676b13"
+    }
+  ], 
+  "end_x": 421.4629159178204, 
+  "num": 2, 
+  "zoom": 7, 
+  "start_x": 280.9752772785469
+}

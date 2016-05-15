@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2505, 
+      "cumarea": 1230.2654841012663, 
+      "area": 6.38, 
+      "num_lifts": 32, 
+      "name": "Davos Rinerhorn", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1462, 
+      "uid": "449388c2-1729-4ccd-b66c-f19a9dde3369"
+    }
+  ], 
+  "end_x": 1233.6570768011202, 
+  "num": 280, 
+  "zoom": 12, 
+  "start_x": 1229.266838093643
+}

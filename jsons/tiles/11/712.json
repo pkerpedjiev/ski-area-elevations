@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1331, 
+      "cumarea": 6256.993503734009, 
+      "area": 3.0700000000000003, 
+      "num_lifts": 15, 
+      "name": "Valbella di Gallio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1094, 
+      "uid": "b50feda1-abd7-4f03-a66e-d61f67979e77"
+    }, 
+    {
+      "max_elev": 1333, 
+      "uid": "a35fdd92-f370-4bb6-9b8f-0a82221d0d67", 
+      "area": 3.04, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 874, 
+      "cumarea": 6253.87182617241
+    }, 
+    {
+      "max_elev": 1331, 
+      "uid": "766ae42b-35d3-4bf7-aa1f-7ba81a7c439e", 
+      "area": 2.29, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1100, 
+      "cumarea": 6259.822055551575
+    }
+  ], 
+  "end_x": 6260.480396862624, 
+  "num": 712, 
+  "zoom": 11, 
+  "start_x": 6251.699919447669
+}

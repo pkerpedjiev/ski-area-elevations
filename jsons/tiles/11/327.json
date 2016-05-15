@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2021, 
+      "cumarea": 2873.061973176893, 
+      "area": 11.530000000000001, 
+      "num_lifts": 70, 
+      "name": "Le Grand-Bornand", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 936, 
+      "uid": "9d492f65-8ba2-427a-8c0a-ac620a3e3c54"
+    }, 
+    {
+      "max_elev": 2017, 
+      "uid": "c3d6e095-aa7b-4efe-b4bc-9df5f3e7df5c", 
+      "area": 4.01, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 978, 
+      "cumarea": 2879.1134523912865
+    }, 
+    {
+      "max_elev": 2020, 
+      "uid": "9e2d98f7-665b-43e2-bec4-396858095d6b", 
+      "area": 1.94, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1463, 
+      "cumarea": 2875.724661149968
+    }
+  ], 
+  "end_x": 2879.996592105106, 
+  "num": 327, 
+  "zoom": 11, 
+  "start_x": 2871.2161146901517
+}

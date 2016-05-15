@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1650, 
+      "cumarea": 4641.837072313582, 
+      "area": 3.08, 
+      "num_lifts": 16, 
+      "name": "Spitzingsee-Tegernsee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1093, 
+      "uid": "8064e085-210e-4abe-a1b4-3444e1a09d82"
+    }, 
+    {
+      "max_elev": 1650, 
+      "uid": "e5a2c65e-08fa-4924-8a46-0fd7b0a615eb", 
+      "area": 2.5300000000000002, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1342, 
+      "cumarea": 4644.7652916163215
+    }
+  ], 
+  "end_x": 4644.872552510979, 
+  "num": 1057, 
+  "zoom": 12, 
+  "start_x": 4640.482313803503
+}

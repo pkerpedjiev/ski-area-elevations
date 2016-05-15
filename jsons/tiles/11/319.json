@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2032, 
+      "cumarea": 2804.6227362155782, 
+      "area": 14.75, 
+      "num_lifts": 72, 
+      "name": "Bad Kleinkirchheim", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1020, 
+      "uid": "dc9bf442-641e-4a22-b0c0-6bb7e4b6d516"
+    }, 
+    {
+      "max_elev": 2032, 
+      "uid": "ceb47680-0c36-4bbb-95d1-37847420f2f5", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1783, 
+      "cumarea": 2807.2215727166667
+    }
+  ], 
+  "end_x": 2809.7527727854695, 
+  "num": 319, 
+  "zoom": 11, 
+  "start_x": 2800.972295370515
+}

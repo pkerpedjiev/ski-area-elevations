@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2689, 
+      "cumarea": 855.2960678572673, 
+      "area": 8.6, 
+      "num_lifts": 25, 
+      "name": "Lagazuoi - Cinque Torri / Passo Falzarego", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1888, 
+      "uid": "77a22292-0f5f-40c5-ab7a-d00f33130c3d"
+    }, 
+    {
+      "max_elev": 2689, 
+      "uid": "ee34e9bc-e769-4c7a-ab85-1f6115b0b65c", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2661, 
+      "cumarea": 857.889394702545
+    }
+  ], 
+  "end_x": 860.48678666555, 
+  "num": 97, 
+  "zoom": 11, 
+  "start_x": 851.7063092505954
+}

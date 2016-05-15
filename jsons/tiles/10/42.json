@@ -1,0 +1,38 @@
+{
+  "shown": [
+    {
+      "max_elev": 2779, 
+      "cumarea": 742.7131487276095, 
+      "area": 46.54, 
+      "num_lifts": 250, 
+      "name": "Sestriere", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "uid": "4cda8c6e-c67d-4fe1-8d31-639f8600092b"
+    }, 
+    {
+      "max_elev": 2779, 
+      "cumarea": 747.3775952912296, 
+      "area": 14.360000000000001, 
+      "num_lifts": 89, 
+      "name": "Livigno", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1815, 
+      "uid": "fbfabb40-3727-4410-8163-130b4d89982d"
+    }, 
+    {
+      "max_elev": 2777, 
+      "cumarea": 751.1559317401255, 
+      "area": 5.92, 
+      "num_lifts": 28, 
+      "name": "Disentis 3000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1220, 
+      "uid": "f3454ced-3fc4-4444-8276-310ad2132e5b"
+    }
+  ], 
+  "end_x": 755.1210576860949, 
+  "num": 42, 
+  "zoom": 10, 
+  "start_x": 737.5601028561857
+}

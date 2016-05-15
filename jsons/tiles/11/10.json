@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 3752, 
+      "cumarea": 89.58893831713533, 
+      "area": 12.9, 
+      "num_lifts": 88, 
+      "name": "Copper Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2960, 
+      "uid": "15aaf30a-6dbd-4cd4-b238-c87cec41ac2f"
+    }, 
+    {
+      "max_elev": 3746, 
+      "cumarea": 96.36850265311153, 
+      "area": 8.48, 
+      "num_lifts": 88, 
+      "name": "Aiguille du Midi (Chamonix)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1033, 
+      "uid": "cc661b7e-3d14-42c5-8f8d-61837f42a717"
+    }, 
+    {
+      "max_elev": 3747, 
+      "uid": "ccdbce11-4ae2-4d3f-a4fe-c4c4dc227446", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3402, 
+      "cumarea": 92.23079220330773
+    }
+  ], 
+  "end_x": 96.58525156450051, 
+  "num": 10, 
+  "zoom": 11, 
+  "start_x": 87.80477414954592
+}

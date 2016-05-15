@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 621, 
+      "uid": "77abc783-f857-439d-9e0f-26198c7aa0df", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 182, 
+      "cumarea": 12085.53604430509
+    }, 
+    {
+      "max_elev": 620, 
+      "uid": "4444bee2-9cdc-41cb-942d-bb8e68567b64", 
+      "area": 1.87, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 544, 
+      "cumarea": 12088.161982735957
+    }, 
+    {
+      "max_elev": 620, 
+      "cumarea": 12096.007334155638, 
+      "area": 1.87, 
+      "num_lifts": 4, 
+      "name": "Ski Sawmill", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 512, 
+      "uid": "0f93c2d9-8156-4cde-a582-2ad5ed2b1f48"
+    }, 
+    {
+      "max_elev": 620, 
+      "uid": "d8c03e8b-ead1-425b-b0fb-3ba4a8255def", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 316, 
+      "cumarea": 12090.782559223682
+    }, 
+    {
+      "max_elev": 619, 
+      "uid": "837a7ea9-e0d7-4285-b76e-cfb11d5b429f", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 572, 
+      "cumarea": 12098.611650122491
+    }, 
+    {
+      "max_elev": 621, 
+      "uid": "1e60d096-dc8c-4693-b24f-c7b32f918a36", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 568, 
+      "cumarea": 12082.904772528249
+    }, 
+    {
+      "max_elev": 620, 
+      "uid": "b3410690-e415-4f53-b9ac-3ebbec27a871", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 590, 
+      "cumarea": 12093.381395724771
+    }
+  ], 
+  "end_x": 12099.497877807427, 
+  "num": 688, 
+  "zoom": 10, 
+  "start_x": 12081.936922977518
+}

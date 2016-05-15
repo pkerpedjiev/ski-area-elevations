@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 2209, 
+      "cumarea": 2172.5343005472205, 
+      "area": 6.31, 
+      "num_lifts": 68, 
+      "name": "Font-Romeu", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1724, 
+      "uid": "ae903278-9efe-4c0c-a954-da880d6dd797"
+    }, 
+    {
+      "max_elev": 2210, 
+      "uid": "c783f77c-fb19-4531-99d9-90c8393f045e", 
+      "area": 4.71, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1488, 
+      "cumarea": 2168.6921648706675
+    }, 
+    {
+      "max_elev": 2212, 
+      "uid": "0f474ae6-3487-41eb-90f9-36e983c08f71", 
+      "area": 1.99, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1988, 
+      "cumarea": 2165.142476962639
+    }, 
+    {
+      "max_elev": 2209, 
+      "uid": "4944e829-4129-4a11-b5ab-43897cd8fff9", 
+      "area": 1.95, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1544, 
+      "cumarea": 2175.2021299197963
+    }, 
+    {
+      "max_elev": 2214, 
+      "uid": "377cfaf1-9ae0-4580-a057-9f5c569fca33", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1755, 
+      "cumarea": 2162.454342323903
+    }
+  ], 
+  "end_x": 2177.5583989087386, 
+  "num": 123, 
+  "zoom": 10, 
+  "start_x": 2159.997444078829
+}

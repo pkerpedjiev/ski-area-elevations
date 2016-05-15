@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 233, 
+      "uid": "e16a8fea-b081-4607-8b21-8f6a08d378e8", 
+      "area": 2.7, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 73, 
+      "cumarea": 15647.227613091394
+    }, 
+    {
+      "max_elev": 232, 
+      "uid": "b2d0d9e5-9163-410b-b5df-a85618af6396", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 36, 
+      "cumarea": 15655.056120668121
+    }, 
+    {
+      "max_elev": 231, 
+      "uid": "70a9c6f9-ffe0-4eb3-82ec-f421b0157790", 
+      "area": 1.85, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 187, 
+      "cumarea": 15660.264633152488
+    }, 
+    {
+      "max_elev": 232, 
+      "uid": "0d3bc011-c50b-4e10-9e44-b21571740148", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 204, 
+      "cumarea": 15649.820939936671
+    }, 
+    {
+      "max_elev": 232, 
+      "uid": "d82852ea-4dec-46b5-8801-341e6111b462", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 187, 
+      "cumarea": 15652.414266781949
+    }, 
+    {
+      "max_elev": 232, 
+      "uid": "55b42581-1e23-4d45-8589-2cbc096f8c35", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 206, 
+      "cumarea": 15657.649447513399
+    }, 
+    {
+      "max_elev": 231, 
+      "uid": "2ae5761f-ab7a-4949-80f0-3868fe16d631", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 207, 
+      "cumarea": 15662.857959997766
+    }
+  ], 
+  "end_x": 15664.371708278992, 
+  "num": 891, 
+  "zoom": 10, 
+  "start_x": 15646.810753449083
+}

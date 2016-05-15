@@ -1,0 +1,65 @@
+{
+  "shown": [
+    {
+      "max_elev": 1414, 
+      "cumarea": 5837.651460153278, 
+      "area": 8.07, 
+      "num_lifts": 33, 
+      "name": "M\u00e9tabief Mont d'Or", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 881, 
+      "uid": "05b7cbd7-4181-4e0f-9bee-55a65daf0cb7"
+    }, 
+    {
+      "max_elev": 1415, 
+      "cumarea": 5830.730397548061, 
+      "area": 4.72, 
+      "num_lifts": 19, 
+      "name": "Lackenhof - \u00d6tscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 815, 
+      "uid": "9a7f4859-9e31-40cd-a1fb-4cfb01c7284f"
+    }, 
+    {
+      "max_elev": 1413, 
+      "uid": "95d98339-5f8b-4b7f-aa01-53d84425327a", 
+      "area": 2.31, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 754, 
+      "cumarea": 5845.761833340825
+    }, 
+    {
+      "max_elev": 1415, 
+      "cumarea": 5833.563306670996, 
+      "area": 2.3, 
+      "num_lifts": 7, 
+      "name": "Stoos Morschach", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 603, 
+      "uid": "3fb34c1e-8b3a-48b3-bd87-ccf0d3240339"
+    }, 
+    {
+      "max_elev": 1414, 
+      "uid": "d61a9752-bd3a-4989-9d31-4d4de9676c48", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 607, 
+      "cumarea": 5840.293314039451
+    }, 
+    {
+      "max_elev": 1414, 
+      "uid": "ca124f51-5405-436e-a4fa-5eae5550cbfc", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 428, 
+      "cumarea": 5842.924585816292
+    }
+  ], 
+  "end_x": 5847.797958359759, 
+  "num": 332, 
+  "zoom": 10, 
+  "start_x": 5830.237003529849
+}

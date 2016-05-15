@@ -1,0 +1,106 @@
+{
+  "shown": [
+    {
+      "max_elev": 2872, 
+      "cumarea": 641.4728577211829, 
+      "area": 42.129999999999995, 
+      "num_lifts": 165, 
+      "name": "Ischgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1354, 
+      "uid": "c0046460-20b1-4ba9-b3cb-4d53b00a64ec"
+    }, 
+    {
+      "max_elev": 2853, 
+      "cumarea": 662.1966346052185, 
+      "area": 39.04, 
+      "num_lifts": 145, 
+      "name": "Arosa Lenzerheide", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1159, 
+      "uid": "553bdf47-5505-4b03-9f54-49bfad297a07"
+    }, 
+    {
+      "max_elev": 2817, 
+      "cumarea": 690.1051205988803, 
+      "area": 30.78, 
+      "num_lifts": 84, 
+      "name": "Davos - Klosters", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "7c75991d-105c-4ceb-8f3a-f362472c9db9"
+    }, 
+    {
+      "max_elev": 2868, 
+      "cumarea": 649.6266780102001, 
+      "area": 16.08, 
+      "num_lifts": 87, 
+      "name": "Fiesch - Eggishorn - Aletsch", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 766, 
+      "uid": "03424069-bf65-407f-b644-7bc7f5d4d5ea"
+    }, 
+    {
+      "max_elev": 2878, 
+      "cumarea": 632.9345904493077, 
+      "area": 15.860000000000001, 
+      "num_lifts": 74, 
+      "name": "Grimentz-Zinal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1554, 
+      "uid": "5809d1f3-3f25-485c-82a1-a10c09b80642"
+    }, 
+    {
+      "max_elev": 2832, 
+      "cumarea": 679.1959693436959, 
+      "area": 13.13, 
+      "num_lifts": 75, 
+      "name": "Grand Tourmalet", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1293, 
+      "uid": "574e21a8-1f3b-4595-b0da-967eae6fcfd7"
+    }, 
+    {
+      "max_elev": 2857, 
+      "cumarea": 656.5320478436736, 
+      "area": 5.71, 
+      "num_lifts": 46, 
+      "name": "Red Lodge Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2158, 
+      "uid": "2baeb422-3922-4c9b-b4b0-2cd810d4d0ed"
+    }, 
+    {
+      "max_elev": 2850, 
+      "cumarea": 665.7980403459553, 
+      "area": 4.96, 
+      "num_lifts": 8, 
+      "name": "Snowbasin Resort", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1950, 
+      "uid": "9fbb9ea5-443f-4f3a-a905-7c0e6b0485a1"
+    }, 
+    {
+      "max_elev": 2869, 
+      "uid": "d41b0f4c-1b99-4fcb-80af-cc87be770085", 
+      "area": 3.96, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1281, 
+      "cumarea": 644.8491017464493
+    }, 
+    {
+      "max_elev": 2866, 
+      "uid": "d176141a-3b1c-46c6-98f1-edf448ff741c", 
+      "area": 3.2, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1624, 
+      "cumarea": 652.7898288200057
+    }
+  ], 
+  "end_x": 702.4381931963674, 
+  "num": 9, 
+  "zoom": 8, 
+  "start_x": 632.1943738767307
+}

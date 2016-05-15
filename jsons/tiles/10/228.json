@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 1771, 
+      "cumarea": 4010.121761680202, 
+      "area": 3.91, 
+      "num_lifts": 26, 
+      "name": "Hochkar", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1382, 
+      "uid": "acee9b7f-e4c2-4b96-a366-ef60c298e656"
+    }, 
+    {
+      "max_elev": 1771, 
+      "uid": "06a070b3-cccf-4486-bc1a-6555396c7e1b", 
+      "area": 2.66, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1510, 
+      "cumarea": 4013.1000878029954
+    }, 
+    {
+      "max_elev": 1769, 
+      "uid": "0a64444f-225f-4741-95bd-571780a3fdbf", 
+      "area": 2.51, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1006, 
+      "cumarea": 4021.2608006434752
+    }, 
+    {
+      "max_elev": 1772, 
+      "uid": "45855d8c-c538-4d14-8b3b-2d720385f6c7", 
+      "area": 2.1, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1179, 
+      "cumarea": 4004.1539083393513
+    }, 
+    {
+      "max_elev": 1771, 
+      "uid": "ad79d021-7f86-4295-a774-3e2b786a9e80", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1270, 
+      "cumarea": 4015.747191045054
+    }, 
+    {
+      "max_elev": 1772, 
+      "uid": "8d8d3260-88b9-491e-a648-06e23dd1f41f", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1612, 
+      "cumarea": 4006.7582243062047
+    }, 
+    {
+      "max_elev": 1771, 
+      "uid": "04f00e5a-4d6d-4a94-8ee9-8bcaf023697a", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1698, 
+      "cumarea": 4018.3405178903317
+    }
+  ], 
+  "end_x": 4021.4586560492025, 
+  "num": 228, 
+  "zoom": 10, 
+  "start_x": 4003.8977012192936
+}

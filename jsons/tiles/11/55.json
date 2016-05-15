@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3024, 
+      "cumarea": 488.3368826246722, 
+      "area": 2.79, 
+      "num_lifts": 8, 
+      "name": "Chapa Verde", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2250, 
+      "uid": "b2456354-8bc4-4de7-91d3-f3e61eaf60b2"
+    }, 
+    {
+      "max_elev": 3027, 
+      "uid": "b91ae953-36ea-41c4-af87-6a12c64f7f08", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2537, 
+      "cumarea": 485.310841028839
+    }
+  ], 
+  "end_x": 491.7067352374571, 
+  "num": 55, 
+  "zoom": 11, 
+  "start_x": 482.9262578225025
+}

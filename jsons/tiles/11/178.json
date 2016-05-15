@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2390, 
+      "cumarea": 1566.8323403064028, 
+      "area": 7.13, 
+      "num_lifts": 19, 
+      "name": "Abri\u00e8s", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1556, 
+      "uid": "b3215cfe-2074-4d64-bfc2-621d54ba149e"
+    }, 
+    {
+      "max_elev": 2389, 
+      "uid": "bf9fb30a-3e16-4d2a-b0ef-7ce6322bf7e3", 
+      "area": 4.13, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 950, 
+      "cumarea": 1570.2506177133757
+    }
+  ], 
+  "end_x": 1571.705457276872, 
+  "num": 178, 
+  "zoom": 11, 
+  "start_x": 1562.9249798619173
+}

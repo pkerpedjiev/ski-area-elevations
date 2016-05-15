@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 1836, 
+      "cumarea": 3645.1250221253167, 
+      "area": 10.99, 
+      "num_lifts": 44, 
+      "name": "Waidring - Steinplatte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 771, 
+      "uid": "6fa992e8-8e04-4d6e-9243-65c5ef363a01"
+    }, 
+    {
+      "max_elev": 1837, 
+      "uid": "97643268-728c-4365-84a5-2d11d8379342", 
+      "area": 2.27, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1617, 
+      "cumarea": 3635.4394099529595
+    }, 
+    {
+      "max_elev": 1835, 
+      "uid": "f7a103cc-3b30-45ec-a19c-e18d71f023dd", 
+      "area": 2.21, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1576, 
+      "cumarea": 3650.5168511419347
+    }, 
+    {
+      "max_elev": 1837, 
+      "cumarea": 3640.728036356901, 
+      "area": 1.94, 
+      "num_lifts": 1, 
+      "name": "(urban, Medell\u00edn)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1630, 
+      "uid": "f020eaa1-c845-4942-bfce-77b03b546293"
+    }, 
+    {
+      "max_elev": 1837, 
+      "uid": "e9455703-e38d-4e17-b2e4-9adb46c94a50", 
+      "area": 1.87, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1708, 
+      "cumarea": 3638.065348383826
+    }, 
+    {
+      "max_elev": 1836, 
+      "uid": "0d80f546-8870-4a08-9345-5434164bc750", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1539, 
+      "cumarea": 3647.723858626405
+    }
+  ], 
+  "end_x": 3652.67860462111, 
+  "num": 207, 
+  "zoom": 10, 
+  "start_x": 3635.117649791201
+}

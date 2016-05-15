@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1093, 
+      "cumarea": 7741.966224531471, 
+      "area": 6.7, 
+      "num_lifts": 92, 
+      "name": "Mt Snow", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 585, 
+      "uid": "ef733d46-44e7-4211-bc30-257c4c15df22"
+    }, 
+    {
+      "max_elev": 1093, 
+      "uid": "21b3a172-46a9-4625-9413-8e12cfecf627", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1031, 
+      "cumarea": 7738.064117005074
+    }
+  ], 
+  "end_x": 7744.381079989949, 
+  "num": 881, 
+  "zoom": 11, 
+  "start_x": 7735.600602574995
+}

@@ -1,0 +1,57 @@
+{
+  "shown": [
+    {
+      "max_elev": 3399, 
+      "cumarea": 230.05604499088122, 
+      "area": 28.7, 
+      "num_lifts": 152, 
+      "name": "Big Sky", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2078, 
+      "uid": "b49fdacc-e1d9-43e7-b07d-d2318bdd02e7"
+    }, 
+    {
+      "max_elev": 3360, 
+      "cumarea": 245.14926901904786, 
+      "area": 13.100000000000001, 
+      "num_lifts": 163, 
+      "name": "Mammoth", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2456, 
+      "uid": "b2e81829-2d6c-4c40-a7f8-1f24b7fb19b9"
+    }, 
+    {
+      "max_elev": 3386, 
+      "cumarea": 233.83775412425578, 
+      "area": 5.9399999999999995, 
+      "num_lifts": 31, 
+      "name": "Pitztaler Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2703, 
+      "uid": "1b4197b1-15f4-4304-a707-748842bbcafc"
+    }, 
+    {
+      "max_elev": 3362, 
+      "cumarea": 240.57665678884075, 
+      "area": 4.25, 
+      "num_lifts": 42, 
+      "name": "Portillo", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2584, 
+      "uid": "fbdea58e-c88f-4cf5-a494-1f23179db862"
+    }, 
+    {
+      "max_elev": 3380, 
+      "uid": "ad752864-dfa8-485b-a8ae-2c922a44ad14", 
+      "area": 3.64, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2777, 
+      "cumarea": 237.12973780590443
+    }
+  ], 
+  "end_x": 245.85336761872856, 
+  "num": 13, 
+  "zoom": 10, 
+  "start_x": 228.29241278881938
+}

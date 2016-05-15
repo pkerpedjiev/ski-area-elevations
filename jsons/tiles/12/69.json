@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3246, 
+      "cumarea": 307.2699888398564, 
+      "area": 7.2, 
+      "num_lifts": 39, 
+      "name": "Argenti\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1230, 
+      "uid": "1964bd6e-29ce-4fef-bf65-8c4ce9603a04"
+    }, 
+    {
+      "max_elev": 3250, 
+      "uid": "3915c6b6-9214-43b7-b95c-8fd08acc8e46", 
+      "area": 2.58, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2612, 
+      "cumarea": 303.2959078138344
+    }
+  ], 
+  "end_x": 307.31670952341074, 
+  "num": 69, 
+  "zoom": 12, 
+  "start_x": 302.92647081593344
+}

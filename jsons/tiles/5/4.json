@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2084, 
+      "cumarea": 2583.2263587434677, 
+      "area": 60.94, 
+      "num_lifts": 185, 
+      "name": "Saalbach Hinterglemm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 819, 
+      "uid": "65225423-0c14-4f9f-af7c-47c355a532b8"
+    }, 
+    {
+      "max_elev": 2110, 
+      "cumarea": 2465.22071560512, 
+      "area": 20.720000000000002, 
+      "num_lifts": 107, 
+      "name": "Les Diablerets", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "347dbdbb-c28c-4fa1-bd97-d5fa2716f0ab"
+    }, 
+    {
+      "max_elev": 2032, 
+      "cumarea": 2804.6227362155782, 
+      "area": 14.75, 
+      "num_lifts": 72, 
+      "name": "Bad Kleinkirchheim", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1020, 
+      "uid": "dc9bf442-641e-4a22-b0c0-6bb7e4b6d516"
+    }, 
+    {
+      "max_elev": 2077, 
+      "cumarea": 2603.876541444135, 
+      "area": 14.17, 
+      "num_lifts": 82, 
+      "name": "Prato Nevoso", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "55e07576-229e-42f9-a0a1-cdce847f8f5b"
+    }, 
+    {
+      "max_elev": 2128, 
+      "cumarea": 2422.4925589598042, 
+      "area": 13.57, 
+      "num_lifts": 68, 
+      "name": "Alto Sangro", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1313, 
+      "uid": "8f8f27f6-a254-4521-8441-c29ef021a6f3"
+    }, 
+    {
+      "max_elev": 2112, 
+      "cumarea": 2449.1653707749524, 
+      "area": 13.4, 
+      "num_lifts": 59, 
+      "name": "Wildkogel Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "c24088fd-ef15-45b6-90e8-62f4592b7e7d"
+    }, 
+    {
+      "max_elev": 2064, 
+      "cumarea": 2648.473072893715, 
+      "area": 12.690000000000001, 
+      "num_lifts": 52, 
+      "name": "Civetta", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "eb44c7d5-d1b6-454f-8f1f-8a980a913e99"
+    }, 
+    {
+      "max_elev": 2065, 
+      "cumarea": 2643.932258611989, 
+      "area": 11.92, 
+      "num_lifts": 72, 
+      "name": "Whitefish", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1367, 
+      "uid": "40594831-87ca-435e-90e6-8164f7a67f35"
+    }, 
+    {
+      "max_elev": 2156, 
+      "cumarea": 2338.6258188932247, 
+      "area": 11.790000000000001, 
+      "num_lifts": 37, 
+      "name": "Gstaad", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 967, 
+      "uid": "7edab5a8-c7fc-445d-a479-a2c8db790792"
+    }, 
+    {
+      "max_elev": 2038, 
+      "cumarea": 2763.5591024514856, 
+      "area": 11.71, 
+      "num_lifts": 61, 
+      "name": "Corren\u00e7on en Vercors", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1119, 
+      "uid": "1e86b70b-e641-4495-82b8-a8c36cf23905"
+    }
+  ], 
+  "end_x": 2809.7527727854695, 
+  "num": 4, 
+  "zoom": 5, 
+  "start_x": 2247.8022182283753
+}

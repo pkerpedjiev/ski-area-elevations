@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 653, 
+      "uid": "ed33332d-75df-4c43-a775-21b294eca083", 
+      "area": 1.98, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 619, 
+      "cumarea": 11764.161145414992
+    }, 
+    {
+      "max_elev": 654, 
+      "uid": "0ead7191-3b83-4311-85f2-d1709b6453e8", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 589, 
+      "cumarea": 11761.478048570285
+    }, 
+    {
+      "max_elev": 655, 
+      "uid": "eeb0b8d3-c72a-4cc8-9a1f-772b52506f61", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 554, 
+      "cumarea": 11758.830945328227
+    }, 
+    {
+      "max_elev": 656, 
+      "uid": "53a6d0cc-d5bf-439c-a848-eb4827ab841b", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 468, 
+      "cumarea": 11748.4199281437
+    }, 
+    {
+      "max_elev": 656, 
+      "uid": "e7f9b569-dde8-4277-bcdf-efddd073dc8b", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 549, 
+      "cumarea": 11751.013254988977
+    }, 
+    {
+      "max_elev": 656, 
+      "uid": "d1b52d0b-87de-4812-a711-eced81905ba3", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 480, 
+      "cumarea": 11753.606581834254
+    }, 
+    {
+      "max_elev": 655, 
+      "uid": "db91d56c-c5dd-4d6e-b763-2f92293178d8", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 654, 
+      "cumarea": 11756.194368499157
+    }
+  ], 
+  "end_x": 11765.839736039154, 
+  "num": 669, 
+  "zoom": 10, 
+  "start_x": 11748.278781209245
+}

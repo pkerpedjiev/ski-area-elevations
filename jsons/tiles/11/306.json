@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2055, 
+      "cumarea": 2690.725131955098, 
+      "area": 8.06, 
+      "num_lifts": 43, 
+      "name": "Limone Piemonte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1048, 
+      "uid": "8d982051-217b-4933-b0b2-865d985aca1a"
+    }, 
+    {
+      "max_elev": 2054, 
+      "uid": "5dcc61df-1cc3-40f3-b21d-822c151074c3", 
+      "area": 2.06, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1622, 
+      "cumarea": 2693.4478379378993
+    }
+  ], 
+  "end_x": 2695.6065663910595, 
+  "num": 306, 
+  "zoom": 11, 
+  "start_x": 2686.826088976105
+}

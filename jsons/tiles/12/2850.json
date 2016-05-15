@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 576, 
+      "cumarea": 12516.364528452234, 
+      "area": 2.9699999999999998, 
+      "num_lifts": 29, 
+      "name": "Catamount Ski Area", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 281, 
+      "uid": "bade7251-72f2-44aa-b042-e941d7ed7024"
+    }, 
+    {
+      "max_elev": 576, 
+      "uid": "a369f15a-cee4-44f7-8a66-a96c70ade9a9", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 509, 
+      "cumarea": 12513.27596649942
+    }
+  ], 
+  "end_x": 12516.57055501777, 
+  "num": 2850, 
+  "zoom": 12, 
+  "start_x": 12512.180316310292
+}

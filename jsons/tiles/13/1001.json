@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2200, 
+      "cumarea": 2199.332263007342, 
+      "area": 9.88, 
+      "num_lifts": 62, 
+      "name": "Katschberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1051, 
+      "uid": "c24ba31e-e650-418e-a6bb-3a3226c18ba6"
+    }
+  ], 
+  "end_x": 2199.509592446125, 
+  "num": 1001, 
+  "zoom": 13, 
+  "start_x": 2197.314473092387
+}

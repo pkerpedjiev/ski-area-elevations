@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2108, 
+      "cumarea": 2472.600352214855, 
+      "area": 6.51, 
+      "num_lifts": 29, 
+      "name": "Kreischberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 868, 
+      "uid": "583544d8-8fa5-4c4b-b9b9-4ef7108a63a1"
+    }, 
+    {
+      "max_elev": 2108, 
+      "uid": "f4f5c932-a700-4d5f-8721-0ef275217eb6", 
+      "area": 3.8899999999999997, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 975, 
+      "cumarea": 2475.9587613724852
+    }
+  ], 
+  "end_x": 2476.094631017195, 
+  "num": 563, 
+  "zoom": 12, 
+  "start_x": 2471.7043923097176
+}

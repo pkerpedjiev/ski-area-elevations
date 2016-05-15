@@ -1,0 +1,106 @@
+{
+  "shown": [
+    {
+      "max_elev": 3460, 
+      "cumarea": 206.80621074817302, 
+      "area": 58.68, 
+      "num_lifts": 338, 
+      "name": "Tignes-Val d'Is\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1562, 
+      "uid": "d9e43279-e4be-42d8-a483-b8e48d84f599"
+    }, 
+    {
+      "max_elev": 3523, 
+      "cumarea": 172.27502147631606, 
+      "area": 33.61, 
+      "num_lifts": 230, 
+      "name": "Vail", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2454, 
+      "uid": "312edb1b-e5b2-4dfc-90ef-25f290a40384"
+    }, 
+    {
+      "max_elev": 3510, 
+      "cumarea": 180.4616200378252, 
+      "area": 21.86, 
+      "num_lifts": 171, 
+      "name": "Les Deux Alpes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 955, 
+      "uid": "66d77664-4f12-451c-86a9-fc3d9bbfd396"
+    }, 
+    {
+      "max_elev": 3478, 
+      "cumarea": 200.73411179489824, 
+      "area": 19.560000000000002, 
+      "num_lifts": 118, 
+      "name": "Beaver Creek", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2259, 
+      "uid": "5321d8a4-9a1f-4908-90d6-3dc2a088bf8d"
+    }, 
+    {
+      "max_elev": 3559, 
+      "cumarea": 154.44262726444234, 
+      "area": 12.92, 
+      "num_lifts": 58, 
+      "name": "Saas Fee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1786, 
+      "uid": "825b186c-d8a0-41ae-b8a9-50cb11c17eba"
+    }, 
+    {
+      "max_elev": 3526, 
+      "cumarea": 166.76019783457903, 
+      "area": 7.58, 
+      "num_lifts": 42, 
+      "name": "Aspen", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2398, 
+      "uid": "08ef8b09-75e1-4ccf-8a78-ca6f9f34c4ac"
+    }, 
+    {
+      "max_elev": 3491, 
+      "uid": "a9d19292-fe47-4688-9f74-0e8d4c2d3f98", 
+      "area": 4.88, 
+      "num_lifts": 44, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2931, 
+      "cumarea": 193.16729828501383
+    }, 
+    {
+      "max_elev": 3509, 
+      "uid": "01ce6ebf-f0d8-4bd8-b429-09b5879afb51", 
+      "area": 3.77, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2797, 
+      "cumarea": 183.78869503928513
+    }, 
+    {
+      "max_elev": 3495, 
+      "cumarea": 189.58215306514876, 
+      "area": 3.1799999999999997, 
+      "num_lifts": 2, 
+      "name": "Silverton", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2902, 
+      "uid": "68851bbf-58ee-4cc1-93ba-37380ff9e56d"
+    }, 
+    {
+      "max_elev": 3511, 
+      "cumarea": 175.37696155507683, 
+      "area": 3.01, 
+      "num_lifts": 13, 
+      "name": "Darbandsar Ski", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2626, 
+      "uid": "041a2f8f-3e6a-432a-863c-1dab1ffb058b"
+    }
+  ], 
+  "end_x": 210.7314579589102, 
+  "num": 2, 
+  "zoom": 8, 
+  "start_x": 140.48763863927346
+}

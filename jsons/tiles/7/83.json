@@ -1,0 +1,99 @@
+{
+  "shown": [
+    {
+      "max_elev": 661, 
+      "uid": "10a36aad-e57d-4aa4-908f-c96ba07a71f0", 
+      "area": 4.18, 
+      "num_lifts": 43, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 350, 
+      "cumarea": 11710.896597808442
+    }, 
+    {
+      "max_elev": 657, 
+      "uid": "b8119554-0458-478b-93d8-474b96f4846c", 
+      "area": 3.73, 
+      "num_lifts": 40, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 308, 
+      "cumarea": 11745.80474250461
+    }, 
+    {
+      "max_elev": 661, 
+      "uid": "dacc192a-ac84-4ad9-9f6a-582c26ffb5cb", 
+      "area": 2.19, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 449, 
+      "cumarea": 11713.68049935227
+    }, 
+    {
+      "max_elev": 663, 
+      "uid": "426d2006-29df-404c-adf9-079748972bea", 
+      "area": 2.06, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 548, 
+      "cumarea": 11702.263134093962
+    }, 
+    {
+      "max_elev": 657, 
+      "uid": "0e638ec4-2a56-4a02-89c1-ddd6cf63d9e8", 
+      "area": 2.05, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 549, 
+      "cumarea": 11737.210739326758
+    }, 
+    {
+      "max_elev": 667, 
+      "uid": "67c23b49-21d3-4d68-bd0b-a0dd133066bc", 
+      "area": 1.99, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 15, 
+      "cumarea": 11670.814165526375
+    }, 
+    {
+      "max_elev": 653, 
+      "uid": "ed33332d-75df-4c43-a775-21b294eca083", 
+      "area": 1.98, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 619, 
+      "cumarea": 11764.161145414992
+    }, 
+    {
+      "max_elev": 664, 
+      "cumarea": 11691.722326333927, 
+      "area": 1.96, 
+      "num_lifts": 13, 
+      "name": "Sunridge Ski Area", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 613, 
+      "uid": "376b1b33-7167-4fbe-9eae-3193ccc495ad"
+    }, 
+    {
+      "max_elev": 657, 
+      "uid": "ba793948-75f9-4342-b9a4-51373f957ea1", 
+      "area": 1.95, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 533, 
+      "cumarea": 11739.878568699334
+    }, 
+    {
+      "max_elev": 649, 
+      "uid": "caeaee2f-2e28-449f-b50c-b8f998a095de", 
+      "area": 1.95, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 520, 
+      "cumarea": 11795.685716153206
+    }
+  ], 
+  "end_x": 11800.961645698972, 
+  "num": 83, 
+  "zoom": 7, 
+  "start_x": 11660.474007059698
+}

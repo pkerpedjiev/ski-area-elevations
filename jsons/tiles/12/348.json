@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2407, 
+      "cumarea": 1528.5996613376522, 
+      "area": 21.82, 
+      "num_lifts": 188, 
+      "name": "Silvretta Montafon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 691, 
+      "uid": "866561f5-5107-4445-9aff-78dbdbb609b3"
+    }, 
+    {
+      "max_elev": 2406, 
+      "uid": "314651ec-b51c-465c-9cfd-945d94df6572", 
+      "area": 2.25, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1856, 
+      "cumarea": 1531.4105915538685
+    }
+  ], 
+  "end_x": 1532.1933089095764, 
+  "num": 348, 
+  "zoom": 12, 
+  "start_x": 1527.803070202099
+}

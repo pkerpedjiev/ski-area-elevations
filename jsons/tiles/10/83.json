@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 2427, 
+      "cumarea": 1459.1661954853623, 
+      "area": 25.91, 
+      "num_lifts": 196, 
+      "name": "Z\u00fcrs / Lech / Warth", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1326, 
+      "uid": "a83d080e-0b63-412d-b6d4-efd0d17dc42c"
+    }, 
+    {
+      "max_elev": 2421, 
+      "cumarea": 1474.789402900118, 
+      "area": 6.819999999999999, 
+      "num_lifts": 35, 
+      "name": "Mzaar", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1841, 
+      "uid": "c6e2aa91-171d-46b5-af57-8a87c9f30a87"
+    }, 
+    {
+      "max_elev": 2423, 
+      "uid": "cc9851ae-b3b3-42b4-a020-e234f7a8aeb1", 
+      "area": 4.5200000000000005, 
+      "num_lifts": 27, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1679, 
+      "cumarea": 1468.0541786149784
+    }, 
+    {
+      "max_elev": 2421, 
+      "uid": "065bbd12-d0e2-4e93-837e-405aaf1562fd", 
+      "area": 2.2600000000000002, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2233, 
+      "cumarea": 1470.8695434282627
+    }, 
+    {
+      "max_elev": 2425, 
+      "uid": "492e5467-2f73-40d8-8f8f-4fe1ec929352", 
+      "area": 2.08, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1886, 
+      "cumarea": 1464.5456666211342
+    }, 
+    {
+      "max_elev": 2427, 
+      "uid": "f5928290-eaed-47f4-b3a8-b286c9d0bda4", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1420, 
+      "cumarea": 1461.813298727421
+    }
+  ], 
+  "end_x": 1475.1202057123714, 
+  "num": 83, 
+  "zoom": 10, 
+  "start_x": 1457.5592508824623
+}

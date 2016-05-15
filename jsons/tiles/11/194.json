@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2340, 
+      "cumarea": 1703.8078887193924, 
+      "area": 10.81, 
+      "num_lifts": 49, 
+      "name": "Ax les Thermes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 735, 
+      "uid": "e3d6a99f-2589-492a-bd05-fdf7c27d68ef"
+    }, 
+    {
+      "max_elev": 2340, 
+      "cumarea": 1707.630823806089, 
+      "area": 6.1899999999999995, 
+      "num_lifts": 29, 
+      "name": "Grosseck - Speiereck", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1092, 
+      "uid": "f820df8c-d491-4bd0-b2c8-d02e83f01f95"
+    }, 
+    {
+      "max_elev": 2338, 
+      "uid": "1c9c54a0-b8c8-4ef8-9046-41b669eceaf8", 
+      "area": 2.64, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1868, 
+      "cumarea": 1710.6016027232472
+    }
+  ], 
+  "end_x": 1712.1930959161455, 
+  "num": 194, 
+  "zoom": 11, 
+  "start_x": 1703.4126185011908
+}

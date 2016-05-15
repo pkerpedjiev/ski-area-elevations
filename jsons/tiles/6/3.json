@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2572, 
+      "cumarea": 1075.0245280153583, 
+      "area": 29.400000000000002, 
+      "num_lifts": 173, 
+      "name": "Les Sybelles", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1085, 
+      "uid": "44ae0a02-b7bb-42a0-9459-489c97a39b4b"
+    }, 
+    {
+      "max_elev": 2568, 
+      "cumarea": 1083.2738629048051, 
+      "area": 26.740000000000002, 
+      "num_lifts": 121, 
+      "name": "Valloire", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1409, 
+      "uid": "99c7481e-080d-48e8-8979-c10f13185c13"
+    }, 
+    {
+      "max_elev": 2643, 
+      "cumarea": 926.2029000769185, 
+      "area": 25.66, 
+      "num_lifts": 170, 
+      "name": "Grandvalira", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "uid": "dba83587-156c-43a2-b7ba-c32832271d25"
+    }, 
+    {
+      "max_elev": 2600, 
+      "cumarea": 1016.0951916843964, 
+      "area": 23.54, 
+      "num_lifts": 152, 
+      "name": "La Thuile", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 889, 
+      "uid": "234dc8c6-b6fc-4422-b027-b21a24c99bfc"
+    }, 
+    {
+      "max_elev": 2553, 
+      "cumarea": 1117.1351624364945, 
+      "area": 16.44, 
+      "num_lifts": 83, 
+      "name": "Val d'Allos", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1503, 
+      "uid": "193d2d1d-b1e2-49d1-ad63-85b6d20becec"
+    }, 
+    {
+      "max_elev": 2625, 
+      "cumarea": 968.6497800426048, 
+      "area": 12.9, 
+      "num_lifts": 96, 
+      "name": "Northstar", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1922, 
+      "uid": "f32c5fd3-faf6-4eed-b199-70e97496b253"
+    }, 
+    {
+      "max_elev": 2616, 
+      "cumarea": 987.4079991626301, 
+      "area": 11.870000000000001, 
+      "num_lifts": 23, 
+      "name": "Klosters Madrisa", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1136, 
+      "uid": "91038c07-00ba-4692-8c91-6b58a5a51f8a"
+    }, 
+    {
+      "max_elev": 2609, 
+      "cumarea": 1008.2284547895106, 
+      "area": 11.700000000000001, 
+      "num_lifts": 39, 
+      "name": "San Martino di Castrozza", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1402, 
+      "uid": "30dff990-e320-4edd-acf0-8256c7825244"
+    }, 
+    {
+      "max_elev": 2583, 
+      "cumarea": 1065.5022913984283, 
+      "area": 10.75, 
+      "num_lifts": 59, 
+      "name": "Isola 2000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1830, 
+      "uid": "35db3f2a-d8b1-4801-a73f-23faa0c3b424"
+    }, 
+    {
+      "max_elev": 2664, 
+      "cumarea": 891.6230502940098, 
+      "area": 10.46, 
+      "num_lifts": 88, 
+      "name": "Squaw", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1890, 
+      "uid": "5bd161a4-b032-415f-aadb-c9cac3d96dc7"
+    }
+  ], 
+  "end_x": 1123.9011091141876, 
+  "num": 3, 
+  "zoom": 6, 
+  "start_x": 842.9258318356408
+}

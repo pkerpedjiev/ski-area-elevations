@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 599, 
+      "cumarea": 12321.335224874454, 
+      "area": 2.31, 
+      "num_lifts": 17, 
+      "name": "Club Andino", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 370, 
+      "uid": "fdb671a4-4ada-449a-bce1-eb40bcac7630"
+    }, 
+    {
+      "max_elev": 598, 
+      "uid": "e3b0ac63-7ebd-4711-9eaf-f55f6d017ab9", 
+      "area": 1.92, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 528, 
+      "cumarea": 12326.597315632114
+    }, 
+    {
+      "max_elev": 599, 
+      "uid": "7514bb26-2325-46b1-85aa-ea309bbe8901", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 309, 
+      "cumarea": 12323.944990446074
+    }, 
+    {
+      "max_elev": 599, 
+      "uid": "9e1e2db7-ac5a-455e-a9cf-e3ca3e453e33", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 515, 
+      "cumarea": 12310.717996814088
+    }, 
+    {
+      "max_elev": 599, 
+      "uid": "2336b946-9eeb-40ad-9e41-9374b08404d0", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 561, 
+      "cumarea": 12313.311323659365
+    }, 
+    {
+      "max_elev": 599, 
+      "uid": "fb77e994-ba2c-42e5-98c7-13f97ae35065", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 571, 
+      "cumarea": 12315.904650504643
+    }, 
+    {
+      "max_elev": 599, 
+      "uid": "5e901029-6b47-4548-a414-b88eeca7d7ea", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 580, 
+      "cumarea": 12318.49797734992
+    }
+  ], 
+  "end_x": 12327.790290596247, 
+  "num": 701, 
+  "zoom": 10, 
+  "start_x": 12310.229335766338
+}

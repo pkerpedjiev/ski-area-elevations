@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1511, 
+      "cumarea": 5326.664585853377, 
+      "area": 3.5300000000000002, 
+      "num_lifts": 13, 
+      "name": "Ehrwalder Alm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1002, 
+      "uid": "bd94f5c4-3c26-4cdc-84a8-e395ef943432"
+    }, 
+    {
+      "max_elev": 1511, 
+      "uid": "e9adcdd8-c6ee-4ba2-afa9-08ae31e5632d", 
+      "area": 2.27, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1220, 
+      "cumarea": 5329.48436568487
+    }, 
+    {
+      "max_elev": 1510, 
+      "uid": "21fe8ab6-79d4-46bd-8283-b916303a556f", 
+      "area": 1.97, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1250, 
+      "cumarea": 5337.4035232975775
+    }, 
+    {
+      "max_elev": 1511, 
+      "uid": "bd857b28-aed7-4126-84ed-007786d8b904", 
+      "area": 1.87, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1246, 
+      "cumarea": 5332.110304115737
+    }, 
+    {
+      "max_elev": 1511, 
+      "uid": "3bd3fd4b-7272-4846-a6c4-7d8c70af241c", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1018, 
+      "cumarea": 5334.725489754827
+    }, 
+    {
+      "max_elev": 1512, 
+      "uid": "a517453a-d8ba-4d43-9c13-d81910adddf6", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1048, 
+      "cumarea": 5323.403287982432
+    }
+  ], 
+  "end_x": 5338.530268292392, 
+  "num": 303, 
+  "zoom": 10, 
+  "start_x": 5320.969313462483
+}

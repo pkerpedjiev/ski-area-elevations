@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2664, 
+      "cumarea": 891.6230502940098, 
+      "area": 10.46, 
+      "num_lifts": 88, 
+      "name": "Squaw", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1890, 
+      "uid": "5bd161a4-b032-415f-aadb-c9cac3d96dc7"
+    }, 
+    {
+      "max_elev": 2663, 
+      "cumarea": 895.4840248322593, 
+      "area": 6.43, 
+      "num_lifts": 34, 
+      "name": "Aussois", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1524, 
+      "uid": "f91b792c-fc29-4caf-a1cb-8c58ee4f28f9"
+    }
+  ], 
+  "end_x": 895.6086963253683, 
+  "num": 203, 
+  "zoom": 12, 
+  "start_x": 891.2184576178911
+}

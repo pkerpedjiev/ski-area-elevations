@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1043, 
+      "cumarea": 8104.22097084732, 
+      "area": 2.9699999999999998, 
+      "num_lifts": 17, 
+      "name": "Dornleiten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 683, 
+      "uid": "c7a3f596-6269-40fc-bd3c-813cc0e4317e"
+    }, 
+    {
+      "max_elev": 1044, 
+      "uid": "15af8e78-d09d-4186-91b8-95d8129cf599", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 856, 
+      "cumarea": 8101.132408894506
+    }
+  ], 
+  "end_x": 8104.380654003088, 
+  "num": 1845, 
+  "zoom": 12, 
+  "start_x": 8099.9904152956115
+}

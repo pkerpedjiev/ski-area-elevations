@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 3175, 
+      "cumarea": 394.81187570986003, 
+      "area": 9.47, 
+      "num_lifts": 81, 
+      "name": "Jackson Hole", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1926, 
+      "uid": "0530830c-123a-4688-a000-48a6470d2283"
+    }, 
+    {
+      "max_elev": 3183, 
+      "cumarea": 387.05744964914743, 
+      "area": 7.84, 
+      "num_lifts": 43, 
+      "name": "Val Senales - Schnalstal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2005, 
+      "uid": "384450dd-f77a-48a7-8f64-3565de862adc"
+    }, 
+    {
+      "max_elev": 3179, 
+      "uid": "aa6bec2b-9a70-495b-b05e-98ae15326322", 
+      "area": 4.51, 
+      "num_lifts": 38, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2735, 
+      "cumarea": 390.563746802662
+    }
+  ], 
+  "end_x": 395.12148367295663, 
+  "num": 44, 
+  "zoom": 11, 
+  "start_x": 386.34100625800204
+}

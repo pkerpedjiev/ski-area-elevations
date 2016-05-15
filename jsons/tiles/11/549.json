@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1615, 
+      "uid": "8f3491e3-80e3-46d7-8259-56962b777ba4", 
+      "area": 2.6100000000000003, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1318, 
+      "cumarea": 4823.398407682581
+    }, 
+    {
+      "max_elev": 1615, 
+      "uid": "f9e847bb-4567-4c59-8b41-a70051b79b80", 
+      "area": 2.3600000000000003, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1276, 
+      "cumarea": 4826.257069301619
+    }, 
+    {
+      "max_elev": 1614, 
+      "cumarea": 4828.9552040236895, 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "name": "Gemeindealpe", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 810, 
+      "uid": "448ea8e8-7106-4611-b60e-8b42600105f4"
+    }
+  ], 
+  "end_x": 4829.262578225025, 
+  "num": 549, 
+  "zoom": 11, 
+  "start_x": 4820.482100810071
+}

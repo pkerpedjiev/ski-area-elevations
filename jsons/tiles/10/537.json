@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 881, 
+      "cumarea": 9430.484505570264, 
+      "area": 2.35, 
+      "num_lifts": 7, 
+      "name": "Hidden Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 732, 
+      "uid": "dadeadf8-0b25-48b9-a709-2f9daa44a05a"
+    }, 
+    {
+      "max_elev": 880, 
+      "uid": "d949eb56-0cee-451f-a329-18b22a44b3bb", 
+      "area": 2.08, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 575, 
+      "cumarea": 9435.929823271834
+    }, 
+    {
+      "max_elev": 881, 
+      "uid": "1af8bee4-c65a-471e-9e98-af4db34bb955", 
+      "area": 2.04, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 776, 
+      "cumarea": 9433.19745537812
+    }, 
+    {
+      "max_elev": 880, 
+      "uid": "7114ba1a-b2b7-4bde-bd6d-09e61bb238c5", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 325, 
+      "cumarea": 9438.576926513892
+    }, 
+    {
+      "max_elev": 880, 
+      "uid": "7b93de00-0019-401d-b23e-f8620df1918f", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 799, 
+      "cumarea": 9441.218780400064
+    }, 
+    {
+      "max_elev": 880, 
+      "uid": "55a3a886-301f-40e1-840a-43490a5985f0", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 835, 
+      "cumarea": 9443.812107245341
+    }, 
+    {
+      "max_elev": 880, 
+      "uid": "d6e50547-f3b7-4372-9300-9a7a555ea8b9", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 767, 
+      "cumarea": 9446.405434090619
+    }
+  ], 
+  "end_x": 9447.793698491143, 
+  "num": 537, 
+  "zoom": 10, 
+  "start_x": 9430.232743661232
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 469, 
+      "cumarea": 13563.066541556815, 
+      "area": 5.3, 
+      "num_lifts": 31, 
+      "name": "Ski Bromont", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 198, 
+      "uid": "29bc4890-58c9-425f-bc9a-be73840f01fe"
+    }, 
+    {
+      "max_elev": 469, 
+      "uid": "f5ab425b-269c-4f2f-b5ec-0e80c9d5d1cd", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 468, 
+      "cumarea": 13565.665378057904
+    }
+  ], 
+  "end_x": 13565.837606104844, 
+  "num": 3089, 
+  "zoom": 12, 
+  "start_x": 13561.447367397366
+}

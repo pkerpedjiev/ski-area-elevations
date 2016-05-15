@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1214, 
+      "cumarea": 6945.789211521663, 
+      "area": 2.76, 
+      "num_lifts": 8, 
+      "name": "Karkogel / Abtenau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 718, 
+      "uid": "7215b3be-ab46-41ce-8bf4-0e9dcc235572"
+    }, 
+    {
+      "max_elev": 1214, 
+      "uid": "4a86be99-f5a4-4224-afe4-b2306cc14f09", 
+      "area": 2.27, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 767, 
+      "cumarea": 6948.608991353156
+    }
+  ], 
+  "end_x": 6949.74787393656, 
+  "num": 1582, 
+  "zoom": 12, 
+  "start_x": 6945.357635229082
+}

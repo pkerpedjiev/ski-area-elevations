@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 282, 
+      "uid": "35a863fc-7422-4b24-aa17-e6200fcfde96", 
+      "area": 1.96, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 185, 
+      "cumarea": 15246.587734340857
+    }, 
+    {
+      "max_elev": 282, 
+      "uid": "b4beb0ef-5b81-4aa7-9005-4ab67f10f1f5", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 35, 
+      "cumarea": 15243.914789867615
+    }, 
+    {
+      "max_elev": 280, 
+      "uid": "cbe25791-bd40-4e49-8818-1e4a923a5e4f", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 199, 
+      "cumarea": 15256.998956128968
+    }, 
+    {
+      "max_elev": 280, 
+      "uid": "82762514-a644-4e34-9fa1-ce76e902fb0e", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 248, 
+      "cumarea": 15259.603272095821
+    }, 
+    {
+      "max_elev": 281, 
+      "uid": "3275407d-1dab-4be0-a334-f6ce0a14acd9", 
+      "area": 1.82, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 281, 
+      "cumarea": 15254.367684352126
+    }, 
+    {
+      "max_elev": 281, 
+      "uid": "f22bca7f-cb05-4170-a798-c67d34b3f60e", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 265, 
+      "cumarea": 15249.181061186135
+    }, 
+    {
+      "max_elev": 281, 
+      "uid": "eee7ef83-4970-42b9-8787-1cd7af6a53b4", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 257, 
+      "cumarea": 15251.768847851037
+    }
+  ], 
+  "end_x": 15260.469747191079, 
+  "num": 868, 
+  "zoom": 10, 
+  "start_x": 15242.90879236117
+}

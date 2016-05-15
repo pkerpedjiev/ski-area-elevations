@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 635, 
+      "cumarea": 11941.653734210424, 
+      "area": 2.08, 
+      "num_lifts": 1, 
+      "name": "(urban, Santiago)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 516, 
+      "uid": "bc7f4e19-d79f-4fa0-ba5e-356669decdb1"
+    }
+  ], 
+  "end_x": 11942.546844015113, 
+  "num": 10880, 
+  "zoom": 14, 
+  "start_x": 11941.449284338245
+}

@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 2250, 
+      "uid": "ec5a999c-8f4c-4d18-a712-8ea2a4caaeab", 
+      "area": 5.26, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1179, 
+      "cumarea": 2030.6944049444712
+    }, 
+    {
+      "max_elev": 2251, 
+      "cumarea": 2021.777917413716, 
+      "area": 5.08, 
+      "num_lifts": 27, 
+      "name": "Zettersfeld - Lienz", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 702, 
+      "uid": "d1be0887-b22c-4138-91fd-410162871c4d"
+    }, 
+    {
+      "max_elev": 2248, 
+      "uid": "9c07019e-b3d4-4ea6-b590-4d95b1f97c5a", 
+      "area": 3.8099999999999996, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1527, 
+      "cumarea": 2034.0320341336098
+    }, 
+    {
+      "max_elev": 2251, 
+      "uid": "f15f4582-c25a-46d6-8c33-12e0be2e0992", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1565, 
+      "cumarea": 2024.4354374166328
+    }, 
+    {
+      "max_elev": 2248, 
+      "uid": "20e2cd26-1173-4344-930c-b8f62ecc9ddb", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2042, 
+      "cumarea": 2036.6417997052308
+    }, 
+    {
+      "max_elev": 2251, 
+      "uid": "e2dfcc95-f99f-42ca-8db3-20f49862eb64", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1899, 
+      "cumarea": 2027.0342739177215
+    }
+  ], 
+  "end_x": 2037.0707602694652, 
+  "num": 115, 
+  "zoom": 10, 
+  "start_x": 2019.509805439556
+}

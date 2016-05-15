@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 850, 
+      "cumarea": 9719.562125314185, 
+      "area": 4.9, 
+      "num_lifts": 13, 
+      "name": "Trekhgorny / Popovy Dol", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 397, 
+      "uid": "aaab1f6a-1d3f-4ae4-823d-3325bee590cc"
+    }, 
+    {
+      "max_elev": 848, 
+      "uid": "8858db3b-7b74-4279-8f83-969fd58f500a", 
+      "area": 1.94, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 785, 
+      "cumarea": 9727.46022661742
+    }, 
+    {
+      "max_elev": 849, 
+      "uid": "791f88ec-ac7e-4222-a259-d20da0ecbdb5", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 624, 
+      "cumarea": 9722.198702143256
+    }, 
+    {
+      "max_elev": 849, 
+      "uid": "0e7dbb32-9e99-434a-bd95-c27c617909a6", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 802, 
+      "cumarea": 9724.797538644345
+    }, 
+    {
+      "max_elev": 850, 
+      "uid": "4766bb6e-d4be-4494-bb72-828627746aef", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 785, 
+      "cumarea": 9713.379563263792
+    }, 
+    {
+      "max_elev": 850, 
+      "uid": "82f7b6e0-2361-47a6-b791-36a4a8a9bde2", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 817, 
+      "cumarea": 9715.97289010907
+    }
+  ], 
+  "end_x": 9728.76897576969, 
+  "num": 553, 
+  "zoom": 10, 
+  "start_x": 9711.208020939779
+}

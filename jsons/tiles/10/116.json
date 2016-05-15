@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 2246, 
+      "cumarea": 2043.1572639781343, 
+      "area": 91.42, 
+      "num_lifts": 482, 
+      "name": "Portes du Soleil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 946, 
+      "uid": "57b10664-312b-4882-9f1e-ee404ee74aff"
+    }, 
+    {
+      "max_elev": 2244, 
+      "uid": "99d80429-7079-4a5c-bb00-db149f5e070b", 
+      "area": 2.08, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1758, 
+      "cumarea": 2045.8896318718475
+    }, 
+    {
+      "max_elev": 2243, 
+      "uid": "0cfecf83-2cd6-488d-a276-dc33e663165f", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1446, 
+      "cumarea": 2048.541957057887
+    }, 
+    {
+      "max_elev": 2240, 
+      "uid": "f8e3ee76-fad5-4e91-bacf-bef7c208063d", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2061, 
+      "cumarea": 2053.750469542255
+    }, 
+    {
+      "max_elev": 2242, 
+      "uid": "74e42349-faae-45be-b351-5b3e9a649ab3", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1866, 
+      "cumarea": 2051.1352839031647
+    }
+  ], 
+  "end_x": 2054.6317150993746, 
+  "num": 116, 
+  "zoom": 10, 
+  "start_x": 2037.0707602694652
+}

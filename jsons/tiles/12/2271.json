@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 821, 
+      "cumarea": 9974.23156856199, 
+      "area": 6.02, 
+      "num_lifts": 30, 
+      "name": "St\u00f6ten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 438, 
+      "uid": "da7cfec7-8f6c-4b19-b431-bdd86fb92b29"
+    }, 
+    {
+      "max_elev": 822, 
+      "uid": "4a1513fd-e91d-4749-86cd-4eb115114391", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 467, 
+      "cumarea": 9970.43648130267
+    }
+  ], 
+  "end_x": 9974.622343388417, 
+  "num": 2271, 
+  "zoom": 12, 
+  "start_x": 9970.232104680941
+}

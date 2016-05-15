@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2031, 
+      "cumarea": 2815.535443629346, 
+      "area": 41.059999999999995, 
+      "num_lifts": 231, 
+      "name": "Espace Diamant", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 954, 
+      "uid": "00cc16ad-f5de-447d-96f2-e5057673a906"
+    }, 
+    {
+      "max_elev": 2031, 
+      "cumarea": 2819.5053492839575, 
+      "area": 7.17, 
+      "num_lifts": 18, 
+      "name": "Diedamskopf - Schoppernau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 839, 
+      "uid": "5861bd1c-1e0c-4f62-84ce-4c696fa75185"
+    }, 
+    {
+      "max_elev": 2031, 
+      "uid": "bff800e3-24e8-4721-8936-0616ff2be60e", 
+      "area": 3.4299999999999997, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1140, 
+      "cumarea": 2822.737909545135
+    }, 
+    {
+      "max_elev": 2030, 
+      "uid": "5064b173-cb4b-4008-8b37-005f73df76b8", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 790, 
+      "cumarea": 2825.390234731175
+    }, 
+    {
+      "max_elev": 2032, 
+      "uid": "5b775a0e-a81e-4b48-9ae7-f27a98e7f862", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1937, 
+      "cumarea": 2809.8204092177552
+    }
+  ], 
+  "end_x": 2827.3137276153784, 
+  "num": 160, 
+  "zoom": 10, 
+  "start_x": 2809.7527727854695
+}

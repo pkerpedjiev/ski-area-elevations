@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 826, 
+      "uid": "75fbdd2b-9f77-4dfa-a225-960519474cb8", 
+      "area": 2.3600000000000003, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 697, 
+      "cumarea": 9935.395253134426
+    }, 
+    {
+      "max_elev": 827, 
+      "uid": "f6fcf59b-1d97-4a9c-ae27-294bd87c2e99", 
+      "area": 2.17, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 593, 
+      "cumarea": 9922.130316440502
+    }, 
+    {
+      "max_elev": 826, 
+      "uid": "ff23be15-3e29-422a-9878-9ab6b06dc210", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 728, 
+      "cumarea": 9938.052773137342
+    }, 
+    {
+      "max_elev": 827, 
+      "uid": "3d6e06de-5297-4d6c-b7eb-e26389fe903c", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 258, 
+      "cumarea": 9924.740082012122
+    }, 
+    {
+      "max_elev": 827, 
+      "uid": "d07e76e3-d39c-456c-89be-59f8b2415339", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 747, 
+      "cumarea": 9927.338918513211
+    }, 
+    {
+      "max_elev": 827, 
+      "uid": "ee44c6f6-c8e5-490c-9eaf-eae4b1e8d987", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 735, 
+      "cumarea": 9929.9377550143
+    }, 
+    {
+      "max_elev": 827, 
+      "uid": "1ceaa12f-ab44-42e5-b289-c86617515407", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 693, 
+      "cumarea": 9932.536591515389
+    }
+  ], 
+  "end_x": 9939.500433728597, 
+  "num": 565, 
+  "zoom": 10, 
+  "start_x": 9921.939478898688
+}

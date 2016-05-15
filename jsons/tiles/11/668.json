@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1405, 
+      "cumarea": 5873.939408222461, 
+      "area": 9.16, 
+      "num_lifts": 105, 
+      "name": "Hemsedal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "uid": "a2fcb608-abf4-4691-af7a-1f68ac5cbbd6"
+    }, 
+    {
+      "max_elev": 1406, 
+      "uid": "bccbcb25-6fb6-4770-bfbe-61ed2b4c8457", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 1246, 
+      "cumarea": 5869.724562043774
+    }, 
+    {
+      "max_elev": 1406, 
+      "uid": "df9c33e7-6cec-4395-b874-80ad801a3acf", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1404, 
+      "cumarea": 5867.125725542685
+    }
+  ], 
+  "end_x": 5874.139390604622, 
+  "num": 668, 
+  "zoom": 11, 
+  "start_x": 5865.358913189668
+}

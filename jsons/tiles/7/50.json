@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 1181, 
+      "cumarea": 7156.067220256879, 
+      "area": 10.010000000000002, 
+      "num_lifts": 78, 
+      "name": "Niseko Mt. Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 260, 
+      "uid": "9990d135-4a98-455f-aa1e-afef9011ce52"
+    }, 
+    {
+      "max_elev": 1183, 
+      "cumarea": 7135.94935156717, 
+      "area": 7.87, 
+      "num_lifts": 95, 
+      "name": "Stratton", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 605, 
+      "uid": "fb10030f-6e16-4bfa-994c-b33f023f7e78"
+    }, 
+    {
+      "max_elev": 1183, 
+      "cumarea": 7139.703755249854, 
+      "area": 5.78, 
+      "num_lifts": 53, 
+      "name": "Summit at Snoqualmie", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 797, 
+      "uid": "5a823805-77bd-4244-87db-67b6b10941a2"
+    }, 
+    {
+      "max_elev": 1194, 
+      "cumarea": 7074.2728416521195, 
+      "area": 4.01, 
+      "num_lifts": 56, 
+      "name": "Pico Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 610, 
+      "uid": "6f71fd7c-fa65-4461-95e8-faaaffda32ff"
+    }, 
+    {
+      "max_elev": 1190, 
+      "uid": "0327dfca-0f78-461a-9f90-9d9007422a9c", 
+      "area": 3.8, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 550, 
+      "cumarea": 7093.659122718879
+    }, 
+    {
+      "max_elev": 1182, 
+      "uid": "1e2f2da0-3908-464f-9d7c-223179b744fc", 
+      "area": 3.62, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 101, 
+      "cumarea": 7142.9902292756915
+    }, 
+    {
+      "max_elev": 1182, 
+      "uid": "8f7b630a-7240-4768-9f37-3df8ea6577df", 
+      "area": 3.12, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 594, 
+      "cumarea": 7146.128062277513
+    }, 
+    {
+      "max_elev": 1183, 
+      "uid": "e848b768-3660-40fa-96f8-966a02c2293f", 
+      "area": 3.0700000000000003, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 562, 
+      "cumarea": 7131.886293504741
+    }, 
+    {
+      "max_elev": 1195, 
+      "uid": "56b7e287-e3f0-4efa-9640-f44395d210a4", 
+      "area": 3.01, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 539, 
+      "cumarea": 7070.884050410801
+    }, 
+    {
+      "max_elev": 1182, 
+      "cumarea": 7149.164799162463, 
+      "area": 2.8200000000000003, 
+      "num_lifts": 4, 
+      "name": "Wolfenschiessen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 505, 
+      "uid": "1bc35978-6fc6-4086-9e70-5e1898d971f8"
+    }
+  ], 
+  "end_x": 7164.869570602947, 
+  "num": 50, 
+  "zoom": 7, 
+  "start_x": 7024.381931963673
+}

@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 1870, 
+      "cumarea": 3479.4540513485053, 
+      "area": 7.8, 
+      "num_lifts": 54, 
+      "name": "Abetone", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1248, 
+      "uid": "09eccca9-e4fd-4a4b-b06d-00a394c487ac"
+    }, 
+    {
+      "max_elev": 1870, 
+      "cumarea": 3483.311910619438, 
+      "area": 6.41, 
+      "num_lifts": 23, 
+      "name": "Hinterstoder", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 826, 
+      "uid": "87d6e93e-c1b4-4de4-8336-3c8ce31b490e"
+    }
+  ], 
+  "end_x": 3485.849533736973, 
+  "num": 396, 
+  "zoom": 11, 
+  "start_x": 3477.0690563220182
+}

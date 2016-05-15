@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 3199, 
+      "cumarea": 360.69342950832225, 
+      "area": 141.25, 
+      "num_lifts": 564, 
+      "name": "Sella Ronda", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1003, 
+      "uid": "c4585162-ee23-4631-a0cd-d8e63ac02f3e"
+    }, 
+    {
+      "max_elev": 3216, 
+      "cumarea": 343.0265432780363, 
+      "area": 115.13, 
+      "num_lifts": 729, 
+      "name": "Les 3 Vall\u00e9es", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 628, 
+      "uid": "ece7b2d5-86aa-461b-ad16-1a9a3cc98e80"
+    }, 
+    {
+      "max_elev": 2246, 
+      "cumarea": 2043.1572639781343, 
+      "area": 91.42, 
+      "num_lifts": 482, 
+      "name": "Portes du Soleil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 946, 
+      "uid": "57b10664-312b-4882-9f1e-ee404ee74aff"
+    }, 
+    {
+      "max_elev": 3187, 
+      "cumarea": 380.0274318976269, 
+      "area": 75.48, 
+      "num_lifts": 498, 
+      "name": "Les Arcs", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1202, 
+      "uid": "594b2549-d83a-4c80-84c4-3aeae60acbad"
+    }, 
+    {
+      "max_elev": 3879, 
+      "cumarea": 57.244961304810985, 
+      "area": 68.46, 
+      "num_lifts": 303, 
+      "name": "Zermatt / Cervinia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1566, 
+      "uid": "4343d2f2-b3ff-47cc-a80b-2cb1907c5e94"
+    }, 
+    {
+      "max_elev": 2084, 
+      "cumarea": 2583.2263587434677, 
+      "area": 60.94, 
+      "num_lifts": 185, 
+      "name": "Saalbach Hinterglemm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 819, 
+      "uid": "65225423-0c14-4f9f-af7c-47c355a532b8"
+    }, 
+    {
+      "max_elev": 3460, 
+      "cumarea": 206.80621074817302, 
+      "area": 58.68, 
+      "num_lifts": 338, 
+      "name": "Tignes-Val d'Is\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1562, 
+      "uid": "d9e43279-e4be-42d8-a483-b8e48d84f599"
+    }, 
+    {
+      "max_elev": 1845, 
+      "cumarea": 3601.4996186073668, 
+      "area": 48.269999999999996, 
+      "num_lifts": 327, 
+      "name": "SkiWelt Wilder Kaiser", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "uid": "65646b20-4208-40eb-859e-aa8f946acce9"
+    }, 
+    {
+      "max_elev": 2779, 
+      "cumarea": 742.7131487276095, 
+      "area": 46.54, 
+      "num_lifts": 250, 
+      "name": "Sestriere", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "uid": "4cda8c6e-c67d-4fe1-8d31-639f8600092b"
+    }, 
+    {
+      "max_elev": 2975, 
+      "cumarea": 546.4051024482637, 
+      "area": 42.91, 
+      "num_lifts": 86, 
+      "name": "Flims Laax Falera", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1085, 
+      "uid": "f6f3eaf3-bf01-4da7-a335-0ad9c17e5d8c"
+    }
+  ], 
+  "end_x": 4495.604436456751, 
+  "num": 0, 
+  "zoom": 2, 
+  "start_x": 0.0
+}

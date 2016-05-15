@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1956, 
+      "cumarea": 3139.080290130891, 
+      "area": 16.36, 
+      "num_lifts": 161, 
+      "name": "Wagrain", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 721, 
+      "uid": "e75defdd-4837-44a0-acac-6cf17c5c38de"
+    }, 
+    {
+      "max_elev": 1956, 
+      "uid": "0f9f6a97-c11f-439d-a760-a9cb57b232fa", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1726, 
+      "cumarea": 3141.778424852962
+    }
+  ], 
+  "end_x": 3143.410914553744, 
+  "num": 357, 
+  "zoom": 11, 
+  "start_x": 3134.6304371387896
+}

@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 690, 
+      "cumarea": 11403.958919484918, 
+      "area": 2.16, 
+      "num_lifts": 7, 
+      "name": "Heibek \u2013 Bad Lauterberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 593, 
+      "uid": "730b3e7a-1417-4f7c-b7df-f7b849bcd4f1"
+    }, 
+    {
+      "max_elev": 689, 
+      "uid": "1cb8b705-a518-4fd9-8cc1-6bb8e0e895f2", 
+      "area": 2.1, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 494, 
+      "cumarea": 11414.497336142867
+    }, 
+    {
+      "max_elev": 691, 
+      "uid": "dda4d0d1-d6f5-43f3-8465-f94bc4b64c58", 
+      "area": 1.86, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 463, 
+      "cumarea": 11401.188811263222
+    }, 
+    {
+      "max_elev": 690, 
+      "uid": "0fc8332e-8f08-46e2-8768-3d5acb49c40b", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 541, 
+      "cumarea": 11406.563235451771
+    }, 
+    {
+      "max_elev": 690, 
+      "uid": "e50a241b-7460-466e-a505-02de56d2b927", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 642, 
+      "cumarea": 11409.16207195286
+    }, 
+    {
+      "max_elev": 691, 
+      "uid": "97dfa408-e60d-4d6b-9e92-2192d5967bac", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 643, 
+      "cumarea": 11398.568234775497
+    }, 
+    {
+      "max_elev": 690, 
+      "uid": "b70d58cc-e69c-4d6b-92a5-7b305210fac1", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 659, 
+      "cumarea": 11411.755398798137
+    }
+  ], 
+  "end_x": 11414.620639440971, 
+  "num": 649, 
+  "zoom": 10, 
+  "start_x": 11397.05968461106
+}

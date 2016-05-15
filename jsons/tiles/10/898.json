@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 219, 
+      "uid": "45cc9b4e-cb42-40fb-b27c-95b62b8158b7", 
+      "area": 2.05, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 67, 
+      "cumarea": 15778.739872901055
+    }, 
+    {
+      "max_elev": 219, 
+      "uid": "846854b1-fe01-4e60-9f8c-25c6c139a54a", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 145, 
+      "cumarea": 15781.397392903971
+    }, 
+    {
+      "max_elev": 219, 
+      "uid": "e693aec1-3497-4203-b247-e3a150a3bd49", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 119, 
+      "cumarea": 15770.835409941912
+    }, 
+    {
+      "max_elev": 219, 
+      "uid": "069a131a-5cbd-4fb7-a993-75fcb5378507", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 125, 
+      "cumarea": 15784.001708870825
+    }, 
+    {
+      "max_elev": 219, 
+      "uid": "8bf5aa74-b55d-42ef-9560-496c84e2a711", 
+      "area": 1.82, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 207, 
+      "cumarea": 15773.434246443001
+    }, 
+    {
+      "max_elev": 219, 
+      "uid": "71fef9a7-f858-4da1-ab54-41edc7ca50c0", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 207, 
+      "cumarea": 15776.022033107904
+    }, 
+    {
+      "max_elev": 219, 
+      "uid": "7d4ae7f9-7ca8-49a3-80fd-0a715c43e2db", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 219, 
+      "cumarea": 15786.589495535727
+    }
+  ], 
+  "end_x": 15787.298392088354, 
+  "num": 898, 
+  "zoom": 10, 
+  "start_x": 15769.737437258445
+}

@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1727, 
+      "cumarea": 4220.757336983385, 
+      "area": 7.01, 
+      "num_lifts": 33, 
+      "name": "Berwang/Bichlbach/Rinnen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1051, 
+      "uid": "d8a08be0-8d60-469f-a4e4-be4e5ba9dc82"
+    }, 
+    {
+      "max_elev": 1726, 
+      "uid": "dba746ab-cfd7-4082-af1a-0a1d0bb94f99", 
+      "area": 5.05, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 785, 
+      "cumarea": 4227.867379603117
+    }, 
+    {
+      "max_elev": 1727, 
+      "cumarea": 4224.24799135983, 
+      "area": 4.44, 
+      "num_lifts": 21, 
+      "name": "Pila", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 694, 
+      "uid": "7d452ac7-2b16-42c2-a230-4e9791e94edd"
+    }, 
+    {
+      "max_elev": 1726, 
+      "uid": "72c6205f-09e6-44d0-be4b-a7058cbd7144", 
+      "area": 3.19, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1197, 
+      "cumarea": 4231.0274005199135
+    }, 
+    {
+      "max_elev": 1728, 
+      "uid": "a2efb013-8cd9-4bdf-b5bb-6537ee89eefb", 
+      "area": 1.95, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1140, 
+      "cumarea": 4216.809999282339
+    }
+  ], 
+  "end_x": 4232.190114008114, 
+  "num": 240, 
+  "zoom": 10, 
+  "start_x": 4214.629159178204
+}

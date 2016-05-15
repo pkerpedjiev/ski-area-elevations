@@ -1,0 +1,96 @@
+{
+  "shown": [
+    {
+      "max_elev": 3216, 
+      "cumarea": 343.0265432780363, 
+      "area": 115.13, 
+      "num_lifts": 729, 
+      "name": "Les 3 Vall\u00e9es", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 628, 
+      "uid": "ece7b2d5-86aa-461b-ad16-1a9a3cc98e80"
+    }, 
+    {
+      "max_elev": 3229, 
+      "cumarea": 322.9329341573954, 
+      "area": 11.440000000000001, 
+      "num_lifts": 63, 
+      "name": "Hintertuxer Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1496, 
+      "uid": "8af09368-3e19-4ceb-997b-06ef993892ee"
+    }, 
+    {
+      "max_elev": 3210, 
+      "cumarea": 347.18294586085227, 
+      "area": 8.64, 
+      "num_lifts": 46, 
+      "name": "Steamboat Springs", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2075, 
+      "uid": "cf26651d-c07f-4259-a6e7-4ca203676b13"
+    }, 
+    {
+      "max_elev": 3205, 
+      "cumarea": 351.1331325666748, 
+      "area": 7.03, 
+      "num_lifts": 36, 
+      "name": "Sulden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1849, 
+      "uid": "e71d56af-b7e5-4de5-970c-d8f5b0339247"
+    }, 
+    {
+      "max_elev": 3224, 
+      "cumarea": 329.9000097216996, 
+      "area": 5.75, 
+      "num_lifts": 17, 
+      "name": "Gudauri", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1996, 
+      "uid": "fe333c99-c213-412f-a8bb-89e69350a7c1"
+    }, 
+    {
+      "max_elev": 3224, 
+      "cumarea": 336.2804813533507, 
+      "area": 5.75, 
+      "num_lifts": 17, 
+      "name": "Gudauri", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1996, 
+      "uid": "c78d77e5-63b4-4843-8161-b73c85f55fc2"
+    }, 
+    {
+      "max_elev": 3233, 
+      "uid": "74d4beff-4c9d-4ea6-ab29-8c6a0c9a78fd", 
+      "area": 4.83, 
+      "num_lifts": 53, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2823, 
+      "cumarea": 318.4958181714437
+    }, 
+    {
+      "max_elev": 3229, 
+      "cumarea": 326.1508098668903, 
+      "area": 3.38, 
+      "num_lifts": 19, 
+      "name": "Penitentes", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2591, 
+      "uid": "293fa51b-9198-4339-b53e-2838417dc7bc"
+    }, 
+    {
+      "max_elev": 3224, 
+      "uid": "79448432-5480-452a-b0f1-ce920857c586", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 3032, 
+      "cumarea": 332.53128149854143
+    }
+  ], 
+  "end_x": 351.2190965981837, 
+  "num": 9, 
+  "zoom": 9, 
+  "start_x": 316.0971869383653
+}

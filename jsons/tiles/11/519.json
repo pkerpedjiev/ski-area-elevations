@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1664, 
+      "cumarea": 4562.021862522773, 
+      "area": 9.57, 
+      "num_lifts": 34, 
+      "name": "Zao Liza World", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 798, 
+      "uid": "0810c1e4-ce13-4da2-aea4-e3acc2eea5fb"
+    }, 
+    {
+      "max_elev": 1664, 
+      "uid": "f5327fd9-0072-494f-ad1c-322f1bfc1401", 
+      "area": 2.35, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1426, 
+      "cumarea": 4557.763229317307
+    }, 
+    {
+      "max_elev": 1663, 
+      "uid": "fd4c5263-bf8a-4163-9645-607c62a15da0", 
+      "area": 2.16, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1348, 
+      "cumarea": 4564.791970744469
+    }
+  ], 
+  "end_x": 4565.848255776387, 
+  "num": 519, 
+  "zoom": 11, 
+  "start_x": 4557.067778361433
+}

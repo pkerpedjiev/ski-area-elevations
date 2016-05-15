@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1956, 
+      "cumarea": 3139.080290130891, 
+      "area": 16.36, 
+      "num_lifts": 161, 
+      "name": "Wagrain", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 721, 
+      "uid": "e75defdd-4837-44a0-acac-6cf17c5c38de"
+    }, 
+    {
+      "max_elev": 1958, 
+      "uid": "ce17c6f6-1ac4-43fb-9599-41c389f1bab8", 
+      "area": 2.19, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1191, 
+      "cumarea": 3126.3946306169796
+    }, 
+    {
+      "max_elev": 1956, 
+      "uid": "0f9f6a97-c11f-439d-a760-a9cb57b232fa", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1726, 
+      "cumarea": 3141.778424852962
+    }, 
+    {
+      "max_elev": 1958, 
+      "uid": "ae769c56-0d0c-4bac-8c74-61b62fd6d028", 
+      "area": 2.0, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1281, 
+      "cumarea": 3129.0877777975397
+    }, 
+    {
+      "max_elev": 1958, 
+      "uid": "c8744d21-8ff7-4a02-a0bb-588fc555d29a", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1939, 
+      "cumarea": 3131.6866142986282
+    }, 
+    {
+      "max_elev": 1958, 
+      "uid": "b044dbf9-09a1-4c56-957c-efaab3061a0a", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1939, 
+      "cumarea": 3134.2854507997167
+    }
+  ], 
+  "end_x": 3143.410914553744, 
+  "num": 178, 
+  "zoom": 10, 
+  "start_x": 3125.8499597238347
+}

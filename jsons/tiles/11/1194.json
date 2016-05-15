@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 777, 
+      "cumarea": 10492.222799810897, 
+      "area": 6.75, 
+      "num_lifts": 67, 
+      "name": "Le Massif de Charlevoix", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 12, 
+      "uid": "b33fb75b-a0d1-48c0-9d0e-45c607ec3e74"
+    }, 
+    {
+      "max_elev": 778, 
+      "uid": "7a14690b-dad6-4aea-8ac0-0a621e69d493", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 625, 
+      "cumarea": 10485.719930460737
+    }, 
+    {
+      "max_elev": 778, 
+      "uid": "23f7b62c-2faa-4b94-b002-1126e8059ed9", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 721, 
+      "cumarea": 10488.313257306014
+    }
+  ], 
+  "end_x": 10492.670510870736, 
+  "num": 1194, 
+  "zoom": 11, 
+  "start_x": 10483.890033455782
+}

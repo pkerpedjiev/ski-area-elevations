@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1279, 
+      "cumarea": 6545.396868437499, 
+      "area": 16.07, 
+      "num_lifts": 152, 
+      "name": "Killington", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 354, 
+      "uid": "9223c9de-54e0-4047-a2ae-0bd0b77da174"
+    }, 
+    {
+      "max_elev": 1281, 
+      "cumarea": 6538.026587412471, 
+      "area": 3.64, 
+      "num_lifts": 11, 
+      "name": "Hakubaiwatake Ski Area", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 748, 
+      "uid": "7b2febf0-313a-439e-a241-89efd8047906"
+    }, 
+    {
+      "max_elev": 1281, 
+      "uid": "2b52f93a-a78e-4cb5-a0ca-349fc15520d0", 
+      "area": 2.08, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1075, 
+      "cumarea": 6534.734603730822
+    }, 
+    {
+      "max_elev": 1279, 
+      "uid": "91d074f3-d018-425e-919c-4fc39b6f8e4e", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 492, 
+      "cumarea": 6548.03344526657
+    }, 
+    {
+      "max_elev": 1280, 
+      "uid": "f745dcc9-7ba7-48cb-b3b8-574fb8dca327", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1229, 
+      "cumarea": 6540.619914257749
+    }
+  ], 
+  "end_x": 6550.236151556126, 
+  "num": 372, 
+  "zoom": 10, 
+  "start_x": 6532.675196726216
+}

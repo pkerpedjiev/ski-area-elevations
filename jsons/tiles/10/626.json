@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 727, 
+      "cumarea": 11005.741864437161, 
+      "area": 6.91, 
+      "num_lifts": 69, 
+      "name": "Holiday Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 467, 
+      "uid": "2672a5cb-b2d1-4950-bd55-13769e39e3cf"
+    }, 
+    {
+      "max_elev": 726, 
+      "uid": "fc4b1228-9106-4ac3-a2e3-347ef74e2533", 
+      "area": 2.3600000000000003, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 391, 
+      "cumarea": 11008.600526056198
+    }, 
+    {
+      "max_elev": 727, 
+      "uid": "e31791d7-76cf-44da-9758-f34f76a70017", 
+      "area": 2.1, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 561, 
+      "cumarea": 10994.023465322349
+    }, 
+    {
+      "max_elev": 727, 
+      "uid": "ef45e19a-ab75-4d85-b5b8-d50d418a59a4", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 369, 
+      "cumarea": 10996.627781289202
+    }, 
+    {
+      "max_elev": 727, 
+      "uid": "b79b8d28-f443-45d2-b4b8-f4f8dc0f1509", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 706, 
+      "cumarea": 10999.22110813448
+    }, 
+    {
+      "max_elev": 727, 
+      "uid": "2a1b6264-6341-4ae7-87fd-9da7ab24f8b0", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 726, 
+      "cumarea": 11001.808894799382
+    }
+  ], 
+  "end_x": 11010.718678353058, 
+  "num": 626, 
+  "zoom": 10, 
+  "start_x": 10993.157723523149
+}

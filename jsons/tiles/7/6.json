@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2643, 
+      "cumarea": 926.2029000769185, 
+      "area": 25.66, 
+      "num_lifts": 170, 
+      "name": "Grandvalira", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "uid": "dba83587-156c-43a2-b7ba-c32832271d25"
+    }, 
+    {
+      "max_elev": 2625, 
+      "cumarea": 968.6497800426048, 
+      "area": 12.9, 
+      "num_lifts": 96, 
+      "name": "Northstar", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1922, 
+      "uid": "f32c5fd3-faf6-4eed-b199-70e97496b253"
+    }, 
+    {
+      "max_elev": 2664, 
+      "cumarea": 891.6230502940098, 
+      "area": 10.46, 
+      "num_lifts": 88, 
+      "name": "Squaw", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1890, 
+      "uid": "5bd161a4-b032-415f-aadb-c9cac3d96dc7"
+    }, 
+    {
+      "max_elev": 2689, 
+      "cumarea": 851.1443056540079, 
+      "area": 9.540000000000001, 
+      "num_lifts": 83, 
+      "name": "Les Orres", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1552, 
+      "uid": "a6b499da-9dc2-4331-b863-74e9ca22fbf4"
+    }, 
+    {
+      "max_elev": 2689, 
+      "cumarea": 855.2960678572673, 
+      "area": 8.6, 
+      "num_lifts": 25, 
+      "name": "Lagazuoi - Cinque Torri / Passo Falzarego", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1888, 
+      "uid": "77a22292-0f5f-40c5-ab7a-d00f33130c3d"
+    }, 
+    {
+      "max_elev": 2675, 
+      "cumarea": 867.9708317871957, 
+      "area": 7.76, 
+      "num_lifts": 48, 
+      "name": "Ramsau am Dachstein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1132, 
+      "uid": "7a79d4d9-8448-48d5-beb4-e56691336426"
+    }, 
+    {
+      "max_elev": 2617, 
+      "cumarea": 982.9339849540085, 
+      "area": 7.76, 
+      "num_lifts": 59, 
+      "name": "Sunshine Village", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1685, 
+      "uid": "22fbb2e5-e928-4947-86a2-942eb78491be"
+    }, 
+    {
+      "max_elev": 2669, 
+      "cumarea": 884.4296235677954, 
+      "area": 7.12, 
+      "num_lifts": 42, 
+      "name": "Puy Saint Vincent", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1405, 
+      "uid": "4e42e516-e757-4cbf-bfc2-601adff928f1"
+    }, 
+    {
+      "max_elev": 2698, 
+      "cumarea": 844.2736265294575, 
+      "area": 7.06, 
+      "num_lifts": 54, 
+      "name": "Sierra at Tahoe", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2025, 
+      "uid": "57644f87-70de-4a64-8213-f10ffe19da7c"
+    }, 
+    {
+      "max_elev": 2619, 
+      "cumarea": 975.1604519002788, 
+      "area": 6.62, 
+      "num_lifts": 46, 
+      "name": "Kappl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1182, 
+      "uid": "f82d35c6-bbd9-48a8-b472-4c8f88978104"
+    }
+  ], 
+  "end_x": 983.4134704749142, 
+  "num": 6, 
+  "zoom": 7, 
+  "start_x": 842.9258318356408
+}

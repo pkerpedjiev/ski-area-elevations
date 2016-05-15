@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2487, 
+      "cumarea": 1296.6760795906914, 
+      "area": 9.64, 
+      "num_lifts": 69, 
+      "name": "Chamonix", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1033, 
+      "uid": "942ed9f5-61a4-4ef1-b142-d13b52602469"
+    }, 
+    {
+      "max_elev": 2488, 
+      "cumarea": 1283.5964913981736, 
+      "area": 8.3, 
+      "num_lifts": 42, 
+      "name": "Valles/Vals / Jochtal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 756, 
+      "uid": "83819585-199b-48bc-a59f-4d373b55abeb"
+    }, 
+    {
+      "max_elev": 2488, 
+      "uid": "ae6a0f1c-8f05-4b33-9248-afec8d5f39c7", 
+      "area": 3.19, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1693, 
+      "cumarea": 1286.7565123149705
+    }, 
+    {
+      "max_elev": 2488, 
+      "uid": "da69499e-ca64-4135-8060-031aa07112db", 
+      "area": 2.68, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1705, 
+      "cumarea": 1289.7423291094933
+    }, 
+    {
+      "max_elev": 2488, 
+      "uid": "ff00860a-9a53-472f-b152-d34b07d73172", 
+      "area": 1.95, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1347, 
+      "cumarea": 1292.410158482069
+    }
+  ], 
+  "end_x": 1299.5106574132797, 
+  "num": 73, 
+  "zoom": 10, 
+  "start_x": 1281.9497025833705
+}

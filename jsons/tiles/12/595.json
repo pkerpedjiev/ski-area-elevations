@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2071, 
+      "cumarea": 2615.750626629311, 
+      "area": 3.0300000000000002, 
+      "num_lifts": 15, 
+      "name": "Monte Terminillo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1532, 
+      "uid": "28e44d82-5356-43ed-8aac-e4b9bc157ee3"
+    }, 
+    {
+      "max_elev": 2075, 
+      "uid": "4881c962-9f6f-4e08-961c-41e744ad2b43", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2075, 
+      "cumarea": 2612.6420640097895
+    }
+  ], 
+  "end_x": 2616.5822696564683, 
+  "num": 595, 
+  "zoom": 12, 
+  "start_x": 2612.192030948991
+}

@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3295, 
+      "cumarea": 272.38508506769466, 
+      "area": 37.64, 
+      "num_lifts": 223, 
+      "name": "Verbier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 824, 
+      "uid": "f32913bf-408f-4f2d-8b73-c7c8983e734a"
+    }
+  ], 
+  "end_x": 276.5850385710696, 
+  "num": 62, 
+  "zoom": 12, 
+  "start_x": 272.1947998635923
+}

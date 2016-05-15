@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 642, 
+      "uid": "8be04d5b-7bbc-4d63-8d37-94cc68b85920", 
+      "area": 3.16, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 274, 
+      "cumarea": 11860.024984782503
+    }, 
+    {
+      "max_elev": 642, 
+      "uid": "e25f54d3-4510-47d2-a040-3cc574fdcac5", 
+      "area": 2.25, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 349, 
+      "cumarea": 11856.874412754905
+    }, 
+    {
+      "max_elev": 641, 
+      "uid": "02b6dd7b-0b7a-4613-844b-a5e694ee4f7c", 
+      "area": 1.96, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 544, 
+      "cumarea": 11862.697929255746
+    }, 
+    {
+      "max_elev": 641, 
+      "uid": "de1d3da8-2b67-49f8-a4df-3d6c891ff74c", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 526, 
+      "cumarea": 11865.345032497804
+    }, 
+    {
+      "max_elev": 641, 
+      "uid": "d8035a1d-8572-4baf-bc75-0fadfde3e1a4", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 315, 
+      "cumarea": 11867.986886383977
+    }, 
+    {
+      "max_elev": 643, 
+      "uid": "0b35870f-3865-459b-899f-a99b1e7adc9b", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 464, 
+      "cumarea": 11854.06348253869
+    }, 
+    {
+      "max_elev": 641, 
+      "uid": "9aadf8dd-cb66-4a2c-8389-6c53e4c22a87", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 561, 
+      "cumarea": 11870.596651955597
+    }
+  ], 
+  "end_x": 11871.205465018607, 
+  "num": 675, 
+  "zoom": 10, 
+  "start_x": 11853.644510188698
+}

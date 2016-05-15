@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 3341, 
+      "cumarea": 249.79046691316222, 
+      "area": 14.030000000000001, 
+      "num_lifts": 63, 
+      "name": "Snowbird", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2363, 
+      "uid": "527c4124-83ad-4d4e-9139-2b8e5b127c43"
+    }, 
+    {
+      "max_elev": 3330, 
+      "cumarea": 253.5309330880027, 
+      "area": 5.7, 
+      "num_lifts": 36, 
+      "name": "Sunrise Peak", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2848, 
+      "uid": "03c12be3-ca05-4e28-a7ea-2a761035dc27"
+    }, 
+    {
+      "max_elev": 3322, 
+      "uid": "94b6b424-5ecd-407c-a619-b6aaab65789d", 
+      "area": 4.5, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2929, 
+      "cumarea": 259.77217455075566
+    }, 
+    {
+      "max_elev": 3326, 
+      "uid": "fec49b3f-eece-4d06-8db4-9ec26af50cab", 
+      "area": 2.09, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2417, 
+      "cumarea": 256.2680971539794
+    }, 
+    {
+      "max_elev": 3321, 
+      "uid": "8ba45698-3d45-42ab-a8c4-01e761dfba88", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3163, 
+      "cumarea": 262.3710110518444
+    }
+  ], 
+  "end_x": 263.41432244863773, 
+  "num": 14, 
+  "zoom": 10, 
+  "start_x": 245.85336761872856
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2592, 
+      "cumarea": 1042.5692698054263, 
+      "area": 9.280000000000001, 
+      "num_lifts": 47, 
+      "name": "Lake Louise", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1654, 
+      "uid": "a3d0a207-4de6-4e06-b644-a021e880c133"
+    }, 
+    {
+      "max_elev": 2594, 
+      "uid": "69418eec-d2ec-45c4-8d1d-3e634d62ebd1", 
+      "area": 3.3200000000000003, 
+      "num_lifts": 35, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1944, 
+      "cumarea": 1038.3414082586282
+    }
+  ], 
+  "end_x": 1044.8768123795962, 
+  "num": 118, 
+  "zoom": 11, 
+  "start_x": 1036.0963349646418
+}

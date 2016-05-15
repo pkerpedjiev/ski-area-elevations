@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 198, 
+      "uid": "b2e10c03-afda-454e-88da-22f459570501", 
+      "area": 2.08, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 38, 
+      "cumarea": 15971.470995747517
+    }, 
+    {
+      "max_elev": 199, 
+      "uid": "3ab2eb3a-51dc-4405-af29-a459f1db23df", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 38, 
+      "cumarea": 15966.086302667763
+    }, 
+    {
+      "max_elev": 199, 
+      "uid": "55855cfb-4206-425d-923a-af21081d2657", 
+      "area": 1.92, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 119, 
+      "cumarea": 15968.738627853803
+    }, 
+    {
+      "max_elev": 200, 
+      "uid": "d25e0289-98a4-4f2a-8903-bf02085dc72a", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 133, 
+      "cumarea": 15963.388167945692
+    }, 
+    {
+      "max_elev": 198, 
+      "uid": "ff6f82eb-0d13-4aa8-b5b4-747aec2b020d", 
+      "area": 1.85, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 145, 
+      "cumarea": 15974.086181386607
+    }, 
+    {
+      "max_elev": 198, 
+      "uid": "250da14e-1e26-4a8d-b780-ab4e054b14f7", 
+      "area": 1.84, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 198, 
+      "cumarea": 15976.695946958227
+    }, 
+    {
+      "max_elev": 198, 
+      "uid": "ea712263-9c0f-4269-80a6-e8af356241d4", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 180, 
+      "cumarea": 15979.294783459316
+    }
+  ], 
+  "end_x": 15980.468895217356, 
+  "num": 909, 
+  "zoom": 10, 
+  "start_x": 15962.907940387448
+}

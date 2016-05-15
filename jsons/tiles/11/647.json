@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1442, 
+      "cumarea": 5682.449350936746, 
+      "area": 6.56, 
+      "num_lifts": 28, 
+      "name": "Elatochori", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 661, 
+      "uid": "20aa5786-064d-4a54-bac0-df990cc0582c"
+    }, 
+    {
+      "max_elev": 1441, 
+      "uid": "616ed79c-9c71-4737-9048-76017adc1113", 
+      "area": 4.33, 
+      "num_lifts": 33, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 924, 
+      "cumarea": 5685.91491847876
+    }, 
+    {
+      "max_elev": 1439, 
+      "uid": "5ff45554-87d3-4d8b-8071-d36df14e09b9", 
+      "area": 2.79, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1062, 
+      "cumarea": 5688.940960074594
+    }
+  ], 
+  "end_x": 5689.749364890576, 
+  "num": 647, 
+  "zoom": 11, 
+  "start_x": 5680.968887475621
+}

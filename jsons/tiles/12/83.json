@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3199, 
+      "cumarea": 365.26221764209095, 
+      "area": 13.05, 
+      "num_lifts": 64, 
+      "name": "Stubaier Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1745, 
+      "uid": "92b4f01d-e594-4438-9210-995305612055"
+    }, 
+    {
+      "max_elev": 3195, 
+      "uid": "9d4b20dc-7770-421b-93c0-d46c415fc150", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3192, 
+      "cumarea": 367.85000430699307
+    }
+  ], 
+  "end_x": 368.78005142809286, 
+  "num": 83, 
+  "zoom": 12, 
+  "start_x": 364.38981272061557
+}

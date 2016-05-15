@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 2112, 
+      "cumarea": 2449.1653707749524, 
+      "area": 13.4, 
+      "num_lifts": 59, 
+      "name": "Wildkogel Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "c24088fd-ef15-45b6-90e8-62f4592b7e7d"
+    }, 
+    {
+      "max_elev": 2113, 
+      "cumarea": 2444.5701160679955, 
+      "area": 2.9000000000000004, 
+      "num_lifts": 14, 
+      "name": "Caviahue", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1687, 
+      "uid": "e4685f09-ee71-47ea-a60c-9596e2be9e00"
+    }, 
+    {
+      "max_elev": 2111, 
+      "uid": "d16550b8-4506-495a-b466-e13b7722b63c", 
+      "area": 2.8200000000000003, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 783, 
+      "cumarea": 2454.890242298639
+    }, 
+    {
+      "max_elev": 2115, 
+      "uid": "b3b7d428-04c0-4751-a9f0-d711d3f57c00", 
+      "area": 1.99, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1658, 
+      "cumarea": 2441.505405331003
+    }, 
+    {
+      "max_elev": 2112, 
+      "uid": "dcd73f2d-7843-43e5-b67e-ce00cbe3a890", 
+      "area": 1.99, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1740, 
+      "cumarea": 2451.8535054136887
+    }, 
+    {
+      "max_elev": 2111, 
+      "uid": "ca263fec-d8c7-4004-91a4-46bcf806c52d", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1623, 
+      "cumarea": 2457.5320961848115
+    }
+  ], 
+  "end_x": 2458.533676187286, 
+  "num": 139, 
+  "zoom": 10, 
+  "start_x": 2440.972721357377
+}

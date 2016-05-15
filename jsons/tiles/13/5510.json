@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 620, 
+      "cumarea": 12096.007334155638, 
+      "area": 1.87, 
+      "num_lifts": 4, 
+      "name": "Ski Sawmill", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 512, 
+      "uid": "0f93c2d9-8156-4cde-a582-2ad5ed2b1f48"
+    }
+  ], 
+  "end_x": 12097.30275845369, 
+  "num": 5510, 
+  "zoom": 13, 
+  "start_x": 12095.107639099951
+}

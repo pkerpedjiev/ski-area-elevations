@@ -1,0 +1,26 @@
+{
+  "shown": [
+    {
+      "max_elev": 195, 
+      "uid": "b68867dc-bef5-40c7-b487-b945b2a7463b", 
+      "area": 2.09, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 107, 
+      "cumarea": 16008.388969770805
+    }, 
+    {
+      "max_elev": 195, 
+      "uid": "43bf6d99-3af2-4413-8a0e-c982888976a8", 
+      "area": 1.8, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 195, 
+      "cumarea": 16010.976756435708
+    }
+  ], 
+  "end_x": 16011.200566169697, 
+  "num": 3646, 
+  "zoom": 12, 
+  "start_x": 16006.810327462219
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 324, 
+      "cumarea": 14896.743241945273, 
+      "area": 1.96, 
+      "num_lifts": 3, 
+      "name": "Woods Valley Ski Area", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 175, 
+      "uid": "3f2b17c0-96be-4516-bf2a-7d1fcbd510a0"
+    }, 
+    {
+      "max_elev": 324, 
+      "uid": "9c278d6d-4074-4e8d-bb8f-a577ac43656c", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 282, 
+      "cumarea": 14899.379818774343
+    }
+  ], 
+  "end_x": 14900.470173177942, 
+  "num": 3393, 
+  "zoom": 12, 
+  "start_x": 14896.079934470465
+}

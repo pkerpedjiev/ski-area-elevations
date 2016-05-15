@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1976, 
+      "cumarea": 3060.9830830711453, 
+      "area": 10.020000000000001, 
+      "num_lifts": 95, 
+      "name": "Kopaonik", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1071, 
+      "uid": "a84248a8-b77d-42ed-bf20-27d96508050d"
+    }, 
+    {
+      "max_elev": 1977, 
+      "uid": "bf276fcc-f5ec-46b7-ab62-c792d5343a28", 
+      "area": 2.85, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1451, 
+      "cumarea": 3056.6784999754886
+    }
+  ], 
+  "end_x": 3064.386617819153, 
+  "num": 348, 
+  "zoom": 11, 
+  "start_x": 3055.606140404198
+}

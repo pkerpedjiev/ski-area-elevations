@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 2305, 
+      "cumarea": 1818.9323488059201, 
+      "area": 8.57, 
+      "num_lifts": 39, 
+      "name": "Bogus Basin", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1758, 
+      "uid": "56cbc73c-878f-421d-b6d6-93a2d09f0632"
+    }, 
+    {
+      "max_elev": 2305, 
+      "cumarea": 1812.1422271871381, 
+      "area": 3.84, 
+      "num_lifts": 23, 
+      "name": "Formigu\u00e8res", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1747, 
+      "uid": "abf75d18-6c46-4c0a-a2cf-2cbaf6df47ea"
+    }, 
+    {
+      "max_elev": 2306, 
+      "uid": "7bbccd28-df12-401c-bda8-92a98ace263f", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1580, 
+      "cumarea": 1808.7967548205386
+    }, 
+    {
+      "max_elev": 2305, 
+      "uid": "e46fdbdd-cb31-43cc-bef9-7348295f80bd", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1839, 
+      "cumarea": 1814.7840810733105
+    }, 
+    {
+      "max_elev": 2304, 
+      "uid": "49aa4615-ed46-4504-8cf3-7ce6ed0bf38a", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1613, 
+      "cumarea": 1821.5689256349917
+    }, 
+    {
+      "max_elev": 2303, 
+      "uid": "12c3ef5b-6f44-47e0-a402-fb19c07c9f21", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2137, 
+      "cumarea": 1824.1732416018451
+    }
+  ], 
+  "end_x": 1826.339302310555, 
+  "num": 103, 
+  "zoom": 10, 
+  "start_x": 1808.7783474806458
+}

@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3879, 
+      "cumarea": 57.244961304810985, 
+      "area": 68.46, 
+      "num_lifts": 303, 
+      "name": "Zermatt / Cervinia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1566, 
+      "uid": "4343d2f2-b3ff-47cc-a80b-2cb1907c5e94"
+    }, 
+    {
+      "max_elev": 3865, 
+      "cumarea": 60.96772790255209, 
+      "area": 5.6, 
+      "num_lifts": 24, 
+      "name": "Loveland", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3242, 
+      "uid": "30bc0b75-a6ac-4477-a1c3-8b92120b3042"
+    }
+  ], 
+  "end_x": 61.46334190468214, 
+  "num": 6, 
+  "zoom": 11, 
+  "start_x": 52.68286448972755
+}

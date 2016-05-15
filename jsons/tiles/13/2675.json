@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 1405, 
+      "cumarea": 5873.939408222461, 
+      "area": 9.16, 
+      "num_lifts": 105, 
+      "name": "Hemsedal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "uid": "a2fcb608-abf4-4691-af7a-1f68ac5cbbd6"
+    }
+  ], 
+  "end_x": 5874.139390604622, 
+  "num": 2675, 
+  "zoom": 13, 
+  "start_x": 5871.944271250884
+}

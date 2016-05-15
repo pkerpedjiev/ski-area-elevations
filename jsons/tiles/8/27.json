@@ -1,0 +1,105 @@
+{
+  "shown": [
+    {
+      "max_elev": 2273, 
+      "cumarea": 1925.1464947045918, 
+      "area": 41.3, 
+      "num_lifts": 312, 
+      "name": "Whistler Blackcomb", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 659, 
+      "uid": "8e8aa042-bd64-4b74-931a-f3b6f66443f0"
+    }, 
+    {
+      "max_elev": 2270, 
+      "cumarea": 1943.8629802025566, 
+      "area": 27.39, 
+      "num_lifts": 70, 
+      "name": "Obersaxen Meierhof", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1246, 
+      "uid": "aef73628-f112-4f23-b641-8ec2b7df70c5"
+    }, 
+    {
+      "max_elev": 2267, 
+      "cumarea": 1959.1698976519624, 
+      "area": 20.46, 
+      "num_lifts": 92, 
+      "name": "Kronplatz", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 925, 
+      "uid": "151515db-9bdd-4d45-b400-2ec8a632f128"
+    }, 
+    {
+      "max_elev": 2271, 
+      "cumarea": 1935.6983868911254, 
+      "area": 13.24, 
+      "num_lifts": 68, 
+      "name": "Big White", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1518, 
+      "uid": "1ef59aca-ad93-4ca7-9ee0-4bf885490e89"
+    }, 
+    {
+      "max_elev": 2266, 
+      "cumarea": 1965.9750019658788, 
+      "area": 8.52, 
+      "num_lifts": 62, 
+      "name": "Kanin-Sella Nevea", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 430, 
+      "uid": "5527f99e-bb8c-4c80-bea8-2aa66347be1b"
+    }, 
+    {
+      "max_elev": 2269, 
+      "cumarea": 1947.725508742673, 
+      "area": 6.4399999999999995, 
+      "num_lifts": 27, 
+      "name": "Gargellen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1426, 
+      "uid": "74c4ea56-45e4-4f70-bd93-a91741a4c729"
+    }, 
+    {
+      "max_elev": 2276, 
+      "cumarea": 1901.531658253259, 
+      "area": 6.38, 
+      "num_lifts": 36, 
+      "name": "Sonnenkopf am Arlberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 999, 
+      "uid": "9133766f-7216-4f18-8071-7976bf5bd730"
+    }, 
+    {
+      "max_elev": 2268, 
+      "uid": "0e1db5fe-7d0e-4f01-ab1d-7aaac14eff65", 
+      "area": 4.94, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 806, 
+      "cumarea": 1954.151425891439
+    }, 
+    {
+      "max_elev": 2276, 
+      "uid": "be19a28b-55fa-4ef5-950a-398c370f254d", 
+      "area": 4.78, 
+      "num_lifts": 48, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1495, 
+      "cumarea": 1905.0960987997623
+    }, 
+    {
+      "max_elev": 2273, 
+      "uid": "47b431a5-1ae4-45af-ab31-12e6a873c7c0", 
+      "area": 4.1, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 906, 
+      "cumarea": 1911.5223164532017
+    }
+  ], 
+  "end_x": 1966.8269409498284, 
+  "num": 27, 
+  "zoom": 8, 
+  "start_x": 1896.5831216301917
+}

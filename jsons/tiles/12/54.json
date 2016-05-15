@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3362, 
+      "cumarea": 240.57665678884075, 
+      "area": 4.25, 
+      "num_lifts": 42, 
+      "name": "Portillo", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2584, 
+      "uid": "fbdea58e-c88f-4cf5-a494-1f23179db862"
+    }, 
+    {
+      "max_elev": 3380, 
+      "uid": "ad752864-dfa8-485b-a8ae-2c922a44ad14", 
+      "area": 3.64, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2777, 
+      "cumarea": 237.12973780590443
+    }
+  ], 
+  "end_x": 241.46312891125126, 
+  "num": 54, 
+  "zoom": 12, 
+  "start_x": 237.07289020377397
+}

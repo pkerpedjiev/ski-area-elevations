@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2399, 
+      "cumarea": 1549.9145441917522, 
+      "area": 10.32, 
+      "num_lifts": 59, 
+      "name": "Kals-Matrei", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 930, 
+      "uid": "523d09fe-14aa-4e50-b26f-147a67f799f9"
+    }, 
+    {
+      "max_elev": 2399, 
+      "uid": "e683bd05-9b01-4920-8ea4-bce4d0932c03", 
+      "area": 2.72, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2140, 
+      "cumarea": 1552.9151760720601
+    }
+  ], 
+  "end_x": 1554.1445024469626, 
+  "num": 353, 
+  "zoom": 12, 
+  "start_x": 1549.7542637394854
+}

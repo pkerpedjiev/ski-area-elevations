@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2609, 
+      "cumarea": 1008.2284547895106, 
+      "area": 11.700000000000001, 
+      "num_lifts": 39, 
+      "name": "San Martino di Castrozza", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1402, 
+      "uid": "30dff990-e320-4edd-acf0-8256c7825244"
+    }, 
+    {
+      "max_elev": 2612, 
+      "uid": "150d4ca8-8ec7-411d-b098-de2e987590cd", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2202, 
+      "cumarea": 1001.1645499808536
+    }, 
+    {
+      "max_elev": 2610, 
+      "uid": "4c3cf675-3114-4547-884a-3022d7ea3c76", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2290, 
+      "cumarea": 1003.7688659477069
+    }
+  ], 
+  "end_x": 1009.754902719778, 
+  "num": 114, 
+  "zoom": 11, 
+  "start_x": 1000.9744253048234
+}

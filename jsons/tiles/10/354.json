@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1337, 
+      "cumarea": 6223.030150087402, 
+      "area": 10.350000000000001, 
+      "num_lifts": 62, 
+      "name": "Bandai", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 699, 
+      "uid": "915f5502-f136-4047-bf64-f481a0ad8122"
+    }, 
+    {
+      "max_elev": 1336, 
+      "cumarea": 6232.4012222264255, 
+      "area": 5.97, 
+      "num_lifts": 97, 
+      "name": "Whiteface Mtn", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 371, 
+      "uid": "5b8860e6-4aa1-4a3e-a743-593e4700e345"
+    }, 
+    {
+      "max_elev": 1336, 
+      "uid": "eb12fe56-776a-4002-9377-e07f889731ba", 
+      "area": 2.3, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 977, 
+      "cumarea": 6225.863059210337
+    }, 
+    {
+      "max_elev": 1336, 
+      "uid": "2b22c153-f97a-4386-b824-1330f79f0746", 
+      "area": 2.12, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1151, 
+      "cumarea": 6228.614475299021
+    }, 
+    {
+      "max_elev": 1337, 
+      "uid": "552de192-030b-475b-9523-600aca41f8c1", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1313, 
+      "cumarea": 6218.693163567691
+    }
+  ], 
+  "end_x": 6234.1389646177595, 
+  "num": 354, 
+  "zoom": 10, 
+  "start_x": 6216.5780097878505
+}

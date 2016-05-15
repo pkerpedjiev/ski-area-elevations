@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1302, 
+      "cumarea": 6431.5572486529, 
+      "area": 5.7700000000000005, 
+      "num_lifts": 25, 
+      "name": "Szklarska Por\u0119ba - Ski Arena Szrenica", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 641, 
+      "uid": "977369c1-3bfd-4cfa-a954-b1d0e9cfdee4"
+    }, 
+    {
+      "max_elev": 1303, 
+      "uid": "4554182d-37cf-41e2-8a24-11f0d8c43709", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1160, 
+      "cumarea": 6427.80457657238
+    }, 
+    {
+      "max_elev": 1302, 
+      "uid": "8b6a2e6a-d501-4b88-8f24-be3b4e757b7f", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1232, 
+      "cumarea": 6434.150575498178
+    }
+  ], 
+  "end_x": 6436.089945161716, 
+  "num": 732, 
+  "zoom": 11, 
+  "start_x": 6427.309467746762
+}

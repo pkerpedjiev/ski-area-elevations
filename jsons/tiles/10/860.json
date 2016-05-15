@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 299, 
+      "uid": "a87e113f-4f2d-4b6f-9546-f6f6100f7877", 
+      "area": 2.3200000000000003, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 117, 
+      "cumarea": 15112.625293008414
+    }, 
+    {
+      "max_elev": 298, 
+      "uid": "27d9f75b-2cfe-4ac0-9baa-212e7903e4c5", 
+      "area": 2.15, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 179, 
+      "cumarea": 15118.123128744268
+    }, 
+    {
+      "max_elev": 299, 
+      "uid": "561b1abb-dbd7-4fd8-8208-26283e7e3516", 
+      "area": 2.08, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 242, 
+      "cumarea": 15115.357660902127
+    }, 
+    {
+      "max_elev": 300, 
+      "cumarea": 15104.59156247637, 
+      "area": 1.94, 
+      "num_lifts": 12, 
+      "name": "Hickory Hill", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 232, 
+      "uid": "7eabcf5d-dcff-4558-98f0-70a13d384804"
+    }, 
+    {
+      "max_elev": 300, 
+      "uid": "f55762c4-18ea-4dee-a380-b78dba154e4a", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 237, 
+      "cumarea": 15107.190398977458
+    }, 
+    {
+      "max_elev": 300, 
+      "uid": "6e17c0ed-069a-4bbd-83fd-8c3fb43cbe6e", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 253, 
+      "cumarea": 15109.783725822736
+    }
+  ], 
+  "end_x": 15119.982108551807, 
+  "num": 860, 
+  "zoom": 10, 
+  "start_x": 15102.421153721898
+}

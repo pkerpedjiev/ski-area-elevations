@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2011, 
+      "cumarea": 2897.3642408291266, 
+      "area": 15.370000000000001, 
+      "num_lifts": 143, 
+      "name": "Heuberg Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "uid": "f5f961d6-609e-48b4-9cf0-9789b6ff59ba"
+    }, 
+    {
+      "max_elev": 2014, 
+      "cumarea": 2889.3620627267123, 
+      "area": 13.770000000000001, 
+      "num_lifts": 88, 
+      "name": "Dam\u00fcls", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 690, 
+      "uid": "bb6710bf-0c9f-484d-b9c3-85a9003f2c83"
+    }, 
+    {
+      "max_elev": 2013, 
+      "uid": "3f0f9de9-0fce-408b-914c-56fee137e364", 
+      "area": 3.56, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 806, 
+      "cumarea": 2892.631823271576
+    }
+  ], 
+  "end_x": 2897.557546935015, 
+  "num": 329, 
+  "zoom": 11, 
+  "start_x": 2888.7770695200606
+}

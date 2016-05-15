@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2495, 
+      "cumarea": 1260.337337564237, 
+      "area": 6.06, 
+      "num_lifts": 37, 
+      "name": "Piau Engaly", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1424, 
+      "uid": "09b8c17d-73e1-4b55-b3e6-29168c53fbf8"
+    }, 
+    {
+      "max_elev": 2494, 
+      "uid": "79feca78-6039-4287-bbab-fad9176a9336", 
+      "area": 4.15, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2092, 
+      "cumarea": 1263.7604458984797
+    }
+  ], 
+  "end_x": 1264.3887477534613, 
+  "num": 287, 
+  "zoom": 12, 
+  "start_x": 1259.998509045984
+}

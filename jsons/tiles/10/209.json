@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 1831, 
+      "cumarea": 3671.241437763361, 
+      "area": 5.89, 
+      "num_lifts": 18, 
+      "name": "Kagura", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 629, 
+      "uid": "5c73ac53-95d6-4b3d-8e17-87c207a57239"
+    }, 
+    {
+      "max_elev": 1830, 
+      "cumarea": 3680.200549827519, 
+      "area": 5.38, 
+      "num_lifts": 20, 
+      "name": "Hakuba Happoone Winter Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 753, 
+      "uid": "5f6b0de6-9652-41c9-ac93-fe7530da3901"
+    }, 
+    {
+      "max_elev": 1829, 
+      "uid": "3bbf7c1e-e936-4301-a804-8d48cac78e22", 
+      "area": 3.52, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1409, 
+      "cumarea": 3683.4590108171287
+    }, 
+    {
+      "max_elev": 1829, 
+      "uid": "143d2341-ed9e-48c5-952d-bba4486ce212", 
+      "area": 3.4000000000000004, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1465, 
+      "cumarea": 3686.6827862487507
+    }, 
+    {
+      "max_elev": 1830, 
+      "uid": "17b106ec-a9b7-48c4-b5a3-26c455b0a294", 
+      "area": 1.98, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 880, 
+      "cumarea": 3673.9245346080675
+    }, 
+    {
+      "max_elev": 1830, 
+      "uid": "5845efa2-9089-4245-862d-82e0ef8ba0d6", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1804, 
+      "cumarea": 3676.517861453345
+    }
+  ], 
+  "end_x": 3687.8005142809284, 
+  "num": 209, 
+  "zoom": 10, 
+  "start_x": 3670.239559451019
+}

@@ -1,0 +1,46 @@
+{
+  "shown": [
+    {
+      "max_elev": 2429, 
+      "cumarea": 1449.8258943993578, 
+      "area": 12.700000000000001, 
+      "num_lifts": 68, 
+      "name": "Les Contamines Montjoie", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1149, 
+      "uid": "df37a228-9d6c-4c02-9373-ba2433839787"
+    }, 
+    {
+      "max_elev": 2429, 
+      "cumarea": 1453.9115664907883, 
+      "area": 8.05, 
+      "num_lifts": 39, 
+      "name": "Bardonecchia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1294, 
+      "uid": "fe94a0d3-6759-417a-b9ad-73e8d24ea996"
+    }, 
+    {
+      "max_elev": 2430, 
+      "uid": "53b2dceb-944a-4f07-99ca-b93b30a69e6c", 
+      "area": 2.24, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2116, 
+      "cumarea": 1445.2842924058932
+    }, 
+    {
+      "max_elev": 2430, 
+      "uid": "f24e60d0-5a28-4f6e-b18e-0bb2039dafe7", 
+      "area": 2.04, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2185, 
+      "cumarea": 1442.4778165400262
+    }
+  ], 
+  "end_x": 1457.5592508824623, 
+  "num": 82, 
+  "zoom": 10, 
+  "start_x": 1439.998296052553
+}

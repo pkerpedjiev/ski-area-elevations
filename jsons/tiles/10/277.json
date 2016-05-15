@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1605, 
+      "uid": "29bdb6c8-271a-461f-9a2d-9fcd86113480", 
+      "area": 3.3600000000000003, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1252, 
+      "cumarea": 4864.79292945152
+    }, 
+    {
+      "max_elev": 1604, 
+      "uid": "1c6af214-4d63-41b4-a0c5-e1c8c28743b9", 
+      "area": 2.41, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1290, 
+      "cumarea": 4878.394269738139
+    }, 
+    {
+      "max_elev": 1605, 
+      "uid": "d7806f30-0301-452a-8649-a704ca18a74a", 
+      "area": 2.23, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 492, 
+      "cumarea": 4867.5949310369915
+    }, 
+    {
+      "max_elev": 1605, 
+      "uid": "12d434ba-2375-4653-9967-6e6cdba267ff", 
+      "area": 2.0700000000000003, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 458, 
+      "cumarea": 4870.322479644269
+    }, 
+    {
+      "max_elev": 1603, 
+      "uid": "41181022-9381-4288-9956-69175ab1eceb", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1122, 
+      "cumarea": 4880.998585704992
+    }, 
+    {
+      "max_elev": 1605, 
+      "uid": "684a47eb-1270-4f83-8d7d-bc081ae6dcf3", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1349, 
+      "cumarea": 4872.921316145358
+    }, 
+    {
+      "max_elev": 1605, 
+      "uid": "53df9671-c50c-4d3b-986e-f9ab58560563", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1547, 
+      "cumarea": 4875.514642990636
+    }
+  ], 
+  "end_x": 4881.945442714754, 
+  "num": 277, 
+  "zoom": 10, 
+  "start_x": 4864.384487884845
+}

@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 2410, 
+      "cumarea": 1518.291883146536, 
+      "area": 4.82, 
+      "num_lifts": 33, 
+      "name": "Termas de Chillan", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1536, 
+      "uid": "d7efe46c-7709-4a91-a470-e0ee5cdad24a"
+    }, 
+    {
+      "max_elev": 2412, 
+      "uid": "4ae359e0-ea43-4657-be74-bb6001354771", 
+      "area": 2.47, 
+      "num_lifts": 25, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2037, 
+      "cumarea": 1512.0878374416316
+    }, 
+    {
+      "max_elev": 2410, 
+      "uid": "a296d492-8c2e-47d8-bddc-f3160446e73f", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1658, 
+      "cumarea": 1514.7191092184735
+    }, 
+    {
+      "max_elev": 2409, 
+      "uid": "c1baf52f-37b4-46b1-bed2-50a260412d3e", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2098, 
+      "cumarea": 1523.5168343572473
+    }, 
+    {
+      "max_elev": 2409, 
+      "uid": "9f3c6939-46a2-40f5-b19c-8a58cd32dbff", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2048, 
+      "cumarea": 1520.901648718157
+    }
+  ], 
+  "end_x": 1527.803070202099, 
+  "num": 86, 
+  "zoom": 10, 
+  "start_x": 1510.2421153721898
+}

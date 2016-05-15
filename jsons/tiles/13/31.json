@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3822, 
+      "cumarea": 68.16702939406306, 
+      "area": 8.98, 
+      "num_lifts": 19, 
+      "name": "Snowmass", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2473, 
+      "uid": "dc632447-315f-43f7-b2ce-b6c524b50aee"
+    }
+  ], 
+  "end_x": 70.24381931963673, 
+  "num": 31, 
+  "zoom": 13, 
+  "start_x": 68.04869996589808
+}

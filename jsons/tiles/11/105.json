@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2643, 
+      "cumarea": 926.2029000769185, 
+      "area": 25.66, 
+      "num_lifts": 170, 
+      "name": "Grandvalira", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "uid": "dba83587-156c-43a2-b7ba-c32832271d25"
+    }, 
+    {
+      "max_elev": 2641, 
+      "uid": "3e546d2e-3d45-4890-95e9-e627d17cec23", 
+      "area": 3.56, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1460, 
+      "cumarea": 929.4726606217824
+    }
+  ], 
+  "end_x": 930.7306059851867, 
+  "num": 105, 
+  "zoom": 11, 
+  "start_x": 921.9501285702321
+}

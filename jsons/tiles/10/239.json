@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1731, 
+      "uid": "812f6f3d-1e32-4dde-ad6a-065a15e9edb8", 
+      "area": 3.9400000000000004, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 773, 
+      "cumarea": 4197.401903843878
+    }, 
+    {
+      "max_elev": 1728, 
+      "uid": "0e5257a0-68aa-4ed9-81b7-0b65daf29d12", 
+      "area": 3.76, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 950, 
+      "cumarea": 4214.142169909764
+    }, 
+    {
+      "max_elev": 1730, 
+      "uid": "e4ed689a-5308-44c9-af99-e42467eb45bb", 
+      "area": 2.3200000000000003, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 856, 
+      "cumarea": 4202.999593009278
+    }, 
+    {
+      "max_elev": 1731, 
+      "uid": "a5da7ab0-6afd-4c41-9bd4-69f699fd9cf3", 
+      "area": 2.13, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1602, 
+      "cumarea": 4200.1580258236
+    }, 
+    {
+      "max_elev": 1730, 
+      "uid": "a33bdd32-8fc3-43ff-abc5-8f97630608fa", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1268, 
+      "cumarea": 4205.614778648369
+    }, 
+    {
+      "max_elev": 1730, 
+      "uid": "0fdf6d78-a02a-467e-b8cd-c3a6c879edcc", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1510, 
+      "cumarea": 4208.22996428746
+    }, 
+    {
+      "max_elev": 1729, 
+      "uid": "e82f992b-7de0-42bb-8026-516e148619bf", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1721, 
+      "cumarea": 4210.817750952362
+    }
+  ], 
+  "end_x": 4214.629159178204, 
+  "num": 239, 
+  "zoom": 10, 
+  "start_x": 4197.068204348294
+}

@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 2944, 
+      "cumarea": 574.6375852533355, 
+      "area": 10.440000000000001, 
+      "num_lifts": 44, 
+      "name": " Andermatt-Sedrun", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1436, 
+      "uid": "bdd3ba97-f1a6-45a6-a3c3-ffa9c3dd6a44"
+    }, 
+    {
+      "max_elev": 2962, 
+      "cumarea": 563.7488673194497, 
+      "area": 10.42, 
+      "num_lifts": 69, 
+      "name": "Lauterbrunnen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 804, 
+      "uid": "05758ad4-8ff3-440b-844c-9051256ff37f"
+    }, 
+    {
+      "max_elev": 2914, 
+      "cumarea": 592.2180701528202, 
+      "area": 6.62, 
+      "num_lifts": 29, 
+      "name": "Zugspitze", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 988, 
+      "uid": "495c118a-ba1b-4a80-9171-3f9dce195329"
+    }, 
+    {
+      "max_elev": 2954, 
+      "cumarea": 567.6344206679642, 
+      "area": 6.59, 
+      "num_lifts": 14, 
+      "name": "Pejo 3000 - Val di Sole", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1406, 
+      "uid": "306fa6d2-965a-47bc-9b56-821ff7bd4d61"
+    }, 
+    {
+      "max_elev": 2913, 
+      "uid": "43a3cf48-f5e5-4297-b38f-e103b53be592", 
+      "area": 4.92, 
+      "num_lifts": 33, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2311, 
+      "cumarea": 595.8113786833245
+    }, 
+    {
+      "max_elev": 2939, 
+      "uid": "241cde13-abbc-40ce-9f7d-721a42dc0e42", 
+      "area": 3.23, 
+      "num_lifts": 26, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2675, 
+      "cumarea": 577.81006739057
+    }, 
+    {
+      "max_elev": 2926, 
+      "uid": "27548ce3-52e7-4f28-ace0-a85647e131e5", 
+      "area": 1.97, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2271, 
+      "cumarea": 583.1193727101618
+    }, 
+    {
+      "max_elev": 2952, 
+      "uid": "acd80e46-b529-4941-aa7a-98808fbcdfd2", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2200, 
+      "cumarea": 570.291940670881
+    }, 
+    {
+      "max_elev": 2938, 
+      "uid": "58bbd2eb-c4cd-4d85-bd51-568b8e05d482", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 2703, 
+      "cumarea": 580.4413391674119
+    }, 
+    {
+      "max_elev": 2918, 
+      "uid": "9de1c5af-1089-40a5-aa10-b64d3bd86717", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2800, 
+      "cumarea": 588.3279747828714
+    }
+  ], 
+  "end_x": 597.0724642169123, 
+  "num": 16, 
+  "zoom": 9, 
+  "start_x": 561.9505545570938
+}

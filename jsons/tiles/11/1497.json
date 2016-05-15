@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 513, 
+      "cumarea": 13147.672043600594, 
+      "area": 5.21, 
+      "num_lifts": 11, 
+      "name": "Lutsen Mountains", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 276, 
+      "uid": "0fde0435-68f7-4e05-adeb-27c04a43cbed"
+    }, 
+    {
+      "max_elev": 512, 
+      "uid": "9cc37da7-96da-4dac-bcf6-57fa2730962a", 
+      "area": 2.25, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 265, 
+      "cumarea": 13153.0981594559
+    }, 
+    {
+      "max_elev": 513, 
+      "uid": "59413b43-6924-4964-9212-cbec7c765e15", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 10, 
+      "cumarea": 13150.287229239684
+    }
+  ], 
+  "end_x": 13153.155167601979, 
+  "num": 1497, 
+  "zoom": 11, 
+  "start_x": 13144.374690187025
+}

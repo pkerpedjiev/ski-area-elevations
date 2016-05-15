@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 2077, 
+      "cumarea": 2603.876541444135, 
+      "area": 14.17, 
+      "num_lifts": 82, 
+      "name": "Prato Nevoso", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "55e07576-229e-42f9-a0a1-cdce847f8f5b"
+    }, 
+    {
+      "max_elev": 2077, 
+      "uid": "619f95bd-0b19-4cf5-9ab3-6dfeae9f8a25", 
+      "area": 4.67, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1311, 
+      "cumarea": 2607.417700515816
+    }, 
+    {
+      "max_elev": 2079, 
+      "uid": "d81dd8a1-254d-4998-97dc-3ab2e2385936", 
+      "area": 4.37, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1203, 
+      "cumarea": 2599.2254143904324
+    }, 
+    {
+      "max_elev": 2071, 
+      "cumarea": 2615.750626629311, 
+      "area": 3.0300000000000002, 
+      "num_lifts": 15, 
+      "name": "Monte Terminillo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1532, 
+      "uid": "28e44d82-5356-43ed-8aac-e4b9bc157ee3"
+    }, 
+    {
+      "max_elev": 2077, 
+      "uid": "024c4fc9-a9a3-4380-b229-2d78b8676290", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1368, 
+      "cumarea": 2610.0542773448874
+    }, 
+    {
+      "max_elev": 2075, 
+      "uid": "4881c962-9f6f-4e08-961c-41e744ad2b43", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2075, 
+      "cumarea": 2612.6420640097895
+    }
+  ], 
+  "end_x": 2616.5822696564683, 
+  "num": 148, 
+  "zoom": 10, 
+  "start_x": 2599.0213148265593
+}

@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 2914, 
+      "cumarea": 592.2180701528202, 
+      "area": 6.62, 
+      "num_lifts": 29, 
+      "name": "Zugspitze", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 988, 
+      "uid": "495c118a-ba1b-4a80-9171-3f9dce195329"
+    }, 
+    {
+      "max_elev": 2913, 
+      "uid": "43a3cf48-f5e5-4297-b38f-e103b53be592", 
+      "area": 4.92, 
+      "num_lifts": 33, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2311, 
+      "cumarea": 595.8113786833245
+    }, 
+    {
+      "max_elev": 2926, 
+      "uid": "27548ce3-52e7-4f28-ace0-a85647e131e5", 
+      "area": 1.97, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2271, 
+      "cumarea": 583.1193727101618
+    }, 
+    {
+      "max_elev": 2938, 
+      "uid": "58bbd2eb-c4cd-4d85-bd51-568b8e05d482", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 2703, 
+      "cumarea": 580.4413391674119
+    }, 
+    {
+      "max_elev": 2918, 
+      "uid": "9de1c5af-1089-40a5-aa10-b64d3bd86717", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2800, 
+      "cumarea": 588.3279747828714
+    }, 
+    {
+      "max_elev": 2921, 
+      "uid": "b65cd52f-ecd3-4d3d-8f72-51a53637294d", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2840, 
+      "cumarea": 585.7182092112505
+    }
+  ], 
+  "end_x": 597.0724642169123, 
+  "num": 33, 
+  "zoom": 10, 
+  "start_x": 579.5115093870031
+}

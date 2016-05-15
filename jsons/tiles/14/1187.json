@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2485, 
+      "cumarea": 1303.797474882241, 
+      "area": 6.67, 
+      "num_lifts": 27, 
+      "name": "Discovery Ski Area", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1742, 
+      "uid": "37d229a7-64cb-4bbe-a305-70dbeb65a03b"
+    }
+  ], 
+  "end_x": 1303.900896120757, 
+  "num": 1187, 
+  "zoom": 14, 
+  "start_x": 1302.8033364438875
+}

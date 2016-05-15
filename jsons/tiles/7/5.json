@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2779, 
+      "cumarea": 742.7131487276095, 
+      "area": 46.54, 
+      "num_lifts": 250, 
+      "name": "Sestriere", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "uid": "4cda8c6e-c67d-4fe1-8d31-639f8600092b"
+    }, 
+    {
+      "max_elev": 2799, 
+      "cumarea": 712.8792078261358, 
+      "area": 28.82, 
+      "num_lifts": 178, 
+      "name": "Serfaus - Fiss - Ladis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "10a39d47-7af7-45f9-9695-87287fa7ae3f"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 756.5142216207764, 
+      "area": 28.740000000000002, 
+      "num_lifts": 188, 
+      "name": "Serre Chevalier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1212, 
+      "uid": "800c6557-0a85-43f7-b9b3-03cb3cc7c47e"
+    }, 
+    {
+      "max_elev": 2728, 
+      "cumarea": 803.3507176825019, 
+      "area": 28.64, 
+      "num_lifts": 143, 
+      "name": "Vars", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1639, 
+      "uid": "3075b935-b72c-4bc9-b343-d739282ddbee"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 761.6025330756235, 
+      "area": 21.94, 
+      "num_lifts": 163, 
+      "name": "St. Anton am Arlberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1279, 
+      "uid": "1fca6592-d5f9-4eda-b94b-7d587982aa38"
+    }, 
+    {
+      "max_elev": 2742, 
+      "cumarea": 788.5307101419714, 
+      "area": 17.71, 
+      "num_lifts": 114, 
+      "name": "Termignon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1295, 
+      "uid": "35ccc4fa-055e-4ff6-b7ec-9060931da9ec"
+    }, 
+    {
+      "max_elev": 2699, 
+      "cumarea": 840.3191814779524, 
+      "area": 15.690000000000001, 
+      "num_lifts": 40, 
+      "name": "Savognin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1171, 
+      "uid": "4fe2a479-3a65-42d1-b1d6-35b8e342fd11"
+    }, 
+    {
+      "max_elev": 2779, 
+      "cumarea": 747.3775952912296, 
+      "area": 14.360000000000001, 
+      "num_lifts": 89, 
+      "name": "Livigno", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1815, 
+      "uid": "fbfabb40-3727-4410-8163-130b4d89982d"
+    }, 
+    {
+      "max_elev": 2717, 
+      "cumarea": 814.732283643143, 
+      "area": 10.850000000000001, 
+      "num_lifts": 77, 
+      "name": "Orci\u00e8res Merlette", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1830, 
+      "uid": "3d128f35-e5fe-4467-b5b0-e5183a723698"
+    }, 
+    {
+      "max_elev": 2751, 
+      "cumarea": 774.446009170805, 
+      "area": 10.440000000000001, 
+      "num_lifts": 64, 
+      "name": "Mt. Bachelor", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1737, 
+      "uid": "de9ecbf4-0dc8-4f31-bda8-cfa270ea31c9"
+    }
+  ], 
+  "end_x": 842.9258318356408, 
+  "num": 5, 
+  "zoom": 7, 
+  "start_x": 702.4381931963674
+}

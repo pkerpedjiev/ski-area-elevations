@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2659, 
+      "cumarea": 907.1212484262666, 
+      "area": 5.75, 
+      "num_lifts": 37, 
+      "name": "Puigmal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1852, 
+      "uid": "969b9ea4-3a45-4069-8b40-4a7f3a028f74"
+    }, 
+    {
+      "max_elev": 2655, 
+      "uid": "7493dd5b-269b-4769-b662-421fe17c2165", 
+      "area": 1.95, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1908, 
+      "cumarea": 912.4042634379324
+    }, 
+    {
+      "max_elev": 2658, 
+      "uid": "ff783514-df93-4b4c-aa24-260d7d684055", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2194, 
+      "cumarea": 909.7364340653568
+    }
+  ], 
+  "end_x": 913.1696511552775, 
+  "num": 103, 
+  "zoom": 11, 
+  "start_x": 904.3891737403229
+}

@@ -1,0 +1,105 @@
+{
+  "shown": [
+    {
+      "max_elev": 1181, 
+      "cumarea": 7156.067220256879, 
+      "area": 10.010000000000002, 
+      "num_lifts": 78, 
+      "name": "Niseko Mt. Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 260, 
+      "uid": "9990d135-4a98-455f-aa1e-afef9011ce52"
+    }, 
+    {
+      "max_elev": 1183, 
+      "cumarea": 7135.94935156717, 
+      "area": 7.87, 
+      "num_lifts": 95, 
+      "name": "Stratton", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 605, 
+      "uid": "fb10030f-6e16-4bfa-994c-b33f023f7e78"
+    }, 
+    {
+      "max_elev": 1166, 
+      "cumarea": 7277.9081682889655, 
+      "area": 5.95, 
+      "num_lifts": 83, 
+      "name": "Jay Peak", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 560, 
+      "uid": "36d7d2f4-b72e-41e2-a3d5-7cc33f738464"
+    }, 
+    {
+      "max_elev": 1180, 
+      "cumarea": 7175.980428529157, 
+      "area": 5.79, 
+      "num_lifts": 34, 
+      "name": "Kiroro", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 569, 
+      "uid": "b2092570-9338-4069-8906-4f4453fae3b4"
+    }, 
+    {
+      "max_elev": 1183, 
+      "cumarea": 7139.703755249854, 
+      "area": 5.78, 
+      "num_lifts": 53, 
+      "name": "Summit at Snoqualmie", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 797, 
+      "uid": "5a823805-77bd-4244-87db-67b6b10941a2"
+    }, 
+    {
+      "max_elev": 1167, 
+      "cumarea": 7254.756988389135, 
+      "area": 5.49, 
+      "num_lifts": 39, 
+      "name": "Norefjell", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 195, 
+      "uid": "14462a4c-81d8-49c7-85ec-1ed152f584b1"
+    }, 
+    {
+      "max_elev": 1176, 
+      "uid": "dcd4449f-5214-428b-9f59-02ee1ec82df8", 
+      "area": 4.39, 
+      "num_lifts": 33, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 770, 
+      "cumarea": 7198.301697289595
+    }, 
+    {
+      "max_elev": 1194, 
+      "cumarea": 7074.2728416521195, 
+      "area": 4.01, 
+      "num_lifts": 56, 
+      "name": "Pico Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 610, 
+      "uid": "6f71fd7c-fa65-4461-95e8-faaaffda32ff"
+    }, 
+    {
+      "max_elev": 1190, 
+      "uid": "0327dfca-0f78-461a-9f90-9d9007422a9c", 
+      "area": 3.8, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 550, 
+      "cumarea": 7093.659122718879
+    }, 
+    {
+      "max_elev": 1182, 
+      "uid": "1e2f2da0-3908-464f-9d7c-223179b744fc", 
+      "area": 3.62, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 101, 
+      "cumarea": 7142.9902292756915
+    }
+  ], 
+  "end_x": 7305.35720924222, 
+  "num": 25, 
+  "zoom": 6, 
+  "start_x": 7024.381931963673
+}

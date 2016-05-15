@@ -1,0 +1,99 @@
+{
+  "shown": [
+    {
+      "max_elev": 850, 
+      "cumarea": 9719.562125314185, 
+      "area": 4.9, 
+      "num_lifts": 13, 
+      "name": "Trekhgorny / Popovy Dol", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 397, 
+      "uid": "aaab1f6a-1d3f-4ae4-823d-3325bee590cc"
+    }, 
+    {
+      "max_elev": 844, 
+      "uid": "e933d63c-e3a9-4143-8a10-39ef571a61e0", 
+      "area": 3.67, 
+      "num_lifts": 33, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 519, 
+      "cumarea": 9776.384183048525
+    }, 
+    {
+      "max_elev": 845, 
+      "uid": "163c21ea-fae1-47d0-abba-a4557ada8081", 
+      "area": 2.37, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 390, 
+      "cumarea": 9751.685034556942
+    }, 
+    {
+      "max_elev": 844, 
+      "uid": "b66aaf43-0b3d-4dae-bb68-6a4170fa77d3", 
+      "area": 2.2, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 770, 
+      "cumarea": 9757.215429262036
+    }, 
+    {
+      "max_elev": 837, 
+      "uid": "62db0ad4-f35c-4cd7-b90d-1389fa0b841b", 
+      "area": 2.2, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 453, 
+      "cumarea": 9826.776643730836
+    }, 
+    {
+      "max_elev": 838, 
+      "uid": "5728fabf-cfcf-4620-8941-7a5d935ac5a0", 
+      "area": 2.19, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 631, 
+      "cumarea": 9818.790543558342
+    }, 
+    {
+      "max_elev": 847, 
+      "uid": "f8615d13-f7ad-4c64-a3c5-e5b88397360c", 
+      "area": 2.15, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 738, 
+      "cumarea": 9732.819021304838
+    }, 
+    {
+      "max_elev": 842, 
+      "uid": "ccd8756d-b353-48b2-95d3-859debb739cb", 
+      "area": 2.15, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 601, 
+      "cumarea": 9787.082461615675
+    }, 
+    {
+      "max_elev": 840, 
+      "uid": "86f9af8d-74b0-4836-9c48-70501b695c04", 
+      "area": 2.15, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 603, 
+      "cumarea": 9808.110342366012
+    }, 
+    {
+      "max_elev": 847, 
+      "uid": "f544c95d-517d-4556-ab99-49ccc473ec55", 
+      "area": 2.13, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 647, 
+      "cumarea": 9740.88385441102
+    }
+  ], 
+  "end_x": 9834.134704749144, 
+  "num": 69, 
+  "zoom": 7, 
+  "start_x": 9693.64706610987
+}

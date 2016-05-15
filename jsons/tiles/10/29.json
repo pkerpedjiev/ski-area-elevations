@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 2997, 
+      "cumarea": 512.479570726097, 
+      "area": 19.75, 
+      "num_lifts": 196, 
+      "name": "Canyons", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2051, 
+      "uid": "afa8f400-7b30-41da-aacc-4b2321d40fc8"
+    }, 
+    {
+      "max_elev": 2984, 
+      "cumarea": 523.1916664983806, 
+      "area": 11.63, 
+      "num_lifts": 26, 
+      "name": "Les diablerets - Glacier 3000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1322, 
+      "uid": "531e03fb-ebae-4635-b556-da8d263cddeb"
+    }, 
+    {
+      "max_elev": 2993, 
+      "cumarea": 515.967970310154, 
+      "area": 4.43, 
+      "num_lifts": 27, 
+      "name": "Karakol Ski Base", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2404, 
+      "uid": "10a794b4-7d58-44d6-b635-da87713c6410"
+    }, 
+    {
+      "max_elev": 2983, 
+      "uid": "afc58a30-444d-43b6-9aca-cba1f7bc4af1", 
+      "area": 2.23, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2495, 
+      "cumarea": 525.9936680838526
+    }, 
+    {
+      "max_elev": 2987, 
+      "uid": "03fb0cbc-9f8a-416a-9131-65111846f08a", 
+      "area": 2.16, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2415, 
+      "cumarea": 518.7380785318501
+    }
+  ], 
+  "end_x": 526.8286448972755, 
+  "num": 29, 
+  "zoom": 10, 
+  "start_x": 509.2676900673663
+}

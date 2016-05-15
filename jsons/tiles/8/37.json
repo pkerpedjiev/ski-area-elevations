@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 2077, 
+      "cumarea": 2603.876541444135, 
+      "area": 14.17, 
+      "num_lifts": 82, 
+      "name": "Prato Nevoso", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "55e07576-229e-42f9-a0a1-cdce847f8f5b"
+    }, 
+    {
+      "max_elev": 2064, 
+      "cumarea": 2648.473072893715, 
+      "area": 12.690000000000001, 
+      "num_lifts": 52, 
+      "name": "Civetta", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "eb44c7d5-d1b6-454f-8f1f-8a980a913e99"
+    }, 
+    {
+      "max_elev": 2065, 
+      "cumarea": 2643.932258611989, 
+      "area": 11.92, 
+      "num_lifts": 72, 
+      "name": "Whitefish", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1367, 
+      "uid": "40594831-87ca-435e-90e6-8164f7a67f35"
+    }, 
+    {
+      "max_elev": 2064, 
+      "uid": "80f4d2c1-2b88-442c-a0de-71367e76880f", 
+      "area": 4.69, 
+      "num_lifts": 36, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1393, 
+      "cumarea": 2652.0185054761732
+    }, 
+    {
+      "max_elev": 2077, 
+      "uid": "619f95bd-0b19-4cf5-9ab3-6dfeae9f8a25", 
+      "area": 4.67, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1311, 
+      "cumarea": 2607.417700515816
+    }, 
+    {
+      "max_elev": 2062, 
+      "cumarea": 2655.5248026296877, 
+      "area": 4.51, 
+      "num_lifts": 25, 
+      "name": "Engelberg-Titlis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1002, 
+      "uid": "89185e00-65bc-4f5e-a14d-5a429278e6b7"
+    }, 
+    {
+      "max_elev": 2079, 
+      "uid": "d81dd8a1-254d-4998-97dc-3ab2e2385936", 
+      "area": 4.37, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1203, 
+      "cumarea": 2599.2254143904324
+    }, 
+    {
+      "max_elev": 2070, 
+      "uid": "8bf593f9-34e0-4b2c-9dc6-3c7d6c981804", 
+      "area": 4.29, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1433, 
+      "cumarea": 2624.6737964358026
+    }, 
+    {
+      "max_elev": 2068, 
+      "uid": "a8a01cd0-6b48-4cd7-971b-4b37cdff3d8c", 
+      "area": 4.22, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1457, 
+      "cumarea": 2634.2349825086076
+    }, 
+    {
+      "max_elev": 2061, 
+      "cumarea": 2658.8780571367292, 
+      "area": 3.87, 
+      "num_lifts": 16, 
+      "name": "Monte Bondone", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1196, 
+      "uid": "2a581adb-8de6-41e9-86fc-74ccbce76205"
+    }
+  ], 
+  "end_x": 2669.265134146196, 
+  "num": 37, 
+  "zoom": 8, 
+  "start_x": 2599.0213148265593
+}

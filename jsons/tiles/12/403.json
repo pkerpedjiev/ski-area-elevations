@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2317, 
+      "cumarea": 1770.503770450152, 
+      "area": 7.34, 
+      "num_lifts": 36, 
+      "name": "Axamer - Lizum", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 873, 
+      "uid": "8b9c7f52-9aa4-4e6e-8c5b-6bf025f291e3"
+    }, 
+    {
+      "max_elev": 2317, 
+      "uid": "984386fe-5c32-4bca-a012-c593e83dce7e", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1649, 
+      "cumarea": 1773.1508736922106
+    }
+  ], 
+  "end_x": 1773.6564378208275, 
+  "num": 403, 
+  "zoom": 12, 
+  "start_x": 1769.26619911335
+}

@@ -1,0 +1,46 @@
+{
+  "shown": [
+    {
+      "max_elev": 2508, 
+      "cumarea": 1215.6707797218678, 
+      "area": 24.82, 
+      "num_lifts": 133, 
+      "name": "Campiglio Dolomiti di Brenta", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 796, 
+      "uid": "5ce8bbd9-8b63-423c-8831-f0ef02da5413"
+    }, 
+    {
+      "max_elev": 2508, 
+      "cumarea": 1220.4557909641062, 
+      "area": 16.2, 
+      "num_lifts": 147, 
+      "name": "La Molina", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1614, 
+      "uid": "8c9a78cc-1ac7-4433-880d-59b2fcac8a8e"
+    }, 
+    {
+      "max_elev": 2508, 
+      "uid": "aed2a07d-812c-4287-a468-01fd4f890361", 
+      "area": 2.69, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1771, 
+      "cumarea": 1223.44533215772
+    }, 
+    {
+      "max_elev": 2507, 
+      "uid": "91641a3a-db63-4ec9-bbf2-279ea60b2f9a", 
+      "area": 2.63, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1845, 
+      "cumarea": 1226.4123160039096
+    }
+  ], 
+  "end_x": 1229.266838093643, 
+  "num": 69, 
+  "zoom": 10, 
+  "start_x": 1211.7058832637338
+}

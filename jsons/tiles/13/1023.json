@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2192, 
+      "cumarea": 2247.0624414685694, 
+      "area": 16.94, 
+      "num_lifts": 80, 
+      "name": "Adelboden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1072, 
+      "uid": "33e8d1ca-e837-4026-b15c-5157934ea463"
+    }
+  ], 
+  "end_x": 2247.8022182283753, 
+  "num": 1023, 
+  "zoom": 13, 
+  "start_x": 2245.607098874637
+}

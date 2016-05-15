@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 777, 
+      "cumarea": 10492.222799810897, 
+      "area": 6.75, 
+      "num_lifts": 67, 
+      "name": "Le Massif de Charlevoix", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 12, 
+      "uid": "b33fb75b-a0d1-48c0-9d0e-45c607ec3e74"
+    }
+  ], 
+  "end_x": 10492.670510870736, 
+  "num": 9559, 
+  "zoom": 14, 
+  "start_x": 10491.572951193866
+}

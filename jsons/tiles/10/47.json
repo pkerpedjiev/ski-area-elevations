@@ -1,0 +1,47 @@
+{
+  "shown": [
+    {
+      "max_elev": 2699, 
+      "cumarea": 840.3191814779524, 
+      "area": 15.690000000000001, 
+      "num_lifts": 40, 
+      "name": "Savognin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1171, 
+      "uid": "4fe2a479-3a65-42d1-b1d6-35b8e342fd11"
+    }, 
+    {
+      "max_elev": 2710, 
+      "cumarea": 829.3932260264404, 
+      "area": 9.05, 
+      "num_lifts": 53, 
+      "name": "Aosta Valley", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 568, 
+      "uid": "cc19a62a-dd88-43c1-863c-13121ea0cdb0"
+    }, 
+    {
+      "max_elev": 2709, 
+      "cumarea": 832.9618419443542, 
+      "area": 4.8, 
+      "num_lifts": 31, 
+      "name": "Bardonecchia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1341, 
+      "uid": "90eec04b-b957-48e9-a05a-582ec6e77e99"
+    }, 
+    {
+      "max_elev": 2706, 
+      "uid": "b954e5b0-4737-48e6-a1b6-3d3501ad6cd6", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2522, 
+      "cumarea": 835.5661579112075
+    }
+  ], 
+  "end_x": 842.9258318356408, 
+  "num": 47, 
+  "zoom": 10, 
+  "start_x": 825.3648770057316
+}

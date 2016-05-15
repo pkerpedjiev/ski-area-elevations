@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3286, 
+      "cumarea": 281.0341381588327, 
+      "area": 4.45, 
+      "num_lifts": 9, 
+      "name": "Purgatory", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2679, 
+      "uid": "16dfa086-35d1-4360-94b3-b433be9ebace"
+    }, 
+    {
+      "max_elev": 3286, 
+      "cumarea": 283.6600765896992, 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "name": "Purgatory", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2839, 
+      "uid": "c5e774c4-0045-4324-bbb8-083097e9a09c"
+    }
+  ], 
+  "end_x": 285.3655159860242, 
+  "num": 64, 
+  "zoom": 12, 
+  "start_x": 280.9752772785469
+}

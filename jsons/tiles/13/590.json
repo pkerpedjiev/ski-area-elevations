@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2487, 
+      "cumarea": 1296.6760795906914, 
+      "area": 9.64, 
+      "num_lifts": 69, 
+      "name": "Chamonix", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1033, 
+      "uid": "942ed9f5-61a4-4ef1-b142-d13b52602469"
+    }
+  ], 
+  "end_x": 1297.315538059541, 
+  "num": 590, 
+  "zoom": 13, 
+  "start_x": 1295.1204187058024
+}

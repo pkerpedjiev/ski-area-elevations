@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2305, 
+      "cumarea": 1818.9323488059201, 
+      "area": 8.57, 
+      "num_lifts": 39, 
+      "name": "Bogus Basin", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1758, 
+      "uid": "56cbc73c-878f-421d-b6d6-93a2d09f0632"
+    }, 
+    {
+      "max_elev": 2304, 
+      "uid": "49aa4615-ed46-4504-8cf3-7ce6ed0bf38a", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1613, 
+      "cumarea": 1821.5689256349917
+    }
+  ], 
+  "end_x": 1821.9490636030778, 
+  "num": 414, 
+  "zoom": 12, 
+  "start_x": 1817.5588248956005
+}

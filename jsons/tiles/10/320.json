@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1453, 
+      "uid": "39e3de5a-2481-484e-a6c1-b55cd505c4a0", 
+      "area": 3.39, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 995, 
+      "cumarea": 5633.399353038375
+    }, 
+    {
+      "max_elev": 1452, 
+      "uid": "fab9fe88-132a-480b-bdb3-c46faa697f3b", 
+      "area": 2.51, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1452, 
+      "cumarea": 5636.3196357915185
+    }, 
+    {
+      "max_elev": 1454, 
+      "uid": "0aa9836b-2d4f-4720-8e7d-1bfddf6711d7", 
+      "area": 2.0, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1137, 
+      "cumarea": 5622.3282674069815
+    }, 
+    {
+      "max_elev": 1453, 
+      "uid": "6ad40db8-498b-4870-8fd3-9b4d7381456c", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1338, 
+      "cumarea": 5624.97537064904
+    }, 
+    {
+      "max_elev": 1455, 
+      "uid": "96e3ca1f-b173-4d4f-8819-4d2be773a0d4", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1190, 
+      "cumarea": 5619.635120226421
+    }, 
+    {
+      "max_elev": 1453, 
+      "uid": "194ed438-94d1-402d-a839-2cf7c769d164", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1428, 
+      "cumarea": 5627.5796866158935
+    }, 
+    {
+      "max_elev": 1453, 
+      "uid": "4c0722ec-1a8b-4d33-b8c1-155437fc1c06", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1358, 
+      "cumarea": 5630.178523116982
+    }
+  ], 
+  "end_x": 5637.066500400848, 
+  "num": 320, 
+  "zoom": 10, 
+  "start_x": 5619.505545570939
+}

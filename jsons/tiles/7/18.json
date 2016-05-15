@@ -1,0 +1,105 @@
+{
+  "shown": [
+    {
+      "max_elev": 2084, 
+      "cumarea": 2583.2263587434677, 
+      "area": 60.94, 
+      "num_lifts": 185, 
+      "name": "Saalbach Hinterglemm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 819, 
+      "uid": "65225423-0c14-4f9f-af7c-47c355a532b8"
+    }, 
+    {
+      "max_elev": 2077, 
+      "cumarea": 2603.876541444135, 
+      "area": 14.17, 
+      "num_lifts": 82, 
+      "name": "Prato Nevoso", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "55e07576-229e-42f9-a0a1-cdce847f8f5b"
+    }, 
+    {
+      "max_elev": 2064, 
+      "cumarea": 2648.473072893715, 
+      "area": 12.690000000000001, 
+      "num_lifts": 52, 
+      "name": "Civetta", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "eb44c7d5-d1b6-454f-8f1f-8a980a913e99"
+    }, 
+    {
+      "max_elev": 2065, 
+      "cumarea": 2643.932258611989, 
+      "area": 11.92, 
+      "num_lifts": 72, 
+      "name": "Whitefish", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1367, 
+      "uid": "40594831-87ca-435e-90e6-8164f7a67f35"
+    }, 
+    {
+      "max_elev": 2081, 
+      "cumarea": 2595.750651381325, 
+      "area": 9.07, 
+      "num_lifts": 88, 
+      "name": "Cerro Catedral", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1037, 
+      "uid": "c3813a72-a8fd-4146-bf85-e265db6d7ec2"
+    }, 
+    {
+      "max_elev": 2093, 
+      "cumarea": 2551.397134907967, 
+      "area": 5.75, 
+      "num_lifts": 17, 
+      "name": "Fernie", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1064, 
+      "uid": "0f90a96c-b95e-4df6-9db6-e73e9a496f6d"
+    }, 
+    {
+      "max_elev": 2094, 
+      "uid": "490a145b-ee69-4228-b244-15501c18159b", 
+      "area": 5.61, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 538, 
+      "cumarea": 2544.297267869681
+    }, 
+    {
+      "max_elev": 2087, 
+      "cumarea": 2565.8782830390146, 
+      "area": 5.13, 
+      "num_lifts": 26, 
+      "name": "Fanningberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1490, 
+      "uid": "f51431d6-ac7a-4988-8e81-46419fd1a9ea"
+    }, 
+    {
+      "max_elev": 2064, 
+      "uid": "80f4d2c1-2b88-442c-a0de-71367e76880f", 
+      "area": 4.69, 
+      "num_lifts": 36, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1393, 
+      "cumarea": 2652.0185054761732
+    }, 
+    {
+      "max_elev": 2077, 
+      "uid": "619f95bd-0b19-4cf5-9ab3-6dfeae9f8a25", 
+      "area": 4.67, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1311, 
+      "cumarea": 2607.417700515816
+    }
+  ], 
+  "end_x": 2669.265134146196, 
+  "num": 18, 
+  "zoom": 7, 
+  "start_x": 2528.7774955069226
+}

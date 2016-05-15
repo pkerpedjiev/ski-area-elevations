@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 186, 
+      "cumarea": 16127.292520662542, 
+      "area": 2.04, 
+      "num_lifts": 9, 
+      "name": "Martock", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 29, 
+      "uid": "7230b281-182e-446d-8783-51297eb45baf"
+    }, 
+    {
+      "max_elev": 186, 
+      "uid": "4df46f07-9dce-40b7-9a15-1f727f5aceef", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 134, 
+      "cumarea": 16121.991784189784
+    }, 
+    {
+      "max_elev": 186, 
+      "uid": "807b11cb-90e8-4ab5-b964-1fcb150bca79", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 185, 
+      "cumarea": 16124.579570854687
+    }
+  ], 
+  "end_x": 16129.737011271583, 
+  "num": 1836, 
+  "zoom": 11, 
+  "start_x": 16120.956533856628
+}

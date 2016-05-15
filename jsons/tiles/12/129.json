@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2954, 
+      "cumarea": 567.6344206679642, 
+      "area": 6.59, 
+      "num_lifts": 14, 
+      "name": "Pejo 3000 - Val di Sole", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1406, 
+      "uid": "306fa6d2-965a-47bc-9b56-821ff7bd4d61"
+    }, 
+    {
+      "max_elev": 2952, 
+      "uid": "acd80e46-b529-4941-aa7a-98808fbcdfd2", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2200, 
+      "cumarea": 570.291940670881
+    }
+  ], 
+  "end_x": 570.7310319720484, 
+  "num": 129, 
+  "zoom": 12, 
+  "start_x": 566.3407932645712
+}

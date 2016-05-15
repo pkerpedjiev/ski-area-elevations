@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 1405, 
+      "cumarea": 5873.939408222461, 
+      "area": 9.16, 
+      "num_lifts": 105, 
+      "name": "Hemsedal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "uid": "a2fcb608-abf4-4691-af7a-1f68ac5cbbd6"
+    }, 
+    {
+      "max_elev": 1414, 
+      "cumarea": 5837.651460153278, 
+      "area": 8.07, 
+      "num_lifts": 33, 
+      "name": "M\u00e9tabief Mont d'Or", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 881, 
+      "uid": "05b7cbd7-4181-4e0f-9bee-55a65daf0cb7"
+    }, 
+    {
+      "max_elev": 1415, 
+      "cumarea": 5830.730397548061, 
+      "area": 4.72, 
+      "num_lifts": 19, 
+      "name": "Lackenhof - \u00d6tscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 815, 
+      "uid": "9a7f4859-9e31-40cd-a1fb-4cfb01c7284f"
+    }, 
+    {
+      "max_elev": 1401, 
+      "uid": "69650cea-d143-4715-b429-e8fb3a8e5db1", 
+      "area": 2.72, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1091, 
+      "cumarea": 5890.091491865747
+    }, 
+    {
+      "max_elev": 1401, 
+      "uid": "07948759-86c6-4340-b9ba-ccf9da3b1cc2", 
+      "area": 2.64, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1028, 
+      "cumarea": 5893.062270782905
+    }, 
+    {
+      "max_elev": 1413, 
+      "uid": "95d98339-5f8b-4b7f-aa01-53d84425327a", 
+      "area": 2.31, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 754, 
+      "cumarea": 5845.761833340825
+    }, 
+    {
+      "max_elev": 1415, 
+      "cumarea": 5833.563306670996, 
+      "area": 2.3, 
+      "num_lifts": 7, 
+      "name": "Stoos Morschach", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 603, 
+      "uid": "3fb34c1e-8b3a-48b3-bd87-ccf0d3240339"
+    }, 
+    {
+      "max_elev": 1412, 
+      "uid": "13a17d67-b089-4ace-9d48-7c39908f9de5", 
+      "area": 2.25, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1178, 
+      "cumarea": 5848.572763557042
+    }, 
+    {
+      "max_elev": 1410, 
+      "uid": "07b69e00-fe50-4974-8f1e-68c7e3e647d0", 
+      "area": 2.22, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1200, 
+      "cumarea": 5859.188490052783
+    }, 
+    {
+      "max_elev": 1406, 
+      "cumarea": 5864.537938877783, 
+      "area": 2.13, 
+      "num_lifts": 10, 
+      "name": "Sappada", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1197, 
+      "uid": "60001199-5e5e-417c-990c-ededcd7d87c4"
+    }
+  ], 
+  "end_x": 5900.480822849486, 
+  "num": 83, 
+  "zoom": 8, 
+  "start_x": 5830.237003529849
+}

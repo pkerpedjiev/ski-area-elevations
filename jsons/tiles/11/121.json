@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2583, 
+      "cumarea": 1065.5022913984283, 
+      "area": 10.75, 
+      "num_lifts": 59, 
+      "name": "Isola 2000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1830, 
+      "uid": "35db3f2a-d8b1-4801-a73f-23faa0c3b424"
+    }, 
+    {
+      "max_elev": 2577, 
+      "cumarea": 1069.6435333410136, 
+      "area": 8.51, 
+      "num_lifts": 46, 
+      "name": "Davos Klosters", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1532, 
+      "uid": "1ff83750-1ed4-4742-8959-34115af31167"
+    }
+  ], 
+  "end_x": 1071.21824462446, 
+  "num": 121, 
+  "zoom": 11, 
+  "start_x": 1062.4377672095056
+}

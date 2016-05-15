@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2046, 
+      "cumarea": 2722.6097699854713, 
+      "area": 5.23, 
+      "num_lifts": 13, 
+      "name": "Seefeld", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1231, 
+      "uid": "724e63fd-fa6a-4c4f-8b76-873b2dc873d8"
+    }, 
+    {
+      "max_elev": 2045, 
+      "cumarea": 2726.240969389687, 
+      "area": 5.11, 
+      "num_lifts": 15, 
+      "name": "Spieljoch - F\u00fcgen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 639, 
+      "uid": "b6a517d0-ab29-4aaa-89cf-15430f240ce7"
+    }, 
+    {
+      "max_elev": 2045, 
+      "uid": "cf05b1ba-5f5b-4305-a014-054e6a345d81", 
+      "area": 2.9000000000000004, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1491, 
+      "cumarea": 2729.3056801266794
+    }
+  ], 
+  "end_x": 2730.7284760508783, 
+  "num": 310, 
+  "zoom": 11, 
+  "start_x": 2721.947998635924
+}

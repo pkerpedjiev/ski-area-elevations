@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 362, 
+      "uid": "f5030717-8a03-4f75-83e8-255286c772b6", 
+      "area": 2.1, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 290, 
+      "cumarea": 14552.571492397648
+    }, 
+    {
+      "max_elev": 362, 
+      "uid": "84561485-7e60-482b-8e5b-ea48974cd386", 
+      "area": 2.04, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 229, 
+      "cumarea": 14557.94196220842
+    }, 
+    {
+      "max_elev": 362, 
+      "uid": "dd0fae71-c8f7-46de-8752-4186f2c716d9", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 271, 
+      "cumarea": 14555.229012400565
+    }, 
+    {
+      "max_elev": 363, 
+      "uid": "34e87a49-3725-4aa5-95dc-736fc8b0ecff", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 216, 
+      "cumarea": 14542.044125575885
+    }, 
+    {
+      "max_elev": 362, 
+      "uid": "f06dabfd-e8c8-463f-9d33-e15000d43125", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 284, 
+      "cumarea": 14549.829555052918
+    }, 
+    {
+      "max_elev": 363, 
+      "uid": "568450d8-fa02-4a05-9b38-355b904f999e", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 335, 
+      "cumarea": 14544.637452421162
+    }, 
+    {
+      "max_elev": 363, 
+      "uid": "0ff44358-0d63-4cfa-9d61-509fe4d65284", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 360, 
+      "cumarea": 14547.225239086065
+    }
+  ], 
+  "end_x": 14558.031553994713, 
+  "num": 828, 
+  "zoom": 10, 
+  "start_x": 14540.470599164804
+}

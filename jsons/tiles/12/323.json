@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2440, 
+      "cumarea": 1418.1891699864357, 
+      "area": 6.609999999999999, 
+      "num_lifts": 46, 
+      "name": "Hochzeiger - Pitztal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1462, 
+      "uid": "6a3888b5-6ada-42d0-91c7-a99ff892a714"
+    }, 
+    {
+      "max_elev": 2434, 
+      "cumarea": 1421.9331387918273, 
+      "area": 5.72, 
+      "num_lifts": 15, 
+      "name": "Ceillac", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1696, 
+      "uid": "617cf9cf-9deb-4499-b620-2e45ce6cf21b"
+    }
+  ], 
+  "end_x": 1422.437341222644, 
+  "num": 323, 
+  "zoom": 12, 
+  "start_x": 1418.0471025151664
+}

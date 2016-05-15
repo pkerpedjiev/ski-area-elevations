@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 513, 
+      "cumarea": 13147.672043600594, 
+      "area": 5.21, 
+      "num_lifts": 11, 
+      "name": "Lutsen Mountains", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 276, 
+      "uid": "0fde0435-68f7-4e05-adeb-27c04a43cbed"
+    }
+  ], 
+  "end_x": 13148.764928894503, 
+  "num": 11979, 
+  "zoom": 14, 
+  "start_x": 13147.667369217634
+}

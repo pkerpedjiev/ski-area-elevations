@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 152, 
+      "uid": "1c74cbde-9dde-4143-afbf-fcd0434ae1a3", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 73, 
+      "cumarea": 16496.725868098783
+    }, 
+    {
+      "max_elev": 153, 
+      "uid": "db3c675e-5472-4880-b0c7-20bc19052815", 
+      "area": 1.85, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 106, 
+      "cumarea": 16491.485438011445
+    }, 
+    {
+      "max_elev": 152, 
+      "uid": "41f465a9-24ed-4f7c-b711-f6768ec503a5", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 115, 
+      "cumarea": 16499.335633670406
+    }, 
+    {
+      "max_elev": 151, 
+      "uid": "604cd600-2e1a-4cd4-bcda-f92b1f0d7df1", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 113, 
+      "cumarea": 16504.544235743117
+    }, 
+    {
+      "max_elev": 151, 
+      "uid": "82a609f9-dd2d-4749-9414-ee92c5dc8114", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 129, 
+      "cumarea": 16507.15400131474
+    }, 
+    {
+      "max_elev": 152, 
+      "uid": "0303f493-22d5-443f-8d23-102ea8d2670b", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 108, 
+      "cumarea": 16501.934470171494
+    }, 
+    {
+      "max_elev": 153, 
+      "uid": "c960f265-b9fb-454e-8d50-d82d324f500a", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 101, 
+      "cumarea": 16494.078764856724
+    }
+  ], 
+  "end_x": 16507.297540114632, 
+  "num": 939, 
+  "zoom": 10, 
+  "start_x": 16489.73658528472
+}

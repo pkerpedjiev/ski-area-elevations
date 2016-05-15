@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1591, 
+      "cumarea": 4929.225623321711, 
+      "area": 5.78, 
+      "num_lifts": 56, 
+      "name": "Brauneck - Wallbergbahnen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 714, 
+      "uid": "c74fb221-80a6-4e2f-bbe7-7cdd39d3d0b9"
+    }, 
+    {
+      "max_elev": 1591, 
+      "uid": "ad084d21-0edd-4d2f-a60f-dde8db207fc5", 
+      "area": 4.1, 
+      "num_lifts": 26, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 979, 
+      "cumarea": 4932.636610295422
+    }
+  ], 
+  "end_x": 4934.628307204481, 
+  "num": 561, 
+  "zoom": 11, 
+  "start_x": 4925.847829789526
+}

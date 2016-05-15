@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 1900, 
+      "cumarea": 3359.5004128727396, 
+      "area": 5.9399999999999995, 
+      "num_lifts": 37, 
+      "name": "Gerlitzen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 524, 
+      "uid": "e963f70e-f21e-4f8a-a1f6-01ad2130ceb7"
+    }, 
+    {
+      "max_elev": 1898, 
+      "uid": "9746b00e-643d-404c-887e-8599a69c79af", 
+      "area": 3.19, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 697, 
+      "cumarea": 3365.752357090054
+    }, 
+    {
+      "max_elev": 1898, 
+      "cumarea": 3362.592336173257, 
+      "area": 2.98, 
+      "num_lifts": 13, 
+      "name": "Roubion les Buisses", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1430, 
+      "uid": "4ed22287-7551-4b01-a674-44d1d4297547"
+    }, 
+    {
+      "max_elev": 1901, 
+      "uid": "70af8780-9693-4266-ae17-66f05e6cdd7a", 
+      "area": 1.96, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1573, 
+      "cumarea": 3355.718703739365
+    }, 
+    {
+      "max_elev": 1896, 
+      "uid": "49be64ae-b318-44d7-9d81-b892d82931e0", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1540, 
+      "cumarea": 3368.3621226616747
+    }, 
+    {
+      "max_elev": 1896, 
+      "uid": "e33ba591-846b-409f-9c68-364b7af8c3aa", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1751, 
+      "cumarea": 3370.9554495069524
+    }
+  ], 
+  "end_x": 3371.703327342563, 
+  "num": 191, 
+  "zoom": 10, 
+  "start_x": 3354.142372512654
+}

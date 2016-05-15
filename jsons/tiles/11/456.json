@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1771, 
+      "cumarea": 4010.121761680202, 
+      "area": 3.91, 
+      "num_lifts": 26, 
+      "name": "Hochkar", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1382, 
+      "uid": "acee9b7f-e4c2-4b96-a366-ef60c298e656"
+    }, 
+    {
+      "max_elev": 1772, 
+      "uid": "45855d8c-c538-4d14-8b3b-2d720385f6c7", 
+      "area": 2.1, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1179, 
+      "cumarea": 4004.1539083393513
+    }, 
+    {
+      "max_elev": 1772, 
+      "uid": "8d8d3260-88b9-491e-a648-06e23dd1f41f", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1612, 
+      "cumarea": 4006.7582243062047
+    }
+  ], 
+  "end_x": 4012.678178634248, 
+  "num": 456, 
+  "zoom": 11, 
+  "start_x": 4003.8977012192936
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3190, 
+      "cumarea": 373.70356417712657, 
+      "area": 3.45, 
+      "num_lifts": 7, 
+      "name": "Brighton", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2660, 
+      "uid": "32b20081-a46d-411b-9f6b-81a2a6030fd4"
+    }, 
+    {
+      "max_elev": 3193, 
+      "uid": "3b85a630-1ee7-4b85-9ac2-0f2f408d7e54", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3057, 
+      "cumarea": 370.4651899460833
+    }
+  ], 
+  "end_x": 377.56052884304745, 
+  "num": 42, 
+  "zoom": 11, 
+  "start_x": 368.78005142809286
+}

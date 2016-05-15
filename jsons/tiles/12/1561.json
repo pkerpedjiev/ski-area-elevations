@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1228, 
+      "cumarea": 6854.2705786828255, 
+      "area": 7.66, 
+      "num_lifts": 48, 
+      "name": "\u0160pindler\u016fv Ml\u00fdn", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 710, 
+      "uid": "b79ad31c-1984-4754-9379-90120ac2ad94"
+    }, 
+    {
+      "max_elev": 1228, 
+      "uid": "613b7d74-9106-49c3-a94d-1ab0d1dec1da", 
+      "area": 2.1, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 926, 
+      "cumarea": 6857.012516027555
+    }
+  ], 
+  "end_x": 6857.552861079536, 
+  "num": 1561, 
+  "zoom": 12, 
+  "start_x": 6853.16262237206
+}

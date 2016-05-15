@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2273, 
+      "cumarea": 1925.1464947045918, 
+      "area": 41.3, 
+      "num_lifts": 312, 
+      "name": "Whistler Blackcomb", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 659, 
+      "uid": "8e8aa042-bd64-4b74-931a-f3b6f66443f0"
+    }, 
+    {
+      "max_elev": 2270, 
+      "cumarea": 1943.8629802025566, 
+      "area": 27.39, 
+      "num_lifts": 70, 
+      "name": "Obersaxen Meierhof", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1246, 
+      "uid": "aef73628-f112-4f23-b641-8ec2b7df70c5"
+    }, 
+    {
+      "max_elev": 2267, 
+      "cumarea": 1959.1698976519624, 
+      "area": 20.46, 
+      "num_lifts": 92, 
+      "name": "Kronplatz", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 925, 
+      "uid": "151515db-9bdd-4d45-b400-2ec8a632f128"
+    }, 
+    {
+      "max_elev": 2290, 
+      "cumarea": 1860.651039702447, 
+      "area": 20.34, 
+      "num_lifts": 131, 
+      "name": "Bad Gastein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 850, 
+      "uid": "ed0e0dc8-4844-4338-b298-1dcab0505d0b"
+    }, 
+    {
+      "max_elev": 2271, 
+      "cumarea": 1935.6983868911254, 
+      "area": 13.24, 
+      "num_lifts": 68, 
+      "name": "Big White", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1518, 
+      "uid": "1ef59aca-ad93-4ca7-9ee0-4bf885490e89"
+    }, 
+    {
+      "max_elev": 2307, 
+      "cumarea": 1803.274182841126, 
+      "area": 11.88, 
+      "num_lifts": 119, 
+      "name": "Obertauern", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1632, 
+      "uid": "90ccf184-c2a3-4aa0-853b-a026398a7dc3"
+    }, 
+    {
+      "max_elev": 2340, 
+      "cumarea": 1703.8078887193924, 
+      "area": 10.81, 
+      "num_lifts": 49, 
+      "name": "Ax les Thermes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 735, 
+      "uid": "e3d6a99f-2589-492a-bd05-fdf7c27d68ef"
+    }, 
+    {
+      "max_elev": 2285, 
+      "cumarea": 1870.9035954039475, 
+      "area": 9.65, 
+      "num_lifts": 36, 
+      "name": "S\u00f6renberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1119, 
+      "uid": "44a93633-f244-4b61-8be7-49130dd307b9"
+    }, 
+    {
+      "max_elev": 2324, 
+      "cumarea": 1756.4705554803825, 
+      "area": 8.68, 
+      "num_lifts": 45, 
+      "name": "Ar\u00eaches-Beaufort", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1025, 
+      "uid": "0c066de0-0ca1-4219-bffc-badeb655e243"
+    }, 
+    {
+      "max_elev": 2305, 
+      "cumarea": 1818.9323488059201, 
+      "area": 8.57, 
+      "num_lifts": 39, 
+      "name": "Bogus Basin", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1758, 
+      "uid": "56cbc73c-878f-421d-b6d6-93a2d09f0632"
+    }
+  ], 
+  "end_x": 1966.8269409498284, 
+  "num": 6, 
+  "zoom": 6, 
+  "start_x": 1685.8516636712816
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2223, 
+      "cumarea": 2128.052797217286, 
+      "area": 6.0, 
+      "num_lifts": 4, 
+      "name": "Mittenwald - Kranzberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 929, 
+      "uid": "62d7075a-bbe1-409b-84c5-49bafbbc49a8"
+    }, 
+    {
+      "max_elev": 2223, 
+      "uid": "c63adbf6-23cb-4e6d-8d49-40ed197457fc", 
+      "area": 4.5200000000000005, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 569, 
+      "cumarea": 2131.56130921113
+    }
+  ], 
+  "end_x": 2133.6560118339657, 
+  "num": 242, 
+  "zoom": 11, 
+  "start_x": 2124.8755344190113
+}

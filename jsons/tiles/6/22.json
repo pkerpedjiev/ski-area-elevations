@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 1337, 
+      "cumarea": 6223.030150087402, 
+      "area": 10.350000000000001, 
+      "num_lifts": 62, 
+      "name": "Bandai", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 699, 
+      "uid": "915f5502-f136-4047-bf64-f481a0ad8122"
+    }, 
+    {
+      "max_elev": 1336, 
+      "cumarea": 6232.4012222264255, 
+      "area": 5.97, 
+      "num_lifts": 97, 
+      "name": "Whiteface Mtn", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 371, 
+      "uid": "5b8860e6-4aa1-4a3e-a743-593e4700e345"
+    }, 
+    {
+      "max_elev": 1302, 
+      "cumarea": 6431.5572486529, 
+      "area": 5.7700000000000005, 
+      "num_lifts": 25, 
+      "name": "Szklarska Por\u0119ba - Ski Arena Szrenica", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 641, 
+      "uid": "977369c1-3bfd-4cfa-a954-b1d0e9cfdee4"
+    }, 
+    {
+      "max_elev": 1310, 
+      "uid": "66200b06-4630-4904-84d6-cff0685fddaf", 
+      "area": 5.2700000000000005, 
+      "num_lifts": 42, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 614, 
+      "cumarea": 6377.363416579074
+    }, 
+    {
+      "max_elev": 1330, 
+      "uid": "203a75e1-d1bc-4c9e-b44d-59568b755e88", 
+      "area": 4.95, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 869, 
+      "cumarea": 6268.840059460738
+    }, 
+    {
+      "max_elev": 1328, 
+      "uid": "59e29f83-7b37-4acc-af17-abfd725c1b31", 
+      "area": 4.5, 
+      "num_lifts": 29, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 741, 
+      "cumarea": 6288.028094812198
+    }, 
+    {
+      "max_elev": 1340, 
+      "uid": "25d1f495-cb08-4ad7-a6a9-7577b78c242e", 
+      "area": 3.48, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 913, 
+      "cumarea": 6205.282737516499
+    }, 
+    {
+      "max_elev": 1310, 
+      "uid": "799bbec2-7c85-463e-b14f-4e8d066e0d2c", 
+      "area": 3.4000000000000004, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 696, 
+      "cumarea": 6380.587192010696
+    }, 
+    {
+      "max_elev": 1341, 
+      "uid": "b3940cd0-50e8-4a6c-88ed-567a4bf71a11", 
+      "area": 3.26, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 907, 
+      "cumarea": 6186.119655441604
+    }, 
+    {
+      "max_elev": 1331, 
+      "cumarea": 6256.993503734009, 
+      "area": 3.0700000000000003, 
+      "num_lifts": 15, 
+      "name": "Valbella di Gallio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1094, 
+      "uid": "b50feda1-abd7-4f03-a66e-d61f67979e77"
+    }
+  ], 
+  "end_x": 6462.4313774065795, 
+  "num": 22, 
+  "zoom": 6, 
+  "start_x": 6181.456100128033
+}

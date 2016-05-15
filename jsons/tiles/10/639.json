@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 708, 
+      "cumarea": 11232.703243455891, 
+      "area": 2.3200000000000003, 
+      "num_lifts": 15, 
+      "name": "(mine)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 572, 
+      "uid": "65e6174b-c902-4129-8b4d-7675dde3ceb6"
+    }, 
+    {
+      "max_elev": 708, 
+      "uid": "f08f01e2-6ebe-4305-8a26-06a0176f584e", 
+      "area": 1.98, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 620, 
+      "cumarea": 11235.386340300598
+    }, 
+    {
+      "max_elev": 708, 
+      "uid": "d793d66e-06b3-411a-a885-a03cf723b6a0", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 507, 
+      "cumarea": 11222.021686793674
+    }, 
+    {
+      "max_elev": 708, 
+      "uid": "4a23fd96-edaf-4089-8842-585d0dcc9f91", 
+      "area": 1.86, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 652, 
+      "cumarea": 11224.6422632814
+    }, 
+    {
+      "max_elev": 708, 
+      "uid": "4575d0c3-38a9-4872-9da5-ab3ee2a359a8", 
+      "area": 1.86, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 674, 
+      "cumarea": 11227.262839769124
+    }, 
+    {
+      "max_elev": 707, 
+      "uid": "d2d83aa3-037d-4a84-85cd-be3b761c4f60", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 613, 
+      "cumarea": 11238.001525939688
+    }, 
+    {
+      "max_elev": 708, 
+      "uid": "f2152e74-ca16-4ea3-9cd3-e9116bdefa30", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 609, 
+      "cumarea": 11229.861676270213
+    }
+  ], 
+  "end_x": 11239.011091141878, 
+  "num": 639, 
+  "zoom": 10, 
+  "start_x": 11221.450136311969
+}

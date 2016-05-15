@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2600, 
+      "cumarea": 1016.0951916843964, 
+      "area": 23.54, 
+      "num_lifts": 152, 
+      "name": "La Thuile", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 889, 
+      "uid": "234dc8c6-b6fc-4422-b027-b21a24c99bfc"
+    }, 
+    {
+      "max_elev": 2602, 
+      "uid": "c7fd62d4-c20e-4b17-9cfa-b51119d4a4d6", 
+      "area": 2.0300000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "cumarea": 1010.9364905825643
+    }
+  ], 
+  "end_x": 1018.5353801347326, 
+  "num": 115, 
+  "zoom": 11, 
+  "start_x": 1009.754902719778
+}

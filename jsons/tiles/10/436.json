@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1103, 
+      "cumarea": 7665.554398041705, 
+      "area": 13.4, 
+      "num_lifts": 138, 
+      "name": "Trysil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 389, 
+      "uid": "0c02945b-7762-4735-ad36-7df91250a971"
+    }, 
+    {
+      "max_elev": 1104, 
+      "uid": "506fe16e-eab0-40bd-9473-318dff839634", 
+      "area": 2.06, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 910, 
+      "cumarea": 7658.317289448576
+    }, 
+    {
+      "max_elev": 1103, 
+      "uid": "820a7cbc-0266-418e-b427-2eaeb0e4c3e8", 
+      "area": 1.94, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 87, 
+      "cumarea": 7668.217086014781
+    }, 
+    {
+      "max_elev": 1102, 
+      "uid": "8044d8d5-b01c-4ad5-bd0e-484b02966c64", 
+      "area": 1.94, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 9, 
+      "cumarea": 7673.48408995471
+    }, 
+    {
+      "max_elev": 1104, 
+      "uid": "0a5e78d5-1261-4dc2-a590-5de0a4aed079", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 875, 
+      "cumarea": 7660.959143334749
+    }, 
+    {
+      "max_elev": 1103, 
+      "uid": "a4b732f6-9b12-4222-ae72-f7d265d1bb97", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 951, 
+      "cumarea": 7670.821401981634
+    }
+  ], 
+  "end_x": 7674.1372606703135, 
+  "num": 436, 
+  "zoom": 10, 
+  "start_x": 7656.576305840404
+}

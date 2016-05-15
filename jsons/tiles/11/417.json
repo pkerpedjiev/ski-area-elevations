@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1831, 
+      "cumarea": 3662.0683297266455, 
+      "area": 3.87, 
+      "num_lifts": 29, 
+      "name": "Fageralm / Forstau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 939, 
+      "uid": "004d72fa-3b9c-4bfd-a085-2a241e97ba24"
+    }, 
+    {
+      "max_elev": 1831, 
+      "uid": "6ef3dc3e-2326-4dde-999f-d66836bdc223", 
+      "area": 2.09, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1269, 
+      "cumarea": 3664.805493792622
+    }, 
+    {
+      "max_elev": 1831, 
+      "uid": "f6c3c9aa-02bf-407c-8342-363a1eaadafd", 
+      "area": 1.94, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1624, 
+      "cumarea": 3667.4681817656974
+    }
+  ], 
+  "end_x": 3670.239559451019, 
+  "num": 417, 
+  "zoom": 11, 
+  "start_x": 3661.4590820360645
+}

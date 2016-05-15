@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 589, 
+      "cumarea": 12401.033839570096, 
+      "area": 2.35, 
+      "num_lifts": 1, 
+      "name": "Panachi (not a ski area)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 589, 
+      "uid": "5516e601-e802-41ac-9439-77bf4a13abac"
+    }, 
+    {
+      "max_elev": 589, 
+      "uid": "5eadbc3c-28f7-4dca-89b4-3af51235fc8c", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 588, 
+      "cumarea": 12398.17942424194
+    }
+  ], 
+  "end_x": 12402.42434862336, 
+  "num": 2824, 
+  "zoom": 12, 
+  "start_x": 12398.034109915883
+}

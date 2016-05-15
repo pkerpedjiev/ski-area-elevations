@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1836, 
+      "cumarea": 3645.1250221253167, 
+      "area": 10.99, 
+      "num_lifts": 44, 
+      "name": "Waidring - Steinplatte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 771, 
+      "uid": "6fa992e8-8e04-4d6e-9243-65c5ef363a01"
+    }, 
+    {
+      "max_elev": 1835, 
+      "uid": "f7a103cc-3b30-45ec-a19c-e18d71f023dd", 
+      "area": 2.21, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1576, 
+      "cumarea": 3650.5168511419347
+    }, 
+    {
+      "max_elev": 1836, 
+      "uid": "0d80f546-8870-4a08-9345-5434164bc750", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1539, 
+      "cumarea": 3647.723858626405
+    }
+  ], 
+  "end_x": 3652.67860462111, 
+  "num": 415, 
+  "zoom": 11, 
+  "start_x": 3643.8981272061556
+}

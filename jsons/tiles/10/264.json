@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1650, 
+      "cumarea": 4641.837072313582, 
+      "area": 3.08, 
+      "num_lifts": 16, 
+      "name": "Spitzingsee-Tegernsee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1093, 
+      "uid": "8064e085-210e-4abe-a1b4-3444e1a09d82"
+    }, 
+    {
+      "max_elev": 1649, 
+      "uid": "27bed4fa-8b7b-4ead-a77e-227a8af9a347", 
+      "area": 2.75, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1435, 
+      "cumarea": 4650.751452167998
+    }, 
+    {
+      "max_elev": 1650, 
+      "cumarea": 4647.7398512563195, 
+      "area": 2.65, 
+      "num_lifts": 10, 
+      "name": "Volc\u00e1n Osorno", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1194, 
+      "uid": "5d88f25c-5f1e-40ba-968e-9cf88c8d319d"
+    }, 
+    {
+      "max_elev": 1650, 
+      "uid": "e5a2c65e-08fa-4924-8a46-0fd7b0a615eb", 
+      "area": 2.5300000000000002, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1342, 
+      "cumarea": 4644.7652916163215
+    }, 
+    {
+      "max_elev": 1651, 
+      "uid": "b5625e27-3e40-493a-b251-e0b665b30724", 
+      "area": 2.1, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1384, 
+      "cumarea": 4638.712142716597
+    }
+  ], 
+  "end_x": 4653.653029925934, 
+  "num": 264, 
+  "zoom": 10, 
+  "start_x": 4636.092075096025
+}

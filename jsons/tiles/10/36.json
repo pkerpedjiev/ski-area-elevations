@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 2872, 
+      "cumarea": 641.4728577211829, 
+      "area": 42.129999999999995, 
+      "num_lifts": 165, 
+      "name": "Ischgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1354, 
+      "uid": "c0046460-20b1-4ba9-b3cb-4d53b00a64ec"
+    }, 
+    {
+      "max_elev": 2868, 
+      "cumarea": 649.6266780102001, 
+      "area": 16.08, 
+      "num_lifts": 87, 
+      "name": "Fiesch - Eggishorn - Aletsch", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 766, 
+      "uid": "03424069-bf65-407f-b644-7bc7f5d4d5ea"
+    }, 
+    {
+      "max_elev": 2878, 
+      "cumarea": 632.9345904493077, 
+      "area": 15.860000000000001, 
+      "num_lifts": 74, 
+      "name": "Grimentz-Zinal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1554, 
+      "uid": "5809d1f3-3f25-485c-82a1-a10c09b80642"
+    }, 
+    {
+      "max_elev": 2869, 
+      "uid": "d41b0f4c-1b99-4fcb-80af-cc87be770085", 
+      "area": 3.96, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1281, 
+      "cumarea": 644.8491017464493
+    }, 
+    {
+      "max_elev": 2873, 
+      "uid": "727d2ce2-4f62-4f89-a305-db849a1c0470", 
+      "area": 2.22, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1318, 
+      "cumarea": 635.732097645192
+    }
+  ], 
+  "end_x": 649.7553287066398, 
+  "num": 36, 
+  "zoom": 10, 
+  "start_x": 632.1943738767307
+}

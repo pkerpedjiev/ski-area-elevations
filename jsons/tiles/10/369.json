@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 1294, 
+      "uid": "cf13b891-30a1-42d3-ac52-31018ba1fc09", 
+      "area": 2.09, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1167, 
+      "cumarea": 6486.313062786977
+    }, 
+    {
+      "max_elev": 1292, 
+      "uid": "69d58d12-8f82-417b-a20c-48f1bc329635", 
+      "area": 1.95, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1205, 
+      "cumarea": 6494.200393765496
+    }, 
+    {
+      "max_elev": 1295, 
+      "cumarea": 6483.575898721, 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "name": "El Fraile", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 981, 
+      "uid": "07c4f54b-88fa-4e23-89e8-b65d378f9826"
+    }, 
+    {
+      "max_elev": 1293, 
+      "uid": "9910237f-b920-42a6-8c74-763b7358efe4", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 817, 
+      "cumarea": 6488.9282484260675
+    }, 
+    {
+      "max_elev": 1293, 
+      "uid": "fda1cfdd-7b45-4072-8efd-95d599dbc8bd", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 976, 
+      "cumarea": 6491.532564392921
+    }, 
+    {
+      "max_elev": 1292, 
+      "uid": "8e394e3b-d179-44ee-a8e4-44d498a76f36", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 954, 
+      "cumarea": 6496.80470973235
+    }, 
+    {
+      "max_elev": 1295, 
+      "uid": "c0932a71-5cff-4ec8-8aa6-27ce3c55c69b", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1152, 
+      "cumarea": 6480.934044834828
+    }
+  ], 
+  "end_x": 6497.553287066397, 
+  "num": 369, 
+  "zoom": 10, 
+  "start_x": 6479.992332236488
+}

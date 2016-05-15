@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 819, 
+      "cumarea": 10009.282713439714, 
+      "area": 3.1799999999999997, 
+      "num_lifts": 9, 
+      "name": "Alyeska", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 90, 
+      "uid": "78055e86-4795-457c-9ef3-f8d38ae350ab"
+    }, 
+    {
+      "max_elev": 819, 
+      "uid": "367e66cd-5974-43ac-8206-6074329c7eea", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 697, 
+      "cumarea": 10006.125832242922
+    }
+  ], 
+  "end_x": 10009.744253048237, 
+  "num": 2279, 
+  "zoom": 12, 
+  "start_x": 10005.354014340759
+}

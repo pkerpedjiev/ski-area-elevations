@@ -1,0 +1,47 @@
+{
+  "shown": [
+    {
+      "max_elev": 3879, 
+      "cumarea": 57.244961304810985, 
+      "area": 68.46, 
+      "num_lifts": 303, 
+      "name": "Zermatt / Cervinia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1566, 
+      "uid": "4343d2f2-b3ff-47cc-a80b-2cb1907c5e94"
+    }, 
+    {
+      "max_elev": 3822, 
+      "cumarea": 68.16702939406306, 
+      "area": 8.98, 
+      "num_lifts": 19, 
+      "name": "Snowmass", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2473, 
+      "uid": "dc632447-315f-43f7-b2ce-b6c524b50aee"
+    }, 
+    {
+      "max_elev": 3865, 
+      "cumarea": 60.96772790255209, 
+      "area": 5.6, 
+      "num_lifts": 24, 
+      "name": "Loveland", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3242, 
+      "uid": "30bc0b75-a6ac-4477-a1c3-8b92120b3042"
+    }, 
+    {
+      "max_elev": 3845, 
+      "uid": "c13a3dcd-1175-4359-89a4-7244e11c259a", 
+      "area": 2.73, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1912, 
+      "cumarea": 63.97202951174896
+    }
+  ], 
+  "end_x": 70.24381931963673, 
+  "num": 3, 
+  "zoom": 10, 
+  "start_x": 52.68286448972755
+}

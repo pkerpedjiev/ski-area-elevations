@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2205, 
+      "cumarea": 2181.638336401365, 
+      "area": 6.28, 
+      "num_lifts": 34, 
+      "name": "lachtal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1583, 
+      "uid": "6abc7772-0b82-4ecc-80cf-31d1f3aa2858"
+    }, 
+    {
+      "max_elev": 2205, 
+      "uid": "c739e5d8-676a-4631-88ad-7ac5ea38a7d2", 
+      "area": 2.37, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1696, 
+      "cumarea": 2184.5012263565122
+    }, 
+    {
+      "max_elev": 2209, 
+      "uid": "3f1ce601-9a89-44df-b1e3-ef165331c5ed", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2160, 
+      "cumarea": 2177.800966420885
+    }
+  ], 
+  "end_x": 2186.3388763236935, 
+  "num": 248, 
+  "zoom": 11, 
+  "start_x": 2177.5583989087386
+}

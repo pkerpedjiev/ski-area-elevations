@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2813, 
+      "uid": "339ec3d5-2c3f-4bee-a02f-b6f00e5de563", 
+      "area": 2.91, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2092, 
+      "cumarea": 698.6868832784851
+    }, 
+    {
+      "max_elev": 2813, 
+      "uid": "283771e4-b728-4d2c-a7a7-2a48e2c18c0b", 
+      "area": 2.51, 
+      "num_lifts": 25, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2493, 
+      "cumarea": 695.6187301973017
+    }, 
+    {
+      "max_elev": 2809, 
+      "cumarea": 701.3598277517275, 
+      "area": 1.96, 
+      "num_lifts": 3, 
+      "name": "Snowbasin Resort", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2055, 
+      "uid": "4fcafb54-cc20-403e-a88c-ed9b24c819d7"
+    }
+  ], 
+  "end_x": 702.4381931963674, 
+  "num": 79, 
+  "zoom": 11, 
+  "start_x": 693.6577157814128
+}

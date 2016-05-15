@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 2432, 
+      "cumarea": 1435.5946708272218, 
+      "area": 13.860000000000001, 
+      "num_lifts": 58, 
+      "name": "Meiringen-Hasliberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 626, 
+      "uid": "2cf80ebf-88b8-417e-b145-059bd6c5529f"
+    }, 
+    {
+      "max_elev": 2432, 
+      "cumarea": 1439.76486673217, 
+      "area": 8.76, 
+      "num_lifts": 34, 
+      "name": "Melchsee - Frutt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1076, 
+      "uid": "5aa0b9ee-79d0-48f0-9b44-467de3870ebb"
+    }, 
+    {
+      "max_elev": 2440, 
+      "cumarea": 1418.1891699864357, 
+      "area": 6.609999999999999, 
+      "num_lifts": 46, 
+      "name": "Hochzeiger - Pitztal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1462, 
+      "uid": "6a3888b5-6ada-42d0-91c7-a99ff892a714"
+    }, 
+    {
+      "max_elev": 2434, 
+      "cumarea": 1421.9331387918273, 
+      "area": 5.72, 
+      "num_lifts": 15, 
+      "name": "Ceillac", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1696, 
+      "uid": "617cf9cf-9deb-4499-b620-2e45ce6cf21b"
+    }, 
+    {
+      "max_elev": 2434, 
+      "uid": "25d1993d-660c-4336-8b9b-0c6d3859f8a2", 
+      "area": 3.9000000000000004, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1560, 
+      "cumarea": 1425.2941153449628
+    }, 
+    {
+      "max_elev": 2443, 
+      "uid": "bd41b729-addb-4afb-81d9-9d0525af9a45", 
+      "area": 3.02, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1720, 
+      "cumarea": 1409.0237162887333
+    }, 
+    {
+      "max_elev": 2434, 
+      "uid": "8907e2d3-40a0-413b-805c-abbb693dc011", 
+      "area": 2.83, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 630, 
+      "cumarea": 1428.334392056618
+    }, 
+    {
+      "max_elev": 2446, 
+      "uid": "a270c0fb-9f66-4660-bfb3-7f052baa60df", 
+      "area": 2.04, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1650, 
+      "cumarea": 1405.9184594573467
+    }, 
+    {
+      "max_elev": 2442, 
+      "uid": "f818a94e-e440-40c9-81ef-d27d884c4234", 
+      "area": 1.97, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1445, 
+      "cumarea": 1411.7017498314833
+    }, 
+    {
+      "max_elev": 2433, 
+      "uid": "8b128869-6336-40be-8545-7e41db390edc", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1744, 
+      "cumarea": 1430.96566383346
+    }
+  ], 
+  "end_x": 1439.998296052553, 
+  "num": 40, 
+  "zoom": 9, 
+  "start_x": 1404.8763863927347
+}

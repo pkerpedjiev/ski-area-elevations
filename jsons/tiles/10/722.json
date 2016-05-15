@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 558, 
+      "uid": "1edb1c25-d63f-4a9b-a12b-6c3f38e3b2ed", 
+      "area": 3.02, 
+      "num_lifts": 23, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 415, 
+      "cumarea": 12682.82006842884
+    }, 
+    {
+      "max_elev": 557, 
+      "uid": "f80ab35e-77ac-4f02-b861-a73c38290570", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 382, 
+      "cumarea": 12695.840851184988
+    }, 
+    {
+      "max_elev": 558, 
+      "uid": "2298c29f-dfe4-47d7-b769-5d0227d31dd7", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 419, 
+      "cumarea": 12685.42983400046
+    }, 
+    {
+      "max_elev": 559, 
+      "uid": "3dac2422-b0eb-4725-83d9-5a2249144a9d", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 494, 
+      "cumarea": 12679.714811597454
+    }, 
+    {
+      "max_elev": 558, 
+      "uid": "3960595a-536f-483f-ba26-af75e1a5d478", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 521, 
+      "cumarea": 12688.023160845738
+    }, 
+    {
+      "max_elev": 558, 
+      "uid": "c0fae3bc-6d9d-4b28-8790-c4275d58fc65", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 524, 
+      "cumarea": 12693.204274355918
+    }, 
+    {
+      "max_elev": 558, 
+      "uid": "2ebaa392-3d88-4302-b7ec-cc0f1352e59a", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 519, 
+      "cumarea": 12690.61094751064
+    }
+  ], 
+  "end_x": 12696.570342024339, 
+  "num": 722, 
+  "zoom": 10, 
+  "start_x": 12679.00938719443
+}

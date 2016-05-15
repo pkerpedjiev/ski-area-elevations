@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2179, 
+      "cumarea": 2284.203257211103, 
+      "area": 7.06, 
+      "num_lifts": 48, 
+      "name": "Turracher H\u00f6he", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1391, 
+      "uid": "5d303211-5d6f-4650-8f79-a3f7b608b5a7"
+    }, 
+    {
+      "max_elev": 2179, 
+      "uid": "c981af7b-e2d7-4bfd-8bde-1d83b227c218", 
+      "area": 2.45, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1610, 
+      "cumarea": 2287.0993452356597
+    }
+  ], 
+  "end_x": 2287.314366595671, 
+  "num": 520, 
+  "zoom": 12, 
+  "start_x": 2282.9241278881937
+}

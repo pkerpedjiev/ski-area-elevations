@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1862, 
+      "cumarea": 3520.2395313226425, 
+      "area": 3.05, 
+      "num_lifts": 13, 
+      "name": "Zare Lazarevski", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1263, 
+      "uid": "34259f3e-2ec5-4e55-926b-3e9abb85eee2"
+    }, 
+    {
+      "max_elev": 1863, 
+      "uid": "40077acb-0d75-4556-a21c-082a9a1655dc", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1497, 
+      "cumarea": 3517.1243897320232
+    }
+  ], 
+  "end_x": 3520.971443396791, 
+  "num": 801, 
+  "zoom": 12, 
+  "start_x": 3516.581204689314
+}

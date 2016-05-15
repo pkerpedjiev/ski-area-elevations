@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2488, 
+      "cumarea": 1283.5964913981736, 
+      "area": 8.3, 
+      "num_lifts": 42, 
+      "name": "Valles/Vals / Jochtal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 756, 
+      "uid": "83819585-199b-48bc-a59f-4d373b55abeb"
+    }, 
+    {
+      "max_elev": 2488, 
+      "uid": "ae6a0f1c-8f05-4b33-9248-afec8d5f39c7", 
+      "area": 3.19, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1693, 
+      "cumarea": 1286.7565123149705
+    }, 
+    {
+      "max_elev": 2488, 
+      "uid": "da69499e-ca64-4135-8060-031aa07112db", 
+      "area": 2.68, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1705, 
+      "cumarea": 1289.7423291094933
+    }
+  ], 
+  "end_x": 1290.7301799983252, 
+  "num": 146, 
+  "zoom": 11, 
+  "start_x": 1281.9497025833705
+}

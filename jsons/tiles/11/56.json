@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 3011, 
+      "cumarea": 496.3620057178524, 
+      "area": 11.520000000000001, 
+      "num_lifts": 80, 
+      "name": "Obergurgl / Hochgurgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1790, 
+      "uid": "a30e599f-9c91-4063-87dc-e3e8d4479bd4"
+    }, 
+    {
+      "max_elev": 3009, 
+      "cumarea": 499.9853465354555, 
+      "area": 5.07, 
+      "num_lifts": 22, 
+      "name": "Diavolezza-Lagalb", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2094, 
+      "uid": "51a24b1b-395e-4f61-a146-f5f9c56bc350"
+    }, 
+    {
+      "max_elev": 3012, 
+      "uid": "55c732ec-8f47-463c-9901-7f50141bd522", 
+      "area": 4.86, 
+      "num_lifts": 56, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2478, 
+      "cumarea": 491.91792106258464
+    }
+  ], 
+  "end_x": 500.4872126524117, 
+  "num": 56, 
+  "zoom": 11, 
+  "start_x": 491.7067352374571
+}

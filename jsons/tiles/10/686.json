@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 623, 
+      "uid": "5a59a28b-40f2-456a-8446-7b9584077a49", 
+      "area": 2.33, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 501, 
+      "cumarea": 12048.605626374398
+    }, 
+    {
+      "max_elev": 623, 
+      "uid": "31de7b1e-5b16-4ee7-bfaa-c831eaf4e0aa", 
+      "area": 1.92, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 623, 
+      "cumarea": 12061.663663692736
+    }, 
+    {
+      "max_elev": 623, 
+      "uid": "f4bfd254-abd3-4c85-8d5a-6f3637d91db2", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 513, 
+      "cumarea": 12051.236898151239
+    }, 
+    {
+      "max_elev": 623, 
+      "uid": "99316ccd-ea92-4076-8c74-a732022d6285", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 553, 
+      "cumarea": 12053.830224996516
+    }, 
+    {
+      "max_elev": 623, 
+      "uid": "dca4e774-4a9e-4ae1-983d-0eeb21ae9afd", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 570, 
+      "cumarea": 12056.423551841794
+    }, 
+    {
+      "max_elev": 622, 
+      "uid": "5c6dba35-46b6-429e-b2dc-c59a9885ec7a", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 600, 
+      "cumarea": 12064.256990538013
+    }, 
+    {
+      "max_elev": 623, 
+      "uid": "db4434b3-a929-4d41-84ad-ee5c07d7e22b", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "cumarea": 12059.011338506696
+    }
+  ], 
+  "end_x": 12064.37596814761, 
+  "num": 686, 
+  "zoom": 10, 
+  "start_x": 12046.8150133177
+}

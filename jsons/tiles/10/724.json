@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 555, 
+      "uid": "ccdbf1d1-62e7-4513-9138-d257f6390d57", 
+      "area": 2.9699999999999998, 
+      "num_lifts": 33, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 346, 
+      "cumarea": 12720.196985699484
+    }, 
+    {
+      "max_elev": 556, 
+      "uid": "e7fb32e8-4f40-4b79-b233-3c3a5bfb1d3e", 
+      "area": 2.22, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 187, 
+      "cumarea": 12714.504107779816
+    }, 
+    {
+      "max_elev": 554, 
+      "uid": "4dd27235-2168-4f8d-a482-9198d4383d99", 
+      "area": 2.04, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 351, 
+      "cumarea": 12725.514251474193
+    }, 
+    {
+      "max_elev": 554, 
+      "uid": "ba18cf05-03e6-4683-a358-a130a198b6a7", 
+      "area": 1.85, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 554, 
+      "cumarea": 12728.129437113283
+    }, 
+    {
+      "max_elev": 555, 
+      "uid": "b254ca71-3311-48d3-a192-b87465ba114a", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 446, 
+      "cumarea": 12717.10842374667
+    }, 
+    {
+      "max_elev": 555, 
+      "uid": "1852cd04-a8c0-4224-9c2b-a486d054c081", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 483, 
+      "cumarea": 12722.801301666337
+    }, 
+    {
+      "max_elev": 554, 
+      "uid": "f2a3713c-e1ac-4e22-85eb-3858679d4d65", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 499, 
+      "cumarea": 12730.72276395856
+    }
+  ], 
+  "end_x": 12731.692251684157, 
+  "num": 724, 
+  "zoom": 10, 
+  "start_x": 12714.131296854248
+}

@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1952, 
+      "cumarea": 3165.063852468338, 
+      "area": 13.39, 
+      "num_lifts": 67, 
+      "name": "Zell am See - Kaprun", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "dac5e24d-e4ac-4283-b76a-51cb0d17ed27"
+    }, 
+    {
+      "max_elev": 1951, 
+      "cumarea": 3178.1816553442045, 
+      "area": 8.84, 
+      "num_lifts": 23, 
+      "name": "Kitzb\u00fchel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "43a0ba4f-1f00-455a-8e77-87af042efbeb"
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "712d06a5-6cf7-486e-a456-c82e0c127a71", 
+      "area": 5.64, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "cumarea": 3168.793736533848
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "e57ea3f4-44c9-4252-ad5c-b8cba7fb6293", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1516, 
+      "cumarea": 3171.3980525007014
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "c1041352-bd3d-434e-86a5-0f71eda7fbd2", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1913, 
+      "cumarea": 3174.002368467555
+    }
+  ], 
+  "end_x": 3178.532824213562, 
+  "num": 180, 
+  "zoom": 10, 
+  "start_x": 3160.971869383653
+}

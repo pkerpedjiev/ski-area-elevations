@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2669, 
+      "cumarea": 884.4296235677954, 
+      "area": 7.12, 
+      "num_lifts": 42, 
+      "name": "Puy Saint Vincent", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1405, 
+      "uid": "4e42e516-e757-4cbf-bfc2-601adff928f1"
+    }, 
+    {
+      "max_elev": 2670, 
+      "cumarea": 880.4667158423715, 
+      "area": 5.24, 
+      "num_lifts": 31, 
+      "name": "Beaver mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2183, 
+      "uid": "74ce41d4-d1ba-4992-a131-f2563014facc"
+    }
+  ], 
+  "end_x": 886.8282189104137, 
+  "num": 100, 
+  "zoom": 11, 
+  "start_x": 878.0477414954591
+}

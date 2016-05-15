@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2975, 
+      "cumarea": 546.4051024482637, 
+      "area": 42.91, 
+      "num_lifts": 86, 
+      "name": "Flims Laax Falera", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1085, 
+      "uid": "f6f3eaf3-bf01-4da7-a335-0ad9c17e5d8c"
+    }, 
+    {
+      "max_elev": 3045, 
+      "cumarea": 470.67368481925195, 
+      "area": 25.71, 
+      "num_lifts": 258, 
+      "name": "Park City", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2010, 
+      "uid": "840fc397-3ae5-4396-9653-832715382296"
+    }, 
+    {
+      "max_elev": 2997, 
+      "cumarea": 512.479570726097, 
+      "area": 19.75, 
+      "num_lifts": 196, 
+      "name": "Canyons", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2051, 
+      "uid": "afa8f400-7b30-41da-aacc-4b2321d40fc8"
+    }, 
+    {
+      "max_elev": 2979, 
+      "cumarea": 538.0147257724184, 
+      "area": 16.01, 
+      "num_lifts": 53, 
+      "name": "St-Luc", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1683, 
+      "uid": "014becc7-8e7f-4ba7-81ac-dae880c80b07"
+    }, 
+    {
+      "max_elev": 2981, 
+      "cumarea": 530.6426757443211, 
+      "area": 14.14, 
+      "num_lifts": 80, 
+      "name": "Adamello", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "3ebd52c5-5e03-46d2-bf24-be88e22845c9"
+    }, 
+    {
+      "max_elev": 3036, 
+      "cumarea": 478.24896995278095, 
+      "area": 13.680000000000001, 
+      "num_lifts": 129, 
+      "name": "Heavenly", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1917, 
+      "uid": "5bfd7d67-9135-44ee-aa41-710f17de1603"
+    }, 
+    {
+      "max_elev": 2984, 
+      "cumarea": 523.1916664983806, 
+      "area": 11.63, 
+      "num_lifts": 26, 
+      "name": "Les diablerets - Glacier 3000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1322, 
+      "uid": "531e03fb-ebae-4635-b556-da8d263cddeb"
+    }, 
+    {
+      "max_elev": 3035, 
+      "cumarea": 482.69565538974877, 
+      "area": 11.55, 
+      "num_lifts": 69, 
+      "name": "Engelberg-Titlis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1002, 
+      "uid": "8d398c3f-8041-4ca3-b217-ec0f2eb3bfb1"
+    }, 
+    {
+      "max_elev": 3011, 
+      "cumarea": 496.3620057178524, 
+      "area": 11.520000000000001, 
+      "num_lifts": 80, 
+      "name": "Obergurgl / Hochgurgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1790, 
+      "uid": "a30e599f-9c91-4063-87dc-e3e8d4479bd4"
+    }, 
+    {
+      "max_elev": 3118, 
+      "cumarea": 439.1548279812385, 
+      "area": 11.0, 
+      "num_lifts": 42, 
+      "name": "Cortina d'Ampezzo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1204, 
+      "uid": "f5d262b7-ae7f-47ac-b949-5dd58a164a70"
+    }
+  ], 
+  "end_x": 561.9505545570938, 
+  "num": 3, 
+  "zoom": 7, 
+  "start_x": 421.4629159178204
+}

@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2717, 
+      "cumarea": 814.732283643143, 
+      "area": 10.850000000000001, 
+      "num_lifts": 77, 
+      "name": "Orci\u00e8res Merlette", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1830, 
+      "uid": "3d128f35-e5fe-4467-b5b0-e5183a723698"
+    }, 
+    {
+      "max_elev": 2719, 
+      "cumarea": 810.3481185631565, 
+      "area": 10.38, 
+      "num_lifts": 37, 
+      "name": "Nauders", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "uid": "d2665ccf-73a7-4203-846b-0c4f547e51f2"
+    }
+  ], 
+  "end_x": 816.584399590777, 
+  "num": 92, 
+  "zoom": 11, 
+  "start_x": 807.8039221758224
+}

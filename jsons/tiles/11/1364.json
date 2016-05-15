@@ -1,0 +1,46 @@
+{
+  "shown": [
+    {
+      "max_elev": 630, 
+      "cumarea": 11976.960391134131, 
+      "area": 3.16, 
+      "num_lifts": 22, 
+      "name": "Blafjoll", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 439, 
+      "uid": "03cc5f0a-4dfa-47f7-91b5-6980bcaa28e4"
+    }, 
+    {
+      "max_elev": 630, 
+      "uid": "faaa1bde-a612-4db5-8f07-e88a696e7c87", 
+      "area": 2.08, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 434, 
+      "cumarea": 11979.692759027845
+    }, 
+    {
+      "max_elev": 630, 
+      "uid": "8d2aba9f-734c-47c4-8992-3880b7917819", 
+      "area": 1.97, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 470, 
+      "cumarea": 11982.370792570595
+    }, 
+    {
+      "max_elev": 630, 
+      "cumarea": 11985.017895812653, 
+      "area": 1.9100000000000001, 
+      "num_lifts": 3, 
+      "name": "Bled", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 505, 
+      "uid": "01e253fb-4aad-4ab1-8900-309dc85a0a04"
+    }
+  ], 
+  "end_x": 11985.35167141302, 
+  "num": 1364, 
+  "zoom": 11, 
+  "start_x": 11976.571193998065
+}

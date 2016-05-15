@@ -1,0 +1,17 @@
+{
+  "shown": [
+    {
+      "max_elev": 1234, 
+      "uid": "270806ee-ca03-408a-9a5c-77cefa104987", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1190, 
+      "cumarea": 6817.316557527242
+    }
+  ], 
+  "end_x": 6818.04071271224, 
+  "num": 3105, 
+  "zoom": 13, 
+  "start_x": 6815.845593358501
+}

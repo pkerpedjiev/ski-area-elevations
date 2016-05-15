@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 434, 
+      "uid": "bf0c3a0e-f229-46d7-bf9b-1097fc9303ff", 
+      "area": 2.92, 
+      "num_lifts": 38, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 130, 
+      "cumarea": 13907.170356306156
+    }, 
+    {
+      "max_elev": 436, 
+      "uid": "8424010a-9b9e-45dc-9140-bd31d1004b6e", 
+      "area": 2.51, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 303, 
+      "cumarea": 13890.789838298966
+    }, 
+    {
+      "max_elev": 435, 
+      "uid": "b75ed902-3637-4bca-aedc-2185e0f3cc2e", 
+      "area": 2.17, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 211, 
+      "cumarea": 13896.296933360232
+    }, 
+    {
+      "max_elev": 436, 
+      "uid": "fff4f437-27d2-4199-8ec7-95c2a3e545e3", 
+      "area": 2.08, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 264, 
+      "cumarea": 13893.52220619268
+    }, 
+    {
+      "max_elev": 435, 
+      "uid": "777aa5b0-8063-4308-8860-0b1a633eb98c", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 292, 
+      "cumarea": 13904.098772689877
+    }, 
+    {
+      "max_elev": 435, 
+      "uid": "5a21eefb-f52a-4113-8c17-67fe26106165", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 376, 
+      "cumarea": 13898.89026020551
+    }, 
+    {
+      "max_elev": 435, 
+      "uid": "7596a82d-613c-4bc0-83c7-b283e44248ee", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 413, 
+      "cumarea": 13901.483587050787
+    }
+  ], 
+  "end_x": 13908.276225288073, 
+  "num": 791, 
+  "zoom": 10, 
+  "start_x": 13890.715270458164
+}

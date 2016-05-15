@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 2526, 
+      "cumarea": 1157.5836460453913, 
+      "area": 10.58, 
+      "num_lifts": 23, 
+      "name": "Borovets", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1331, 
+      "uid": "faf0d485-6079-4020-ab79-49082d8bddfd"
+    }, 
+    {
+      "max_elev": 2538, 
+      "cumarea": 1143.5964063118533, 
+      "area": 6.47, 
+      "num_lifts": 71, 
+      "name": "Vallnord / Pal-Arinsal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1236, 
+      "uid": "558e0979-760c-4239-86d2-3e4f471a41ac"
+    }, 
+    {
+      "max_elev": 2530, 
+      "cumarea": 1147.2197471294564, 
+      "area": 5.07, 
+      "num_lifts": 20, 
+      "name": "Bormio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1340, 
+      "uid": "1f00b4e4-49ce-4979-8520-1770d3d4cbfd"
+    }, 
+    {
+      "max_elev": 2530, 
+      "uid": "d5fc6db5-6f58-46c2-bb2c-c0800a5f4c57", 
+      "area": 3.3600000000000003, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1480, 
+      "cumarea": 1150.4316881034315
+    }, 
+    {
+      "max_elev": 2528, 
+      "uid": "a8b27657-9404-486e-8791-b1677465b51b", 
+      "area": 2.21, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1936, 
+      "cumarea": 1153.2246806189612
+    }
+  ], 
+  "end_x": 1159.0230187740062, 
+  "num": 65, 
+  "zoom": 10, 
+  "start_x": 1141.4620639440968
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2036, 
+      "cumarea": 2779.3330999195573, 
+      "area": 10.59, 
+      "num_lifts": 47, 
+      "name": "Garmisch-Classic", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 728, 
+      "uid": "9bb2e8c8-5bb7-456a-9f67-7df22ff5fdd9"
+    }, 
+    {
+      "max_elev": 2037, 
+      "uid": "1e4a66e4-4096-4684-bd9b-85e217822f89", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1545, 
+      "cumarea": 2774.973189759944
+    }, 
+    {
+      "max_elev": 2036, 
+      "uid": "8cc4bc71-06f6-48b8-af03-2dcd49c5bf00", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1680, 
+      "cumarea": 2781.9482855586475
+    }
+  ], 
+  "end_x": 2783.411340540606, 
+  "num": 316, 
+  "zoom": 11, 
+  "start_x": 2774.630863125651
+}

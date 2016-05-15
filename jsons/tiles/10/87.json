@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2400, 
+      "cumarea": 1542.0414449835612, 
+      "area": 28.91, 
+      "num_lifts": 68, 
+      "name": "Wengen / Kleine Scheidegg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "uid": "434cc57d-dcf1-4816-a28b-d6cc2d62557a"
+    }, 
+    {
+      "max_elev": 2407, 
+      "cumarea": 1528.5996613376522, 
+      "area": 21.82, 
+      "num_lifts": 188, 
+      "name": "Silvretta Montafon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 691, 
+      "uid": "866561f5-5107-4445-9aff-78dbdbb609b3"
+    }, 
+    {
+      "max_elev": 2406, 
+      "uid": "314651ec-b51c-465c-9cfd-945d94df6572", 
+      "area": 2.25, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1856, 
+      "cumarea": 1531.4105915538685
+    }, 
+    {
+      "max_elev": 2405, 
+      "uid": "3f5b375f-98b4-4388-b120-299561b21a37", 
+      "area": 1.95, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1051, 
+      "cumarea": 1534.078420926444
+    }, 
+    {
+      "max_elev": 2403, 
+      "uid": "5d9d415e-4022-483c-a8d0-69c7695a43c7", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2369, 
+      "cumarea": 1536.6772574275328
+    }
+  ], 
+  "end_x": 1545.3640250320082, 
+  "num": 87, 
+  "zoom": 10, 
+  "start_x": 1527.803070202099
+}

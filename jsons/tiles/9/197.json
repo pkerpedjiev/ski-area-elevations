@@ -1,0 +1,101 @@
+{
+  "shown": [
+    {
+      "max_elev": 1217, 
+      "cumarea": 6936.694664308066, 
+      "area": 5.34, 
+      "num_lifts": 69, 
+      "name": "Saddleback Maine", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 654, 
+      "uid": "6120ef8f-8b19-49d9-9914-f9a82d5be9b9"
+    }, 
+    {
+      "max_elev": 1216, 
+      "uid": "510ef1f8-1238-4497-890d-da39a92ef87d", 
+      "area": 4.21, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 790, 
+      "cumarea": 6940.132126955761
+    }, 
+    {
+      "max_elev": 1217, 
+      "uid": "11b681b5-a06c-4c46-bede-fbcd15f7469d", 
+      "area": 3.3200000000000003, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 668, 
+      "cumarea": 6930.291890047817
+    }, 
+    {
+      "max_elev": 1218, 
+      "uid": "3489d16e-f346-43e3-8e6b-e99ff2da19da", 
+      "area": 2.9000000000000004, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 8, 
+      "cumarea": 6921.490660663144
+    }, 
+    {
+      "max_elev": 1214, 
+      "cumarea": 6945.789211521663, 
+      "area": 2.76, 
+      "num_lifts": 8, 
+      "name": "Karkogel / Abtenau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 718, 
+      "uid": "7215b3be-ab46-41ce-8bf4-0e9dcc235572"
+    }, 
+    {
+      "max_elev": 1218, 
+      "uid": "1b283ea5-bfe4-4182-a888-235ba712c2de", 
+      "area": 2.71, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 834, 
+      "cumarea": 6927.091925264889
+    }, 
+    {
+      "max_elev": 1214, 
+      "uid": "4a86be99-f5a4-4224-afe4-b2306cc14f09", 
+      "area": 2.27, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 767, 
+      "cumarea": 6948.608991353156
+    }, 
+    {
+      "max_elev": 1217, 
+      "cumarea": 6933.019438655095, 
+      "area": 2.0700000000000003, 
+      "num_lifts": 3, 
+      "name": "Garmisch-Classic", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 734, 
+      "uid": "7e11196d-9d86-46a4-baa0-8c2fcdb79c56"
+    }, 
+    {
+      "max_elev": 1215, 
+      "uid": "5ace8cde-7a87-4601-a968-4ebae65bb166", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1021, 
+      "cumarea": 6942.773980841934
+    }, 
+    {
+      "max_elev": 1214, 
+      "uid": "47745906-43cc-457b-a3bf-366f8535a791", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1029, 
+      "cumarea": 6951.218756924777
+    }
+  ], 
+  "end_x": 6954.1381126440365, 
+  "num": 197, 
+  "zoom": 9, 
+  "start_x": 6919.016202984218
+}

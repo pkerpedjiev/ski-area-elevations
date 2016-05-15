@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2432, 
+      "cumarea": 1435.5946708272218, 
+      "area": 13.860000000000001, 
+      "num_lifts": 58, 
+      "name": "Meiringen-Hasliberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 626, 
+      "uid": "2cf80ebf-88b8-417e-b145-059bd6c5529f"
+    }, 
+    {
+      "max_elev": 2432, 
+      "cumarea": 1439.76486673217, 
+      "area": 8.76, 
+      "num_lifts": 34, 
+      "name": "Melchsee - Frutt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1076, 
+      "uid": "5aa0b9ee-79d0-48f0-9b44-467de3870ebb"
+    }
+  ], 
+  "end_x": 1439.998296052553, 
+  "num": 163, 
+  "zoom": 11, 
+  "start_x": 1431.2178186375986
+}

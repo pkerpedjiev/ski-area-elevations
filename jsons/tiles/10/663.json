@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 669, 
+      "uid": "b6fd5aa8-736e-444b-989f-941e952c7e9a", 
+      "area": 3.34, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 224, 
+      "cumarea": 11649.743447201383
+    }, 
+    {
+      "max_elev": 668, 
+      "uid": "7af69426-da0d-4c1e-929d-3fb24ff99616", 
+      "area": 2.02, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 539, 
+      "cumarea": 11652.446544712797
+    }, 
+    {
+      "max_elev": 668, 
+      "uid": "fc7c5e06-5d68-4053-93ad-d5a102518822", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 431, 
+      "cumarea": 11655.08839859897
+    }, 
+    {
+      "max_elev": 668, 
+      "uid": "d3d985ef-4cff-4667-ad9e-83e0be086e5e", 
+      "area": 1.86, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 529, 
+      "cumarea": 11657.708975086694
+    }, 
+    {
+      "max_elev": 668, 
+      "uid": "6771ce28-c830-4302-9699-0c5187fed8e7", 
+      "area": 1.86, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 540, 
+      "cumarea": 11660.32955157442
+    }, 
+    {
+      "max_elev": 669, 
+      "uid": "fefc7c6d-2bbe-4464-9fe1-1b32856ef734", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 631, 
+      "cumarea": 11643.944149549117
+    }, 
+    {
+      "max_elev": 669, 
+      "uid": "06e34709-7b6e-466e-a49a-4564fb3a225d", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 634, 
+      "cumarea": 11646.537476394395
+    }
+  ], 
+  "end_x": 11660.474007059698, 
+  "num": 663, 
+  "zoom": 10, 
+  "start_x": 11642.91305222979
+}

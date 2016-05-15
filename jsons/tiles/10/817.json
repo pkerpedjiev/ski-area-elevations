@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 386, 
+      "uid": "fed9aa24-ca0c-48ec-b46e-8181dc859ea5", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 277, 
+      "cumarea": 14347.396032044138
+    }, 
+    {
+      "max_elev": 385, 
+      "uid": "29dd49ec-42ce-4427-a831-38b59571326f", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 363, 
+      "cumarea": 14360.449122649254
+    }, 
+    {
+      "max_elev": 386, 
+      "uid": "d3f8ad83-149f-4fba-8ef0-a502416df495", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 303, 
+      "cumarea": 14355.197960962125
+    }, 
+    {
+      "max_elev": 386, 
+      "uid": "f3ec5e1f-5d29-4a2d-8f60-021aced2d2b2", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 337, 
+      "cumarea": 14352.588195390505
+    }, 
+    {
+      "max_elev": 386, 
+      "uid": "d575c96c-b88a-4c77-8f8d-4f9a9830a9ea", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 291, 
+      "cumarea": 14357.796797463214
+    }, 
+    {
+      "max_elev": 385, 
+      "uid": "828d3a36-8539-4057-9cf1-d74a9fbfc1a0", 
+      "area": 1.82, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 290, 
+      "cumarea": 14363.047959150343
+    }, 
+    {
+      "max_elev": 386, 
+      "uid": "92044ddb-5c7b-4404-a2e2-fcd63fe8f9d1", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 266, 
+      "cumarea": 14349.989358889416
+    }
+  ], 
+  "end_x": 14364.861050865711, 
+  "num": 817, 
+  "zoom": 10, 
+  "start_x": 14347.300096035802
+}

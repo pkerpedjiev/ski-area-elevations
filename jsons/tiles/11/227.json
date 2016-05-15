@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2260, 
+      "cumarea": 1994.56060160417, 
+      "area": 16.36, 
+      "num_lifts": 70, 
+      "name": "Toggenburg \u2013 Wildhaus/\u200bUnterwasser/\u200bAlt St. Johann", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 530, 
+      "uid": "77cd69d5-4c9d-4137-aa1b-f9a99e440196"
+    }, 
+    {
+      "max_elev": 2260, 
+      "uid": "ff372e9c-9ce3-4750-97cc-33a854f5b633", 
+      "area": 4.37, 
+      "num_lifts": 25, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 862, 
+      "cumarea": 1998.0353646132774
+    }, 
+    {
+      "max_elev": 2258, 
+      "uid": "0b77611d-eef9-4063-a435-645f8ec13e85", 
+      "area": 3.7199999999999998, 
+      "num_lifts": 42, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1877, 
+      "cumarea": 2001.3490882815624
+    }
+  ], 
+  "end_x": 2001.9488506096468, 
+  "num": 227, 
+  "zoom": 11, 
+  "start_x": 1993.1683731946923
+}

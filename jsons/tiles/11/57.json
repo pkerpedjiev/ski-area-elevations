@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3004, 
+      "cumarea": 507.49641723474986, 
+      "area": 5.99, 
+      "num_lifts": 35, 
+      "name": " Grand Targhee Resort", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2309, 
+      "uid": "54723b2c-7597-41b7-bb15-4de948641968"
+    }, 
+    {
+      "max_elev": 3007, 
+      "uid": "d65cd629-ed2d-4706-b48e-b114325439df", 
+      "area": 5.59, 
+      "num_lifts": 39, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 911, 
+      "cumarea": 503.7063258226225
+    }
+  ], 
+  "end_x": 509.2676900673663, 
+  "num": 57, 
+  "zoom": 11, 
+  "start_x": 500.4872126524117
+}

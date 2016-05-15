@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1701, 
+      "cumarea": 4356.401221499214, 
+      "area": 2.87, 
+      "num_lifts": 24, 
+      "name": "Chastreix-Sancy", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1379, 
+      "uid": "c2aae26e-8cbe-492d-95cb-2dc65186e052"
+    }, 
+    {
+      "max_elev": 1701, 
+      "uid": "cfd5e4dc-2855-4a30-bd6a-840019913e15", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1205, 
+      "cumarea": 4359.000058000303
+    }
+  ], 
+  "end_x": 4359.507036524954, 
+  "num": 992, 
+  "zoom": 12, 
+  "start_x": 4355.116797817477
+}

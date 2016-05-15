@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 1507, 
+      "cumarea": 5363.780187468664, 
+      "area": 5.7, 
+      "num_lifts": 18, 
+      "name": "Muju Deogyusan", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 725, 
+      "uid": "8d0c771a-267e-48fc-add6-475486c77b45"
+    }, 
+    {
+      "max_elev": 1507, 
+      "cumarea": 5360.039721293823, 
+      "area": 2.54, 
+      "num_lifts": 12, 
+      "name": "Cerro Perito", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 993, 
+      "uid": "23affdac-82bb-4109-90ba-f6747b615513"
+    }, 
+    {
+      "max_elev": 1506, 
+      "uid": "8ac81bb7-4a73-4edb-97bb-c09ffbbbfdaf", 
+      "area": 2.02, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1139, 
+      "cumarea": 5366.483284980077
+    }, 
+    {
+      "max_elev": 1507, 
+      "uid": "aa8b0254-4c7f-4075-a661-ed9883f2d5fe", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1360, 
+      "cumarea": 5357.107557212793
+    }, 
+    {
+      "max_elev": 1505, 
+      "uid": "ddf74e83-fbed-4b44-a5f5-64f0082c744b", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1353, 
+      "cumarea": 5369.076611825355
+    }, 
+    {
+      "max_elev": 1505, 
+      "uid": "4df6b7fe-0c75-4a16-ba40-5f48980aa2d3", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1498, 
+      "cumarea": 5371.664398490258
+    }
+  ], 
+  "end_x": 5373.65217795221, 
+  "num": 305, 
+  "zoom": 10, 
+  "start_x": 5356.091223122301
+}

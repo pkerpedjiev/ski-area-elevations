@@ -1,0 +1,100 @@
+{
+  "shown": [
+    {
+      "max_elev": 1676, 
+      "uid": "b0d14bb2-445c-44c9-a255-3ba14bfac086", 
+      "area": 4.83, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1259, 
+      "cumarea": 4485.517492193871
+    }, 
+    {
+      "max_elev": 1701, 
+      "cumarea": 4362.553983202807, 
+      "area": 4.73, 
+      "num_lifts": 21, 
+      "name": "Steven's Pass", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1161, 
+      "uid": "d6de8732-a4ed-460e-88c8-303a7812ad2a"
+    }, 
+    {
+      "max_elev": 1685, 
+      "uid": "c03b6e13-dcc5-4b1c-878e-0c5a03294863", 
+      "area": 3.9699999999999998, 
+      "num_lifts": 32, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1425, 
+      "cumarea": 4435.437038661924
+    }, 
+    {
+      "max_elev": 1688, 
+      "uid": "c4ad7cf3-54d1-47aa-a906-cadbb953c39d", 
+      "area": 3.83, 
+      "num_lifts": 34, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1377, 
+      "cumarea": 4426.682028541958
+    }, 
+    {
+      "max_elev": 1694, 
+      "uid": "eeeb89c1-ded4-4aee-b203-329c2767d881", 
+      "area": 3.4000000000000004, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 811, 
+      "cumarea": 4391.30848844402
+    }, 
+    {
+      "max_elev": 1695, 
+      "uid": "9c7511c1-9ce5-4f27-8839-a6b93f5a223d", 
+      "area": 3.3200000000000003, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1254, 
+      "cumarea": 4382.326251828572
+    }, 
+    {
+      "max_elev": 1677, 
+      "uid": "b26a7104-846d-49fe-a065-cfdad3aa7148", 
+      "area": 3.14, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 614, 
+      "cumarea": 4481.942645726206
+    }, 
+    {
+      "max_elev": 1697, 
+      "uid": "48fe32dd-de8f-43dd-8442-ba5fd150d75a", 
+      "area": 3.09, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1139, 
+      "cumarea": 4373.569617198748
+    }, 
+    {
+      "max_elev": 1680, 
+      "uid": "184b6f65-c86a-42f5-826f-fbbc0123d0e7", 
+      "area": 2.88, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1167, 
+      "cumarea": 4465.57681322816
+    }, 
+    {
+      "max_elev": 1701, 
+      "cumarea": 4356.401221499214, 
+      "area": 2.87, 
+      "num_lifts": 24, 
+      "name": "Chastreix-Sancy", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1379, 
+      "uid": "c2aae26e-8cbe-492d-95cb-2dc65186e052"
+    }
+  ], 
+  "end_x": 4495.604436456751, 
+  "num": 31, 
+  "zoom": 7, 
+  "start_x": 4355.116797817477
+}

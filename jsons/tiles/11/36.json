@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3229, 
+      "cumarea": 322.9329341573954, 
+      "area": 11.440000000000001, 
+      "num_lifts": 63, 
+      "name": "Hintertuxer Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1496, 
+      "uid": "8af09368-3e19-4ceb-997b-06ef993892ee"
+    }, 
+    {
+      "max_elev": 3233, 
+      "uid": "74d4beff-4c9d-4ea6-ab29-8c6a0c9a78fd", 
+      "area": 4.83, 
+      "num_lifts": 53, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2823, 
+      "cumarea": 318.4958181714437
+    }
+  ], 
+  "end_x": 324.8776643533199, 
+  "num": 36, 
+  "zoom": 11, 
+  "start_x": 316.0971869383653
+}

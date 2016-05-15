@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2131, 
+      "cumarea": 2401.047221143272, 
+      "area": 6.41, 
+      "num_lifts": 37, 
+      "name": "La Pierre St Martin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1532, 
+      "uid": "a897b6d2-4494-4f58-9872-f9bdc9a6b938"
+    }, 
+    {
+      "max_elev": 2130, 
+      "cumarea": 2404.8272453562818, 
+      "area": 5.93, 
+      "num_lifts": 27, 
+      "name": "Ratschings-Jaufen/Kalcheralm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1289, 
+      "uid": "30fa64ac-8ce5-461d-9b2d-750a5618600a"
+    }, 
+    {
+      "max_elev": 2133, 
+      "uid": "b4fdf021-5728-4f00-afbb-cb67196f67f0", 
+      "area": 5.38, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1229, 
+      "cumarea": 2393.953890400954
+    }, 
+    {
+      "max_elev": 2133, 
+      "uid": "7c2afc4d-eef2-40b9-9203-f7716582c894", 
+      "area": 3.44, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1378, 
+      "cumarea": 2397.1893618723393
+    }, 
+    {
+      "max_elev": 2135, 
+      "uid": "b7db1558-7df7-4c16-9080-1ef5f6c43638", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1457, 
+      "cumarea": 2390.2712020267804
+    }
+  ], 
+  "end_x": 2405.850811697558, 
+  "num": 136, 
+  "zoom": 10, 
+  "start_x": 2388.289856867649
+}

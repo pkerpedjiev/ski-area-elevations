@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 1279, 
+      "cumarea": 6545.396868437499, 
+      "area": 16.07, 
+      "num_lifts": 152, 
+      "name": "Killington", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 354, 
+      "uid": "9223c9de-54e0-4047-a2ae-0bd0b77da174"
+    }, 
+    {
+      "max_elev": 1396, 
+      "cumarea": 5930.093939626323, 
+      "area": 14.8, 
+      "num_lifts": 141, 
+      "name": "\u00c5re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 376, 
+      "uid": "43c6acd9-7d42-4080-a29e-5f8b79230d94"
+    }, 
+    {
+      "max_elev": 1269, 
+      "cumarea": 6612.53516044624, 
+      "area": 11.48, 
+      "num_lifts": 53, 
+      "name": "Oppdal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 588, 
+      "uid": "553b29b3-82ae-4343-bc8d-c980e9660681"
+    }, 
+    {
+      "max_elev": 1582, 
+      "cumarea": 4970.446755224819, 
+      "area": 11.030000000000001, 
+      "num_lifts": 70, 
+      "name": "Annaberg - Lung\u00f6tz - Dachstein West", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 748, 
+      "uid": "3882b889-f5ca-438d-9501-6fb263b69d76"
+    }, 
+    {
+      "max_elev": 1270, 
+      "cumarea": 6608.094554055348, 
+      "area": 10.360000000000001, 
+      "num_lifts": 59, 
+      "name": "Sheregesh", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 595, 
+      "uid": "785c10cd-4914-42c7-bd1e-6cd21ebf93bc"
+    }, 
+    {
+      "max_elev": 1337, 
+      "cumarea": 6223.030150087402, 
+      "area": 10.350000000000001, 
+      "num_lifts": 62, 
+      "name": "Bandai", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 699, 
+      "uid": "915f5502-f136-4047-bf64-f481a0ad8122"
+    }, 
+    {
+      "max_elev": 1354, 
+      "cumarea": 6128.066906814892, 
+      "area": 9.73, 
+      "num_lifts": 78, 
+      "name": "Bukovel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 882, 
+      "uid": "452c65bc-f93d-4e98-a6f7-dca735c5c84b"
+    }, 
+    {
+      "max_elev": 1664, 
+      "cumarea": 4562.021862522773, 
+      "area": 9.57, 
+      "num_lifts": 34, 
+      "name": "Zao Liza World", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 798, 
+      "uid": "0810c1e4-ce13-4da2-aea4-e3acc2eea5fb"
+    }, 
+    {
+      "max_elev": 1405, 
+      "cumarea": 5873.939408222461, 
+      "area": 9.16, 
+      "num_lifts": 105, 
+      "name": "Hemsedal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "uid": "a2fcb608-abf4-4691-af7a-1f68ac5cbbd6"
+    }, 
+    {
+      "max_elev": 1414, 
+      "cumarea": 5837.651460153278, 
+      "area": 8.07, 
+      "num_lifts": 33, 
+      "name": "M\u00e9tabief Mont d'Or", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 881, 
+      "uid": "05b7cbd7-4181-4e0f-9bee-55a65daf0cb7"
+    }
+  ], 
+  "end_x": 6743.406654685126, 
+  "num": 2, 
+  "zoom": 3, 
+  "start_x": 4495.604436456751
+}

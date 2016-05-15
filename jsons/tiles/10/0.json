@@ -1,0 +1,66 @@
+{
+  "shown": [
+    {
+      "max_elev": 4413, 
+      "cumarea": 10.286848656130585, 
+      "area": 4.28, 
+      "num_lifts": 4, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1077, 
+      "uid": "f1afcd27-2f2d-4f66-8d8a-bbb37cde965b"
+    }, 
+    {
+      "max_elev": 4734, 
+      "cumarea": 4.144761007800478, 
+      "area": 3.05, 
+      "num_lifts": 6, 
+      "name": "M\u00e9rida cable car", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1412, 
+      "uid": "7962369f-522d-40a7-9338-d4e5b2bad3c8"
+    }, 
+    {
+      "max_elev": 4333, 
+      "cumarea": 15.948594348188031, 
+      "area": 2.5700000000000003, 
+      "num_lifts": 1, 
+      "name": "(mine)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2373, 
+      "uid": "1d952868-f21c-4a6c-9785-d019870bc738"
+    }, 
+    {
+      "max_elev": 4389, 
+      "uid": "419e7803-3900-424b-b544-1ffd1be0114d", 
+      "area": 2.05, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3446, 
+      "cumarea": 13.004688449280902
+    }, 
+    {
+      "max_elev": 4509, 
+      "uid": "8b30adeb-9266-4b10-8fa4-1b97ee434c00", 
+      "area": 1.99, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3350, 
+      "cumarea": 6.83289564653688
+    }, 
+    {
+      "max_elev": 5204, 
+      "cumarea": 1.0296194171811581, 
+      "area": "1.00", 
+      "num_lifts": 1, 
+      "name": "(mine)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 4034, 
+      "uid": "b9843d94-a87d-4b36-95a4-7ca56621bd0d"
+    }
+  ], 
+  "end_x": 17.560954829909182, 
+  "num": 0, 
+  "zoom": 10, 
+  "start_x": 0.0
+}

@@ -1,0 +1,95 @@
+{
+  "shown": [
+    {
+      "max_elev": 3879, 
+      "cumarea": 57.244961304810985, 
+      "area": 68.46, 
+      "num_lifts": 303, 
+      "name": "Zermatt / Cervinia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1566, 
+      "uid": "4343d2f2-b3ff-47cc-a80b-2cb1907c5e94"
+    }, 
+    {
+      "max_elev": 3928, 
+      "cumarea": 45.670119177773074, 
+      "area": 16.53, 
+      "num_lifts": 124, 
+      "name": "Breckenridge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2914, 
+      "uid": "691431f3-fe50-4648-8883-d7971df1dc3e"
+    }, 
+    {
+      "max_elev": 3822, 
+      "cumarea": 68.16702939406306, 
+      "area": 8.98, 
+      "num_lifts": 19, 
+      "name": "Snowmass", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2473, 
+      "uid": "dc632447-315f-43f7-b2ce-b6c524b50aee"
+    }, 
+    {
+      "max_elev": 3865, 
+      "cumarea": 60.96772790255209, 
+      "area": 5.6, 
+      "num_lifts": 24, 
+      "name": "Loveland", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3242, 
+      "uid": "30bc0b75-a6ac-4477-a1c3-8b92120b3042"
+    }, 
+    {
+      "max_elev": 3943, 
+      "cumarea": 38.212617079900454, 
+      "area": 3.12, 
+      "num_lifts": 14, 
+      "name": "Gulmarg", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2647, 
+      "uid": "e00f8cec-a280-4073-8efc-abb7fb24e31d"
+    }, 
+    {
+      "max_elev": 3845, 
+      "uid": "c13a3dcd-1175-4359-89a4-7244e11c259a", 
+      "area": 2.73, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1912, 
+      "cumarea": 63.97202951174896
+    }, 
+    {
+      "max_elev": 3882, 
+      "uid": "56abb78b-ad2d-4ca2-9e12-4d02d2d9fe97", 
+      "area": 2.14, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2232, 
+      "cumarea": 51.01871167170895
+    }, 
+    {
+      "max_elev": 3937, 
+      "cumarea": 40.864942265940144, 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "name": "(urban, Quito)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 3126, 
+      "uid": "8288741d-0a81-44c6-8eef-7d20ec1b5a9d"
+    }, 
+    {
+      "max_elev": 3919, 
+      "uid": "8e28218c-d2d4-418e-9b51-7dbdbdcb0988", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3913, 
+      "cumarea": 48.25790584267519
+    }
+  ], 
+  "end_x": 70.24381931963673, 
+  "num": 1, 
+  "zoom": 9, 
+  "start_x": 35.121909659818364
+}

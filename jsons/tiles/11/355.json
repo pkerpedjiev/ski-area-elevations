@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1958, 
+      "uid": "a71d32b8-ab74-483a-b1bc-0abe2d70d1f6", 
+      "area": 2.39, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "cumarea": 3123.610729073151
+    }, 
+    {
+      "max_elev": 1960, 
+      "uid": "c27ca657-1fc9-4d21-a5bf-3bf5a8bbc13d", 
+      "area": 2.06, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1683, 
+      "cumarea": 3118.113497276341
+    }, 
+    {
+      "max_elev": 1959, 
+      "cumarea": 3120.7394357072076, 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "name": "Revelstoke", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1433, 
+      "uid": "426b86b3-241e-4e5a-95ec-6f6d00891667"
+    }
+  ], 
+  "end_x": 3125.8499597238347, 
+  "num": 355, 
+  "zoom": 11, 
+  "start_x": 3117.0694823088797
+}

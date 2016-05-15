@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2639, 
+      "cumarea": 935.7244365137232, 
+      "area": 5.11, 
+      "num_lifts": 14, 
+      "name": "Nax Mont Noble", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1506, 
+      "uid": "e034eed7-9764-43b4-999c-3674629e190a"
+    }, 
+    {
+      "max_elev": 2639, 
+      "uid": "127915a6-4cef-4789-a413-9632963e8b5d", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1703, 
+      "cumarea": 938.3767616997628
+    }, 
+    {
+      "max_elev": 2640, 
+      "uid": "bd5b88f8-c0bb-4114-bd74-d131135a9aa7", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1867, 
+      "cumarea": 932.0932371095075
+    }
+  ], 
+  "end_x": 939.5110834001413, 
+  "num": 106, 
+  "zoom": 11, 
+  "start_x": 930.7306059851867
+}

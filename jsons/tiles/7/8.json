@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2499, 
+      "cumarea": 1252.1852053417476, 
+      "area": 28.12, 
+      "num_lifts": 134, 
+      "name": "Valmorel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1220, 
+      "uid": "918f88aa-c5c0-4a1b-94ba-bfd1023136e6"
+    }, 
+    {
+      "max_elev": 2508, 
+      "cumarea": 1215.6707797218678, 
+      "area": 24.82, 
+      "num_lifts": 133, 
+      "name": "Campiglio Dolomiti di Brenta", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 796, 
+      "uid": "5ce8bbd9-8b63-423c-8831-f0ef02da5413"
+    }, 
+    {
+      "max_elev": 2510, 
+      "cumarea": 1210.4591299420913, 
+      "area": 22.220000000000002, 
+      "num_lifts": 177, 
+      "name": "Baqueira-Beret", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1465, 
+      "uid": "609d007f-aab8-4d97-bad1-33ab29f08ac3"
+    }, 
+    {
+      "max_elev": 2508, 
+      "cumarea": 1220.4557909641062, 
+      "area": 16.2, 
+      "num_lifts": 147, 
+      "name": "La Molina", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1614, 
+      "uid": "8c9a78cc-1ac7-4433-880d-59b2fcac8a8e"
+    }, 
+    {
+      "max_elev": 2551, 
+      "cumarea": 1124.3414392257862, 
+      "area": 12.66, 
+      "num_lifts": 77, 
+      "name": "Joue du Loup", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1455, 
+      "uid": "4ce218fa-c101-4ef0-a218-c0ccc5c6c64a"
+    }, 
+    {
+      "max_elev": 2500, 
+      "cumarea": 1243.8444226656084, 
+      "area": 10.930000000000001, 
+      "num_lifts": 30, 
+      "name": "Grindelwald", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1024, 
+      "uid": "53ac0f94-7e68-4c20-a5d0-253de4c3b64c"
+    }, 
+    {
+      "max_elev": 2526, 
+      "cumarea": 1157.5836460453913, 
+      "area": 10.58, 
+      "num_lifts": 23, 
+      "name": "Borovets", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1331, 
+      "uid": "faf0d485-6079-4020-ab79-49082d8bddfd"
+    }, 
+    {
+      "max_elev": 2497, 
+      "cumarea": 1256.5356277641558, 
+      "area": 10.49, 
+      "num_lifts": 54, 
+      "name": "Passo San Pellegrino - Falcade (Trevalli)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1212, 
+      "uid": "ecb49c97-cc22-451e-949b-ab1153f488a3"
+    }, 
+    {
+      "max_elev": 2514, 
+      "cumarea": 1195.0812194732869, 
+      "area": 10.22, 
+      "num_lifts": 38, 
+      "name": "Bansko", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 993, 
+      "uid": "3a1692b0-4dd5-421a-846f-6d6db9f7db1c"
+    }, 
+    {
+      "max_elev": 2548, 
+      "cumarea": 1128.3774512095388, 
+      "area": 7.66, 
+      "num_lifts": 41, 
+      "name": "Donner Ski Ranch / Sugar Bowl", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2108, 
+      "uid": "716987dd-c123-4666-8cbf-6d046c797dfa"
+    }
+  ], 
+  "end_x": 1264.3887477534613, 
+  "num": 8, 
+  "zoom": 7, 
+  "start_x": 1123.9011091141876
+}

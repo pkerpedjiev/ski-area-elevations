@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2367, 
+      "cumarea": 1653.1769581332032, 
+      "area": 41.3, 
+      "num_lifts": 214, 
+      "name": "Meg\u00e9ve", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 827, 
+      "uid": "f68e82a4-3081-4533-88fc-887a782f42c1"
+    }, 
+    {
+      "max_elev": 2470, 
+      "cumarea": 1356.3553152276927, 
+      "area": 35.61, 
+      "num_lifts": 167, 
+      "name": "Flaine", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 692, 
+      "uid": "71fc5102-499c-4cee-8a6d-2173e3902c56"
+    }, 
+    {
+      "max_elev": 2400, 
+      "cumarea": 1542.0414449835612, 
+      "area": 28.91, 
+      "num_lifts": 68, 
+      "name": "Wengen / Kleine Scheidegg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "uid": "434cc57d-dcf1-4816-a28b-d6cc2d62557a"
+    }, 
+    {
+      "max_elev": 2465, 
+      "cumarea": 1367.9063691841036, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 545, 
+      "uid": "1141a029-c589-4f2c-9faa-0b19452a7314"
+    }, 
+    {
+      "max_elev": 2465, 
+      "cumarea": 1375.898804674983, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 545, 
+      "uid": "c88bdcb4-0ed8-44c9-9108-52ed20d0aa67"
+    }, 
+    {
+      "max_elev": 2499, 
+      "cumarea": 1252.1852053417476, 
+      "area": 28.12, 
+      "num_lifts": 134, 
+      "name": "Valmorel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1220, 
+      "uid": "918f88aa-c5c0-4a1b-94ba-bfd1023136e6"
+    }, 
+    {
+      "max_elev": 2427, 
+      "cumarea": 1459.1661954853623, 
+      "area": 25.91, 
+      "num_lifts": 196, 
+      "name": "Z\u00fcrs / Lech / Warth", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1326, 
+      "uid": "a83d080e-0b63-412d-b6d4-efd0d17dc42c"
+    }, 
+    {
+      "max_elev": 2508, 
+      "cumarea": 1215.6707797218678, 
+      "area": 24.82, 
+      "num_lifts": 133, 
+      "name": "Campiglio Dolomiti di Brenta", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 796, 
+      "uid": "5ce8bbd9-8b63-423c-8831-f0ef02da5413"
+    }, 
+    {
+      "max_elev": 2510, 
+      "cumarea": 1210.4591299420913, 
+      "area": 22.220000000000002, 
+      "num_lifts": 177, 
+      "name": "Baqueira-Beret", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1465, 
+      "uid": "609d007f-aab8-4d97-bad1-33ab29f08ac3"
+    }, 
+    {
+      "max_elev": 2407, 
+      "cumarea": 1528.5996613376522, 
+      "area": 21.82, 
+      "num_lifts": 188, 
+      "name": "Silvretta Montafon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 691, 
+      "uid": "866561f5-5107-4445-9aff-78dbdbb609b3"
+    }
+  ], 
+  "end_x": 1685.8516636712816, 
+  "num": 2, 
+  "zoom": 5, 
+  "start_x": 1123.9011091141876
+}

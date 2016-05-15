@@ -1,0 +1,17 @@
+{
+  "shown": [
+    {
+      "max_elev": 47, 
+      "uid": "9798089f-66c9-4f7a-a648-116ddab94c55", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 4, 
+      "cumarea": 17520.026046975945
+    }
+  ], 
+  "end_x": 17521.442681541892, 
+  "num": 7981, 
+  "zoom": 13, 
+  "start_x": 17519.247562188153
+}

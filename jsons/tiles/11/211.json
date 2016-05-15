@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2290, 
+      "cumarea": 1860.651039702447, 
+      "area": 20.34, 
+      "num_lifts": 131, 
+      "name": "Bad Gastein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 850, 
+      "uid": "ed0e0dc8-4844-4338-b298-1dcab0505d0b"
+    }, 
+    {
+      "max_elev": 2292, 
+      "cumarea": 1855.6384503118265, 
+      "area": 6.4799999999999995, 
+      "num_lifts": 29, 
+      "name": "Snowbowl", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1518, 
+      "uid": "07de5d8e-86d5-4550-8a9c-bf970ae4c5be"
+    }
+  ], 
+  "end_x": 1861.4612119703734, 
+  "num": 211, 
+  "zoom": 11, 
+  "start_x": 1852.680734555419
+}

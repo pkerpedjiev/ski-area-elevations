@@ -1,0 +1,17 @@
+{
+  "shown": [
+    {
+      "max_elev": 1555, 
+      "uid": "302a4bb2-4472-4d87-9b98-11b13a979a1f", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1517, 
+      "cumarea": 5140.723195373371
+    }
+  ], 
+  "end_x": 5140.969526455914, 
+  "num": 2341, 
+  "zoom": 13, 
+  "start_x": 5138.774407102175
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2084, 
+      "cumarea": 2583.2263587434677, 
+      "area": 60.94, 
+      "num_lifts": 185, 
+      "name": "Saalbach Hinterglemm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 819, 
+      "uid": "65225423-0c14-4f9f-af7c-47c355a532b8"
+    }, 
+    {
+      "max_elev": 2084, 
+      "uid": "fb42c7c4-fa0f-4043-acea-86e8c0bf531e", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2072, 
+      "cumarea": 2585.8196855887454
+    }
+  ], 
+  "end_x": 2585.8505987041276, 
+  "num": 588, 
+  "zoom": 12, 
+  "start_x": 2581.4603599966504
+}

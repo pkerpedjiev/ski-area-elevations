@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 888, 
+      "cumarea": 9355.670860462964, 
+      "area": 12.15, 
+      "num_lifts": 73, 
+      "name": "Mont Tremblant", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 239, 
+      "uid": "575de683-495f-4e6f-920a-96df9f8fedfc"
+    }, 
+    {
+      "max_elev": 811, 
+      "cumarea": 10093.878536508468, 
+      "area": 8.32, 
+      "num_lifts": 69, 
+      "name": "Mont Sainte-Anne", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 181, 
+      "uid": "63ff72e2-5414-4dfc-a4f3-ce5c5a93b536"
+    }, 
+    {
+      "max_elev": 713, 
+      "cumarea": 11168.560285423342, 
+      "area": 7.18, 
+      "num_lifts": 73, 
+      "name": "Yll\u00e4s", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 265, 
+      "uid": "94e1fd5b-d30c-49cb-bbd5-836b06b0d165"
+    }, 
+    {
+      "max_elev": 727, 
+      "cumarea": 11005.741864437161, 
+      "area": 6.91, 
+      "num_lifts": 69, 
+      "name": "Holiday Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 467, 
+      "uid": "2672a5cb-b2d1-4950-bd55-13769e39e3cf"
+    }, 
+    {
+      "max_elev": 777, 
+      "cumarea": 10492.222799810897, 
+      "area": 6.75, 
+      "num_lifts": 67, 
+      "name": "Le Massif de Charlevoix", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 12, 
+      "uid": "b33fb75b-a0d1-48c0-9d0e-45c607ec3e74"
+    }, 
+    {
+      "max_elev": 885, 
+      "cumarea": 9373.27957594887, 
+      "area": 6.6, 
+      "num_lifts": 95, 
+      "name": "S\u00e4ls\u00e4tern (S\u00e4len)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 576, 
+      "uid": "e3af6532-5254-49f2-9313-f7dbc92efad5"
+    }, 
+    {
+      "max_elev": 870, 
+      "cumarea": 9528.01404549628, 
+      "area": 6.58, 
+      "num_lifts": 91, 
+      "name": "Tand\u00e5dalen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 567, 
+      "uid": "b167dfea-3d19-4fb2-9e9d-04c4fc54566a"
+    }, 
+    {
+      "max_elev": 715, 
+      "cumarea": 11159.353572710123, 
+      "area": 6.29, 
+      "num_lifts": 1, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 431, 
+      "uid": "89f720fe-d32e-4d36-9e4f-aa2cd849c183"
+    }, 
+    {
+      "max_elev": 821, 
+      "cumarea": 9974.23156856199, 
+      "area": 6.02, 
+      "num_lifts": 30, 
+      "name": "St\u00f6ten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 438, 
+      "uid": "da7cfec7-8f6c-4b19-b431-bdd86fb92b29"
+    }, 
+    {
+      "max_elev": 882, 
+      "cumarea": 9406.360311258433, 
+      "area": 5.87, 
+      "num_lifts": 66, 
+      "name": "Idre Fj\u00e4ll", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 579, 
+      "uid": "b72ea324-ea49-42c0-9047-3b168321ed35"
+    }
+  ], 
+  "end_x": 11239.011091141878, 
+  "num": 4, 
+  "zoom": 3, 
+  "start_x": 8991.208872913501
+}

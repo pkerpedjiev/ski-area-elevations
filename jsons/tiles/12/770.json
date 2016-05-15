@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1888, 
+      "cumarea": 3381.583794862113, 
+      "area": 14.34, 
+      "num_lifts": 131, 
+      "name": "Silver Star", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1142, 
+      "uid": "a2b627c0-ad9e-4762-a58b-b225db233a60"
+    }, 
+    {
+      "max_elev": 1887, 
+      "uid": "ea983337-12e7-4595-b33a-933e83f0f8c6", 
+      "area": 2.16, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1223, 
+      "cumarea": 3384.3539030838087
+    }
+  ], 
+  "end_x": 3384.874043464995, 
+  "num": 770, 
+  "zoom": 12, 
+  "start_x": 3380.4838047575176
+}

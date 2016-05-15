@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 1246, 
+      "cumarea": 6725.254674297626, 
+      "area": 6.27, 
+      "num_lifts": 40, 
+      "name": "Maribor Pohorje", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 321, 
+      "uid": "34ad1fc6-d9d0-4be4-9c89-cbb45f79a229"
+    }
+  ], 
+  "end_x": 6725.845699855217, 
+  "num": 3063, 
+  "zoom": 13, 
+  "start_x": 6723.6505805014785
+}

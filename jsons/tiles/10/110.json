@@ -1,0 +1,47 @@
+{
+  "shown": [
+    {
+      "max_elev": 2270, 
+      "cumarea": 1943.8629802025566, 
+      "area": 27.39, 
+      "num_lifts": 70, 
+      "name": "Obersaxen Meierhof", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1246, 
+      "uid": "aef73628-f112-4f23-b641-8ec2b7df70c5"
+    }, 
+    {
+      "max_elev": 2271, 
+      "cumarea": 1935.6983868911254, 
+      "area": 13.24, 
+      "num_lifts": 68, 
+      "name": "Big White", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1518, 
+      "uid": "1ef59aca-ad93-4ca7-9ee0-4bf885490e89"
+    }, 
+    {
+      "max_elev": 2269, 
+      "cumarea": 1947.725508742673, 
+      "area": 6.4399999999999995, 
+      "num_lifts": 27, 
+      "name": "Gargellen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1426, 
+      "uid": "74c4ea56-45e4-4f70-bd93-a91741a4c729"
+    }, 
+    {
+      "max_elev": 2271, 
+      "uid": "a9821dd2-2a83-4746-a5c7-d087008bd5bb", 
+      "area": 2.35, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1888, 
+      "cumarea": 1938.5528022192816
+    }
+  ], 
+  "end_x": 1949.2659861199193, 
+  "num": 110, 
+  "zoom": 10, 
+  "start_x": 1931.70503129001
+}

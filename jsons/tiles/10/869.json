@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 278, 
+      "uid": "5551dde6-5c39-4d20-8e9d-a55113928f95", 
+      "area": 2.0, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 18, 
+      "cumarea": 15277.976047228176
+    }, 
+    {
+      "max_elev": 280, 
+      "uid": "f1a0c532-ab85-45a0-a987-583e56814916", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 269, 
+      "cumarea": 15262.234543872662
+    }, 
+    {
+      "max_elev": 279, 
+      "uid": "b7f79a49-4952-41d6-8ae7-cd9c3e02c112", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 215, 
+      "cumarea": 15270.05812511566
+    }, 
+    {
+      "max_elev": 278, 
+      "uid": "f5a79614-9f36-488c-871e-616ee6462364", 
+      "area": 1.87, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 208, 
+      "cumarea": 15272.684063546527
+    }, 
+    {
+      "max_elev": 280, 
+      "uid": "a17c9feb-8006-43ce-98f2-bb0fce37fbc3", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 243, 
+      "cumarea": 15264.838859839516
+    }, 
+    {
+      "max_elev": 278, 
+      "uid": "3b044be7-1d59-4335-8f7d-2b9b96ef8c30", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 244, 
+      "cumarea": 15275.282900047616
+    }, 
+    {
+      "max_elev": 279, 
+      "uid": "236706a4-e394-42c2-9f8b-6222a6e9abf7", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 259, 
+      "cumarea": 15267.432186684793
+    }
+  ], 
+  "end_x": 15278.030702020988, 
+  "num": 869, 
+  "zoom": 10, 
+  "start_x": 15260.469747191079
+}

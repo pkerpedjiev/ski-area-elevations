@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3808, 
+      "cumarea": 75.34992150105127, 
+      "area": 12.760000000000002, 
+      "num_lifts": 45, 
+      "name": "Telluride", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2665, 
+      "uid": "8278380b-01af-4210-9ef2-16efe2d8a900"
+    }, 
+    {
+      "max_elev": 3799, 
+      "uid": "d258dc2d-88e2-4d3d-86c1-2a01ee162233", 
+      "area": 3.71, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3276, 
+      "cumarea": 78.66095337767061
+    }
+  ], 
+  "end_x": 79.02429673459133, 
+  "num": 17, 
+  "zoom": 12, 
+  "start_x": 74.63405802711404
+}

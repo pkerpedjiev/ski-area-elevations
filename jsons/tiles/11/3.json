@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 3969, 
+      "cumarea": 30.948936163585074, 
+      "area": 8.38, 
+      "num_lifts": 23, 
+      "name": "Polyana Azau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2317, 
+      "uid": "c79cd976-4c6f-40ac-b03a-29f40976a653"
+    }, 
+    {
+      "max_elev": 3969, 
+      "cumarea": 35.07478407807906, 
+      "area": 8.38, 
+      "num_lifts": 23, 
+      "name": "Mt. Elbrus", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2317, 
+      "uid": "743e9b03-240c-477f-b098-c64918f5d8fa"
+    }, 
+    {
+      "max_elev": 3970, 
+      "uid": "27245c21-cd7e-424a-bd9b-298825589fc5", 
+      "area": 2.09, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3615, 
+      "cumarea": 26.823088249091082
+    }
+  ], 
+  "end_x": 35.121909659818364, 
+  "num": 3, 
+  "zoom": 11, 
+  "start_x": 26.341432244863775
+}

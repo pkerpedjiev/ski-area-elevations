@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 882, 
+      "cumarea": 9406.360311258433, 
+      "area": 5.87, 
+      "num_lifts": 66, 
+      "name": "Idre Fj\u00e4ll", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 579, 
+      "uid": "b72ea324-ea49-42c0-9047-3b168321ed35"
+    }, 
+    {
+      "max_elev": 883, 
+      "uid": "49ba0056-c20f-4894-b833-3912df9a3374", 
+      "area": 2.23, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 264, 
+      "cumarea": 9402.590456624594
+    }, 
+    {
+      "max_elev": 882, 
+      "uid": "af7479bc-782a-49a9-825a-e22069884499", 
+      "area": 1.96, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 670, 
+      "cumarea": 9409.033255731676
+    }, 
+    {
+      "max_elev": 882, 
+      "uid": "7f730270-7220-4560-893c-e77ec6d3459b", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 458, 
+      "cumarea": 9411.653832219401
+    }, 
+    {
+      "max_elev": 884, 
+      "uid": "0f5a7d73-c409-4d0e-9e92-6a98d8860f29", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 857, 
+      "cumarea": 9397.200668374218
+    }, 
+    {
+      "max_elev": 883, 
+      "uid": "f8692144-1019-4f89-b06a-1aefb5ec46e5", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 855, 
+      "cumarea": 9399.78845503912
+    }
+  ], 
+  "end_x": 9412.671788831323, 
+  "num": 535, 
+  "zoom": 10, 
+  "start_x": 9395.110834001414
+}

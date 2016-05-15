@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 3216, 
+      "cumarea": 343.0265432780363, 
+      "area": 115.13, 
+      "num_lifts": 729, 
+      "name": "Les 3 Vall\u00e9es", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 628, 
+      "uid": "ece7b2d5-86aa-461b-ad16-1a9a3cc98e80"
+    }, 
+    {
+      "max_elev": 3285, 
+      "cumarea": 289.4119308429745, 
+      "area": 42.599999999999994, 
+      "num_lifts": 254, 
+      "name": "Alpe d'Huez", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "254f7968-1636-4a75-b272-c5cb306514a3"
+    }, 
+    {
+      "max_elev": 3258, 
+      "cumarea": 297.39646053918943, 
+      "area": 24.0, 
+      "num_lifts": 135, 
+      "name": "S\u00f6lden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1353, 
+      "uid": "23ee062c-4f8c-4427-94d6-a20680ad0298"
+    }, 
+    {
+      "max_elev": 3236, 
+      "cumarea": 314.92097170377923, 
+      "area": 19.75, 
+      "num_lifts": 71, 
+      "name": "Monterosa Ski - Champoluc", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1166, 
+      "uid": "963bc883-03e7-4d03-8d13-d5ab8d6950e3"
+    }, 
+    {
+      "max_elev": 3229, 
+      "cumarea": 322.9329341573954, 
+      "area": 11.440000000000001, 
+      "num_lifts": 63, 
+      "name": "Hintertuxer Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1496, 
+      "uid": "8af09368-3e19-4ceb-997b-06ef993892ee"
+    }, 
+    {
+      "max_elev": 3210, 
+      "cumarea": 347.18294586085227, 
+      "area": 8.64, 
+      "num_lifts": 46, 
+      "name": "Steamboat Springs", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2075, 
+      "uid": "cf26651d-c07f-4259-a6e7-4ca203676b13"
+    }, 
+    {
+      "max_elev": 3246, 
+      "cumarea": 307.2699888398564, 
+      "area": 7.2, 
+      "num_lifts": 39, 
+      "name": "Argenti\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1230, 
+      "uid": "1964bd6e-29ce-4fef-bf65-8c4ce9603a04"
+    }, 
+    {
+      "max_elev": 3205, 
+      "cumarea": 351.1331325666748, 
+      "area": 7.03, 
+      "num_lifts": 36, 
+      "name": "Sulden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1849, 
+      "uid": "e71d56af-b7e5-4de5-970c-d8f5b0339247"
+    }, 
+    {
+      "max_elev": 3224, 
+      "cumarea": 329.9000097216996, 
+      "area": 5.75, 
+      "num_lifts": 17, 
+      "name": "Gudauri", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1996, 
+      "uid": "fe333c99-c213-412f-a8bb-89e69350a7c1"
+    }, 
+    {
+      "max_elev": 3224, 
+      "cumarea": 336.2804813533507, 
+      "area": 5.75, 
+      "num_lifts": 17, 
+      "name": "Gudauri", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1996, 
+      "uid": "c78d77e5-63b4-4843-8161-b73c85f55fc2"
+    }
+  ], 
+  "end_x": 351.2190965981837, 
+  "num": 4, 
+  "zoom": 8, 
+  "start_x": 280.9752772785469
+}

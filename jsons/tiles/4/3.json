@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 1845, 
+      "cumarea": 3601.4996186073668, 
+      "area": 48.269999999999996, 
+      "num_lifts": 327, 
+      "name": "SkiWelt Wilder Kaiser", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "uid": "65646b20-4208-40eb-859e-aa8f946acce9"
+    }, 
+    {
+      "max_elev": 1828, 
+      "cumarea": 3708.1152144535386, 
+      "area": 22.52, 
+      "num_lifts": 95, 
+      "name": "Schwyz - Rotenfluh (Mythen)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 583, 
+      "uid": "59909f2f-dbce-4fa0-9afa-83b56a1c060b"
+    }, 
+    {
+      "max_elev": 1877, 
+      "cumarea": 3422.337211954918, 
+      "area": 16.9, 
+      "num_lifts": 129, 
+      "name": "Dienten - Hochk\u00f6nig", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 830, 
+      "uid": "aba0d8ca-0826-4136-bdcb-b4d742f05bc4"
+    }, 
+    {
+      "max_elev": 1888, 
+      "cumarea": 3381.583794862113, 
+      "area": 14.34, 
+      "num_lifts": 131, 
+      "name": "Silver Star", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1142, 
+      "uid": "a2b627c0-ad9e-4762-a58b-b225db233a60"
+    }, 
+    {
+      "max_elev": 1756, 
+      "cumarea": 4089.4256025771333, 
+      "area": 11.190000000000001, 
+      "num_lifts": 89, 
+      "name": "Tarvisio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 757, 
+      "uid": "e101ec71-7a1e-407c-af9f-a0387aac542c"
+    }, 
+    {
+      "max_elev": 1836, 
+      "cumarea": 3645.1250221253167, 
+      "area": 10.99, 
+      "num_lifts": 44, 
+      "name": "Waidring - Steinplatte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 771, 
+      "uid": "6fa992e8-8e04-4d6e-9243-65c5ef363a01"
+    }, 
+    {
+      "max_elev": 1799, 
+      "cumarea": 3866.0749334872125, 
+      "area": 10.05, 
+      "num_lifts": 74, 
+      "name": "Folgariaski", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "3861e775-fbf1-4a70-b6a8-bb5f00036dde"
+    }, 
+    {
+      "max_elev": 1815, 
+      "cumarea": 3770.5170725244893, 
+      "area": 8.71, 
+      "num_lifts": 82, 
+      "name": "Le Lioran", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1161, 
+      "uid": "3c830e77-d625-48e7-9ed1-f858f3389675"
+    }, 
+    {
+      "max_elev": 1817, 
+      "cumarea": 3761.019074438044, 
+      "area": 8.46, 
+      "num_lifts": 115, 
+      "name": "Super Besse", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1222, 
+      "uid": "16287e0a-f0fd-415a-a629-ae2c3083c260"
+    }, 
+    {
+      "max_elev": 1877, 
+      "cumarea": 3426.451054923315, 
+      "area": 8.280000000000001, 
+      "num_lifts": 52, 
+      "name": "Les Houches", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 979, 
+      "uid": "89e6441f-f54a-4409-95db-0e7bfc044f3e"
+    }
+  ], 
+  "end_x": 4495.604436456751, 
+  "num": 3, 
+  "zoom": 4, 
+  "start_x": 3371.703327342563
+}

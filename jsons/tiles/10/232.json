@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 1756, 
+      "cumarea": 4089.4256025771333, 
+      "area": 11.190000000000001, 
+      "num_lifts": 89, 
+      "name": "Tarvisio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 757, 
+      "uid": "e101ec71-7a1e-407c-af9f-a0387aac542c"
+    }, 
+    {
+      "max_elev": 1757, 
+      "uid": "25e394a3-08d0-4164-b7a7-0c7e19686de2", 
+      "area": 2.63, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1504, 
+      "cumarea": 4076.9955937045747
+    }, 
+    {
+      "max_elev": 1757, 
+      "uid": "d018cb26-3495-4b8d-a720-59cd5145a018", 
+      "area": 2.24, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1387, 
+      "cumarea": 4079.8020695704417
+    }, 
+    {
+      "max_elev": 1757, 
+      "uid": "10620fa6-3d0f-447b-8ef3-1f926746a16d", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1216, 
+      "cumarea": 4082.417255209532
+    }, 
+    {
+      "max_elev": 1757, 
+      "uid": "487e4e43-9b88-4276-b76f-79ef8ad8900d", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1724, 
+      "cumarea": 4085.0105820548097
+    }
+  ], 
+  "end_x": 4091.7024753688397, 
+  "num": 232, 
+  "zoom": 10, 
+  "start_x": 4074.1415205389303
+}

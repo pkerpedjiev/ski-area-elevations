@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2997, 
+      "cumarea": 512.479570726097, 
+      "area": 19.75, 
+      "num_lifts": 196, 
+      "name": "Canyons", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2051, 
+      "uid": "afa8f400-7b30-41da-aacc-4b2321d40fc8"
+    }, 
+    {
+      "max_elev": 2993, 
+      "cumarea": 515.967970310154, 
+      "area": 4.43, 
+      "num_lifts": 27, 
+      "name": "Karakol Ski Base", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2404, 
+      "uid": "10a794b4-7d58-44d6-b635-da87713c6410"
+    }
+  ], 
+  "end_x": 518.0481674823209, 
+  "num": 58, 
+  "zoom": 11, 
+  "start_x": 509.2676900673663
+}

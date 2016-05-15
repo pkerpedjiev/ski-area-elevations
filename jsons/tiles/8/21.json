@@ -1,0 +1,106 @@
+{
+  "shown": [
+    {
+      "max_elev": 2400, 
+      "cumarea": 1542.0414449835612, 
+      "area": 28.91, 
+      "num_lifts": 68, 
+      "name": "Wengen / Kleine Scheidegg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "uid": "434cc57d-dcf1-4816-a28b-d6cc2d62557a"
+    }, 
+    {
+      "max_elev": 2407, 
+      "cumarea": 1528.5996613376522, 
+      "area": 21.82, 
+      "num_lifts": 188, 
+      "name": "Silvretta Montafon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 691, 
+      "uid": "866561f5-5107-4445-9aff-78dbdbb609b3"
+    }, 
+    {
+      "max_elev": 2419, 
+      "cumarea": 1483.521138774445, 
+      "area": 16.03, 
+      "num_lifts": 67, 
+      "name": "Auron", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1170, 
+      "uid": "0dcd874b-b913-48a7-b967-9e35d6fb01e0"
+    }, 
+    {
+      "max_elev": 2419, 
+      "cumarea": 1487.6798534970194, 
+      "area": 8.66, 
+      "num_lifts": 49, 
+      "name": "Latemar - Obereggen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1072, 
+      "uid": "473162eb-97e2-48b2-99b4-032f79125881"
+    }, 
+    {
+      "max_elev": 2417, 
+      "cumarea": 1497.1209134370902, 
+      "area": 7.52, 
+      "num_lifts": 35, 
+      "name": "Anz\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1520, 
+      "uid": "00e6f1af-eb29-44a9-ad64-18f0276f9f54"
+    }, 
+    {
+      "max_elev": 2415, 
+      "cumarea": 1503.959020668872, 
+      "area": 7.46, 
+      "num_lifts": 46, 
+      "name": "Brigels - Breil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1105, 
+      "uid": "f702b401-a6a4-49b8-9349-ae7a1efcbc38"
+    }, 
+    {
+      "max_elev": 2420, 
+      "cumarea": 1478.7466768078236, 
+      "area": 7.08, 
+      "num_lifts": 50, 
+      "name": "Kicking Horse", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1262, 
+      "uid": "2dc0313e-a5a4-43b1-9cc0-ae9e9522ed1c"
+    }, 
+    {
+      "max_elev": 2410, 
+      "cumarea": 1518.291883146536, 
+      "area": 4.82, 
+      "num_lifts": 33, 
+      "name": "Termas de Chillan", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1536, 
+      "uid": "d7efe46c-7709-4a91-a470-e0ee5cdad24a"
+    }, 
+    {
+      "max_elev": 2412, 
+      "uid": "4ae359e0-ea43-4657-be74-bb6001354771", 
+      "area": 2.47, 
+      "num_lifts": 25, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2037, 
+      "cumarea": 1512.0878374416316
+    }, 
+    {
+      "max_elev": 2416, 
+      "uid": "a88a8d36-359e-47d0-9f21-d42bfc5c4285", 
+      "area": 2.29, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2173, 
+      "cumarea": 1499.9494652546564
+    }
+  ], 
+  "end_x": 1545.3640250320082, 
+  "num": 21, 
+  "zoom": 8, 
+  "start_x": 1475.1202057123714
+}

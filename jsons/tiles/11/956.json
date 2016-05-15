@@ -1,0 +1,45 @@
+{
+  "shown": [
+    {
+      "max_elev": 1010, 
+      "cumarea": 8402.888132746413, 
+      "area": 4.41, 
+      "num_lifts": 31, 
+      "name": "Sahoro", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 410, 
+      "uid": "997354f3-7788-47bf-9d6f-cf006ca9ba9b"
+    }, 
+    {
+      "max_elev": 1010, 
+      "uid": "85491cf2-a6f0-461b-be4c-992dc8f5e844", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 796, 
+      "cumarea": 8394.212094710589
+    }, 
+    {
+      "max_elev": 1010, 
+      "uid": "b1180705-f2f0-48ad-a47e-7f2393795cbf", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 864, 
+      "cumarea": 8396.810931211678
+    }, 
+    {
+      "max_elev": 1010, 
+      "uid": "a1325db8-232a-4105-997d-3d04a65ba4d5", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 934, 
+      "cumarea": 8399.404258056955
+    }
+  ], 
+  "end_x": 8402.916886111543, 
+  "num": 956, 
+  "zoom": 11, 
+  "start_x": 8394.136408696588
+}

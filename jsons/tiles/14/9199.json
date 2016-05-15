@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 811, 
+      "cumarea": 10097.025938961306, 
+      "area": 3.1500000000000004, 
+      "num_lifts": 35, 
+      "name": "Elk Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 532, 
+      "uid": "0e68e59f-4ec2-41ba-a32d-70d41584b2fd"
+    }
+  ], 
+  "end_x": 10097.549027197781, 
+  "num": 9199, 
+  "zoom": 14, 
+  "start_x": 10096.451467520914
+}

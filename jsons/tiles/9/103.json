@@ -1,0 +1,101 @@
+{
+  "shown": [
+    {
+      "max_elev": 1836, 
+      "cumarea": 3645.1250221253167, 
+      "area": 10.99, 
+      "num_lifts": 44, 
+      "name": "Waidring - Steinplatte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 771, 
+      "uid": "6fa992e8-8e04-4d6e-9243-65c5ef363a01"
+    }, 
+    {
+      "max_elev": 1838, 
+      "uid": "976f43e5-996b-492c-8a72-31f657de8ded", 
+      "area": 3.23, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1311, 
+      "cumarea": 3624.2010137484667
+    }, 
+    {
+      "max_elev": 1837, 
+      "uid": "314cae68-6e48-4274-b6c8-c75368141b9a", 
+      "area": 3.01, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1013, 
+      "cumarea": 3632.6196301214663
+    }, 
+    {
+      "max_elev": 1840, 
+      "uid": "040dbb89-3376-4381-88cd-7837495e9833", 
+      "area": 2.77, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1059, 
+      "cumarea": 3621.028531611232
+    }, 
+    {
+      "max_elev": 1837, 
+      "uid": "97643268-728c-4365-84a5-2d11d8379342", 
+      "area": 2.27, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1617, 
+      "cumarea": 3635.4394099529595
+    }, 
+    {
+      "max_elev": 1835, 
+      "uid": "f7a103cc-3b30-45ec-a19c-e18d71f023dd", 
+      "area": 2.21, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1576, 
+      "cumarea": 3650.5168511419347
+    }, 
+    {
+      "max_elev": 1838, 
+      "uid": "5cca3071-d2e3-4729-a5e0-cab614a79a09", 
+      "area": 2.05, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1766, 
+      "cumarea": 3626.918853541617
+    }, 
+    {
+      "max_elev": 1842, 
+      "cumarea": 3618.009684291033, 
+      "area": 2.0, 
+      "num_lifts": 2, 
+      "name": "(urban, Medell\u00edn)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1527, 
+      "uid": "560beb4b-2599-4206-81a1-96a3c17cd222"
+    }, 
+    {
+      "max_elev": 1837, 
+      "cumarea": 3640.728036356901, 
+      "area": 1.94, 
+      "num_lifts": 1, 
+      "name": "(urban, Medell\u00edn)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1630, 
+      "uid": "f020eaa1-c845-4942-bfce-77b03b546293"
+    }, 
+    {
+      "max_elev": 1837, 
+      "uid": "e9455703-e38d-4e17-b2e4-9adb46c94a50", 
+      "area": 1.87, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1708, 
+      "cumarea": 3638.065348383826
+    }
+  ], 
+  "end_x": 3652.67860462111, 
+  "num": 103, 
+  "zoom": 9, 
+  "start_x": 3617.5566949612917
+}

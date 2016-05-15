@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1591, 
+      "cumarea": 4929.225623321711, 
+      "area": 5.78, 
+      "num_lifts": 56, 
+      "name": "Brauneck - Wallbergbahnen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 714, 
+      "uid": "c74fb221-80a6-4e2f-bbe7-7cdd39d3d0b9"
+    }, 
+    {
+      "max_elev": 1591, 
+      "uid": "ad084d21-0edd-4d2f-a60f-dde8db207fc5", 
+      "area": 4.1, 
+      "num_lifts": 26, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 979, 
+      "cumarea": 4932.636610295422
+    }, 
+    {
+      "max_elev": 1593, 
+      "uid": "79e51f4d-71a0-49a0-b143-8c36974a1bc4", 
+      "area": 2.62, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1135, 
+      "cumarea": 4925.471219639027
+    }, 
+    {
+      "max_elev": 1593, 
+      "uid": "3310937b-b605-4b0b-b210-91e8af4838b2", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "cumarea": 4917.3104025091225
+    }, 
+    {
+      "max_elev": 1593, 
+      "uid": "f0c07f2e-6d0a-4a3a-ad32-2e57eac5f0e7", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1227, 
+      "cumarea": 4919.914718475976
+    }, 
+    {
+      "max_elev": 1593, 
+      "uid": "7c7c6f45-c0c2-4bd1-b22b-0011a5641cda", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1459, 
+      "cumarea": 4922.508045321254
+    }
+  ], 
+  "end_x": 4934.628307204481, 
+  "num": 280, 
+  "zoom": 10, 
+  "start_x": 4917.067352374572
+}

@@ -1,0 +1,100 @@
+{
+  "shown": [
+    {
+      "max_elev": 1522, 
+      "cumarea": 5263.429070055299, 
+      "area": 7.2, 
+      "num_lifts": 23, 
+      "name": "Gai\u00dfau-Hintersee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 748, 
+      "uid": "54586b90-9080-4195-977f-a83aa3b6494a"
+    }, 
+    {
+      "max_elev": 1514, 
+      "uid": "d05fefd5-97a3-4896-a368-0a6fd8f9727e", 
+      "area": 5.14, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 825, 
+      "cumarea": 5311.471106907002
+    }, 
+    {
+      "max_elev": 1514, 
+      "uid": "9112c3a5-f982-4fec-bfb9-c226e88d8143", 
+      "area": 4.2700000000000005, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 966, 
+      "cumarea": 5314.922720734242
+    }, 
+    {
+      "max_elev": 1528, 
+      "uid": "d6d91328-52cd-478e-bf64-f318532a348c", 
+      "area": 4.19, 
+      "num_lifts": 45, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1108, 
+      "cumarea": 5230.640130139911
+    }, 
+    {
+      "max_elev": 1516, 
+      "uid": "c4a0fd4b-1c0a-470f-b3df-1dcc309f82a6", 
+      "area": 3.91, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 944, 
+      "cumarea": 5296.55035898962
+    }, 
+    {
+      "max_elev": 1526, 
+      "uid": "d997bf42-3fb7-419b-bde6-0c31d76cc3c9", 
+      "area": 3.79, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1303, 
+      "cumarea": 5239.6678915599505
+    }, 
+    {
+      "max_elev": 1533, 
+      "uid": "300c978e-0d77-4757-91e2-d616c92e33fd", 
+      "area": 3.5700000000000003, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1008, 
+      "cumarea": 5202.616897441563
+    }, 
+    {
+      "max_elev": 1511, 
+      "cumarea": 5326.664585853377, 
+      "area": 3.5300000000000002, 
+      "num_lifts": 13, 
+      "name": "Ehrwalder Alm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1002, 
+      "uid": "bd94f5c4-3c26-4cdc-84a8-e395ef943432"
+    }, 
+    {
+      "max_elev": 1513, 
+      "uid": "87eaf900-1f75-4bee-a95c-a1dce698b3b0", 
+      "area": 3.51, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "cumarea": 5318.17833677172
+    }, 
+    {
+      "max_elev": 1525, 
+      "uid": "2cf11a0a-e973-4b38-bc24-0286540d1346", 
+      "area": 3.45, 
+      "num_lifts": 26, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 687, 
+      "cumarea": 5248.24181933666
+    }
+  ], 
+  "end_x": 5338.530268292392, 
+  "num": 37, 
+  "zoom": 7, 
+  "start_x": 5198.042629653119
+}

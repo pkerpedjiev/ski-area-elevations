@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 811, 
+      "cumarea": 10093.878536508468, 
+      "area": 8.32, 
+      "num_lifts": 69, 
+      "name": "Mont Sainte-Anne", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 181, 
+      "uid": "63ff72e2-5414-4dfc-a4f3-ce5c5a93b536"
+    }, 
+    {
+      "max_elev": 811, 
+      "cumarea": 10097.025938961306, 
+      "area": 3.1500000000000004, 
+      "num_lifts": 35, 
+      "name": "Elk Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 532, 
+      "uid": "0e68e59f-4ec2-41ba-a32d-70d41584b2fd"
+    }, 
+    {
+      "max_elev": 811, 
+      "uid": "525a0c9b-d52e-49ed-ada6-24bf7b3306ac", 
+      "area": 1.86, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 789, 
+      "cumarea": 10089.759874253634
+    }
+  ], 
+  "end_x": 10097.549027197781, 
+  "num": 1149, 
+  "zoom": 11, 
+  "start_x": 10088.768549782828
+}

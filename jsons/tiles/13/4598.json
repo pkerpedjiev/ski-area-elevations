@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 811, 
+      "cumarea": 10093.878536508468, 
+      "area": 8.32, 
+      "num_lifts": 69, 
+      "name": "Mont Sainte-Anne", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 181, 
+      "uid": "63ff72e2-5414-4dfc-a4f3-ce5c5a93b536"
+    }
+  ], 
+  "end_x": 10095.353907844044, 
+  "num": 4598, 
+  "zoom": 13, 
+  "start_x": 10093.158788490306
+}

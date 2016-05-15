@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2316, 
+      "cumarea": 1779.5722013603556, 
+      "area": 5.44, 
+      "num_lifts": 31, 
+      "name": "Brundage Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1783, 
+      "uid": "3c25a0ce-913a-47bc-b969-ee5bd80a3233"
+    }, 
+    {
+      "max_elev": 2316, 
+      "uid": "62c13df5-4dcc-42ee-a0a6-1a83878a3f4c", 
+      "area": 2.0700000000000003, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 716, 
+      "cumarea": 1775.8784222994877
+    }
+  ], 
+  "end_x": 1782.4369152357822, 
+  "num": 202, 
+  "zoom": 11, 
+  "start_x": 1773.6564378208275
+}

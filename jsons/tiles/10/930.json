@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 166, 
+      "uid": "afeb43c8-c909-4770-95e2-925001143dd6", 
+      "area": 2.12, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 47, 
+      "cumarea": 16335.58533743808
+    }, 
+    {
+      "max_elev": 165, 
+      "uid": "1aac958f-06ba-42fd-91a4-1d59c97f3085", 
+      "area": 1.95, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 105, 
+      "cumarea": 16343.493596897992
+    }, 
+    {
+      "max_elev": 166, 
+      "uid": "12941ef4-1bce-4391-86a1-43d7fbdcedd3", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 111, 
+      "cumarea": 16338.232440680138
+    }, 
+    {
+      "max_elev": 165, 
+      "uid": "105cdb05-f6d6-4cf0-ada9-176013d107ab", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 26, 
+      "cumarea": 16346.135450784164
+    }, 
+    {
+      "max_elev": 165, 
+      "uid": "d320dbc6-4af4-44d0-9f64-ebc85822750d", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 58, 
+      "cumarea": 16348.766722561006
+    }, 
+    {
+      "max_elev": 166, 
+      "uid": "937ded33-9890-4fa3-b1ad-3f85c4478240", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 140, 
+      "cumarea": 16332.833921349396
+    }, 
+    {
+      "max_elev": 166, 
+      "uid": "b0fac96c-9523-4d2a-bf88-430c86c3b67d", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 130, 
+      "cumarea": 16340.825767525415
+    }
+  ], 
+  "end_x": 16349.24894664545, 
+  "num": 930, 
+  "zoom": 10, 
+  "start_x": 16331.68799181554
+}

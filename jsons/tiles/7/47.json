@@ -1,0 +1,104 @@
+{
+  "shown": [
+    {
+      "max_elev": 1269, 
+      "cumarea": 6612.53516044624, 
+      "area": 11.48, 
+      "num_lifts": 53, 
+      "name": "Oppdal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 588, 
+      "uid": "553b29b3-82ae-4343-bc8d-c980e9660681"
+    }, 
+    {
+      "max_elev": 1270, 
+      "cumarea": 6608.094554055348, 
+      "area": 10.360000000000001, 
+      "num_lifts": 59, 
+      "name": "Sheregesh", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 595, 
+      "uid": "785c10cd-4914-42c7-bd1e-6cd21ebf93bc"
+    }, 
+    {
+      "max_elev": 1246, 
+      "cumarea": 6725.254674297626, 
+      "area": 6.27, 
+      "num_lifts": 40, 
+      "name": "Maribor Pohorje", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 321, 
+      "uid": "34ad1fc6-d9d0-4be4-9c89-cbb45f79a229"
+    }, 
+    {
+      "max_elev": 1252, 
+      "cumarea": 6701.496010039668, 
+      "area": 4.34, 
+      "num_lifts": 42, 
+      "name": "Inawashiro", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 695, 
+      "uid": "ae69b4a7-b818-470c-ac38-1e348f560402"
+    }, 
+    {
+      "max_elev": 1263, 
+      "uid": "4dd98f5c-7e52-4f37-ad3f-a516c0e8e48e", 
+      "area": 3.63, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 581, 
+      "cumarea": 6634.898282890325
+    }, 
+    {
+      "max_elev": 1247, 
+      "uid": "1e84cb11-a1d1-4d17-9037-c919ce77b04a", 
+      "area": 3.2, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 812, 
+      "cumarea": 6718.2810649411595
+    }, 
+    {
+      "max_elev": 1247, 
+      "uid": "588ad886-621e-4474-b603-89e9a0715f61", 
+      "area": 3.12, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 849, 
+      "cumarea": 6721.418897942981
+    }, 
+    {
+      "max_elev": 1254, 
+      "cumarea": 6684.338843230303, 
+      "area": 3.06, 
+      "num_lifts": 6, 
+      "name": "Mariazeller B\u00fcrgeralpe", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 870, 
+      "uid": "cfae18f4-1809-45e0-8029-bd61e96e2fff"
+    }, 
+    {
+      "max_elev": 1269, 
+      "uid": "5074e88a-0e59-4691-a606-8256d0a78c83", 
+      "area": 3.04, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 963, 
+      "cumarea": 6615.647017961658
+    }, 
+    {
+      "max_elev": 1262, 
+      "cumarea": 6643.515749961498, 
+      "area": 3.04, 
+      "num_lifts": 14, 
+      "name": "G\u00f6tschen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 626, 
+      "uid": "562e2b89-0ab7-4ce3-a147-b52b687df9c5"
+    }
+  ], 
+  "end_x": 6743.406654685126, 
+  "num": 47, 
+  "zoom": 7, 
+  "start_x": 6602.919016045853
+}

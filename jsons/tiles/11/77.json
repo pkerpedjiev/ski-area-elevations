@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2832, 
+      "cumarea": 679.1959693436959, 
+      "area": 13.13, 
+      "num_lifts": 75, 
+      "name": "Grand Tourmalet", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1293, 
+      "uid": "574e21a8-1f3b-4595-b0da-967eae6fcfd7"
+    }, 
+    {
+      "max_elev": 2824, 
+      "uid": "f053da8a-c00f-480c-8d19-f8e555352005", 
+      "area": 2.38, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2582, 
+      "cumarea": 684.6782554704695
+    }, 
+    {
+      "max_elev": 2827, 
+      "uid": "d47e04ed-ecbe-4012-bcf3-f7fe5d958faa", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2586, 
+      "cumarea": 681.8111549827861
+    }
+  ], 
+  "end_x": 684.8772383664582, 
+  "num": 77, 
+  "zoom": 11, 
+  "start_x": 676.0967609515036
+}

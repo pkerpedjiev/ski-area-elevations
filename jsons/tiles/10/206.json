@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1838, 
+      "uid": "976f43e5-996b-492c-8a72-31f657de8ded", 
+      "area": 3.23, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1311, 
+      "cumarea": 3624.2010137484667
+    }, 
+    {
+      "max_elev": 1837, 
+      "uid": "314cae68-6e48-4274-b6c8-c75368141b9a", 
+      "area": 3.01, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1013, 
+      "cumarea": 3632.6196301214663
+    }, 
+    {
+      "max_elev": 1840, 
+      "uid": "040dbb89-3376-4381-88cd-7837495e9833", 
+      "area": 2.77, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1059, 
+      "cumarea": 3621.028531611232
+    }, 
+    {
+      "max_elev": 1838, 
+      "uid": "5cca3071-d2e3-4729-a5e0-cab614a79a09", 
+      "area": 2.05, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1766, 
+      "cumarea": 3626.918853541617
+    }, 
+    {
+      "max_elev": 1842, 
+      "cumarea": 3618.009684291033, 
+      "area": 2.0, 
+      "num_lifts": 2, 
+      "name": "(urban, Medell\u00edn)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1527, 
+      "uid": "560beb4b-2599-4206-81a1-96a3c17cd222"
+    }, 
+    {
+      "max_elev": 1838, 
+      "uid": "dfd95d75-1df1-408e-9425-87ffaa1cda5d", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1749, 
+      "cumarea": 3629.5176900427055
+    }
+  ], 
+  "end_x": 3635.117649791201, 
+  "num": 206, 
+  "zoom": 10, 
+  "start_x": 3617.5566949612917
+}

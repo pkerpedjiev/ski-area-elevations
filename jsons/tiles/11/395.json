@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1872, 
+      "cumarea": 3472.74760242877, 
+      "area": 3.12, 
+      "num_lifts": 22, 
+      "name": "Ski Puc\u00f3n", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1248, 
+      "uid": "1e42f21c-ad89-4c95-9634-33fc9fb7c14d"
+    }, 
+    {
+      "max_elev": 1871, 
+      "uid": "cf267a6c-c9b9-42f5-84ec-0629daad6b8b", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1155, 
+      "cumarea": 3475.3999276148097
+    }, 
+    {
+      "max_elev": 1872, 
+      "uid": "f1705d31-ccd2-4ea8-a05f-04bfed4c183c", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1057, 
+      "cumarea": 3469.6097694269483
+    }
+  ], 
+  "end_x": 3477.0690563220182, 
+  "num": 395, 
+  "zoom": 11, 
+  "start_x": 3468.2885789070633
+}

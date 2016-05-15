@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1830, 
+      "cumarea": 3680.200549827519, 
+      "area": 5.38, 
+      "num_lifts": 20, 
+      "name": "Hakuba Happoone Winter Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 753, 
+      "uid": "5f6b0de6-9652-41c9-ac93-fe7530da3901"
+    }, 
+    {
+      "max_elev": 1829, 
+      "uid": "3bbf7c1e-e936-4301-a804-8d48cac78e22", 
+      "area": 3.52, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1409, 
+      "cumarea": 3683.4590108171287
+    }, 
+    {
+      "max_elev": 1829, 
+      "uid": "143d2341-ed9e-48c5-952d-bba4486ce212", 
+      "area": 3.4000000000000004, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1465, 
+      "cumarea": 3686.6827862487507
+    }
+  ], 
+  "end_x": 3687.8005142809284, 
+  "num": 419, 
+  "zoom": 11, 
+  "start_x": 3679.0200368659735
+}

@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 547, 
+      "uid": "f88c20af-de98-41c7-a0b8-9166e90d2a55", 
+      "area": 1.99, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 337, 
+      "cumarea": 12796.297863323756
+    }, 
+    {
+      "max_elev": 546, 
+      "uid": "3e73d6a1-cf94-4c72-b8a3-9cc8b6781d87", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 415, 
+      "cumarea": 12798.934440152827
+    }, 
+    {
+      "max_elev": 547, 
+      "uid": "993c3e99-5164-4320-915e-0ed1479ae947", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 488, 
+      "cumarea": 12785.829748149188
+    }, 
+    {
+      "max_elev": 546, 
+      "uid": "5498a1fd-6d54-49af-8f06-513b40e56f5e", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 418, 
+      "cumarea": 12801.533276653916
+    }, 
+    {
+      "max_elev": 547, 
+      "uid": "77c0f568-dbb7-4d09-ae3e-90c016eb1fc8", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 482, 
+      "cumarea": 12788.423074994465
+    }, 
+    {
+      "max_elev": 547, 
+      "uid": "4451785f-d99d-4229-8945-6e1cc89e17f6", 
+      "area": 1.81, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 547, 
+      "cumarea": 12791.016401839743
+    }, 
+    {
+      "max_elev": 547, 
+      "uid": "bbb870f0-91d4-4368-86dd-e6f2798d3f11", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 514, 
+      "cumarea": 12793.60972868502
+    }
+  ], 
+  "end_x": 12801.936071003794, 
+  "num": 728, 
+  "zoom": 10, 
+  "start_x": 12784.375116173886
+}

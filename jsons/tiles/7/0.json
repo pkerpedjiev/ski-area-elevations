@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 3879, 
+      "cumarea": 57.244961304810985, 
+      "area": 68.46, 
+      "num_lifts": 303, 
+      "name": "Zermatt / Cervinia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1566, 
+      "uid": "4343d2f2-b3ff-47cc-a80b-2cb1907c5e94"
+    }, 
+    {
+      "max_elev": 3672, 
+      "cumarea": 107.21341199836348, 
+      "area": 17.79, 
+      "num_lifts": 83, 
+      "name": "Valle Nevado", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2411, 
+      "uid": "ca3ae54b-f3a7-4798-bc18-4067841e9634"
+    }, 
+    {
+      "max_elev": 3928, 
+      "cumarea": 45.670119177773074, 
+      "area": 16.53, 
+      "num_lifts": 124, 
+      "name": "Breckenridge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2914, 
+      "uid": "691431f3-fe50-4648-8883-d7971df1dc3e"
+    }, 
+    {
+      "max_elev": 3752, 
+      "cumarea": 89.58893831713533, 
+      "area": 12.9, 
+      "num_lifts": 88, 
+      "name": "Copper Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2960, 
+      "uid": "15aaf30a-6dbd-4cd4-b238-c87cec41ac2f"
+    }, 
+    {
+      "max_elev": 3808, 
+      "cumarea": 75.34992150105127, 
+      "area": 12.760000000000002, 
+      "num_lifts": 45, 
+      "name": "Telluride", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2665, 
+      "uid": "8278380b-01af-4210-9ef2-16efe2d8a900"
+    }, 
+    {
+      "max_elev": 3637, 
+      "cumarea": 116.24313855568538, 
+      "area": 12.41, 
+      "num_lifts": 90, 
+      "name": "Keystone", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2829, 
+      "uid": "e141e7c9-33fb-4744-a277-aa7c74bdc9b5"
+    }, 
+    {
+      "max_elev": 3654, 
+      "cumarea": 111.72463595646886, 
+      "area": 12.32, 
+      "num_lifts": 49, 
+      "name": "Winter Park", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2770, 
+      "uid": "2bedad4a-b26f-46d6-a47d-015eee15a0da"
+    }, 
+    {
+      "max_elev": 3822, 
+      "cumarea": 68.16702939406306, 
+      "area": 8.98, 
+      "num_lifts": 19, 
+      "name": "Snowmass", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2473, 
+      "uid": "dc632447-315f-43f7-b2ce-b6c524b50aee"
+    }, 
+    {
+      "max_elev": 3746, 
+      "cumarea": 96.36850265311153, 
+      "area": 8.48, 
+      "num_lifts": 88, 
+      "name": "Aiguille du Midi (Chamonix)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1033, 
+      "uid": "cc661b7e-3d14-42c5-8f8d-61837f42a717"
+    }, 
+    {
+      "max_elev": 3969, 
+      "cumarea": 30.948936163585074, 
+      "area": 8.38, 
+      "num_lifts": 23, 
+      "name": "Polyana Azau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2317, 
+      "uid": "c79cd976-4c6f-40ac-b03a-29f40976a653"
+    }
+  ], 
+  "end_x": 140.48763863927346, 
+  "num": 0, 
+  "zoom": 7, 
+  "start_x": 0.0
+}

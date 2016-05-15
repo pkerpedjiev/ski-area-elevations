@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2372, 
+      "cumarea": 1627.2137081705498, 
+      "area": 11.88, 
+      "num_lifts": 44, 
+      "name": "Panorama Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1141, 
+      "uid": "afd7443c-daad-40ab-988f-c2988b17e375"
+    }, 
+    {
+      "max_elev": 2372, 
+      "cumarea": 1630.029072983834, 
+      "area": 2.2600000000000002, 
+      "num_lifts": 1, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 1555, 
+      "uid": "27739509-4cd7-4b72-805e-c31c8907c575"
+    }, 
+    {
+      "max_elev": 2374, 
+      "uid": "ac5402a5-b214-4441-9be6-69d3f9377110", 
+      "area": 1.97, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1591, 
+      "cumarea": 1617.4874326477034
+    }, 
+    {
+      "max_elev": 2373, 
+      "uid": "d94e7ac4-4164-4826-9907-6708c1624200", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1289, 
+      "cumarea": 1620.134535889762
+    }, 
+    {
+      "max_elev": 2373, 
+      "uid": "49b29b22-a619-413c-8cb9-e4e623746f5b", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2129, 
+      "cumarea": 1622.7388518566154
+    }
+  ], 
+  "end_x": 1633.168799181554, 
+  "num": 92, 
+  "zoom": 10, 
+  "start_x": 1615.6078443516449
+}

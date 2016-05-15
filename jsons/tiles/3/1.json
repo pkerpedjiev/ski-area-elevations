@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2084, 
+      "cumarea": 2583.2263587434677, 
+      "area": 60.94, 
+      "num_lifts": 185, 
+      "name": "Saalbach Hinterglemm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 819, 
+      "uid": "65225423-0c14-4f9f-af7c-47c355a532b8"
+    }, 
+    {
+      "max_elev": 1845, 
+      "cumarea": 3601.4996186073668, 
+      "area": 48.269999999999996, 
+      "num_lifts": 327, 
+      "name": "SkiWelt Wilder Kaiser", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "uid": "65646b20-4208-40eb-859e-aa8f946acce9"
+    }, 
+    {
+      "max_elev": 1988, 
+      "cumarea": 3004.7178520767566, 
+      "area": 42.75, 
+      "num_lifts": 150, 
+      "name": "Kitzb\u00fchel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "c965577c-b08b-4bf4-bdc1-ca717c167622"
+    }, 
+    {
+      "max_elev": 2031, 
+      "cumarea": 2815.535443629346, 
+      "area": 41.059999999999995, 
+      "num_lifts": 231, 
+      "name": "Espace Diamant", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 954, 
+      "uid": "00cc16ad-f5de-447d-96f2-e5057673a906"
+    }, 
+    {
+      "max_elev": 1985, 
+      "cumarea": 3016.8059444352107, 
+      "area": 26.11, 
+      "num_lifts": 166, 
+      "name": "Schladming", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 726, 
+      "uid": "cd2186dc-1e96-4022-abc4-bd2af5f10c80"
+    }, 
+    {
+      "max_elev": 1828, 
+      "cumarea": 3708.1152144535386, 
+      "area": 22.52, 
+      "num_lifts": 95, 
+      "name": "Schwyz - Rotenfluh (Mythen)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 583, 
+      "uid": "59909f2f-dbce-4fa0-9afa-83b56a1c060b"
+    }, 
+    {
+      "max_elev": 2003, 
+      "cumarea": 2948.539446326348, 
+      "area": 22.470000000000002, 
+      "num_lifts": 68, 
+      "name": "Sch\u00f6nfeld - Thomatal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 945, 
+      "uid": "35bac140-b5d6-4c12-86f2-c2d7d485d35a"
+    }, 
+    {
+      "max_elev": 2110, 
+      "cumarea": 2465.22071560512, 
+      "area": 20.720000000000002, 
+      "num_lifts": 107, 
+      "name": "Les Diablerets", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "347dbdbb-c28c-4fa1-bd97-d5fa2716f0ab"
+    }, 
+    {
+      "max_elev": 1877, 
+      "cumarea": 3422.337211954918, 
+      "area": 16.9, 
+      "num_lifts": 129, 
+      "name": "Dienten - Hochk\u00f6nig", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 830, 
+      "uid": "aba0d8ca-0826-4136-bdcb-b4d742f05bc4"
+    }, 
+    {
+      "max_elev": 1956, 
+      "cumarea": 3139.080290130891, 
+      "area": 16.36, 
+      "num_lifts": 161, 
+      "name": "Wagrain", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 721, 
+      "uid": "e75defdd-4837-44a0-acac-6cf17c5c38de"
+    }
+  ], 
+  "end_x": 4495.604436456751, 
+  "num": 1, 
+  "zoom": 3, 
+  "start_x": 2247.8022182283753
+}

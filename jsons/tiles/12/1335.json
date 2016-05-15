@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1406, 
+      "cumarea": 5864.537938877783, 
+      "area": 2.13, 
+      "num_lifts": 10, 
+      "name": "Sappada", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1197, 
+      "uid": "60001199-5e5e-417c-990c-ededcd7d87c4"
+    }, 
+    {
+      "max_elev": 1410, 
+      "uid": "afec95bc-817e-4b44-9f30-5198b5d3b75a", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1400, 
+      "cumarea": 5861.781816898061
+    }
+  ], 
+  "end_x": 5865.358913189668, 
+  "num": 1335, 
+  "zoom": 12, 
+  "start_x": 5860.96867448219
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2817, 
+      "cumarea": 690.1051205988803, 
+      "area": 30.78, 
+      "num_lifts": 84, 
+      "name": "Davos - Klosters", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "7c75991d-105c-4ceb-8f3a-f362472c9db9"
+    }, 
+    {
+      "max_elev": 2813, 
+      "uid": "d854bd34-eda4-4e92-94f1-66f68cfd9427", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2787, 
+      "cumarea": 692.698447444158
+    }
+  ], 
+  "end_x": 693.6577157814128, 
+  "num": 157, 
+  "zoom": 12, 
+  "start_x": 689.2674770739354
+}

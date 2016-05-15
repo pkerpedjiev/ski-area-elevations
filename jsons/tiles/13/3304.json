@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 1167, 
+      "cumarea": 7254.756988389135, 
+      "area": 5.49, 
+      "num_lifts": 39, 
+      "name": "Norefjell", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 195, 
+      "uid": "14462a4c-81d8-49c7-85ec-1ed152f584b1"
+    }
+  ], 
+  "end_x": 7254.869464106232, 
+  "num": 3304, 
+  "zoom": 13, 
+  "start_x": 7252.674344752493
+}

@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2003, 
+      "cumarea": 2948.539446326348, 
+      "area": 22.470000000000002, 
+      "num_lifts": 68, 
+      "name": "Sch\u00f6nfeld - Thomatal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 945, 
+      "uid": "35bac140-b5d6-4c12-86f2-c2d7d485d35a"
+    }, 
+    {
+      "max_elev": 2005, 
+      "cumarea": 2935.413291718125, 
+      "area": 5.64, 
+      "num_lifts": 39, 
+      "name": "Whitewater", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1388, 
+      "uid": "18e028a7-db5b-43c0-b958-fad845907b9e"
+    }, 
+    {
+      "max_elev": 2005, 
+      "uid": "fd3afbe5-9438-4288-b4c8-030324f772c7", 
+      "area": 2.11, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1811, 
+      "cumarea": 2938.159979665613
+    }, 
+    {
+      "max_elev": 2004, 
+      "uid": "74f00ddc-7f93-4e7b-af4b-a6fe23f78356", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1402, 
+      "cumarea": 2943.4272652401505
+    }, 
+    {
+      "max_elev": 2005, 
+      "uid": "a8977108-6dac-4f12-a6f8-7c43d2395bef", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1836, 
+      "cumarea": 2940.7697452372336
+    }
+  ], 
+  "end_x": 2950.240411424743, 
+  "num": 167, 
+  "zoom": 10, 
+  "start_x": 2932.679456594834
+}

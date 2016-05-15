@@ -1,0 +1,101 @@
+{
+  "shown": [
+    {
+      "max_elev": 1756, 
+      "cumarea": 4089.4256025771333, 
+      "area": 11.190000000000001, 
+      "num_lifts": 89, 
+      "name": "Tarvisio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 757, 
+      "uid": "e101ec71-7a1e-407c-af9f-a0387aac542c"
+    }, 
+    {
+      "max_elev": 1750, 
+      "cumarea": 4139.4339594013045, 
+      "area": 6.93, 
+      "num_lifts": 17, 
+      "name": "Vogel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 563, 
+      "uid": "cf2cc42c-7bf5-4552-8df3-85d4d14a90a3"
+    }, 
+    {
+      "max_elev": 1746, 
+      "uid": "60cd3b5a-7809-4efc-996a-f4c1a8ef6f32", 
+      "area": 5.33, 
+      "num_lifts": 27, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 910, 
+      "cumarea": 4154.808420346225
+    }, 
+    {
+      "max_elev": 1748, 
+      "cumarea": 4143.080693098483, 
+      "area": 5.19, 
+      "num_lifts": 13, 
+      "name": "Wirzweli \u2013 Dallenwil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 486, 
+      "uid": "712d9a58-ad85-49fd-9c16-04b5a567f308"
+    }, 
+    {
+      "max_elev": 1752, 
+      "uid": "9ec23a5e-1154-47dc-96d3-53ef0553a0b7", 
+      "area": 4.62, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1412, 
+      "cumarea": 4120.427937635175
+    }, 
+    {
+      "max_elev": 1751, 
+      "uid": "1f99b35e-3b8e-4888-90e9-bce6ccc0ec25", 
+      "area": 4.0200000000000005, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 836, 
+      "cumarea": 4126.621221123278
+    }, 
+    {
+      "max_elev": 1731, 
+      "uid": "812f6f3d-1e32-4dde-ad6a-065a15e9edb8", 
+      "area": 3.9400000000000004, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 773, 
+      "cumarea": 4197.401903843878
+    }, 
+    {
+      "max_elev": 1728, 
+      "uid": "0e5257a0-68aa-4ed9-81b7-0b65daf29d12", 
+      "area": 3.76, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 950, 
+      "cumarea": 4214.142169909764
+    }, 
+    {
+      "max_elev": 1751, 
+      "uid": "dc6c6a90-ba9f-4fd5-b95b-9ee9289c5403", 
+      "area": 3.52, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1025, 
+      "cumarea": 4129.879682112888
+    }, 
+    {
+      "max_elev": 1742, 
+      "uid": "53a3a958-06d1-4b68-ba3c-0177eeb9d5d5", 
+      "area": 3.46, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1334, 
+      "cumarea": 4168.634282476129
+    }
+  ], 
+  "end_x": 4214.629159178204, 
+  "num": 29, 
+  "zoom": 7, 
+  "start_x": 4074.1415205389303
+}

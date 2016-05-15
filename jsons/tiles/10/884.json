@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 245, 
+      "uid": "89b9e6c1-2dff-4f53-8844-5d6033e92e93", 
+      "area": 2.22, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 178, 
+      "cumarea": 15541.14517254278
+    }, 
+    {
+      "max_elev": 250, 
+      "uid": "a630a148-e334-4744-a061-850da6b325c4", 
+      "area": 1.87, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 212, 
+      "cumarea": 15525.342583960966
+    }, 
+    {
+      "max_elev": 248, 
+      "uid": "dc20218c-d131-4b68-9b6c-c9350a550f28", 
+      "area": 1.84, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 182, 
+      "cumarea": 15527.952349532587
+    }, 
+    {
+      "max_elev": 247, 
+      "uid": "bd97b31b-ddad-47b4-8721-b0b30a822b75", 
+      "area": 1.83, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 247, 
+      "cumarea": 15533.155502000529
+    }, 
+    {
+      "max_elev": 248, 
+      "uid": "cb6332f1-317c-4ea3-8d41-6586a9e48884", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 230, 
+      "cumarea": 15530.551186033676
+    }, 
+    {
+      "max_elev": 246, 
+      "uid": "fbe2c275-1f16-4d7f-9ae1-155cb7b75adf", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 176, 
+      "cumarea": 15535.754338501618
+    }, 
+    {
+      "max_elev": 246, 
+      "uid": "065877a4-a389-4451-a23a-b4dc56ad7da4", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 183, 
+      "cumarea": 15538.347665346895
+    }
+  ], 
+  "end_x": 15541.445024469625, 
+  "num": 884, 
+  "zoom": 10, 
+  "start_x": 15523.884069639716
+}

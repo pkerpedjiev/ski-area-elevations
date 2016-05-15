@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2377, 
+      "cumarea": 1593.4623522223976, 
+      "area": 7.01, 
+      "num_lifts": 35, 
+      "name": "Le Sauze", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1365, 
+      "uid": "b7b64611-3935-43ed-a2cb-4924574a39ef"
+    }, 
+    {
+      "max_elev": 2378, 
+      "uid": "7bc628f9-b8b7-4a9f-b14c-f095009daa1e", 
+      "area": 2.15, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1303, 
+      "cumarea": 1589.515014521351
+    }
+  ], 
+  "end_x": 1593.6566508142582, 
+  "num": 362, 
+  "zoom": 12, 
+  "start_x": 1589.266412106781
+}

@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 300, 
+      "cumarea": 15104.59156247637, 
+      "area": 1.94, 
+      "num_lifts": 12, 
+      "name": "Hickory Hill", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 232, 
+      "uid": "7eabcf5d-dcff-4558-98f0-70a13d384804"
+    }
+  ], 
+  "end_x": 15106.811392429376, 
+  "num": 3440, 
+  "zoom": 12, 
+  "start_x": 15102.421153721898
+}

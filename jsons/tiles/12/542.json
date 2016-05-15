@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2138, 
+      "cumarea": 2379.6899675333652, 
+      "area": 6.359999999999999, 
+      "num_lifts": 46, 
+      "name": "Alpe du Grand-Serre", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1370, 
+      "uid": "032fa407-5097-48f8-aef4-68a481b98c92"
+    }, 
+    {
+      "max_elev": 2138, 
+      "uid": "e3974cb7-2ca9-4873-9650-6ee7b2959b41", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1614, 
+      "cumarea": 2382.3051531724554
+    }
+  ], 
+  "end_x": 2383.899618160172, 
+  "num": 542, 
+  "zoom": 12, 
+  "start_x": 2379.5093794526947
+}

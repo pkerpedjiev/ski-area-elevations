@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 2138, 
+      "cumarea": 2379.6899675333652, 
+      "area": 6.359999999999999, 
+      "num_lifts": 46, 
+      "name": "Alpe du Grand-Serre", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1370, 
+      "uid": "032fa407-5097-48f8-aef4-68a481b98c92"
+    }, 
+    {
+      "max_elev": 2141, 
+      "cumarea": 2373.126989348157, 
+      "area": 6.2299999999999995, 
+      "num_lifts": 50, 
+      "name": "Luchon Superbagneres", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 640, 
+      "uid": "19ddb461-d17f-41db-86ca-ba8306eeacac"
+    }, 
+    {
+      "max_elev": 2141, 
+      "uid": "31caa8cf-93b4-4461-91cf-23c1a0424e9c", 
+      "area": 2.04, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1742, 
+      "cumarea": 2375.8399391560133
+    }, 
+    {
+      "max_elev": 2138, 
+      "uid": "db647c83-f91b-4dbe-a972-3c1b30feef5c", 
+      "area": 2.0, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1112, 
+      "cumarea": 2384.9983003530156
+    }, 
+    {
+      "max_elev": 2136, 
+      "uid": "99e7e3ff-c1f0-45e6-8f6b-db411c8bcb64", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1633, 
+      "cumarea": 2387.6188768407405
+    }, 
+    {
+      "max_elev": 2138, 
+      "uid": "e3974cb7-2ca9-4873-9650-6ee7b2959b41", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1614, 
+      "cumarea": 2382.3051531724554
+    }
+  ], 
+  "end_x": 2388.289856867649, 
+  "num": 135, 
+  "zoom": 10, 
+  "start_x": 2370.72890203774
+}

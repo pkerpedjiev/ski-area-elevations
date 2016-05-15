@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2572, 
+      "cumarea": 1075.0245280153583, 
+      "area": 29.400000000000002, 
+      "num_lifts": 173, 
+      "name": "Les Sybelles", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1085, 
+      "uid": "44ae0a02-b7bb-42a0-9459-489c97a39b4b"
+    }, 
+    {
+      "max_elev": 2568, 
+      "cumarea": 1083.2738629048051, 
+      "area": 26.740000000000002, 
+      "num_lifts": 121, 
+      "name": "Valloire", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1409, 
+      "uid": "99c7481e-080d-48e8-8979-c10f13185c13"
+    }, 
+    {
+      "max_elev": 2572, 
+      "uid": "2b9d8a52-5788-4e92-883e-9a0fd314ccca", 
+      "area": 2.62, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1372, 
+      "cumarea": 1077.9877023331314
+    }, 
+    {
+      "max_elev": 2563, 
+      "uid": "19eaee3f-b5dc-4c8d-8c2f-7ef1c9dcd922", 
+      "area": 2.08, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1889, 
+      "cumarea": 1088.64280762759
+    }, 
+    {
+      "max_elev": 2568, 
+      "uid": "94222051-62c1-4695-ba76-986b475ee51e", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2126, 
+      "cumarea": 1085.9104397338767
+    }
+  ], 
+  "end_x": 1088.7791994543693, 
+  "num": 61, 
+  "zoom": 10, 
+  "start_x": 1071.21824462446
+}

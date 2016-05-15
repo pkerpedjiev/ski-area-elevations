@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2307, 
+      "cumarea": 1803.274182841126, 
+      "area": 11.88, 
+      "num_lifts": 119, 
+      "name": "Obertauern", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1632, 
+      "uid": "90ccf184-c2a3-4aa0-853b-a026398a7dc3"
+    }, 
+    {
+      "max_elev": 2340, 
+      "cumarea": 1703.8078887193924, 
+      "area": 10.81, 
+      "num_lifts": 49, 
+      "name": "Ax les Thermes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 735, 
+      "uid": "e3d6a99f-2589-492a-bd05-fdf7c27d68ef"
+    }, 
+    {
+      "max_elev": 2324, 
+      "cumarea": 1756.4705554803825, 
+      "area": 8.68, 
+      "num_lifts": 45, 
+      "name": "Ar\u00eaches-Beaufort", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1025, 
+      "uid": "0c066de0-0ca1-4219-bffc-badeb655e243"
+    }, 
+    {
+      "max_elev": 2305, 
+      "cumarea": 1818.9323488059201, 
+      "area": 8.57, 
+      "num_lifts": 39, 
+      "name": "Bogus Basin", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1758, 
+      "uid": "56cbc73c-878f-421d-b6d6-93a2d09f0632"
+    }, 
+    {
+      "max_elev": 2322, 
+      "cumarea": 1763.1043346191095, 
+      "area": 7.609999999999999, 
+      "num_lifts": 60, 
+      "name": "Carezza Ski", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1183, 
+      "uid": "63dce366-693a-43f5-be6a-543757dd5d8d"
+    }, 
+    {
+      "max_elev": 2309, 
+      "cumarea": 1792.6854835587944, 
+      "area": 7.52, 
+      "num_lifts": 49, 
+      "name": "Port del Comte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1706, 
+      "uid": "2a015eab-8104-42f1-9252-5ef633a69532"
+    }, 
+    {
+      "max_elev": 2317, 
+      "cumarea": 1770.503770450152, 
+      "area": 7.34, 
+      "num_lifts": 36, 
+      "name": "Axamer - Lizum", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 873, 
+      "uid": "8b9c7f52-9aa4-4e6e-8c5b-6bf025f291e3"
+    }, 
+    {
+      "max_elev": 2330, 
+      "cumarea": 1739.5431927939114, 
+      "area": 6.95, 
+      "num_lifts": 37, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 520, 
+      "uid": "27cc8c60-d684-428e-b662-54629232f9cd"
+    }, 
+    {
+      "max_elev": 2330, 
+      "cumarea": 1743.481934453488, 
+      "area": 6.95, 
+      "num_lifts": 37, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 520, 
+      "uid": "c326f600-075e-439d-944d-d71a188c0367"
+    }, 
+    {
+      "max_elev": 2340, 
+      "cumarea": 1707.630823806089, 
+      "area": 6.1899999999999995, 
+      "num_lifts": 29, 
+      "name": "Grosseck - Speiereck", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1092, 
+      "uid": "f820df8c-d491-4bd0-b2c8-d02e83f01f95"
+    }
+  ], 
+  "end_x": 1826.339302310555, 
+  "num": 12, 
+  "zoom": 7, 
+  "start_x": 1685.8516636712816
+}

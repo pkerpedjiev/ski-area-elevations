@@ -1,0 +1,107 @@
+{
+  "shown": [
+    {
+      "max_elev": 3672, 
+      "cumarea": 107.21341199836348, 
+      "area": 17.79, 
+      "num_lifts": 83, 
+      "name": "Valle Nevado", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2411, 
+      "uid": "ca3ae54b-f3a7-4798-bc18-4067841e9634"
+    }, 
+    {
+      "max_elev": 3752, 
+      "cumarea": 89.58893831713533, 
+      "area": 12.9, 
+      "num_lifts": 88, 
+      "name": "Copper Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2960, 
+      "uid": "15aaf30a-6dbd-4cd4-b238-c87cec41ac2f"
+    }, 
+    {
+      "max_elev": 3808, 
+      "cumarea": 75.34992150105127, 
+      "area": 12.760000000000002, 
+      "num_lifts": 45, 
+      "name": "Telluride", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2665, 
+      "uid": "8278380b-01af-4210-9ef2-16efe2d8a900"
+    }, 
+    {
+      "max_elev": 3637, 
+      "cumarea": 116.24313855568538, 
+      "area": 12.41, 
+      "num_lifts": 90, 
+      "name": "Keystone", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2829, 
+      "uid": "e141e7c9-33fb-4744-a277-aa7c74bdc9b5"
+    }, 
+    {
+      "max_elev": 3654, 
+      "cumarea": 111.72463595646886, 
+      "area": 12.32, 
+      "num_lifts": 49, 
+      "name": "Winter Park", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2770, 
+      "uid": "2bedad4a-b26f-46d6-a47d-015eee15a0da"
+    }, 
+    {
+      "max_elev": 3746, 
+      "cumarea": 96.36850265311153, 
+      "area": 8.48, 
+      "num_lifts": 88, 
+      "name": "Aiguille du Midi (Chamonix)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1033, 
+      "uid": "cc661b7e-3d14-42c5-8f8d-61837f42a717"
+    }, 
+    {
+      "max_elev": 3791, 
+      "cumarea": 82.42739503891437, 
+      "area": 5.85, 
+      "num_lifts": 14, 
+      "name": "Arolla", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1976, 
+      "uid": "a355de60-9ea8-46c8-966d-02ae379b14ea"
+    }, 
+    {
+      "max_elev": 3620, 
+      "cumarea": 122.58264364027838, 
+      "area": 5.67, 
+      "num_lifts": 15, 
+      "name": "Crested Butte", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2782, 
+      "uid": "ee927948-e2db-47f0-9629-b6e06fbc24cb"
+    }, 
+    {
+      "max_elev": 3598, 
+      "uid": "d050db47-1fe2-4c04-8325-e03812ab323b", 
+      "area": 4.49, 
+      "num_lifts": 56, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3289, 
+      "cumarea": 132.11810334736856
+    }, 
+    {
+      "max_elev": 3596, 
+      "cumarea": 135.54841459390522, 
+      "area": 4.18, 
+      "num_lifts": 7, 
+      "name": "Dizin", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2678, 
+      "uid": "8ab8ac77-360c-4a44-bf59-b47432e972b9"
+    }
+  ], 
+  "end_x": 140.48763863927346, 
+  "num": 1, 
+  "zoom": 8, 
+  "start_x": 70.24381931963673
+}

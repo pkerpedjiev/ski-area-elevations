@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 314, 
+      "uid": "4f427c8d-e14d-431a-b102-306e6a2db802", 
+      "area": 2.13, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 151, 
+      "cumarea": 14976.091025746191
+    }, 
+    {
+      "max_elev": 315, 
+      "uid": "81e9786b-da8b-49dc-a2ac-cbd7640acb7a", 
+      "area": 2.1, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 155, 
+      "cumarea": 14965.506396189743
+    }, 
+    {
+      "max_elev": 315, 
+      "uid": "4de72865-5819-408c-907c-c63ace015d17", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 245, 
+      "cumarea": 14970.741576921193
+    }, 
+    {
+      "max_elev": 314, 
+      "uid": "6a707af1-0766-414d-9250-fd9750da505e", 
+      "area": 1.86, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 190, 
+      "cumarea": 14978.711602233916
+    }, 
+    {
+      "max_elev": 316, 
+      "uid": "fd5ba731-e1c7-4c88-9a8d-f7162cbba595", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 277, 
+      "cumarea": 14962.764458845013
+    }, 
+    {
+      "max_elev": 315, 
+      "uid": "da0651a8-5e31-4e39-a4ef-f934aca5641c", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 311, 
+      "cumarea": 14968.09972303502
+    }, 
+    {
+      "max_elev": 314, 
+      "uid": "bb205b11-a92a-466a-bb19-aa9fd0acc63d", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 240, 
+      "cumarea": 14973.33490376647
+    }
+  ], 
+  "end_x": 14979.494469912532, 
+  "num": 852, 
+  "zoom": 10, 
+  "start_x": 14961.933515082623
+}

@@ -1,0 +1,106 @@
+{
+  "shown": [
+    {
+      "max_elev": 2427, 
+      "cumarea": 1459.1661954853623, 
+      "area": 25.91, 
+      "num_lifts": 196, 
+      "name": "Z\u00fcrs / Lech / Warth", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1326, 
+      "uid": "a83d080e-0b63-412d-b6d4-efd0d17dc42c"
+    }, 
+    {
+      "max_elev": 2432, 
+      "cumarea": 1435.5946708272218, 
+      "area": 13.860000000000001, 
+      "num_lifts": 58, 
+      "name": "Meiringen-Hasliberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 626, 
+      "uid": "2cf80ebf-88b8-417e-b145-059bd6c5529f"
+    }, 
+    {
+      "max_elev": 2429, 
+      "cumarea": 1449.8258943993578, 
+      "area": 12.700000000000001, 
+      "num_lifts": 68, 
+      "name": "Les Contamines Montjoie", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1149, 
+      "uid": "df37a228-9d6c-4c02-9373-ba2433839787"
+    }, 
+    {
+      "max_elev": 2432, 
+      "cumarea": 1439.76486673217, 
+      "area": 8.76, 
+      "num_lifts": 34, 
+      "name": "Melchsee - Frutt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1076, 
+      "uid": "5aa0b9ee-79d0-48f0-9b44-467de3870ebb"
+    }, 
+    {
+      "max_elev": 2429, 
+      "cumarea": 1453.9115664907883, 
+      "area": 8.05, 
+      "num_lifts": 39, 
+      "name": "Bardonecchia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1294, 
+      "uid": "fe94a0d3-6759-417a-b9ad-73e8d24ea996"
+    }, 
+    {
+      "max_elev": 2421, 
+      "cumarea": 1474.789402900118, 
+      "area": 6.819999999999999, 
+      "num_lifts": 35, 
+      "name": "Mzaar", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1841, 
+      "uid": "c6e2aa91-171d-46b5-af57-8a87c9f30a87"
+    }, 
+    {
+      "max_elev": 2440, 
+      "cumarea": 1418.1891699864357, 
+      "area": 6.609999999999999, 
+      "num_lifts": 46, 
+      "name": "Hochzeiger - Pitztal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1462, 
+      "uid": "6a3888b5-6ada-42d0-91c7-a99ff892a714"
+    }, 
+    {
+      "max_elev": 2434, 
+      "cumarea": 1421.9331387918273, 
+      "area": 5.72, 
+      "num_lifts": 15, 
+      "name": "Ceillac", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1696, 
+      "uid": "617cf9cf-9deb-4499-b620-2e45ce6cf21b"
+    }, 
+    {
+      "max_elev": 2423, 
+      "uid": "cc9851ae-b3b3-42b4-a020-e234f7a8aeb1", 
+      "area": 4.5200000000000005, 
+      "num_lifts": 27, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1679, 
+      "cumarea": 1468.0541786149784
+    }, 
+    {
+      "max_elev": 2434, 
+      "uid": "25d1993d-660c-4336-8b9b-0c6d3859f8a2", 
+      "area": 3.9000000000000004, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1560, 
+      "cumarea": 1425.2941153449628
+    }
+  ], 
+  "end_x": 1475.1202057123714, 
+  "num": 20, 
+  "zoom": 8, 
+  "start_x": 1404.8763863927347
+}

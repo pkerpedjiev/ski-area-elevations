@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 1762, 
+      "cumarea": 4056.0272165792903, 
+      "area": 5.21, 
+      "num_lifts": 27, 
+      "name": "Stuhleck", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 786, 
+      "uid": "50ffd85b-ae1f-4fdd-9076-47bd063296d6"
+    }, 
+    {
+      "max_elev": 1764, 
+      "cumarea": 4049.7723207566714, 
+      "area": 3.8600000000000003, 
+      "num_lifts": 23, 
+      "name": "La Colmiane", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1426, 
+      "uid": "c8612133-7396-4ff9-aae5-efdf194757de"
+    }, 
+    {
+      "max_elev": 1764, 
+      "uid": "980a9612-3794-4150-a676-283604eef8cd", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1447, 
+      "cumarea": 4052.376636723525
+    }
+  ], 
+  "end_x": 4056.5805657090214, 
+  "num": 461, 
+  "zoom": 11, 
+  "start_x": 4047.800088294067
+}

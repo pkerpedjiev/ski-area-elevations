@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2084, 
+      "cumarea": 2583.2263587434677, 
+      "area": 60.94, 
+      "num_lifts": 185, 
+      "name": "Saalbach Hinterglemm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 819, 
+      "uid": "65225423-0c14-4f9f-af7c-47c355a532b8"
+    }, 
+    {
+      "max_elev": 2032, 
+      "cumarea": 2804.6227362155782, 
+      "area": 14.75, 
+      "num_lifts": 72, 
+      "name": "Bad Kleinkirchheim", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1020, 
+      "uid": "dc9bf442-641e-4a22-b0c0-6bb7e4b6d516"
+    }, 
+    {
+      "max_elev": 2077, 
+      "cumarea": 2603.876541444135, 
+      "area": 14.17, 
+      "num_lifts": 82, 
+      "name": "Prato Nevoso", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "55e07576-229e-42f9-a0a1-cdce847f8f5b"
+    }, 
+    {
+      "max_elev": 2064, 
+      "cumarea": 2648.473072893715, 
+      "area": 12.690000000000001, 
+      "num_lifts": 52, 
+      "name": "Civetta", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "eb44c7d5-d1b6-454f-8f1f-8a980a913e99"
+    }, 
+    {
+      "max_elev": 2065, 
+      "cumarea": 2643.932258611989, 
+      "area": 11.92, 
+      "num_lifts": 72, 
+      "name": "Whitefish", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1367, 
+      "uid": "40594831-87ca-435e-90e6-8164f7a67f35"
+    }, 
+    {
+      "max_elev": 2038, 
+      "cumarea": 2763.5591024514856, 
+      "area": 11.71, 
+      "num_lifts": 61, 
+      "name": "Corren\u00e7on en Vercors", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1119, 
+      "uid": "1e86b70b-e641-4495-82b8-a8c36cf23905"
+    }, 
+    {
+      "max_elev": 2036, 
+      "cumarea": 2779.3330999195573, 
+      "area": 10.59, 
+      "num_lifts": 47, 
+      "name": "Garmisch-Classic", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 728, 
+      "uid": "9bb2e8c8-5bb7-456a-9f67-7df22ff5fdd9"
+    }, 
+    {
+      "max_elev": 2058, 
+      "cumarea": 2676.4778271405867, 
+      "area": 9.97, 
+      "num_lifts": 39, 
+      "name": "Yamanouchi", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1334, 
+      "uid": "d3ba2879-3a44-42a2-90d6-e58264f97d49"
+    }, 
+    {
+      "max_elev": 2081, 
+      "cumarea": 2595.750651381325, 
+      "area": 9.07, 
+      "num_lifts": 88, 
+      "name": "Cerro Catedral", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1037, 
+      "uid": "c3813a72-a8fd-4146-bf85-e265db6d7ec2"
+    }, 
+    {
+      "max_elev": 2055, 
+      "cumarea": 2690.725131955098, 
+      "area": 8.06, 
+      "num_lifts": 43, 
+      "name": "Limone Piemonte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1048, 
+      "uid": "8d982051-217b-4933-b0b2-865d985aca1a"
+    }
+  ], 
+  "end_x": 2809.7527727854695, 
+  "num": 9, 
+  "zoom": 6, 
+  "start_x": 2528.7774955069226
+}

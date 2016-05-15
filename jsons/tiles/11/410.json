@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1845, 
+      "cumarea": 3601.4996186073668, 
+      "area": 48.269999999999996, 
+      "num_lifts": 327, 
+      "name": "SkiWelt Wilder Kaiser", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "uid": "65646b20-4208-40eb-859e-aa8f946acce9"
+    }, 
+    {
+      "max_elev": 1845, 
+      "uid": "1846485d-710b-4040-892e-207de87a67dd", 
+      "area": 2.27, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1426, 
+      "cumarea": 3604.31939843886
+    }, 
+    {
+      "max_elev": 1844, 
+      "uid": "8cd91df7-c0b0-4686-85d6-9f018ef3aa91", 
+      "area": 1.95, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1448, 
+      "cumarea": 3606.987227811436
+    }
+  ], 
+  "end_x": 3608.7762175463367, 
+  "num": 410, 
+  "zoom": 11, 
+  "start_x": 3599.9957401313823
+}

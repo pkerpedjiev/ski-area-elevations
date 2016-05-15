@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 1631, 
+      "cumarea": 4735.550622460941, 
+      "area": 5.59, 
+      "num_lifts": 20, 
+      "name": "Nozawa-onsen", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 580, 
+      "uid": "c71a2575-f953-475d-ae98-77a8721109da"
+    }, 
+    {
+      "max_elev": 1631, 
+      "cumarea": 4738.941904363572, 
+      "area": 4.0200000000000005, 
+      "num_lifts": 16, 
+      "name": "Hakubagoryu", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 758, 
+      "uid": "cb893366-9775-40db-92e7-b73939c39df9"
+    }
+  ], 
+  "end_x": 4741.45780407548, 
+  "num": 539, 
+  "zoom": 11, 
+  "start_x": 4732.677326660526
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 28, 
+      "cumarea": 17726.767132682246, 
+      "area": 1.95, 
+      "num_lifts": 6, 
+      "name": "(urban, Rio de Janeiro)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 0, 
+      "uid": "a21157b3-005a-4fdb-b5a7-5bf8d341eb9f"
+    }, 
+    {
+      "max_elev": 30, 
+      "uid": "9f201c06-c533-499f-99cc-8d1d878be3bd", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 30, 
+      "cumarea": 17724.09930330967
+    }
+  ], 
+  "end_x": 17727.78390079332, 
+  "num": 4037, 
+  "zoom": 12, 
+  "start_x": 17723.393662085844
+}

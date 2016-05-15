@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1948, 
+      "cumarea": 3194.7619818649127, 
+      "area": 11.16, 
+      "num_lifts": 97, 
+      "name": "Schweitzer Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1217, 
+      "uid": "ff85c407-a1e8-4d4b-a9eb-89317000c224"
+    }, 
+    {
+      "max_elev": 1951, 
+      "cumarea": 3182.1543465159375, 
+      "area": 7.1899999999999995, 
+      "num_lifts": 21, 
+      "name": "St Johann In Tirol", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 668, 
+      "uid": "eab5d8e0-35aa-4cd0-a1f1-a85b473c35ee"
+    }, 
+    {
+      "max_elev": 1948, 
+      "uid": "39f48f83-82b0-4fde-93b6-09643c9fb544", 
+      "area": 2.18, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1363, 
+      "cumarea": 3190.3496459079597
+    }, 
+    {
+      "max_elev": 1949, 
+      "uid": "94cd3917-ff45-4f44-8e24-52f17d29e560", 
+      "area": 2.05, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 877, 
+      "cumarea": 3187.5703210311585
+    }, 
+    {
+      "max_elev": 1950, 
+      "uid": "b10e0349-88b2-475f-92a9-f500764f08ff", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1411, 
+      "cumarea": 3184.8524812380083
+    }
+  ], 
+  "end_x": 3196.0937790434714, 
+  "num": 181, 
+  "zoom": 10, 
+  "start_x": 3178.532824213562
+}

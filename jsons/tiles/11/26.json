@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3399, 
+      "cumarea": 230.05604499088122, 
+      "area": 28.7, 
+      "num_lifts": 152, 
+      "name": "Big Sky", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2078, 
+      "uid": "b49fdacc-e1d9-43e7-b07d-d2318bdd02e7"
+    }, 
+    {
+      "max_elev": 3386, 
+      "cumarea": 233.83775412425578, 
+      "area": 5.9399999999999995, 
+      "num_lifts": 31, 
+      "name": "Pitztaler Gletscher", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2703, 
+      "uid": "1b4197b1-15f4-4304-a707-748842bbcafc"
+    }
+  ], 
+  "end_x": 237.07289020377397, 
+  "num": 26, 
+  "zoom": 11, 
+  "start_x": 228.29241278881938
+}

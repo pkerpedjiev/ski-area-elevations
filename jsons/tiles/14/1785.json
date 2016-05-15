@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2267, 
+      "cumarea": 1959.1698976519624, 
+      "area": 20.46, 
+      "num_lifts": 92, 
+      "name": "Kronplatz", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 925, 
+      "uid": "151515db-9bdd-4d45-b400-2ec8a632f128"
+    }
+  ], 
+  "end_x": 1960.2415828886126, 
+  "num": 1785, 
+  "zoom": 14, 
+  "start_x": 1959.1440232117434
+}

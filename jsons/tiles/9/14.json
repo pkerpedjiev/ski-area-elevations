@@ -1,0 +1,104 @@
+{
+  "shown": [
+    {
+      "max_elev": 2997, 
+      "cumarea": 512.479570726097, 
+      "area": 19.75, 
+      "num_lifts": 196, 
+      "name": "Canyons", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2051, 
+      "uid": "afa8f400-7b30-41da-aacc-4b2321d40fc8"
+    }, 
+    {
+      "max_elev": 2984, 
+      "cumarea": 523.1916664983806, 
+      "area": 11.63, 
+      "num_lifts": 26, 
+      "name": "Les diablerets - Glacier 3000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1322, 
+      "uid": "531e03fb-ebae-4635-b556-da8d263cddeb"
+    }, 
+    {
+      "max_elev": 3011, 
+      "cumarea": 496.3620057178524, 
+      "area": 11.520000000000001, 
+      "num_lifts": 80, 
+      "name": "Obergurgl / Hochgurgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1790, 
+      "uid": "a30e599f-9c91-4063-87dc-e3e8d4479bd4"
+    }, 
+    {
+      "max_elev": 3004, 
+      "cumarea": 507.49641723474986, 
+      "area": 5.99, 
+      "num_lifts": 35, 
+      "name": " Grand Targhee Resort", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2309, 
+      "uid": "54723b2c-7597-41b7-bb15-4de948641968"
+    }, 
+    {
+      "max_elev": 3007, 
+      "uid": "d65cd629-ed2d-4706-b48e-b114325439df", 
+      "area": 5.59, 
+      "num_lifts": 39, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 911, 
+      "cumarea": 503.7063258226225
+    }, 
+    {
+      "max_elev": 3009, 
+      "cumarea": 499.9853465354555, 
+      "area": 5.07, 
+      "num_lifts": 22, 
+      "name": "Diavolezza-Lagalb", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2094, 
+      "uid": "51a24b1b-395e-4f61-a146-f5f9c56bc350"
+    }, 
+    {
+      "max_elev": 3012, 
+      "uid": "55c732ec-8f47-463c-9901-7f50141bd522", 
+      "area": 4.86, 
+      "num_lifts": 56, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2478, 
+      "cumarea": 491.91792106258464
+    }, 
+    {
+      "max_elev": 2993, 
+      "cumarea": 515.967970310154, 
+      "area": 4.43, 
+      "num_lifts": 27, 
+      "name": "Karakol Ski Base", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2404, 
+      "uid": "10a794b4-7d58-44d6-b635-da87713c6410"
+    }, 
+    {
+      "max_elev": 2983, 
+      "uid": "afc58a30-444d-43b6-9aca-cba1f7bc4af1", 
+      "area": 2.23, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2495, 
+      "cumarea": 525.9936680838526
+    }, 
+    {
+      "max_elev": 2987, 
+      "uid": "03fb0cbc-9f8a-416a-9131-65111846f08a", 
+      "area": 2.16, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2415, 
+      "cumarea": 518.7380785318501
+    }
+  ], 
+  "end_x": 526.8286448972755, 
+  "num": 14, 
+  "zoom": 9, 
+  "start_x": 491.7067352374571
+}

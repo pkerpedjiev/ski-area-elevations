@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 1750, 
+      "cumarea": 4139.4339594013045, 
+      "area": 6.93, 
+      "num_lifts": 17, 
+      "name": "Vogel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 563, 
+      "uid": "cf2cc42c-7bf5-4552-8df3-85d4d14a90a3"
+    }, 
+    {
+      "max_elev": 1748, 
+      "cumarea": 4143.080693098483, 
+      "area": 5.19, 
+      "num_lifts": 13, 
+      "name": "Wirzweli \u2013 Dallenwil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 486, 
+      "uid": "712d9a58-ad85-49fd-9c16-04b5a567f308"
+    }
+  ], 
+  "end_x": 4144.385339858567, 
+  "num": 471, 
+  "zoom": 11, 
+  "start_x": 4135.604862443613
+}

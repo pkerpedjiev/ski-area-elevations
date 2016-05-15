@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2799, 
+      "cumarea": 712.8792078261358, 
+      "area": 28.82, 
+      "num_lifts": 178, 
+      "name": "Serfaus - Fiss - Ladis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "10a39d47-7af7-45f9-9695-87287fa7ae3f"
+    }, 
+    {
+      "max_elev": 2799, 
+      "uid": "5171604b-d081-4e2e-9bec-219dc6409b33", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2574, 
+      "cumarea": 715.4835237929891
+    }
+  ], 
+  "end_x": 715.6089093187993, 
+  "num": 162, 
+  "zoom": 12, 
+  "start_x": 711.218670611322
+}

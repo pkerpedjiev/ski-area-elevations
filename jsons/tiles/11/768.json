@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1241, 
+      "cumarea": 6748.238147779352, 
+      "area": 6.67, 
+      "num_lifts": 40, 
+      "name": "Szczyrk", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 538, 
+      "uid": "2863b0bf-9be2-46da-bc4a-894a4a549d38"
+    }, 
+    {
+      "max_elev": 1241, 
+      "uid": "fee48ee2-e58c-432f-9e5e-b5acf091c660", 
+      "area": 3.92, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 491, 
+      "cumarea": 6751.604239433154
+    }, 
+    {
+      "max_elev": 1243, 
+      "uid": "dbb78ed2-498c-4587-a2a1-56b9f39cc322", 
+      "area": 2.14, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1032, 
+      "cumarea": 6744.340527919425
+    }
+  ], 
+  "end_x": 6752.187132100081, 
+  "num": 768, 
+  "zoom": 11, 
+  "start_x": 6743.406654685126
+}

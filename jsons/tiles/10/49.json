@@ -1,0 +1,64 @@
+{
+  "shown": [
+    {
+      "max_elev": 2675, 
+      "cumarea": 867.9708317871957, 
+      "area": 7.76, 
+      "num_lifts": 48, 
+      "name": "Ramsau am Dachstein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1132, 
+      "uid": "7a79d4d9-8448-48d5-beb4-e56691336426"
+    }, 
+    {
+      "max_elev": 2670, 
+      "uid": "465fdde2-2af9-47ab-aad2-7f74d74e5096", 
+      "area": 4.2, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1447, 
+      "cumarea": 876.8103943440385
+    }, 
+    {
+      "max_elev": 2677, 
+      "uid": "9b031cec-a773-4023-9b17-b6fd52c70826", 
+      "area": 4.06, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2174, 
+      "cumarea": 863.9218494530006
+    }, 
+    {
+      "max_elev": 2675, 
+      "cumarea": 870.7547333310241, 
+      "area": 2.19, 
+      "num_lifts": 3, 
+      "name": "(mine)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2610, 
+      "uid": "bfdbd9a2-d58f-4f6a-8cd6-c8640fbda0e4"
+    }, 
+    {
+      "max_elev": 2688, 
+      "uid": "b8961669-4901-4ac6-8118-131254d5989a", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2295, 
+      "cumarea": 860.5206664793869
+    }, 
+    {
+      "max_elev": 2673, 
+      "uid": "fcab2dee-8cea-4cf0-a71f-0a373dcd8bc8", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2462, 
+      "cumarea": 873.3753098187492
+    }
+  ], 
+  "end_x": 878.0477414954591, 
+  "num": 49, 
+  "zoom": 10, 
+  "start_x": 860.48678666555
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 950, 
+      "cumarea": 8894.22945757021, 
+      "area": 4.33, 
+      "num_lifts": 72, 
+      "name": "Bolton Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 475, 
+      "uid": "40314779-4854-415c-82a6-236fdb194d1d"
+    }, 
+    {
+      "max_elev": 950, 
+      "uid": "73288341-9768-4fdf-93b6-2be562401742", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 655, 
+      "cumarea": 8888.165053527107
+    }, 
+    {
+      "max_elev": 950, 
+      "uid": "516f33e3-6259-427d-ac6d-f6320d6b7c4c", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 843, 
+      "cumarea": 8890.763890028196
+    }
+  ], 
+  "end_x": 8894.623621349001, 
+  "num": 1012, 
+  "zoom": 11, 
+  "start_x": 8885.843143934046
+}

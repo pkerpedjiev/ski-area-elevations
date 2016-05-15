@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 214, 
+      "uid": "a43be6d1-095e-4972-aff3-45b2cc2716a9", 
+      "area": 2.3600000000000003, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 138, 
+      "cumarea": 15831.291906603084
+    }, 
+    {
+      "max_elev": 213, 
+      "uid": "215eb874-1d52-4702-8cc9-0d2e6618701c", 
+      "area": 1.98, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 205, 
+      "cumarea": 15833.975003447791
+    }, 
+    {
+      "max_elev": 213, 
+      "uid": "2f0e611d-35c0-472e-af49-2c9954a615ef", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 171, 
+      "cumarea": 15836.600941878658
+    }, 
+    {
+      "max_elev": 214, 
+      "uid": "1251858e-e976-4909-921e-5de29d486fe6", 
+      "area": 1.85, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 209, 
+      "cumarea": 15825.834408482959
+    }, 
+    {
+      "max_elev": 214, 
+      "uid": "77b6486b-af39-45a3-9c71-6dbdd7b8b9f1", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 75, 
+      "cumarea": 15828.433244984048
+    }, 
+    {
+      "max_elev": 213, 
+      "uid": "7228bc87-62a8-4a32-92cf-b872975fdd8f", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 95, 
+      "cumarea": 15839.199778379747
+    }, 
+    {
+      "max_elev": 215, 
+      "uid": "e06634dd-f279-43dc-b3c1-7d4856cbf4ac", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 166, 
+      "cumarea": 15823.219222843869
+    }
+  ], 
+  "end_x": 15839.981256578081, 
+  "num": 901, 
+  "zoom": 10, 
+  "start_x": 15822.420301748172
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 3144, 
+      "cumarea": 403.9391424334753, 
+      "area": 6.42, 
+      "num_lifts": 24, 
+      "name": "Saas-Grund", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1554, 
+      "uid": "30935a9d-81a7-4daa-a63b-1d41b9a4858f"
+    }, 
+    {
+      "max_elev": 3138, 
+      "uid": "e8f0a8fb-72ee-451b-ab1b-0561e56c686b", 
+      "area": 1.95, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1802, 
+      "cumarea": 406.606971806051
+    }, 
+    {
+      "max_elev": 3138, 
+      "uid": "723f56f8-4309-4089-bd3d-5dce00b7cf53", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2181, 
+      "cumarea": 409.2592969920907
+    }
+  ], 
+  "end_x": 412.6824385028658, 
+  "num": 46, 
+  "zoom": 11, 
+  "start_x": 403.9019610879112
+}

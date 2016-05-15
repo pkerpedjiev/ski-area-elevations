@@ -1,0 +1,45 @@
+{
+  "shown": [
+    {
+      "max_elev": 429, 
+      "uid": "98b61be1-7b45-4e5d-876d-138d4ef3fe5c", 
+      "area": 2.39, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 185, 
+      "cumarea": 13996.176074978774
+    }, 
+    {
+      "max_elev": 428, 
+      "cumarea": 14001.411255710223, 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "name": "Furano", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 249, 
+      "uid": "b407c9b6-56d5-4967-9c9f-02ce09a8fc10"
+    }, 
+    {
+      "max_elev": 428, 
+      "uid": "2035dc89-a9e0-4406-bf85-2e4adeee266b", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 203, 
+      "cumarea": 14004.015571677077
+    }, 
+    {
+      "max_elev": 429, 
+      "uid": "8df62cc4-6fb9-4628-99ec-485f155ed8d8", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 410, 
+      "cumarea": 13998.76940182405
+    }
+  ], 
+  "end_x": 14004.861476852573, 
+  "num": 1594, 
+  "zoom": 11, 
+  "start_x": 13996.08099943762
+}

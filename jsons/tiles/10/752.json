@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 508, 
+      "uid": "4d051327-cc9c-4a5b-a1a0-60fd49da3efb", 
+      "area": 3.5300000000000002, 
+      "num_lifts": 53, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 166, 
+      "cumarea": 13212.479577650525
+    }, 
+    {
+      "max_elev": 507, 
+      "uid": "d16f53c9-fc3a-46dd-b219-192366318c3a", 
+      "area": 2.23, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 273, 
+      "cumarea": 13215.281579235998
+    }, 
+    {
+      "max_elev": 507, 
+      "uid": "0bec794b-7936-4f2e-9ff7-308cdeca15d0", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 435, 
+      "cumarea": 13217.880415737087
+    }, 
+    {
+      "max_elev": 509, 
+      "uid": "2540510b-52ec-43ba-876e-6cfaa802b317", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 390, 
+      "cumarea": 13206.624952934302
+    }, 
+    {
+      "max_elev": 508, 
+      "uid": "3edef68b-4702-47aa-b1a8-75e238925360", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 483, 
+      "cumarea": 13209.21827977958
+    }, 
+    {
+      "max_elev": 507, 
+      "uid": "843b803c-0fc0-4e6e-b2ee-d6efd7bd036f", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 453, 
+      "cumarea": 13220.473742582364
+    }, 
+    {
+      "max_elev": 507, 
+      "uid": "0ff6671b-98d7-4a20-a400-5781492934e2", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 477, 
+      "cumarea": 13223.061529247267
+    }
+  ], 
+  "end_x": 13223.398986921615, 
+  "num": 752, 
+  "zoom": 10, 
+  "start_x": 13205.838032091706
+}

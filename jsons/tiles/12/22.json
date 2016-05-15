@@ -1,0 +1,17 @@
+{
+  "shown": [
+    {
+      "max_elev": 3685, 
+      "uid": "7b562108-11cc-4f2c-9186-58833993b5b5", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3146, 
+      "cumarea": 98.99977442995339
+    }
+  ], 
+  "end_x": 100.9754902719778, 
+  "num": 22, 
+  "zoom": 12, 
+  "start_x": 96.58525156450051
+}

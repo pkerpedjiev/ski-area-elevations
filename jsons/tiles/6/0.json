@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 3879, 
+      "cumarea": 57.244961304810985, 
+      "area": 68.46, 
+      "num_lifts": 303, 
+      "name": "Zermatt / Cervinia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1566, 
+      "uid": "4343d2f2-b3ff-47cc-a80b-2cb1907c5e94"
+    }, 
+    {
+      "max_elev": 3460, 
+      "cumarea": 206.80621074817302, 
+      "area": 58.68, 
+      "num_lifts": 338, 
+      "name": "Tignes-Val d'Is\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1562, 
+      "uid": "d9e43279-e4be-42d8-a483-b8e48d84f599"
+    }, 
+    {
+      "max_elev": 3295, 
+      "cumarea": 272.38508506769466, 
+      "area": 37.64, 
+      "num_lifts": 223, 
+      "name": "Verbier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 824, 
+      "uid": "f32913bf-408f-4f2d-8b73-c7c8983e734a"
+    }, 
+    {
+      "max_elev": 3523, 
+      "cumarea": 172.27502147631606, 
+      "area": 33.61, 
+      "num_lifts": 230, 
+      "name": "Vail", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2454, 
+      "uid": "312edb1b-e5b2-4dfc-90ef-25f290a40384"
+    }, 
+    {
+      "max_elev": 3399, 
+      "cumarea": 230.05604499088122, 
+      "area": 28.7, 
+      "num_lifts": 152, 
+      "name": "Big Sky", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2078, 
+      "uid": "b49fdacc-e1d9-43e7-b07d-d2318bdd02e7"
+    }, 
+    {
+      "max_elev": 3293, 
+      "cumarea": 277.54123406265455, 
+      "area": 23.48, 
+      "num_lifts": 114, 
+      "name": "Celerina", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1737, 
+      "uid": "d4441179-775a-4dbd-93a5-fe4872639c55"
+    }, 
+    {
+      "max_elev": 3510, 
+      "cumarea": 180.4616200378252, 
+      "area": 21.86, 
+      "num_lifts": 171, 
+      "name": "Les Deux Alpes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 955, 
+      "uid": "66d77664-4f12-451c-86a9-fc3d9bbfd396"
+    }, 
+    {
+      "max_elev": 3478, 
+      "cumarea": 200.73411179489824, 
+      "area": 19.560000000000002, 
+      "num_lifts": 118, 
+      "name": "Beaver Creek", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2259, 
+      "uid": "5321d8a4-9a1f-4908-90d6-3dc2a088bf8d"
+    }, 
+    {
+      "max_elev": 3672, 
+      "cumarea": 107.21341199836348, 
+      "area": 17.79, 
+      "num_lifts": 83, 
+      "name": "Valle Nevado", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2411, 
+      "uid": "ca3ae54b-f3a7-4798-bc18-4067841e9634"
+    }, 
+    {
+      "max_elev": 3928, 
+      "cumarea": 45.670119177773074, 
+      "area": 16.53, 
+      "num_lifts": 124, 
+      "name": "Breckenridge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2914, 
+      "uid": "691431f3-fe50-4648-8883-d7971df1dc3e"
+    }
+  ], 
+  "end_x": 280.9752772785469, 
+  "num": 0, 
+  "zoom": 6, 
+  "start_x": 0.0
+}

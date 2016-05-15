@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 1988, 
+      "cumarea": 3004.7178520767566, 
+      "area": 42.75, 
+      "num_lifts": 150, 
+      "name": "Kitzb\u00fchel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "c965577c-b08b-4bf4-bdc1-ca717c167622"
+    }, 
+    {
+      "max_elev": 1985, 
+      "cumarea": 3016.8059444352107, 
+      "area": 26.11, 
+      "num_lifts": 166, 
+      "name": "Schladming", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 726, 
+      "uid": "cd2186dc-1e96-4022-abc4-bd2af5f10c80"
+    }, 
+    {
+      "max_elev": 1988, 
+      "cumarea": 3008.492804427668, 
+      "area": 5.8999999999999995, 
+      "num_lifts": 17, 
+      "name": "Lenk", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1086, 
+      "uid": "cd2a0e24-2970-4a5b-8b69-e2118aefcc3b"
+    }, 
+    {
+      "max_elev": 1986, 
+      "uid": "e1a8aaa1-4763-48ec-bd6b-e53d30e802a5", 
+      "area": 2.8600000000000003, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1645, 
+      "cumarea": 3011.5436260525
+    }, 
+    {
+      "max_elev": 1985, 
+      "uid": "bb9e851b-a19e-42dd-965c-9812b829edc0", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1617, 
+      "cumarea": 3019.4157100068314
+    }
+  ], 
+  "end_x": 3020.4842307443796, 
+  "num": 171, 
+  "zoom": 10, 
+  "start_x": 3002.9232759144707
+}

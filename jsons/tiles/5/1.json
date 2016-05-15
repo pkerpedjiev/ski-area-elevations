@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2779, 
+      "cumarea": 742.7131487276095, 
+      "area": 46.54, 
+      "num_lifts": 250, 
+      "name": "Sestriere", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1375, 
+      "uid": "4cda8c6e-c67d-4fe1-8d31-639f8600092b"
+    }, 
+    {
+      "max_elev": 2872, 
+      "cumarea": 641.4728577211829, 
+      "area": 42.129999999999995, 
+      "num_lifts": 165, 
+      "name": "Ischgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1354, 
+      "uid": "c0046460-20b1-4ba9-b3cb-4d53b00a64ec"
+    }, 
+    {
+      "max_elev": 2853, 
+      "cumarea": 662.1966346052185, 
+      "area": 39.04, 
+      "num_lifts": 145, 
+      "name": "Arosa Lenzerheide", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1159, 
+      "uid": "553bdf47-5505-4b03-9f54-49bfad297a07"
+    }, 
+    {
+      "max_elev": 2817, 
+      "cumarea": 690.1051205988803, 
+      "area": 30.78, 
+      "num_lifts": 84, 
+      "name": "Davos - Klosters", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "7c75991d-105c-4ceb-8f3a-f362472c9db9"
+    }, 
+    {
+      "max_elev": 2572, 
+      "cumarea": 1075.0245280153583, 
+      "area": 29.400000000000002, 
+      "num_lifts": 173, 
+      "name": "Les Sybelles", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1085, 
+      "uid": "44ae0a02-b7bb-42a0-9459-489c97a39b4b"
+    }, 
+    {
+      "max_elev": 2799, 
+      "cumarea": 712.8792078261358, 
+      "area": 28.82, 
+      "num_lifts": 178, 
+      "name": "Serfaus - Fiss - Ladis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "10a39d47-7af7-45f9-9695-87287fa7ae3f"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 756.5142216207764, 
+      "area": 28.740000000000002, 
+      "num_lifts": 188, 
+      "name": "Serre Chevalier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1212, 
+      "uid": "800c6557-0a85-43f7-b9b3-03cb3cc7c47e"
+    }, 
+    {
+      "max_elev": 2728, 
+      "cumarea": 803.3507176825019, 
+      "area": 28.64, 
+      "num_lifts": 143, 
+      "name": "Vars", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1639, 
+      "uid": "3075b935-b72c-4bc9-b343-d739282ddbee"
+    }, 
+    {
+      "max_elev": 2568, 
+      "cumarea": 1083.2738629048051, 
+      "area": 26.740000000000002, 
+      "num_lifts": 121, 
+      "name": "Valloire", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1409, 
+      "uid": "99c7481e-080d-48e8-8979-c10f13185c13"
+    }, 
+    {
+      "max_elev": 2643, 
+      "cumarea": 926.2029000769185, 
+      "area": 25.66, 
+      "num_lifts": 170, 
+      "name": "Grandvalira", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "uid": "dba83587-156c-43a2-b7ba-c32832271d25"
+    }
+  ], 
+  "end_x": 1123.9011091141876, 
+  "num": 1, 
+  "zoom": 5, 
+  "start_x": 561.9505545570938
+}

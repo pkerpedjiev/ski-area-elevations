@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1552, 
+      "cumarea": 5150.300719713405, 
+      "area": 4.35, 
+      "num_lifts": 47, 
+      "name": "Kranjska Gora", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 806, 
+      "uid": "762792d9-b5a3-403d-b498-cc3f867ca3df"
+    }, 
+    {
+      "max_elev": 1552, 
+      "uid": "e71c1533-3395-4a57-9314-f4b25310fec6", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 706, 
+      "cumarea": 5152.958239716321
+    }
+  ], 
+  "end_x": 5154.140242578346, 
+  "num": 1173, 
+  "zoom": 12, 
+  "start_x": 5149.7500038708695
+}

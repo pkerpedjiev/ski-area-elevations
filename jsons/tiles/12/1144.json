@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1575, 
+      "cumarea": 5022.98677302833, 
+      "area": 5.07, 
+      "num_lifts": 56, 
+      "name": "Mount Washington Alpine Resort", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1079, 
+      "uid": "64e7b4cc-1ec6-4545-a0aa-c17debde31e7"
+    }, 
+    {
+      "max_elev": 1574, 
+      "uid": "0705f5ea-cc23-4982-a5c7-5bf6519bf758", 
+      "area": 2.06, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 607, 
+      "cumarea": 5025.709479011132
+    }
+  ], 
+  "end_x": 5026.823320061505, 
+  "num": 1144, 
+  "zoom": 12, 
+  "start_x": 5022.433081354027
+}

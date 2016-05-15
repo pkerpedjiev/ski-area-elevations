@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 1042, 
+      "cumarea": 8122.031689712943, 
+      "area": 11.14, 
+      "num_lifts": 65, 
+      "name": "Belleayre", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 618, 
+      "uid": "ed3118f1-9fe0-4bb9-92d2-f1b7e5483f5d"
+    }, 
+    {
+      "max_elev": 1008, 
+      "cumarea": 8428.227925305473, 
+      "area": 9.49, 
+      "num_lifts": 128, 
+      "name": "Okemo Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 366, 
+      "uid": "47563c90-9c54-4f43-a501-cb4aaa21a473"
+    }, 
+    {
+      "max_elev": 1013, 
+      "cumarea": 8355.780304687343, 
+      "area": 5.93, 
+      "num_lifts": 63, 
+      "name": "Hafjell Apinsenter", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 195, 
+      "uid": "7a17c868-609c-4fd3-a04a-9c8127c8700c"
+    }, 
+    {
+      "max_elev": 1029, 
+      "uid": "1c07d346-9266-4529-8780-bd246cadd8f6", 
+      "area": 5.66, 
+      "num_lifts": 62, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 640, 
+      "cumarea": 8232.05861731436
+    }, 
+    {
+      "max_elev": 1035, 
+      "uid": "f5e91e3e-f018-48e3-a8cd-2269be5711a9", 
+      "area": 5.58, 
+      "num_lifts": 60, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 184, 
+      "cumarea": 8184.283429579941
+    }, 
+    {
+      "max_elev": 1060, 
+      "uid": "3be81b93-df5d-40b4-8af4-4f0f5e73c861", 
+      "area": 5.18, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 443, 
+      "cumarea": 7966.093339837853
+    }, 
+    {
+      "max_elev": 1050, 
+      "uid": "0baffc6e-75a5-4a88-bdb4-a271ebd365e7", 
+      "area": 4.49, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 392, 
+      "cumarea": 8032.109426106778
+    }, 
+    {
+      "max_elev": 1010, 
+      "cumarea": 8402.888132746413, 
+      "area": 4.41, 
+      "num_lifts": 31, 
+      "name": "Sahoro", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 410, 
+      "uid": "997354f3-7788-47bf-9d6f-cf006ca9ba9b"
+    }, 
+    {
+      "max_elev": 1030, 
+      "uid": "1a30e6c4-4d54-4362-8827-19d2220a0e3b", 
+      "area": 4.14, 
+      "num_lifts": 39, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 740, 
+      "cumarea": 8225.559725580004
+    }, 
+    {
+      "max_elev": 1015, 
+      "uid": "c0b05039-fe38-47c6-a1ff-db2afe7115e0", 
+      "area": 3.8200000000000003, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 669, 
+      "cumarea": 8316.10912561522
+    }
+  ], 
+  "end_x": 8429.258318356407, 
+  "num": 14, 
+  "zoom": 5, 
+  "start_x": 7867.307763799314
+}

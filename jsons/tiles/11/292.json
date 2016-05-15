@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2087, 
+      "cumarea": 2565.8782830390146, 
+      "area": 5.13, 
+      "num_lifts": 26, 
+      "name": "Fanningberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1490, 
+      "uid": "f51431d6-ac7a-4988-8e81-46419fd1a9ea"
+    }, 
+    {
+      "max_elev": 2085, 
+      "uid": "6172d226-fe3e-4433-9c56-04ee65367a73", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 965, 
+      "cumarea": 2571.1026465329883
+    }, 
+    {
+      "max_elev": 2087, 
+      "uid": "9672c35c-3676-4d83-8772-555233d73762", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2078, 
+      "cumarea": 2568.4660697039167
+    }
+  ], 
+  "end_x": 2572.679882581696, 
+  "num": 292, 
+  "zoom": 11, 
+  "start_x": 2563.899405166741
+}

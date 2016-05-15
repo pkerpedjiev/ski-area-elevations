@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 756, 
+      "uid": "87d01413-8f8b-46a8-a158-714970884949", 
+      "area": 2.31, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 537, 
+      "cumarea": 10700.24692934002
+    }, 
+    {
+      "max_elev": 755, 
+      "cumarea": 10710.70670869359, 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "name": "(urban, Telemaco Borba)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 755, 
+      "uid": "9ab43ceb-50ed-4824-8ae4-6ddaf6176b89"
+    }, 
+    {
+      "max_elev": 755, 
+      "uid": "00be6d70-221a-4fcf-ad78-d583ff5bc8bb", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 596, 
+      "cumarea": 10705.47152796214
+    }, 
+    {
+      "max_elev": 758, 
+      "uid": "c117ada6-24ff-4c56-8ff6-673cd3d9e435", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 643, 
+      "cumarea": 10694.81635497021
+    }, 
+    {
+      "max_elev": 758, 
+      "uid": "4c1ffb25-6e21-4398-8ddf-7f51910f3ba1", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 738, 
+      "cumarea": 10697.409681815487
+    }, 
+    {
+      "max_elev": 756, 
+      "uid": "9cb00808-2a7d-40c9-ba75-c10cc6712769", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 721, 
+      "cumarea": 10702.840256185298
+    }, 
+    {
+      "max_elev": 755, 
+      "uid": "70a3e791-2795-4d1e-a518-820a4566a7da", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 703, 
+      "cumarea": 10708.064854807417
+    }
+  ], 
+  "end_x": 10712.182446244602, 
+  "num": 609, 
+  "zoom": 10, 
+  "start_x": 10694.621491414693
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2979, 
+      "cumarea": 538.0147257724184, 
+      "area": 16.01, 
+      "num_lifts": 53, 
+      "name": "St-Luc", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1683, 
+      "uid": "014becc7-8e7f-4ba7-81ac-dae880c80b07"
+    }, 
+    {
+      "max_elev": 2977, 
+      "uid": "ebb1adfb-881e-42df-bb66-ead7463dbb73", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2685, 
+      "cumarea": 540.6459975492603
+    }
+  ], 
+  "end_x": 544.3895997271846, 
+  "num": 61, 
+  "zoom": 11, 
+  "start_x": 535.60912231223
+}

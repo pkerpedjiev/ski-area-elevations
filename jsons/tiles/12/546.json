@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2131, 
+      "cumarea": 2401.047221143272, 
+      "area": 6.41, 
+      "num_lifts": 37, 
+      "name": "La Pierre St Martin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1532, 
+      "uid": "a897b6d2-4494-4f58-9872-f9bdc9a6b938"
+    }, 
+    {
+      "max_elev": 2133, 
+      "uid": "7c2afc4d-eef2-40b9-9203-f7716582c894", 
+      "area": 3.44, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1378, 
+      "cumarea": 2397.1893618723393
+    }
+  ], 
+  "end_x": 2401.460572990081, 
+  "num": 546, 
+  "zoom": 12, 
+  "start_x": 2397.0703342826037
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 881, 
+      "cumarea": 9430.484505570264, 
+      "area": 2.35, 
+      "num_lifts": 7, 
+      "name": "Hidden Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 732, 
+      "uid": "dadeadf8-0b25-48b9-a709-2f9daa44a05a"
+    }, 
+    {
+      "max_elev": 881, 
+      "uid": "1af8bee4-c65a-471e-9e98-af4db34bb955", 
+      "area": 2.04, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 776, 
+      "cumarea": 9433.19745537812
+    }
+  ], 
+  "end_x": 9434.62298236871, 
+  "num": 2148, 
+  "zoom": 12, 
+  "start_x": 9430.232743661232
+}

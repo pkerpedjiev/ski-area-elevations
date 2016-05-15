@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1951, 
+      "cumarea": 3182.1543465159375, 
+      "area": 7.1899999999999995, 
+      "num_lifts": 21, 
+      "name": "St Johann In Tirol", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 668, 
+      "uid": "eab5d8e0-35aa-4cd0-a1f1-a85b473c35ee"
+    }, 
+    {
+      "max_elev": 1950, 
+      "uid": "b10e0349-88b2-475f-92a9-f500764f08ff", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1411, 
+      "cumarea": 3184.8524812380083
+    }
+  ], 
+  "end_x": 3187.3133016285165, 
+  "num": 362, 
+  "zoom": 11, 
+  "start_x": 3178.532824213562
+}

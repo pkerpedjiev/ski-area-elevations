@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 307, 
+      "uid": "e224026f-3196-49f3-84c2-c77bf671ac6b", 
+      "area": 2.27, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 253, 
+      "cumarea": 15041.032469608726
+    }, 
+    {
+      "max_elev": 307, 
+      "uid": "3ab5d256-981b-47b2-a647-0935ed0bfc39", 
+      "area": 2.13, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 226, 
+      "cumarea": 15033.026036086678
+    }, 
+    {
+      "max_elev": 306, 
+      "uid": "6969e69c-6818-4e7f-acd6-f0eb39c0d071", 
+      "area": 2.06, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 239, 
+      "cumarea": 15049.06448091112
+    }, 
+    {
+      "max_elev": 307, 
+      "uid": "b321ad54-81f3-439d-a5f5-d94fd9697b62", 
+      "area": 1.97, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 246, 
+      "cumarea": 15043.710503151477
+    }, 
+    {
+      "max_elev": 306, 
+      "uid": "cf2310f8-b319-4189-8e40-cec290292371", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 60, 
+      "cumarea": 15046.341774928318
+    }, 
+    {
+      "max_elev": 307, 
+      "uid": "15b8fd76-5f2a-40f3-889b-a8be5604b320", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 291, 
+      "cumarea": 15035.619362931955
+    }, 
+    {
+      "max_elev": 307, 
+      "uid": "a1240378-50d0-4c3e-ba38-ef9503f83ca2", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 306, 
+      "cumarea": 15038.212689777232
+    }
+  ], 
+  "end_x": 15049.73828923217, 
+  "num": 856, 
+  "zoom": 10, 
+  "start_x": 15032.17733440226
+}

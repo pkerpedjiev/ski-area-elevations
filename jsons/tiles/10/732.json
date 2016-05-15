@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 541, 
+      "uid": "6e1936d8-bc4c-4da5-aad8-589c8a741a97", 
+      "area": 2.04, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 382, 
+      "cumarea": 12857.712008943665
+    }, 
+    {
+      "max_elev": 541, 
+      "uid": "77fc206d-600b-429a-8c39-35e77ec39ade", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 194, 
+      "cumarea": 12860.353862829837
+    }, 
+    {
+      "max_elev": 540, 
+      "uid": "df0e66cb-5580-4df8-adf8-54b67b88a36b", 
+      "area": 1.84, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 460, 
+      "cumarea": 12862.963628401458
+    }, 
+    {
+      "max_elev": 539, 
+      "uid": "066b4e78-6a97-4ff9-9c56-2bb8dc3b6fb5", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 433, 
+      "cumarea": 12865.573393973078
+    }, 
+    {
+      "max_elev": 539, 
+      "uid": "4e5388ac-838b-47b3-a8d1-a1ae94aa95f7", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 417, 
+      "cumarea": 12868.183159544698
+    }, 
+    {
+      "max_elev": 539, 
+      "uid": "399d0e43-ce66-48db-b6d2-7680976700e7", 
+      "area": 1.83, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 444, 
+      "cumarea": 12870.787475511552
+    }, 
+    {
+      "max_elev": 541, 
+      "uid": "11fea554-fe38-4813-9faa-eb662d4bf5c8", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 358, 
+      "cumarea": 12854.99905913581
+    }
+  ], 
+  "end_x": 12872.179890323432, 
+  "num": 732, 
+  "zoom": 10, 
+  "start_x": 12854.618935493523
+}

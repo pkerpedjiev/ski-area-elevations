@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 1750, 
+      "cumarea": 4139.4339594013045, 
+      "area": 6.93, 
+      "num_lifts": 17, 
+      "name": "Vogel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 563, 
+      "uid": "cf2cc42c-7bf5-4552-8df3-85d4d14a90a3"
+    }
+  ], 
+  "end_x": 4139.995101151089, 
+  "num": 3771, 
+  "zoom": 14, 
+  "start_x": 4138.89754147422
+}

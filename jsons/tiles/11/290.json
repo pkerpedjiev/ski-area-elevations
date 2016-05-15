@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2093, 
+      "cumarea": 2551.397134907967, 
+      "area": 5.75, 
+      "num_lifts": 17, 
+      "name": "Fernie", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1064, 
+      "uid": "0f90a96c-b95e-4df6-9db6-e73e9a496f6d"
+    }, 
+    {
+      "max_elev": 2094, 
+      "uid": "f30d5309-cb2c-4504-8d60-1b61df4c27c8", 
+      "area": 3.8600000000000003, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1666, 
+      "cumarea": 2547.6479350531577
+    }, 
+    {
+      "max_elev": 2092, 
+      "uid": "9e955fe4-efed-440d-9251-47865b8285ee", 
+      "area": 2.81, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1557, 
+      "cumarea": 2554.430319391313
+    }
+  ], 
+  "end_x": 2555.118927751786, 
+  "num": 290, 
+  "zoom": 11, 
+  "start_x": 2546.3384503368316
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1217, 
+      "cumarea": 6936.694664308066, 
+      "area": 5.34, 
+      "num_lifts": 69, 
+      "name": "Saddleback Maine", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 654, 
+      "uid": "6120ef8f-8b19-49d9-9914-f9a82d5be9b9"
+    }, 
+    {
+      "max_elev": 1216, 
+      "uid": "510ef1f8-1238-4497-890d-da39a92ef87d", 
+      "area": 4.21, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 790, 
+      "cumarea": 6940.132126955761
+    }, 
+    {
+      "max_elev": 1215, 
+      "uid": "5ace8cde-7a87-4601-a968-4ebae65bb166", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1021, 
+      "cumarea": 6942.773980841934
+    }
+  ], 
+  "end_x": 6945.357635229082, 
+  "num": 790, 
+  "zoom": 11, 
+  "start_x": 6936.577157814127
+}

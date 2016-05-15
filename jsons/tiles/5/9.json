@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 1522, 
+      "cumarea": 5263.429070055299, 
+      "area": 7.2, 
+      "num_lifts": 23, 
+      "name": "Gai\u00dfau-Hintersee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 748, 
+      "uid": "54586b90-9080-4195-977f-a83aa3b6494a"
+    }, 
+    {
+      "max_elev": 1507, 
+      "cumarea": 5363.780187468664, 
+      "area": 5.7, 
+      "num_lifts": 18, 
+      "name": "Muju Deogyusan", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 725, 
+      "uid": "8d0c771a-267e-48fc-add6-475486c77b45"
+    }, 
+    {
+      "max_elev": 1508, 
+      "cumarea": 5348.941050181003, 
+      "area": 5.49, 
+      "num_lifts": 47, 
+      "name": "Sudelfeld - Bayrischzell", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 861, 
+      "uid": "0513c1c6-f1d5-4c0c-9995-b5618097af4e"
+    }, 
+    {
+      "max_elev": 1474, 
+      "uid": "e327e780-4d25-43da-b3a3-95caed9ad482", 
+      "area": 5.2700000000000005, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1008, 
+      "cumarea": 5534.278652239713
+    }, 
+    {
+      "max_elev": 1567, 
+      "cumarea": 5063.980808298247, 
+      "area": 5.25, 
+      "num_lifts": 29, 
+      "name": "Spitzingsee-Tegernsee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 982, 
+      "uid": "5ddabada-fe17-42b3-8476-a1cfc0fc09b8"
+    }, 
+    {
+      "max_elev": 1514, 
+      "uid": "d05fefd5-97a3-4896-a368-0a6fd8f9727e", 
+      "area": 5.14, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 825, 
+      "cumarea": 5311.471106907002
+    }, 
+    {
+      "max_elev": 1562, 
+      "uid": "9db60e48-4e45-419d-9b31-decf318fca01", 
+      "area": 4.97, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1191, 
+      "cumarea": 5098.655622224712
+    }, 
+    {
+      "max_elev": 1555, 
+      "cumarea": 5138.11342980175, 
+      "area": 4.89, 
+      "num_lifts": 29, 
+      "name": "Mt. Baker", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1106, 
+      "uid": "09c79daf-5502-4745-8186-14c78995321a"
+    }, 
+    {
+      "max_elev": 1478, 
+      "uid": "86d8b3f0-f4d1-4df2-a48e-4d0a1d6ab193", 
+      "area": 4.53, 
+      "num_lifts": 23, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 897, 
+      "cumarea": 5504.907632645903
+    }, 
+    {
+      "max_elev": 1553, 
+      "uid": "83d8c72c-8369-4e93-b9db-5c716f864b8c", 
+      "area": 4.5200000000000005, 
+      "num_lifts": 32, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1130, 
+      "cumarea": 5146.830543868304
+    }
+  ], 
+  "end_x": 5619.505545570939, 
+  "num": 9, 
+  "zoom": 5, 
+  "start_x": 5057.554991013845
+}

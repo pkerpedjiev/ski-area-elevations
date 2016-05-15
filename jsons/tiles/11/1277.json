@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 708, 
+      "cumarea": 11216.51592193258, 
+      "area": 3.04, 
+      "num_lifts": 7, 
+      "name": "Nalovardo ", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 440, 
+      "uid": "1e4f4bd5-899a-4941-b801-4d9292859a9e"
+    }, 
+    {
+      "max_elev": 708, 
+      "uid": "3dbfea8f-79f7-4f66-b6f1-ba13f424fec5", 
+      "area": 2.3600000000000003, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 519, 
+      "cumarea": 11219.374583551617
+    }, 
+    {
+      "max_elev": 709, 
+      "uid": "538b3833-ebf8-485b-9fa8-2e4e48b4d854", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 630, 
+      "cumarea": 11213.404064417162
+    }
+  ], 
+  "end_x": 11221.450136311969, 
+  "num": 1277, 
+  "zoom": 11, 
+  "start_x": 11212.669658897015
+}

@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2216, 
+      "cumarea": 2157.1708838901195, 
+      "area": 17.169999999999998, 
+      "num_lifts": 62, 
+      "name": "Flumserberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 436, 
+      "uid": "d95e1ee4-ddef-4c19-8c61-698031c55e69"
+    }, 
+    {
+      "max_elev": 2192, 
+      "cumarea": 2247.0624414685694, 
+      "area": 16.94, 
+      "num_lifts": 80, 
+      "name": "Adelboden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1072, 
+      "uid": "33e8d1ca-e837-4026-b15c-5157934ea463"
+    }, 
+    {
+      "max_elev": 2200, 
+      "cumarea": 2195.041750495582, 
+      "area": 15.200000000000001, 
+      "num_lifts": 61, 
+      "name": "Sextner Dolomiten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1150, 
+      "uid": "d0ef0d09-dda4-40c8-b493-0efaf3957b36"
+    }, 
+    {
+      "max_elev": 2200, 
+      "cumarea": 2199.332263007342, 
+      "area": 9.88, 
+      "num_lifts": 62, 
+      "name": "Katschberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1051, 
+      "uid": "c24ba31e-e650-418e-a6bb-3a3226c18ba6"
+    }, 
+    {
+      "max_elev": 2227, 
+      "cumarea": 2110.4570976887403, 
+      "area": 8.32, 
+      "num_lifts": 80, 
+      "name": "Mt Hood Meadows", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1382, 
+      "uid": "4b30cf26-e16a-43f3-ba04-5adf59b9b8ed"
+    }, 
+    {
+      "max_elev": 2209, 
+      "cumarea": 2172.5343005472205, 
+      "area": 6.31, 
+      "num_lifts": 68, 
+      "name": "Font-Romeu", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1724, 
+      "uid": "ae903278-9efe-4c0c-a954-da880d6dd797"
+    }, 
+    {
+      "max_elev": 2205, 
+      "cumarea": 2181.638336401365, 
+      "area": 6.28, 
+      "num_lifts": 34, 
+      "name": "lachtal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1583, 
+      "uid": "6abc7772-0b82-4ecc-80cf-31d1f3aa2858"
+    }, 
+    {
+      "max_elev": 2223, 
+      "cumarea": 2128.052797217286, 
+      "area": 6.0, 
+      "num_lifts": 4, 
+      "name": "Mittenwald - Kranzberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 929, 
+      "uid": "62d7075a-bbe1-409b-84c5-49bafbbc49a8"
+    }, 
+    {
+      "max_elev": 2194, 
+      "cumarea": 2229.8491254681203, 
+      "area": 5.87, 
+      "num_lifts": 35, 
+      "name": "Leysin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1327, 
+      "uid": "06008187-6919-4096-b3c5-829c288e77ff"
+    }, 
+    {
+      "max_elev": 2222, 
+      "cumarea": 2140.884328811728, 
+      "area": 5.78, 
+      "num_lifts": 36, 
+      "name": "Schlick 2000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1015, 
+      "uid": "0f6c98ea-4a40-47b6-ae43-bfbf0ac4ffef"
+    }
+  ], 
+  "end_x": 2247.8022182283753, 
+  "num": 15, 
+  "zoom": 7, 
+  "start_x": 2107.314579589102
+}

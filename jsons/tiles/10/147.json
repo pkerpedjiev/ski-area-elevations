@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2084, 
+      "cumarea": 2583.2263587434677, 
+      "area": 60.94, 
+      "num_lifts": 185, 
+      "name": "Saalbach Hinterglemm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 819, 
+      "uid": "65225423-0c14-4f9f-af7c-47c355a532b8"
+    }, 
+    {
+      "max_elev": 2081, 
+      "cumarea": 2595.750651381325, 
+      "area": 9.07, 
+      "num_lifts": 88, 
+      "name": "Cerro Catedral", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1037, 
+      "uid": "c3813a72-a8fd-4146-bf85-e265db6d7ec2"
+    }, 
+    {
+      "max_elev": 2083, 
+      "uid": "69d172c9-c378-4a2a-a1eb-f7074ac2333a", 
+      "area": 3.0700000000000003, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1392, 
+      "cumarea": 2588.9413631503444
+    }, 
+    {
+      "max_elev": 2081, 
+      "uid": "a131b3b3-448c-4f3a-a0eb-7d741433c712", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1866, 
+      "cumarea": 2591.545679117198
+    }, 
+    {
+      "max_elev": 2084, 
+      "uid": "fb42c7c4-fa0f-4043-acea-86e8c0bf531e", 
+      "area": 1.81, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2072, 
+      "cumarea": 2585.8196855887454
+    }
+  ], 
+  "end_x": 2599.0213148265593, 
+  "num": 147, 
+  "zoom": 10, 
+  "start_x": 2581.4603599966504
+}

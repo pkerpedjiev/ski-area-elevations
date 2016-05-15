@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2551, 
+      "cumarea": 1124.3414392257862, 
+      "area": 12.66, 
+      "num_lifts": 77, 
+      "name": "Joue du Loup", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1455, 
+      "uid": "4ce218fa-c101-4ef0-a218-c0ccc5c6c64a"
+    }, 
+    {
+      "max_elev": 2548, 
+      "cumarea": 1128.3774512095388, 
+      "area": 7.66, 
+      "num_lifts": 41, 
+      "name": "Donner Ski Ranch / Sugar Bowl", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2108, 
+      "uid": "716987dd-c123-4666-8cbf-6d046c797dfa"
+    }, 
+    {
+      "max_elev": 2545, 
+      "uid": "e70d2224-921f-4e1b-baca-979643eb89dc", 
+      "area": 2.8600000000000003, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1776, 
+      "cumarea": 1131.4282728343705
+    }
+  ], 
+  "end_x": 1132.6815865291424, 
+  "num": 128, 
+  "zoom": 11, 
+  "start_x": 1123.9011091141876
+}

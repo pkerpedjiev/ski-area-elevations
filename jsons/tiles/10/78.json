@@ -1,0 +1,46 @@
+{
+  "shown": [
+    {
+      "max_elev": 2465, 
+      "cumarea": 1375.898804674983, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 545, 
+      "uid": "c88bdcb4-0ed8-44c9-9108-52ed20d0aa67"
+    }, 
+    {
+      "max_elev": 2457, 
+      "cumarea": 1384.526145271091, 
+      "area": 21.57, 
+      "num_lifts": 158, 
+      "name": "Mayrhofen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "uid": "2642e621-4837-41b6-8cee-4adb877cef17"
+    }, 
+    {
+      "max_elev": 2458, 
+      "uid": "1bd99d0a-6ede-4b54-883e-a2c391ee262d", 
+      "area": 4.74, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1324, 
+      "cumarea": 1379.45484181069
+    }, 
+    {
+      "max_elev": 2465, 
+      "uid": "aec2c462-289a-4569-a9ec-7cc08144f700", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1645, 
+      "cumarea": 1370.5534724261622
+    }
+  ], 
+  "end_x": 1387.3154315628256, 
+  "num": 78, 
+  "zoom": 10, 
+  "start_x": 1369.7544767329164
+}

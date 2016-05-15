@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 524, 
+      "cumarea": 13068.197894260711, 
+      "area": 1.97, 
+      "num_lifts": 2, 
+      "name": "Martial Glacier", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 338, 
+      "uid": "c5deb519-9dab-44e2-90c0-347deeb81ea3"
+    }, 
+    {
+      "max_elev": 522, 
+      "uid": "55154209-82af-40b9-acc4-073affafaa87", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 324, 
+      "cumarea": 13075.99437357393
+    }, 
+    {
+      "max_elev": 524, 
+      "uid": "481dfbfd-7a1e-4c47-bf91-8c787a803b5e", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 476, 
+      "cumarea": 13065.519860717961
+    }, 
+    {
+      "max_elev": 523, 
+      "uid": "e7324913-d674-4cd6-8631-98c702f406e9", 
+      "area": 1.82, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 490, 
+      "cumarea": 13070.7967307618
+    }, 
+    {
+      "max_elev": 522, 
+      "uid": "ed761ff5-a826-40ef-8c9b-26fa49a11c4b", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 481, 
+      "cumarea": 13078.59321007502
+    }, 
+    {
+      "max_elev": 523, 
+      "uid": "23198330-900f-41a5-8a54-2bd78befa620", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 456, 
+      "cumarea": 13073.390057607077
+    }, 
+    {
+      "max_elev": 522, 
+      "uid": "6e2d2a5a-141b-45d2-ae22-139f041e9005", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 482, 
+      "cumarea": 13081.186536920297
+    }
+  ], 
+  "end_x": 13082.911348282341, 
+  "num": 744, 
+  "zoom": 10, 
+  "start_x": 13065.350393452432
+}

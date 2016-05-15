@@ -1,0 +1,101 @@
+{
+  "shown": [
+    {
+      "max_elev": 1631, 
+      "cumarea": 4735.550622460941, 
+      "area": 5.59, 
+      "num_lifts": 20, 
+      "name": "Nozawa-onsen", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 580, 
+      "uid": "c71a2575-f953-475d-ae98-77a8721109da"
+    }, 
+    {
+      "max_elev": 1626, 
+      "uid": "de485086-babf-4b7d-8b4b-374b747e75e5", 
+      "area": 4.08, 
+      "num_lifts": 28, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "cumarea": 4756.576948672463
+    }, 
+    {
+      "max_elev": 1631, 
+      "cumarea": 4738.941904363572, 
+      "area": 4.0200000000000005, 
+      "num_lifts": 16, 
+      "name": "Hakubagoryu", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 758, 
+      "uid": "cb893366-9775-40db-92e7-b73939c39df9"
+    }, 
+    {
+      "max_elev": 1627, 
+      "uid": "74b14582-4688-4c00-b2fb-6c8075323f71", 
+      "area": 3.76, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 435, 
+      "cumarea": 4753.170851684047
+    }, 
+    {
+      "max_elev": 1632, 
+      "uid": "d2b460eb-8937-41e5-85fa-3ce918f83fe2", 
+      "area": 3.39, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1038, 
+      "cumarea": 4731.829643173774
+    }, 
+    {
+      "max_elev": 1634, 
+      "uid": "052dfba0-124b-4eb2-91ea-1ed2d1d07d08", 
+      "area": 2.56, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 590, 
+      "cumarea": 4720.774155226181
+    }, 
+    {
+      "max_elev": 1629, 
+      "uid": "7fcb10db-c1d8-4aa9-aa89-f68127957267", 
+      "area": 2.33, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1440, 
+      "cumarea": 4741.787772631149
+    }, 
+    {
+      "max_elev": 1635, 
+      "uid": "b248c8f6-3527-4a8a-8d0a-039a77fe8593", 
+      "area": 2.3, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1384, 
+      "cumarea": 4712.5223616587455
+    }, 
+    {
+      "max_elev": 1629, 
+      "uid": "d8548d5d-f716-45a9-b350-0a5e9f0c8020", 
+      "area": 2.29, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1413, 
+      "cumarea": 4744.616324448715
+    }, 
+    {
+      "max_elev": 1626, 
+      "cumarea": 4759.3424165146025, 
+      "area": 2.15, 
+      "num_lifts": 6, 
+      "name": "Batea Mahuida", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1549, 
+      "uid": "375494c7-5cff-47e7-9e4d-4aa4f4126445"
+    }
+  ], 
+  "end_x": 4776.579713735298, 
+  "num": 67, 
+  "zoom": 8, 
+  "start_x": 4706.335894415662
+}

@@ -1,0 +1,107 @@
+{
+  "shown": [
+    {
+      "max_elev": 1988, 
+      "cumarea": 3004.7178520767566, 
+      "area": 42.75, 
+      "num_lifts": 150, 
+      "name": "Kitzb\u00fchel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "c965577c-b08b-4bf4-bdc1-ca717c167622"
+    }, 
+    {
+      "max_elev": 1985, 
+      "cumarea": 3016.8059444352107, 
+      "area": 26.11, 
+      "num_lifts": 166, 
+      "name": "Schladming", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 726, 
+      "uid": "cd2186dc-1e96-4022-abc4-bd2af5f10c80"
+    }, 
+    {
+      "max_elev": 1984, 
+      "cumarea": 3026.7926146959244, 
+      "area": 16.0, 
+      "num_lifts": 134, 
+      "name": "Nassfeld", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 610, 
+      "uid": "dd9e6748-f2a8-460e-a502-083f98cdd707"
+    }, 
+    {
+      "max_elev": 1992, 
+      "cumarea": 2978.8356137180876, 
+      "area": 11.59, 
+      "num_lifts": 65, 
+      "name": "Demanovska Dolina", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 944, 
+      "uid": "81c5196a-ba3e-4a20-bc75-7561d252f7af"
+    }, 
+    {
+      "max_elev": 1974, 
+      "cumarea": 3065.373679041462, 
+      "area": 10.92, 
+      "num_lifts": 47, 
+      "name": "Brandnertal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 891, 
+      "uid": "5eb3093d-eb88-43ac-8322-830cd1b8cc33"
+    }, 
+    {
+      "max_elev": 1976, 
+      "cumarea": 3060.9830830711453, 
+      "area": 10.020000000000001, 
+      "num_lifts": 95, 
+      "name": "Kopaonik", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1071, 
+      "uid": "a84248a8-b77d-42ed-bf20-27d96508050d"
+    }, 
+    {
+      "max_elev": 1978, 
+      "cumarea": 3051.043394316306, 
+      "area": 8.09, 
+      "num_lifts": 56, 
+      "name": "Passo del Lupo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 878, 
+      "uid": "85360764-64a7-4457-b710-177670ad125c"
+    }, 
+    {
+      "max_elev": 1974, 
+      "cumarea": 3069.333773825509, 
+      "area": 7.1, 
+      "num_lifts": 51, 
+      "name": "Hinterstoder", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 594, 
+      "uid": "d64e7287-c973-4ca9-9435-65cdbacab517"
+    }, 
+    {
+      "max_elev": 1988, 
+      "cumarea": 3008.492804427668, 
+      "area": 5.8999999999999995, 
+      "num_lifts": 17, 
+      "name": "Lenk", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1086, 
+      "uid": "cd2a0e24-2970-4a5b-8b69-e2118aefcc3b"
+    }, 
+    {
+      "max_elev": 1974, 
+      "uid": "f007e71e-a9ee-4b8b-bdcc-86eeb73668da", 
+      "area": 4.04, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1110, 
+      "cumarea": 3072.730018517482
+    }
+  ], 
+  "end_x": 3090.7280500640163, 
+  "num": 21, 
+  "zoom": 7, 
+  "start_x": 2950.240411424743
+}

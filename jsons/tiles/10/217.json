@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1806, 
+      "uid": "9f58a8df-6927-4923-a42e-1c5bae261830", 
+      "area": 3.84, 
+      "num_lifts": 27, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1455, 
+      "cumarea": 3817.108253416164
+    }, 
+    {
+      "max_elev": 1806, 
+      "uid": "28601de8-5284-494f-b7c9-ca00c01a4c55", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1016, 
+      "cumarea": 3819.806388138235
+    }, 
+    {
+      "max_elev": 1808, 
+      "uid": "af440f8f-82ed-4571-9f38-6e7c9d306858", 
+      "area": 1.98, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1712, 
+      "cumarea": 3811.163944548476
+    }, 
+    {
+      "max_elev": 1804, 
+      "uid": "061a0517-71e7-4ee4-8984-e5d94c6e3f7a", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 936, 
+      "cumarea": 3827.672794862749
+    }, 
+    {
+      "max_elev": 1806, 
+      "uid": "6daf1c54-a56d-403f-a72a-6cee8b9f4665", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1304, 
+      "cumarea": 3822.4161537098557
+    }, 
+    {
+      "max_elev": 1805, 
+      "uid": "19cf9451-79a7-4dff-b2ea-1233f3d02485", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1640, 
+      "cumarea": 3825.020469676709
+    }, 
+    {
+      "max_elev": 1808, 
+      "uid": "62c947f4-4d9c-4aef-9810-980e1792c715", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1698, 
+      "cumarea": 3813.7627810495646
+    }
+  ], 
+  "end_x": 3828.288152920202, 
+  "num": 217, 
+  "zoom": 10, 
+  "start_x": 3810.7271980902924
+}

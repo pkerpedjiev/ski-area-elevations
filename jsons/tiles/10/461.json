@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 1043, 
+      "cumarea": 8104.22097084732, 
+      "area": 2.9699999999999998, 
+      "num_lifts": 17, 
+      "name": "Dornleiten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 683, 
+      "uid": "c7a3f596-6269-40fc-bd3c-813cc0e4317e"
+    }, 
+    {
+      "max_elev": 1043, 
+      "uid": "9a4bfebf-61b9-4401-a132-f358d1f772b3", 
+      "area": 2.31, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 867, 
+      "cumarea": 8107.058218371853
+    }, 
+    {
+      "max_elev": 1043, 
+      "uid": "9176044b-0ee0-484a-b4d3-f6f7285e0bab", 
+      "area": 2.05, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 418, 
+      "cumarea": 8109.776058165004
+    }, 
+    {
+      "max_elev": 1043, 
+      "uid": "027385c4-f1b1-4e03-ab7f-eb5dc6319c69", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 578, 
+      "cumarea": 8112.412634994075
+    }, 
+    {
+      "max_elev": 1044, 
+      "uid": "ee3ee337-1e32-4521-b106-068675214ad5", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 952, 
+      "cumarea": 8095.940245548139
+    }, 
+    {
+      "max_elev": 1044, 
+      "uid": "15af8e78-d09d-4186-91b8-95d8129cf599", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 856, 
+      "cumarea": 8101.132408894506
+    }, 
+    {
+      "max_elev": 1044, 
+      "uid": "c878ccf4-8f77-44ef-8785-0c646176f691", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 963, 
+      "cumarea": 8098.533572393417
+    }
+  ], 
+  "end_x": 8113.161131418043, 
+  "num": 461, 
+  "zoom": 10, 
+  "start_x": 8095.600176588134
+}

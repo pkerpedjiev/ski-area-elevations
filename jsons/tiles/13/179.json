@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3175, 
+      "cumarea": 394.81187570986003, 
+      "area": 9.47, 
+      "num_lifts": 81, 
+      "name": "Jackson Hole", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1926, 
+      "uid": "0530830c-123a-4688-a000-48a6470d2283"
+    }
+  ], 
+  "end_x": 395.12148367295663, 
+  "num": 179, 
+  "zoom": 13, 
+  "start_x": 392.926364319218
+}

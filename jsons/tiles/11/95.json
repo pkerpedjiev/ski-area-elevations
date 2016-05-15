@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2699, 
+      "cumarea": 840.3191814779524, 
+      "area": 15.690000000000001, 
+      "num_lifts": 40, 
+      "name": "Savognin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1171, 
+      "uid": "4fe2a479-3a65-42d1-b1d6-35b8e342fd11"
+    }, 
+    {
+      "max_elev": 2706, 
+      "uid": "b954e5b0-4737-48e6-a1b6-3d3501ad6cd6", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2522, 
+      "cumarea": 835.5661579112075
+    }
+  ], 
+  "end_x": 842.9258318356408, 
+  "num": 95, 
+  "zoom": 11, 
+  "start_x": 834.1453544206862
+}

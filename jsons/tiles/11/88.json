@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2751, 
+      "cumarea": 774.446009170805, 
+      "area": 10.440000000000001, 
+      "num_lifts": 64, 
+      "name": "Mt. Bachelor", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1737, 
+      "uid": "de9ecbf4-0dc8-4f31-bda8-cfa270ea31c9"
+    }, 
+    {
+      "max_elev": 2747, 
+      "cumarea": 780.9194166242, 
+      "area": 6.31, 
+      "num_lifts": 20, 
+      "name": "Bo\u00ed Ta\u00fcll", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2038, 
+      "uid": "3c1d9029-ec55-4da9-8db9-2dae8b6aa561"
+    }, 
+    {
+      "max_elev": 2748, 
+      "uid": "d58dd192-0b74-44cd-a013-0363bb56ee23", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2521, 
+      "cumarea": 777.077280947647
+    }
+  ], 
+  "end_x": 781.4624899309587, 
+  "num": 88, 
+  "zoom": 11, 
+  "start_x": 772.6820125160041
+}

@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 912, 
+      "cumarea": 9187.336557035087, 
+      "area": 3.74, 
+      "num_lifts": 45, 
+      "name": "7 Springs", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 687, 
+      "uid": "3876fe94-c589-4aed-bee7-90b807ecf62b"
+    }, 
+    {
+      "max_elev": 911, 
+      "uid": "bfff9934-eeb0-4b9e-836d-5d22ee870403", 
+      "area": 2.31, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 716, 
+      "cumarea": 9192.778120526475
+    }, 
+    {
+      "max_elev": 910, 
+      "uid": "2d031924-1f95-4291-9afc-45179e6044d2", 
+      "area": 2.13, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 685, 
+      "cumarea": 9195.534242506195
+    }, 
+    {
+      "max_elev": 912, 
+      "uid": "3e6fbb8e-bf83-42a4-89e2-56568154857c", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 871, 
+      "cumarea": 9189.94087300194
+    }, 
+    {
+      "max_elev": 910, 
+      "uid": "7b513543-a624-482b-b5ee-907647c148f5", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 817, 
+      "cumarea": 9198.138558473049
+    }, 
+    {
+      "max_elev": 910, 
+      "uid": "a47e347f-5dff-4469-b8d2-bbd510e99f80", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 747, 
+      "cumarea": 9200.737394974138
+    }
+  ], 
+  "end_x": 9201.940330872412, 
+  "num": 523, 
+  "zoom": 10, 
+  "start_x": 9184.379376042503
+}

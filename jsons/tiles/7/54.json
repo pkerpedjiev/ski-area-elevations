@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 1110, 
+      "cumarea": 7602.961870913037, 
+      "area": 13.97, 
+      "num_lifts": 196, 
+      "name": "Stowe / Smuggler's Notch", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 327, 
+      "uid": "d4c24080-01ac-4206-bb5b-0238558fe1cb"
+    }, 
+    {
+      "max_elev": 1103, 
+      "cumarea": 7665.554398041705, 
+      "area": 13.4, 
+      "num_lifts": 138, 
+      "name": "Trysil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 389, 
+      "uid": "0c02945b-7762-4735-ad36-7df91250a971"
+    }, 
+    {
+      "max_elev": 1108, 
+      "uid": "c6f15bff-dd77-4e6f-ae07-2634ed16d393", 
+      "area": 4.26, 
+      "num_lifts": 49, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 778, 
+      "cumarea": 7614.427076160064
+    }, 
+    {
+      "max_elev": 1108, 
+      "uid": "7822d0f9-f464-4d78-b404-d3e86e2aada1", 
+      "area": 3.96, 
+      "num_lifts": 48, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 498, 
+      "cumarea": 7623.0711687912435
+    }, 
+    {
+      "max_elev": 1100, 
+      "cumarea": 7687.531153309665, 
+      "area": 3.88, 
+      "num_lifts": 21, 
+      "name": "Jaworzyna Krynicka", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "uid": "efc9be82-7d9b-46c9-a51a-456b69985a34"
+    }, 
+    {
+      "max_elev": 1097, 
+      "uid": "2188cfc5-ba39-4ffc-ad3d-57286f1d4177", 
+      "area": 2.71, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 814, 
+      "cumarea": 7714.572442000153
+    }, 
+    {
+      "max_elev": 1104, 
+      "uid": "a8538ec0-8c46-4f1f-b466-03bd50bece79", 
+      "area": 2.59, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 924, 
+      "cumarea": 7647.681115342886
+    }, 
+    {
+      "max_elev": 1098, 
+      "cumarea": 7711.5754933652615, 
+      "area": 2.51, 
+      "num_lifts": 8, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 840, 
+      "uid": "acebd188-354f-4fce-b522-f625fa039324"
+    }, 
+    {
+      "max_elev": 1111, 
+      "uid": "34ca3b41-9074-40c4-ba75-7124d82b4734", 
+      "area": 2.45, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 933, 
+      "cumarea": 7587.853897074326
+    }, 
+    {
+      "max_elev": 1105, 
+      "uid": "f928f024-a408-4a88-b266-ca3e8111917d", 
+      "area": 2.42, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 832, 
+      "cumarea": 7642.041322828439
+    }
+  ], 
+  "end_x": 7726.82012516004, 
+  "num": 54, 
+  "zoom": 7, 
+  "start_x": 7586.332486520767
+}

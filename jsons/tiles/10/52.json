@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 2643, 
+      "cumarea": 926.2029000769185, 
+      "area": 25.66, 
+      "num_lifts": 170, 
+      "name": "Grandvalira", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "uid": "dba83587-156c-43a2-b7ba-c32832271d25"
+    }, 
+    {
+      "max_elev": 2641, 
+      "uid": "3e546d2e-3d45-4890-95e9-e627d17cec23", 
+      "area": 3.56, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1460, 
+      "cumarea": 929.4726606217824
+    }, 
+    {
+      "max_elev": 2651, 
+      "uid": "d20b0ecc-8eab-47f1-87aa-9236b08021c4", 
+      "area": 3.35, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1863, 
+      "cumarea": 918.2065506290471
+    }, 
+    {
+      "max_elev": 2651, 
+      "uid": "5e36477a-d8e0-4986-94c6-fd100a218c05", 
+      "area": 2.12, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2150, 
+      "cumarea": 920.957966717731
+    }, 
+    {
+      "max_elev": 2653, 
+      "uid": "13ec5fe5-6d7a-4304-b541-8ff94d01738f", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2625, 
+      "cumarea": 914.9975902832101
+    }
+  ], 
+  "end_x": 930.7306059851867, 
+  "num": 52, 
+  "zoom": 10, 
+  "start_x": 913.1696511552775
+}

@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 3559, 
+      "cumarea": 154.44262726444234, 
+      "area": 12.92, 
+      "num_lifts": 58, 
+      "name": "Saas Fee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1786, 
+      "uid": "825b186c-d8a0-41ae-b8a9-50cb11c17eba"
+    }, 
+    {
+      "max_elev": 3548, 
+      "cumarea": 157.37872062361268, 
+      "area": 2.55, 
+      "num_lifts": 6, 
+      "name": "La Grave", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1444, 
+      "uid": "887fbcd4-a31c-4cd5-8fa3-3f931da5265a"
+    }, 
+    {
+      "max_elev": 3560, 
+      "uid": "476cc9d3-192e-4f2e-8ed4-4f1bf0cb09b2", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3076, 
+      "cumarea": 149.88385076608787
+    }
+  ], 
+  "end_x": 158.04859346918266, 
+  "num": 17, 
+  "zoom": 11, 
+  "start_x": 149.26811605422807
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2251, 
+      "cumarea": 2021.777917413716, 
+      "area": 5.08, 
+      "num_lifts": 27, 
+      "name": "Zettersfeld - Lienz", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 702, 
+      "uid": "d1be0887-b22c-4138-91fd-410162871c4d"
+    }, 
+    {
+      "max_elev": 2251, 
+      "uid": "f15f4582-c25a-46d6-8c33-12e0be2e0992", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1565, 
+      "cumarea": 2024.4354374166328
+    }, 
+    {
+      "max_elev": 2251, 
+      "uid": "e2dfcc95-f99f-42ca-8db3-20f49862eb64", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1899, 
+      "cumarea": 2027.0342739177215
+    }
+  ], 
+  "end_x": 2028.2902828545107, 
+  "num": 230, 
+  "zoom": 11, 
+  "start_x": 2019.509805439556
+}

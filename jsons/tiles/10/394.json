@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 1217, 
+      "uid": "11b681b5-a06c-4c46-bede-fbcd15f7469d", 
+      "area": 3.3200000000000003, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 668, 
+      "cumarea": 6930.291890047817
+    }, 
+    {
+      "max_elev": 1218, 
+      "uid": "3489d16e-f346-43e3-8e6b-e99ff2da19da", 
+      "area": 2.9000000000000004, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 8, 
+      "cumarea": 6921.490660663144
+    }, 
+    {
+      "max_elev": 1218, 
+      "uid": "1b283ea5-bfe4-4182-a888-235ba712c2de", 
+      "area": 2.71, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 834, 
+      "cumarea": 6927.091925264889
+    }, 
+    {
+      "max_elev": 1217, 
+      "cumarea": 6933.019438655095, 
+      "area": 2.0700000000000003, 
+      "num_lifts": 3, 
+      "name": "Garmisch-Classic", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 734, 
+      "uid": "7e11196d-9d86-46a4-baa0-8c2fcdb79c56"
+    }, 
+    {
+      "max_elev": 1218, 
+      "uid": "1d4ea27e-9e17-462b-8052-0b7d13c1c5fc", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1180, 
+      "cumarea": 6924.094976629997
+    }
+  ], 
+  "end_x": 6936.577157814127, 
+  "num": 394, 
+  "zoom": 10, 
+  "start_x": 6919.016202984218
+}

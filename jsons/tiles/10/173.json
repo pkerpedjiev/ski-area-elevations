@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1978, 
+      "cumarea": 3051.043394316306, 
+      "area": 8.09, 
+      "num_lifts": 56, 
+      "name": "Passo del Lupo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 878, 
+      "uid": "85360764-64a7-4457-b710-177670ad125c"
+    }, 
+    {
+      "max_elev": 1981, 
+      "uid": "6d8abd03-74ed-497b-b55b-d970fc0f87a4", 
+      "area": 2.34, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1654, 
+      "cumarea": 3041.2783455000917
+    }, 
+    {
+      "max_elev": 1980, 
+      "uid": "da4f994d-6eea-4ff2-977d-ea7d6b858d20", 
+      "area": 2.33, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1753, 
+      "cumarea": 3044.1242137676695
+    }, 
+    {
+      "max_elev": 1979, 
+      "uid": "f2d0aa27-b3ab-4930-81b5-444ab07a1d61", 
+      "area": 2.29, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1852, 
+      "cumarea": 3046.9527655852357
+    }, 
+    {
+      "max_elev": 1983, 
+      "uid": "def43828-3c4f-4645-994b-f883d473797d", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1364, 
+      "cumarea": 3038.428194570722
+    }, 
+    {
+      "max_elev": 1978, 
+      "uid": "20b53636-b046-40eb-bae2-1ebea68657ee", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1977, 
+      "cumarea": 3053.631180981208
+    }
+  ], 
+  "end_x": 3055.606140404198, 
+  "num": 173, 
+  "zoom": 10, 
+  "start_x": 3038.0451855742886
+}

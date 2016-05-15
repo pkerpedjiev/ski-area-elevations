@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 628, 
+      "uid": "557657f1-9d85-4a8c-b64d-d82af5dd66df", 
+      "area": 2.21, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 538, 
+      "cumarea": 12011.438454534627
+    }, 
+    {
+      "max_elev": 629, 
+      "uid": "3fbf1c13-68c2-45f3-9e30-8e6df75a4f02", 
+      "area": 2.0300000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 544, 
+      "cumarea": 11998.191016011504
+    }, 
+    {
+      "max_elev": 628, 
+      "uid": "3ed2232d-1885-418c-b0ee-d3415f67d27c", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 454, 
+      "cumarea": 12000.832869897677
+    }, 
+    {
+      "max_elev": 628, 
+      "uid": "df4cbba9-9b8a-435b-81bf-eb360b018c38", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 426, 
+      "cumarea": 12003.458808328543
+    }, 
+    {
+      "max_elev": 629, 
+      "uid": "859d3978-b5c8-45a9-a49c-8406ea512de6", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 585, 
+      "cumarea": 11995.48298021845
+    }, 
+    {
+      "max_elev": 628, 
+      "uid": "1af60181-0c22-4978-9675-89bf93d1e2b9", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 512, 
+      "cumarea": 12006.05213517382
+    }, 
+    {
+      "max_elev": 628, 
+      "uid": "67d5ae74-7fd2-4718-8901-adfbe40d50a3", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 603, 
+      "cumarea": 12008.645462019098
+    }
+  ], 
+  "end_x": 12011.693103657883, 
+  "num": 683, 
+  "zoom": 10, 
+  "start_x": 11994.132148827974
+}

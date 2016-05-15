@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1180, 
+      "cumarea": 7175.980428529157, 
+      "area": 5.79, 
+      "num_lifts": 34, 
+      "name": "Kiroro", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 569, 
+      "uid": "b2092570-9338-4069-8906-4f4453fae3b4"
+    }, 
+    {
+      "max_elev": 1179, 
+      "uid": "a770e59a-d8dd-4796-8451-96dd2dcafc10", 
+      "area": 2.4, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 943, 
+      "cumarea": 7178.8558972665105
+    }, 
+    {
+      "max_elev": 1179, 
+      "uid": "cba2bbb5-c872-43d5-8cc6-01977de1f1f3", 
+      "area": 2.3600000000000003, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 925, 
+      "cumarea": 7181.714558885548
+    }, 
+    {
+      "max_elev": 1180, 
+      "uid": "940b649a-f56c-4764-8073-112fad8ba687", 
+      "area": 1.94, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1045, 
+      "cumarea": 7167.004794631627
+    }, 
+    {
+      "max_elev": 1180, 
+      "uid": "36f3e66d-24cd-432b-98fe-77cda9e14d89", 
+      "area": 1.85, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 983, 
+      "cumarea": 7169.619980270718
+    }, 
+    {
+      "max_elev": 1180, 
+      "uid": "e0d75f8b-add8-41e8-a6a5-00f323c888ec", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1070, 
+      "cumarea": 7172.224296237571
+    }
+  ], 
+  "end_x": 7182.430525432856, 
+  "num": 408, 
+  "zoom": 10, 
+  "start_x": 7164.869570602947
+}

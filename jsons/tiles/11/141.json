@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2500, 
+      "cumarea": 1243.8444226656084, 
+      "area": 10.930000000000001, 
+      "num_lifts": 30, 
+      "name": "Grindelwald", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1024, 
+      "uid": "53ac0f94-7e68-4c20-a5d0-253de4c3b64c"
+    }, 
+    {
+      "max_elev": 2505, 
+      "uid": "703bb38c-38ad-4a0a-94fd-0eb484e978e0", 
+      "area": 3.06, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2092, 
+      "cumarea": 1239.4529113634198
+    }
+  ], 
+  "end_x": 1246.8277929235521, 
+  "num": 141, 
+  "zoom": 11, 
+  "start_x": 1238.0473155085974
+}

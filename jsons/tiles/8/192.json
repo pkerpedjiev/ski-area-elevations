@@ -1,0 +1,99 @@
+{
+  "shown": [
+    {
+      "max_elev": 470, 
+      "uid": "f483f550-ac60-4adb-8a72-13225a922ac4", 
+      "area": 3.9400000000000004, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 17, 
+      "cumarea": 13551.575047024458
+    }, 
+    {
+      "max_elev": 471, 
+      "uid": "1873c35d-a91b-4470-bb3b-3ffac9a04fc4", 
+      "area": 3.19, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 198, 
+      "cumarea": 13535.237262599325
+    }, 
+    {
+      "max_elev": 478, 
+      "uid": "c07c2ccd-74b8-48cd-9ecc-5c8c7f4da41d", 
+      "area": 2.08, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 310, 
+      "cumarea": 13487.865100367533
+    }, 
+    {
+      "max_elev": 477, 
+      "uid": "34e74c72-0ae7-489e-b0a1-24853ec53391", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 124, 
+      "cumarea": 13490.4910387984
+    }, 
+    {
+      "max_elev": 474, 
+      "uid": "dea702ae-a831-4215-bde6-8dac2ccf9e83", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 283, 
+      "cumarea": 13516.478893502366
+    }, 
+    {
+      "max_elev": 469, 
+      "uid": "c81ed7ed-830d-471e-88b1-a86e40250852", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 371, 
+      "cumarea": 13556.789069164637
+    }, 
+    {
+      "max_elev": 477, 
+      "uid": "3a85f8ea-772b-408a-8369-3aa2b031febc", 
+      "area": 1.84, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 427, 
+      "cumarea": 13493.10080437002
+    }, 
+    {
+      "max_elev": 473, 
+      "cumarea": 13524.275312764541, 
+      "area": 1.84, 
+      "num_lifts": 4, 
+      "name": "Otis Ridge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 377, 
+      "uid": "a34184bd-9688-4839-89c8-02cfc3350bf1"
+    }, 
+    {
+      "max_elev": 472, 
+      "uid": "e8b59281-ead9-496e-beed-e8bf31664541", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 472, 
+      "cumarea": 13526.885078336161
+    }, 
+    {
+      "max_elev": 476, 
+      "uid": "1e699930-31b7-4336-86d5-aaf6d031f6b9", 
+      "area": 1.83, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 476, 
+      "cumarea": 13500.891774027428
+    }
+  ], 
+  "end_x": 13557.057128689888, 
+  "num": 192, 
+  "zoom": 8, 
+  "start_x": 13486.813309370253
+}

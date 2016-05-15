@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2771, 
+      "cumarea": 756.5142216207764, 
+      "area": 28.740000000000002, 
+      "num_lifts": 188, 
+      "name": "Serre Chevalier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1212, 
+      "uid": "800c6557-0a85-43f7-b9b3-03cb3cc7c47e"
+    }, 
+    {
+      "max_elev": 2771, 
+      "cumarea": 761.6025330756235, 
+      "area": 21.94, 
+      "num_lifts": 163, 
+      "name": "St. Anton am Arlberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1279, 
+      "uid": "1fca6592-d5f9-4eda-b94b-7d587982aa38"
+    }
+  ], 
+  "end_x": 763.9015351010495, 
+  "num": 86, 
+  "zoom": 11, 
+  "start_x": 755.1210576860949
+}

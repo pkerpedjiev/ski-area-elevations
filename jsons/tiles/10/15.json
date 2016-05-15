@@ -1,0 +1,38 @@
+{
+  "shown": [
+    {
+      "max_elev": 3295, 
+      "cumarea": 272.38508506769466, 
+      "area": 37.64, 
+      "num_lifts": 223, 
+      "name": "Verbier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 824, 
+      "uid": "f32913bf-408f-4f2d-8b73-c7c8983e734a"
+    }, 
+    {
+      "max_elev": 3293, 
+      "cumarea": 277.54123406265455, 
+      "area": 23.48, 
+      "num_lifts": 114, 
+      "name": "Celerina", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1737, 
+      "uid": "d4441179-775a-4dbd-93a5-fe4872639c55"
+    }, 
+    {
+      "max_elev": 3307, 
+      "cumarea": 266.7570177529775, 
+      "area": 10.870000000000001, 
+      "num_lifts": 101, 
+      "name": "Sierra Nevada - Pradollano", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2137, 
+      "uid": "25f8c3e7-df2d-4755-8583-f4924b18141b"
+    }
+  ], 
+  "end_x": 280.9752772785469, 
+  "num": 15, 
+  "zoom": 10, 
+  "start_x": 263.41432244863773
+}

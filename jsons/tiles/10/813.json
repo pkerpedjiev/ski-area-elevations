@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 396, 
+      "uid": "22152a32-6a10-494f-8e2c-bb799270fe15", 
+      "area": 2.13, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 278, 
+      "cumarea": 14278.424072640373
+    }, 
+    {
+      "max_elev": 394, 
+      "uid": "dbcb6886-86ec-488f-8b7d-aed1adf9e7d7", 
+      "area": 2.11, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 310, 
+      "cumarea": 14289.082976848407
+    }, 
+    {
+      "max_elev": 394, 
+      "uid": "2f082aa0-6867-497c-a218-b793ddd0945f", 
+      "area": 2.0300000000000002, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 237, 
+      "cumarea": 14291.79101264146
+    }, 
+    {
+      "max_elev": 395, 
+      "uid": "76009a38-3c0a-4678-a089-f362d81abe01", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 285, 
+      "cumarea": 14281.122207362445
+    }, 
+    {
+      "max_elev": 394, 
+      "uid": "0f42afba-1e52-4bc2-a218-ef0841ee63dd", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 312, 
+      "cumarea": 14286.336288900919
+    }, 
+    {
+      "max_elev": 395, 
+      "uid": "b8978a6d-e9a6-4ff8-9d4e-c32d74a292b8", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 216, 
+      "cumarea": 14283.726523329298
+    }, 
+    {
+      "max_elev": 394, 
+      "uid": "92492027-00f3-4c5b-87f0-4eba1f1f60f5", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 352, 
+      "cumarea": 14294.378799306363
+    }
+  ], 
+  "end_x": 14294.617231546075, 
+  "num": 813, 
+  "zoom": 10, 
+  "start_x": 14277.056276716166
+}

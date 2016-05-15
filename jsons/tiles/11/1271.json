@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 713, 
+      "cumarea": 11168.560285423342, 
+      "area": 7.18, 
+      "num_lifts": 73, 
+      "name": "Yll\u00e4s", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 265, 
+      "uid": "94e1fd5b-d30c-49cb-bbd5-836b06b0d165"
+    }, 
+    {
+      "max_elev": 714, 
+      "uid": "2d08315f-361b-41c8-bd66-7b069983334e", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 574, 
+      "cumarea": 11161.990149539193
+    }, 
+    {
+      "max_elev": 714, 
+      "uid": "e2e61891-3eb6-4ce4-b13d-d52730f8ca1e", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 666, 
+      "cumarea": 11164.588986040282
+    }
+  ], 
+  "end_x": 11168.767271822242, 
+  "num": 1271, 
+  "zoom": 11, 
+  "start_x": 11159.986794407287
+}

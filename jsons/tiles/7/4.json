@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2872, 
+      "cumarea": 641.4728577211829, 
+      "area": 42.129999999999995, 
+      "num_lifts": 165, 
+      "name": "Ischgl", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1354, 
+      "uid": "c0046460-20b1-4ba9-b3cb-4d53b00a64ec"
+    }, 
+    {
+      "max_elev": 2853, 
+      "cumarea": 662.1966346052185, 
+      "area": 39.04, 
+      "num_lifts": 145, 
+      "name": "Arosa Lenzerheide", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1159, 
+      "uid": "553bdf47-5505-4b03-9f54-49bfad297a07"
+    }, 
+    {
+      "max_elev": 2817, 
+      "cumarea": 690.1051205988803, 
+      "area": 30.78, 
+      "num_lifts": 84, 
+      "name": "Davos - Klosters", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 991, 
+      "uid": "7c75991d-105c-4ceb-8f3a-f362472c9db9"
+    }, 
+    {
+      "max_elev": 2868, 
+      "cumarea": 649.6266780102001, 
+      "area": 16.08, 
+      "num_lifts": 87, 
+      "name": "Fiesch - Eggishorn - Aletsch", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 766, 
+      "uid": "03424069-bf65-407f-b644-7bc7f5d4d5ea"
+    }, 
+    {
+      "max_elev": 2878, 
+      "cumarea": 632.9345904493077, 
+      "area": 15.860000000000001, 
+      "num_lifts": 74, 
+      "name": "Grimentz-Zinal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1554, 
+      "uid": "5809d1f3-3f25-485c-82a1-a10c09b80642"
+    }, 
+    {
+      "max_elev": 2880, 
+      "cumarea": 628.170790233101, 
+      "area": 15.63, 
+      "num_lifts": 95, 
+      "name": "Crans-Montana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1431, 
+      "uid": "e33f2f8a-b8c2-4895-9b82-ce6dd2022259"
+    }, 
+    {
+      "max_elev": 2832, 
+      "cumarea": 679.1959693436959, 
+      "area": 13.13, 
+      "num_lifts": 75, 
+      "name": "Grand Tourmalet", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1293, 
+      "uid": "574e21a8-1f3b-4595-b0da-967eae6fcfd7"
+    }, 
+    {
+      "max_elev": 2944, 
+      "cumarea": 574.6375852533355, 
+      "area": 10.440000000000001, 
+      "num_lifts": 44, 
+      "name": " Andermatt-Sedrun", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1436, 
+      "uid": "bdd3ba97-f1a6-45a6-a3c3-ffa9c3dd6a44"
+    }, 
+    {
+      "max_elev": 2962, 
+      "cumarea": 563.7488673194497, 
+      "area": 10.42, 
+      "num_lifts": 69, 
+      "name": "Lauterbrunnen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 804, 
+      "uid": "05758ad4-8ff3-440b-844c-9051256ff37f"
+    }, 
+    {
+      "max_elev": 2881, 
+      "cumarea": 623.4215980886676, 
+      "area": 9.06, 
+      "num_lifts": 28, 
+      "name": "Madesimo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1542, 
+      "uid": "d3c23e02-199f-4449-97bb-d9ab180aa616"
+    }
+  ], 
+  "end_x": 702.4381931963674, 
+  "num": 4, 
+  "zoom": 7, 
+  "start_x": 561.9505545570938
+}

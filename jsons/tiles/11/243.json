@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2222, 
+      "cumarea": 2140.884328811728, 
+      "area": 5.78, 
+      "num_lifts": 36, 
+      "name": "Schlick 2000", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1015, 
+      "uid": "0f6c98ea-4a40-47b6-ae43-bfbf0ac4ffef"
+    }, 
+    {
+      "max_elev": 2223, 
+      "uid": "5fb29cb3-e7f8-4243-93fe-4ae405e6c7d5", 
+      "area": 2.5, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1735, 
+      "cumarea": 2134.477599943004
+    }, 
+    {
+      "max_elev": 2223, 
+      "uid": "34acc03c-82dd-4d40-807f-eb7121bfe32e", 
+      "area": 1.92, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1280, 
+      "cumarea": 2137.129925129044
+    }
+  ], 
+  "end_x": 2142.43648924892, 
+  "num": 243, 
+  "zoom": 11, 
+  "start_x": 2133.6560118339657
+}

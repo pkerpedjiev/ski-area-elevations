@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2330, 
+      "cumarea": 1739.5431927939114, 
+      "area": 6.95, 
+      "num_lifts": 37, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 520, 
+      "uid": "27cc8c60-d684-428e-b662-54629232f9cd"
+    }, 
+    {
+      "max_elev": 2330, 
+      "cumarea": 1743.481934453488, 
+      "area": 6.95, 
+      "num_lifts": 37, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 520, 
+      "uid": "c326f600-075e-439d-944d-d71a188c0367"
+    }, 
+    {
+      "max_elev": 2328, 
+      "uid": "0f420a10-bf1a-488d-8768-54d519903d4d", 
+      "area": 3.31, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1478, 
+      "cumarea": 1746.678882642877
+    }, 
+    {
+      "max_elev": 2328, 
+      "uid": "1566023f-93f0-4b98-bd25-eb5adf2840a2", 
+      "area": 2.66, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1492, 
+      "cumarea": 1749.6572087656705
+    }, 
+    {
+      "max_elev": 2326, 
+      "uid": "befe595a-8154-45b6-b065-64f1c3851ab2", 
+      "area": 1.92, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1844, 
+      "cumarea": 1752.3095339517101
+    }
+  ], 
+  "end_x": 1756.0954829909183, 
+  "num": 99, 
+  "zoom": 10, 
+  "start_x": 1738.5345281610091
+}

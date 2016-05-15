@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 194, 
+      "uid": "88167220-ba1a-4040-834e-c6c19765c9ed", 
+      "area": 2.21, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 138, 
+      "cumarea": 16016.567256147122
+    }, 
+    {
+      "max_elev": 194, 
+      "cumarea": 16026.99518354702, 
+      "area": 1.87, 
+      "num_lifts": 3, 
+      "name": "(no lifts)", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 175, 
+      "uid": "6e4bad9c-dc0b-45a7-97fa-d4a9b4cb35e4"
+    }, 
+    {
+      "max_elev": 194, 
+      "uid": "127991c5-30f3-48e2-82f9-3a3cc9f218fb", 
+      "area": 1.85, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 135, 
+      "cumarea": 16029.61036918611
+    }, 
+    {
+      "max_elev": 194, 
+      "uid": "dd045c31-3531-409d-855f-47f5d427fd18", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 137, 
+      "cumarea": 16019.171572113975
+    }, 
+    {
+      "max_elev": 194, 
+      "uid": "f88a6e54-77ae-4414-9db8-e07f8e168a22", 
+      "area": 1.82, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 156, 
+      "cumarea": 16021.770408615064
+    }, 
+    {
+      "max_elev": 194, 
+      "uid": "32fac164-b7d2-448b-8a23-8942565afe5d", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 116, 
+      "cumarea": 16024.369245116153
+    }, 
+    {
+      "max_elev": 194, 
+      "uid": "5d9cbbb8-af78-48da-8c54-2498d41ec7e2", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 44, 
+      "cumarea": 16032.209205687199
+    }
+  ], 
+  "end_x": 16033.151759707083, 
+  "num": 912, 
+  "zoom": 10, 
+  "start_x": 16015.590804877174
+}

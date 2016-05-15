@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2271, 
+      "cumarea": 1935.6983868911254, 
+      "area": 13.24, 
+      "num_lifts": 68, 
+      "name": "Big White", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1518, 
+      "uid": "1ef59aca-ad93-4ca7-9ee0-4bf885490e89"
+    }, 
+    {
+      "max_elev": 2271, 
+      "uid": "a9821dd2-2a83-4746-a5c7-d087008bd5bb", 
+      "area": 2.35, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1888, 
+      "cumarea": 1938.5528022192816
+    }
+  ], 
+  "end_x": 1940.4855087049646, 
+  "num": 220, 
+  "zoom": 11, 
+  "start_x": 1931.70503129001
+}

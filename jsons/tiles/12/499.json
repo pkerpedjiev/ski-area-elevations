@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2200, 
+      "cumarea": 2195.041750495582, 
+      "area": 15.200000000000001, 
+      "num_lifts": 61, 
+      "name": "Sextner Dolomiten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1150, 
+      "uid": "d0ef0d09-dda4-40c8-b493-0efaf3957b36"
+    }
+  ], 
+  "end_x": 2195.119353738648, 
+  "num": 499, 
+  "zoom": 12, 
+  "start_x": 2190.7291150311707
+}

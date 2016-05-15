@@ -1,0 +1,17 @@
+{
+  "shown": [
+    {
+      "max_elev": 147, 
+      "uid": "ffd287c4-fd7e-4fda-aabd-177fb2394158", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 127, 
+      "cumarea": 16564.717006713487
+    }
+  ], 
+  "end_x": 16566.565762665574, 
+  "num": 7546, 
+  "zoom": 13, 
+  "start_x": 16564.370643311835
+}

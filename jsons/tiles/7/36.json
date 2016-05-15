@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 1567, 
+      "cumarea": 5063.980808298247, 
+      "area": 5.25, 
+      "num_lifts": 29, 
+      "name": "Spitzingsee-Tegernsee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 982, 
+      "uid": "5ddabada-fe17-42b3-8476-a1cfc0fc09b8"
+    }, 
+    {
+      "max_elev": 1562, 
+      "uid": "9db60e48-4e45-419d-9b31-decf318fca01", 
+      "area": 4.97, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1191, 
+      "cumarea": 5098.655622224712
+    }, 
+    {
+      "max_elev": 1555, 
+      "cumarea": 5138.11342980175, 
+      "area": 4.89, 
+      "num_lifts": 29, 
+      "name": "Mt. Baker", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1106, 
+      "uid": "09c79daf-5502-4745-8186-14c78995321a"
+    }, 
+    {
+      "max_elev": 1553, 
+      "uid": "83d8c72c-8369-4e93-b9db-5c716f864b8c", 
+      "area": 4.5200000000000005, 
+      "num_lifts": 32, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1130, 
+      "cumarea": 5146.830543868304
+    }, 
+    {
+      "max_elev": 1552, 
+      "cumarea": 5150.300719713405, 
+      "area": 4.35, 
+      "num_lifts": 47, 
+      "name": "Kranjska Gora", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 806, 
+      "uid": "762792d9-b5a3-403d-b498-cc3f867ca3df"
+    }, 
+    {
+      "max_elev": 1566, 
+      "uid": "34d0e81a-45eb-41f8-99c6-41e9d8f3cfbb", 
+      "area": 4.06, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 994, 
+      "cumarea": 5072.9481040595565
+    }, 
+    {
+      "max_elev": 1541, 
+      "uid": "34db1a4c-3be7-4ebc-8608-fbc0f369b596", 
+      "area": 4.03, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1172, 
+      "cumarea": 5169.945848815412
+    }, 
+    {
+      "max_elev": 1535, 
+      "cumarea": 5196.73456627415, 
+      "area": 3.88, 
+      "num_lifts": 26, 
+      "name": "Rossfeld / Gmerk / Oberau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 713, 
+      "uid": "25c130ea-0a49-4851-a85b-2e61e8a4025b"
+    }, 
+    {
+      "max_elev": 1564, 
+      "uid": "9038e085-e244-4f32-9fe5-7d1cdea8c56a", 
+      "area": 3.7800000000000002, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1173, 
+      "cumarea": 5084.493899261432
+    }, 
+    {
+      "max_elev": 1540, 
+      "uid": "1fc8c298-c51d-4c2b-afcd-3de137abe889", 
+      "area": 3.7800000000000002, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 996, 
+      "cumarea": 5179.120399015209
+    }
+  ], 
+  "end_x": 5198.042629653119, 
+  "num": 36, 
+  "zoom": 7, 
+  "start_x": 5057.554991013845
+}

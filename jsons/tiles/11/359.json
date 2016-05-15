@@ -1,0 +1,38 @@
+{
+  "shown": [
+    {
+      "max_elev": 1954, 
+      "cumarea": 3157.640792491069, 
+      "area": 9.370000000000001, 
+      "num_lifts": 70, 
+      "name": "Tauplitz", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 843, 
+      "uid": "4d281d7b-35d9-4ce7-9db5-fa0e87b7fe50"
+    }, 
+    {
+      "max_elev": 1955, 
+      "cumarea": 3153.4032793948186, 
+      "area": 4.79, 
+      "num_lifts": 43, 
+      "name": "Chapelco", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1263, 
+      "uid": "df998c06-f3f6-4afc-8cad-fe7c75a29241"
+    }, 
+    {
+      "max_elev": 1954, 
+      "cumarea": 3160.4693443086353, 
+      "area": 2.29, 
+      "num_lifts": 3, 
+      "name": "Corralco", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1534, 
+      "uid": "86df1adb-cbad-4065-a347-fe72cf6dcb2a"
+    }
+  ], 
+  "end_x": 3160.971869383653, 
+  "num": 359, 
+  "zoom": 11, 
+  "start_x": 3152.1913919686986
+}

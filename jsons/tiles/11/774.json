@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1237, 
+      "cumarea": 6800.623954486493, 
+      "area": 11.190000000000001, 
+      "num_lifts": 128, 
+      "name": "Sugarbush", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 455, 
+      "uid": "f3fd3d8e-a3ee-4d6c-a532-6d7b2479a4e9"
+    }, 
+    {
+      "max_elev": 1237, 
+      "uid": "62d3d21b-9372-4c06-8116-2995f7598050", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 895, 
+      "cumarea": 6796.208933964169
+    }, 
+    {
+      "max_elev": 1236, 
+      "uid": "2947e170-2b65-4097-807e-5d5991cf86e5", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1194, 
+      "cumarea": 6803.217281331771
+    }
+  ], 
+  "end_x": 6804.869996589809, 
+  "num": 774, 
+  "zoom": 11, 
+  "start_x": 6796.089519174853
+}

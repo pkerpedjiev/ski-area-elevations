@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1008, 
+      "cumarea": 8428.227925305473, 
+      "area": 9.49, 
+      "num_lifts": 128, 
+      "name": "Okemo Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 366, 
+      "uid": "47563c90-9c54-4f43-a501-cb4aaa21a473"
+    }, 
+    {
+      "max_elev": 1009, 
+      "uid": "290b1ea6-f39f-4ae4-9229-c8a3b038aa8d", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 272, 
+      "cumarea": 8413.582370878543
+    }, 
+    {
+      "max_elev": 1009, 
+      "uid": "0118ab79-779f-4ee9-b67c-74b345407939", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 818, 
+      "cumarea": 8416.186686845396
+    }, 
+    {
+      "max_elev": 1008, 
+      "uid": "fe6b6b19-bda5-46e2-9f09-668bed7ed483", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 947, 
+      "cumarea": 8421.378850191762
+    }, 
+    {
+      "max_elev": 1008, 
+      "uid": "afc14f01-3884-4a70-9d78-6cd1f8c49352", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 838, 
+      "cumarea": 8423.977686692851
+    }, 
+    {
+      "max_elev": 1009, 
+      "uid": "48bf49b0-abcf-4f06-a78c-98952fd94cc8", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 948, 
+      "cumarea": 8418.780013690674
+    }
+  ], 
+  "end_x": 8429.258318356407, 
+  "num": 479, 
+  "zoom": 10, 
+  "start_x": 8411.697363526499
+}

@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2273, 
+      "cumarea": 1925.1464947045918, 
+      "area": 41.3, 
+      "num_lifts": 312, 
+      "name": "Whistler Blackcomb", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 659, 
+      "uid": "8e8aa042-bd64-4b74-931a-f3b6f66443f0"
+    }, 
+    {
+      "max_elev": 2272, 
+      "cumarea": 1928.4945678528914, 
+      "area": 3.8499999999999996, 
+      "num_lifts": 36, 
+      "name": "Torgnon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1550, 
+      "uid": "bf3d8b10-8cb9-4be9-9e4e-5e8f6c27a3d1"
+    }, 
+    {
+      "max_elev": 2272, 
+      "uid": "aea3454d-c0e0-42e7-9164-5933a83cf230", 
+      "area": 1.86, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1813, 
+      "cumarea": 1931.1151443406166
+    }
+  ], 
+  "end_x": 1931.70503129001, 
+  "num": 219, 
+  "zoom": 11, 
+  "start_x": 1922.9245538750556
+}

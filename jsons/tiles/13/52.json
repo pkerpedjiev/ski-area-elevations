@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3637, 
+      "cumarea": 116.24313855568538, 
+      "area": 12.41, 
+      "num_lifts": 90, 
+      "name": "Keystone", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2829, 
+      "uid": "e141e7c9-33fb-4744-a277-aa7c74bdc9b5"
+    }
+  ], 
+  "end_x": 116.34132574814834, 
+  "num": 52, 
+  "zoom": 13, 
+  "start_x": 114.14620639440969
+}

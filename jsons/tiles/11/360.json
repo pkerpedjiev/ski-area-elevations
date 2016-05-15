@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1952, 
+      "cumarea": 3165.063852468338, 
+      "area": 13.39, 
+      "num_lifts": 67, 
+      "name": "Zell am See - Kaprun", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "dac5e24d-e4ac-4283-b76a-51cb0d17ed27"
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "712d06a5-6cf7-486e-a456-c82e0c127a71", 
+      "area": 5.64, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "cumarea": 3168.793736533848
+    }
+  ], 
+  "end_x": 3169.7523467986075, 
+  "num": 360, 
+  "zoom": 11, 
+  "start_x": 3160.971869383653
+}

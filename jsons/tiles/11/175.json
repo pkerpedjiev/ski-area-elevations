@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2400, 
+      "cumarea": 1542.0414449835612, 
+      "area": 28.91, 
+      "num_lifts": 68, 
+      "name": "Wengen / Kleine Scheidegg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "uid": "434cc57d-dcf1-4816-a28b-d6cc2d62557a"
+    }, 
+    {
+      "max_elev": 2403, 
+      "uid": "5d9d415e-4022-483c-a8d0-69c7695a43c7", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2369, 
+      "cumarea": 1536.6772574275328
+    }
+  ], 
+  "end_x": 1545.3640250320082, 
+  "num": 175, 
+  "zoom": 11, 
+  "start_x": 1536.5835476170537
+}

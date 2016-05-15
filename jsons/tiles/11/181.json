@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2377, 
+      "cumarea": 1593.4623522223976, 
+      "area": 7.01, 
+      "num_lifts": 35, 
+      "name": "Le Sauze", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1365, 
+      "uid": "b7b64611-3935-43ed-a2cb-4924574a39ef"
+    }, 
+    {
+      "max_elev": 2375, 
+      "cumarea": 1597.3704121473218, 
+      "area": 6.74, 
+      "num_lifts": 35, 
+      "name": "See (Paznaun - Ischgl)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1035, 
+      "uid": "663f229a-24d8-4667-9137-3576b184eaa0"
+    }, 
+    {
+      "max_elev": 2378, 
+      "uid": "7bc628f9-b8b7-4a9f-b14c-f095009daa1e", 
+      "area": 2.15, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1303, 
+      "cumarea": 1589.515014521351
+    }
+  ], 
+  "end_x": 1598.0468895217357, 
+  "num": 181, 
+  "zoom": 11, 
+  "start_x": 1589.266412106781
+}

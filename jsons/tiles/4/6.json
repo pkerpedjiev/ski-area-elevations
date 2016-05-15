@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 1110, 
+      "cumarea": 7602.961870913037, 
+      "area": 13.97, 
+      "num_lifts": 196, 
+      "name": "Stowe / Smuggler's Notch", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 327, 
+      "uid": "d4c24080-01ac-4206-bb5b-0238558fe1cb"
+    }, 
+    {
+      "max_elev": 1103, 
+      "cumarea": 7665.554398041705, 
+      "area": 13.4, 
+      "num_lifts": 138, 
+      "name": "Trysil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 389, 
+      "uid": "0c02945b-7762-4735-ad36-7df91250a971"
+    }, 
+    {
+      "max_elev": 1237, 
+      "cumarea": 6800.623954486493, 
+      "area": 11.190000000000001, 
+      "num_lifts": 128, 
+      "name": "Sugarbush", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 455, 
+      "uid": "f3fd3d8e-a3ee-4d6c-a532-6d7b2479a4e9"
+    }, 
+    {
+      "max_elev": 1083, 
+      "cumarea": 7802.606591808875, 
+      "area": 10.31, 
+      "num_lifts": 88, 
+      "name": "Gore Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 322, 
+      "uid": "dd10cae8-6fe9-4519-bbd7-0bba9196e443"
+    }, 
+    {
+      "max_elev": 1181, 
+      "cumarea": 7156.067220256879, 
+      "area": 10.010000000000002, 
+      "num_lifts": 78, 
+      "name": "Niseko Mt. Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 260, 
+      "uid": "9990d135-4a98-455f-aa1e-afef9011ce52"
+    }, 
+    {
+      "max_elev": 1183, 
+      "cumarea": 7135.94935156717, 
+      "area": 7.87, 
+      "num_lifts": 95, 
+      "name": "Stratton", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 605, 
+      "uid": "fb10030f-6e16-4bfa-994c-b33f023f7e78"
+    }, 
+    {
+      "max_elev": 1228, 
+      "cumarea": 6854.2705786828255, 
+      "area": 7.66, 
+      "num_lifts": 48, 
+      "name": "\u0160pindler\u016fv Ml\u00fdn", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 710, 
+      "uid": "b79ad31c-1984-4754-9379-90120ac2ad94"
+    }, 
+    {
+      "max_elev": 1093, 
+      "cumarea": 7741.966224531471, 
+      "area": 6.7, 
+      "num_lifts": 92, 
+      "name": "Mt Snow", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 585, 
+      "uid": "ef733d46-44e7-4211-bc30-257c4c15df22"
+    }, 
+    {
+      "max_elev": 1241, 
+      "cumarea": 6748.238147779352, 
+      "area": 6.67, 
+      "num_lifts": 40, 
+      "name": "Szczyrk", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 538, 
+      "uid": "2863b0bf-9be2-46da-bc4a-894a4a549d38"
+    }, 
+    {
+      "max_elev": 1166, 
+      "cumarea": 7277.9081682889655, 
+      "area": 5.95, 
+      "num_lifts": 83, 
+      "name": "Jay Peak", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 560, 
+      "uid": "36d7d2f4-b72e-41e2-a3d5-7cc33f738464"
+    }
+  ], 
+  "end_x": 7867.307763799314, 
+  "num": 6, 
+  "zoom": 4, 
+  "start_x": 6743.406654685126
+}

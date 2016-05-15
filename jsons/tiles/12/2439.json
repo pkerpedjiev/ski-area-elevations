@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 755, 
+      "cumarea": 10710.70670869359, 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "name": "(urban, Telemaco Borba)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 755, 
+      "uid": "9ab43ceb-50ed-4824-8ae4-6ddaf6176b89"
+    }, 
+    {
+      "max_elev": 755, 
+      "uid": "70a3e791-2795-4d1e-a518-820a4566a7da", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 703, 
+      "cumarea": 10708.064854807417
+    }
+  ], 
+  "end_x": 10712.182446244602, 
+  "num": 2439, 
+  "zoom": 12, 
+  "start_x": 10707.792207537124
+}

@@ -1,0 +1,105 @@
+{
+  "shown": [
+    {
+      "max_elev": 1828, 
+      "cumarea": 3708.1152144535386, 
+      "area": 22.52, 
+      "num_lifts": 95, 
+      "name": "Schwyz - Rotenfluh (Mythen)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 583, 
+      "uid": "59909f2f-dbce-4fa0-9afa-83b56a1c060b"
+    }, 
+    {
+      "max_elev": 1815, 
+      "cumarea": 3770.5170725244893, 
+      "area": 8.71, 
+      "num_lifts": 82, 
+      "name": "Le Lioran", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1161, 
+      "uid": "3c830e77-d625-48e7-9ed1-f858f3389675"
+    }, 
+    {
+      "max_elev": 1817, 
+      "cumarea": 3761.019074438044, 
+      "area": 8.46, 
+      "num_lifts": 115, 
+      "name": "Super Besse", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1222, 
+      "uid": "16287e0a-f0fd-415a-a629-ae2c3083c260"
+    }, 
+    {
+      "max_elev": 1831, 
+      "cumarea": 3671.241437763361, 
+      "area": 5.89, 
+      "num_lifts": 18, 
+      "name": "Kagura", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 629, 
+      "uid": "5c73ac53-95d6-4b3d-8e17-87c207a57239"
+    }, 
+    {
+      "max_elev": 1826, 
+      "cumarea": 3720.426574012456, 
+      "area": 5.5, 
+      "num_lifts": 20, 
+      "name": "Tsugaike kogen Ski Area", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 778, 
+      "uid": "02b3ba73-d846-4e2d-b9cb-e11a23eae323"
+    }, 
+    {
+      "max_elev": 1830, 
+      "cumarea": 3680.200549827519, 
+      "area": 5.38, 
+      "num_lifts": 20, 
+      "name": "Hakuba Happoone Winter Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 753, 
+      "uid": "5f6b0de6-9652-41c9-ac93-fe7530da3901"
+    }, 
+    {
+      "max_elev": 1814, 
+      "uid": "6ad8cb6e-bd53-4b00-afda-f085ade8055f", 
+      "area": 4.15, 
+      "num_lifts": 43, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1273, 
+      "cumarea": 3779.817200171911
+    }, 
+    {
+      "max_elev": 1831, 
+      "cumarea": 3662.0683297266455, 
+      "area": 3.87, 
+      "num_lifts": 29, 
+      "name": "Fageralm / Forstau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 939, 
+      "uid": "004d72fa-3b9c-4bfd-a085-2a241e97ba24"
+    }, 
+    {
+      "max_elev": 1813, 
+      "uid": "c742422e-efb0-41a5-93dd-5bbc04313e9a", 
+      "area": 3.84, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 588, 
+      "cumarea": 3783.1626725385104
+    }, 
+    {
+      "max_elev": 1813, 
+      "uid": "ff238ef4-0f3a-41f1-9f8e-910e27254572", 
+      "area": 3.73, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1178, 
+      "cumarea": 3791.870487045172
+    }
+  ], 
+  "end_x": 3793.1662432603835, 
+  "num": 26, 
+  "zoom": 7, 
+  "start_x": 3652.67860462111
+}

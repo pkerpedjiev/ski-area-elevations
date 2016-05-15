@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 1952, 
+      "cumarea": 3165.063852468338, 
+      "area": 13.39, 
+      "num_lifts": 67, 
+      "name": "Zell am See - Kaprun", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "dac5e24d-e4ac-4283-b76a-51cb0d17ed27"
+    }, 
+    {
+      "max_elev": 1948, 
+      "cumarea": 3194.7619818649127, 
+      "area": 11.16, 
+      "num_lifts": 97, 
+      "name": "Schweitzer Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1217, 
+      "uid": "ff85c407-a1e8-4d4b-a9eb-89317000c224"
+    }, 
+    {
+      "max_elev": 1951, 
+      "cumarea": 3178.1816553442045, 
+      "area": 8.84, 
+      "num_lifts": 23, 
+      "name": "Kitzb\u00fchel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "43a0ba4f-1f00-455a-8e77-87af042efbeb"
+    }, 
+    {
+      "max_elev": 1951, 
+      "cumarea": 3182.1543465159375, 
+      "area": 7.1899999999999995, 
+      "num_lifts": 21, 
+      "name": "St Johann In Tirol", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 668, 
+      "uid": "eab5d8e0-35aa-4cd0-a1f1-a85b473c35ee"
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "712d06a5-6cf7-486e-a456-c82e0c127a71", 
+      "area": 5.64, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "cumarea": 3168.793736533848
+    }, 
+    {
+      "max_elev": 1948, 
+      "uid": "39f48f83-82b0-4fde-93b6-09643c9fb544", 
+      "area": 2.18, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1363, 
+      "cumarea": 3190.3496459079597
+    }, 
+    {
+      "max_elev": 1949, 
+      "uid": "94cd3917-ff45-4f44-8e24-52f17d29e560", 
+      "area": 2.05, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 877, 
+      "cumarea": 3187.5703210311585
+    }, 
+    {
+      "max_elev": 1950, 
+      "uid": "b10e0349-88b2-475f-92a9-f500764f08ff", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1411, 
+      "cumarea": 3184.8524812380083
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "e57ea3f4-44c9-4252-ad5c-b8cba7fb6293", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1516, 
+      "cumarea": 3171.3980525007014
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "c1041352-bd3d-434e-86a5-0f71eda7fbd2", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1913, 
+      "cumarea": 3174.002368467555
+    }
+  ], 
+  "end_x": 3196.0937790434714, 
+  "num": 90, 
+  "zoom": 9, 
+  "start_x": 3160.971869383653
+}

@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 957, 
+      "cumarea": 8821.316608784897, 
+      "area": 9.71, 
+      "num_lifts": 141, 
+      "name": "Sunday River", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 248, 
+      "uid": "3ff11e2d-097c-4dd3-9286-bf8a89970fec"
+    }, 
+    {
+      "max_elev": 981, 
+      "cumarea": 8626.678941617056, 
+      "area": 7.49, 
+      "num_lifts": 28, 
+      "name": "Rusutsu", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 413, 
+      "uid": "e0cbaf8c-325c-4434-99cb-87d98bcd3d84"
+    }, 
+    {
+      "max_elev": 942, 
+      "cumarea": 8963.815010609138, 
+      "area": 5.68, 
+      "num_lifts": 41, 
+      "name": "Cerro Castor", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 195, 
+      "uid": "28254fee-65a2-4eb3-a149-f90f3bb987af"
+    }, 
+    {
+      "max_elev": 951, 
+      "uid": "c94b2187-0499-4533-8902-f2257cac01dd", 
+      "area": 5.28, 
+      "num_lifts": 32, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 133, 
+      "cumarea": 8868.6210599813
+    }, 
+    {
+      "max_elev": 1002, 
+      "uid": "d2102044-15c9-4179-8d6d-9d2ab71eab61", 
+      "area": 4.9, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 517, 
+      "cumarea": 8460.91598511406
+    }, 
+    {
+      "max_elev": 976, 
+      "uid": "1dd5234c-05b7-49ba-b5d3-393af8f591b1", 
+      "area": 4.7700000000000005, 
+      "num_lifts": 58, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 368, 
+      "cumarea": 8668.209549986203
+    }, 
+    {
+      "max_elev": 975, 
+      "uid": "770c24d9-b220-40bc-a8e9-19edc93f9795", 
+      "area": 4.74, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 592, 
+      "cumarea": 8671.76558712191
+    }, 
+    {
+      "max_elev": 950, 
+      "uid": "199ea8c1-6524-4099-ad64-944f3c3f6d10", 
+      "area": 4.73, 
+      "num_lifts": 29, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 508, 
+      "cumarea": 8882.756019679018
+    }, 
+    {
+      "max_elev": 950, 
+      "cumarea": 8894.22945757021, 
+      "area": 4.33, 
+      "num_lifts": 72, 
+      "name": "Bolton Valley", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 475, 
+      "uid": "40314779-4854-415c-82a6-236fdb194d1d"
+    }, 
+    {
+      "max_elev": 974, 
+      "uid": "f97eba15-29eb-4e11-b8c6-dc918d744568", 
+      "area": 4.01, 
+      "num_lifts": 36, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 495, 
+      "cumarea": 8688.302501194505
+    }
+  ], 
+  "end_x": 8991.208872913501, 
+  "num": 15, 
+  "zoom": 5, 
+  "start_x": 8429.258318356407
+}

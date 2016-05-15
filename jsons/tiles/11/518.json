@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1665, 
+      "cumarea": 4552.282875558284, 
+      "area": 7.79, 
+      "num_lifts": 59, 
+      "name": "Porte du Balancier", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1137, 
+      "uid": "404fd939-45e0-437d-bdde-40a961255dba"
+    }, 
+    {
+      "max_elev": 1665, 
+      "uid": "a2a633cb-f65c-4565-8fc2-27a86f80e689", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 945, 
+      "cumarea": 4554.908813989151
+    }
+  ], 
+  "end_x": 4557.067778361433, 
+  "num": 518, 
+  "zoom": 11, 
+  "start_x": 4548.287300946478
+}

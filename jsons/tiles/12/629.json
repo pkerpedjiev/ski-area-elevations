@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2038, 
+      "cumarea": 2763.5591024514856, 
+      "area": 11.71, 
+      "num_lifts": 61, 
+      "name": "Corren\u00e7on en Vercors", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1119, 
+      "uid": "1e86b70b-e641-4495-82b8-a8c36cf23905"
+    }
+  ], 
+  "end_x": 2765.850385710696, 
+  "num": 629, 
+  "zoom": 12, 
+  "start_x": 2761.460147003219
+}

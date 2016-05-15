@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2728, 
+      "cumarea": 803.3507176825019, 
+      "area": 28.64, 
+      "num_lifts": 143, 
+      "name": "Vars", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1639, 
+      "uid": "3075b935-b72c-4bc9-b343-d739282ddbee"
+    }, 
+    {
+      "max_elev": 2734, 
+      "cumarea": 797.9959133404095, 
+      "area": 8.02, 
+      "num_lifts": 38, 
+      "name": "La Norma", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1354, 
+      "uid": "bf3944ec-b78b-4da5-ae52-0503e2895223"
+    }, 
+    {
+      "max_elev": 2735, 
+      "uid": "5129b3f0-8595-4e43-97e3-3c93831a4951", 
+      "area": 2.11, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1802, 
+      "cumarea": 793.913974918531
+    }, 
+    {
+      "max_elev": 2723, 
+      "uid": "925fbca8-ea3a-4a66-a037-1ebaca59f276", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2546, 
+      "cumarea": 806.0082376854187
+    }, 
+    {
+      "max_elev": 2741, 
+      "uid": "a64b2910-86cb-4304-b839-210ca91c6a5c", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1910, 
+      "cumarea": 791.167286971043
+    }
+  ], 
+  "end_x": 807.8039221758224, 
+  "num": 45, 
+  "zoom": 10, 
+  "start_x": 790.2429673459133
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1278, 
+      "cumarea": 6551.34177808622, 
+      "area": 3.7, 
+      "num_lifts": 27, 
+      "name": "Annaberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 752, 
+      "uid": "f4efea68-8236-4be3-9a91-80593724ee1a"
+    }, 
+    {
+      "max_elev": 1277, 
+      "uid": "351dbc4a-4ffe-418b-aada-583b97d11aba", 
+      "area": 2.8600000000000003, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 947, 
+      "cumarea": 6556.991436212141
+    }, 
+    {
+      "max_elev": 1278, 
+      "uid": "24bcb65d-2792-498e-94d9-c3fb2cdbef66", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1198, 
+      "cumarea": 6553.940614587309
+    }
+  ], 
+  "end_x": 6559.0166289710805, 
+  "num": 746, 
+  "zoom": 11, 
+  "start_x": 6550.236151556126
+}

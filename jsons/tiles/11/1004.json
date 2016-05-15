@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 957, 
+      "cumarea": 8821.316608784897, 
+      "area": 9.71, 
+      "num_lifts": 141, 
+      "name": "Sunday River", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 248, 
+      "uid": "3ff11e2d-097c-4dd3-9286-bf8a89970fec"
+    }, 
+    {
+      "max_elev": 956, 
+      "uid": "e0fc75a1-6cfd-41ae-af8c-bad2ed720a18", 
+      "area": 1.99, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 861, 
+      "cumarea": 8824.004743423633
+    }, 
+    {
+      "max_elev": 957, 
+      "uid": "d33ba261-3e72-44f9-8fe6-4e82db8d5361", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 521, 
+      "cumarea": 8817.043452502594
+    }
+  ], 
+  "end_x": 8824.379802029365, 
+  "num": 1004, 
+  "zoom": 11, 
+  "start_x": 8815.59932461441
+}

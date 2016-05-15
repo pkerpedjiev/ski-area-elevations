@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2102, 
+      "cumarea": 2494.092046982806, 
+      "area": 11.14, 
+      "num_lifts": 83, 
+      "name": "Flachau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1001, 
+      "uid": "f22aaa48-b599-4ce1-a6d6-7c0a4f90e0d5"
+    }, 
+    {
+      "max_elev": 2101, 
+      "cumarea": 2501.234279316114, 
+      "area": 6.45, 
+      "num_lifts": 17, 
+      "name": "Elm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1016, 
+      "uid": "df7f0fbb-eda1-4f45-84eb-6e5728e10b10"
+    }, 
+    {
+      "max_elev": 2102, 
+      "uid": "d5d5f99d-fe09-4477-9681-18b4a6e1f9fe", 
+      "area": 3.59, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1560, 
+      "cumarea": 2497.3701991853063
+    }
+  ], 
+  "end_x": 2502.436063262059, 
+  "num": 284, 
+  "zoom": 11, 
+  "start_x": 2493.6555858471042
+}

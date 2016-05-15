@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2742, 
+      "cumarea": 788.5307101419714, 
+      "area": 17.71, 
+      "num_lifts": 114, 
+      "name": "Termignon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1295, 
+      "uid": "35ccc4fa-055e-4ff6-b7ec-9060931da9ec"
+    }, 
+    {
+      "max_elev": 2747, 
+      "uid": "792d3363-9f6d-4731-8c4d-761659280689", 
+      "area": 2.09, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1334, 
+      "cumarea": 783.6565806901767
+    }
+  ], 
+  "end_x": 790.2429673459133, 
+  "num": 89, 
+  "zoom": 11, 
+  "start_x": 781.4624899309587
+}

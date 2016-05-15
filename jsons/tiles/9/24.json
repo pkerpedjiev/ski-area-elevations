@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 2689, 
+      "cumarea": 851.1443056540079, 
+      "area": 9.540000000000001, 
+      "num_lifts": 83, 
+      "name": "Les Orres", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1552, 
+      "uid": "a6b499da-9dc2-4331-b863-74e9ca22fbf4"
+    }, 
+    {
+      "max_elev": 2689, 
+      "cumarea": 855.2960678572673, 
+      "area": 8.6, 
+      "num_lifts": 25, 
+      "name": "Lagazuoi - Cinque Torri / Passo Falzarego", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1888, 
+      "uid": "77a22292-0f5f-40c5-ab7a-d00f33130c3d"
+    }, 
+    {
+      "max_elev": 2675, 
+      "cumarea": 867.9708317871957, 
+      "area": 7.76, 
+      "num_lifts": 48, 
+      "name": "Ramsau am Dachstein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1132, 
+      "uid": "7a79d4d9-8448-48d5-beb4-e56691336426"
+    }, 
+    {
+      "max_elev": 2698, 
+      "cumarea": 844.2736265294575, 
+      "area": 7.06, 
+      "num_lifts": 54, 
+      "name": "Sierra at Tahoe", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2025, 
+      "uid": "57644f87-70de-4a64-8213-f10ffe19da7c"
+    }, 
+    {
+      "max_elev": 2670, 
+      "uid": "465fdde2-2af9-47ab-aad2-7f74d74e5096", 
+      "area": 4.2, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1447, 
+      "cumarea": 876.8103943440385
+    }, 
+    {
+      "max_elev": 2677, 
+      "uid": "9b031cec-a773-4023-9b17-b6fd52c70826", 
+      "area": 4.06, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2174, 
+      "cumarea": 863.9218494530006
+    }, 
+    {
+      "max_elev": 2675, 
+      "cumarea": 870.7547333310241, 
+      "area": 2.19, 
+      "num_lifts": 3, 
+      "name": "(mine)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2610, 
+      "uid": "bfdbd9a2-d58f-4f6a-8cd6-c8640fbda0e4"
+    }, 
+    {
+      "max_elev": 2688, 
+      "uid": "b8961669-4901-4ac6-8118-131254d5989a", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2295, 
+      "cumarea": 860.5206664793869
+    }, 
+    {
+      "max_elev": 2673, 
+      "uid": "fcab2dee-8cea-4cf0-a71f-0a373dcd8bc8", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2462, 
+      "cumarea": 873.3753098187492
+    }, 
+    {
+      "max_elev": 2693, 
+      "uid": "72b463aa-5f8b-4da0-8f8c-e0683170c07e", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2390, 
+      "cumarea": 846.8888121685477
+    }
+  ], 
+  "end_x": 878.0477414954591, 
+  "num": 24, 
+  "zoom": 9, 
+  "start_x": 842.9258318356408
+}

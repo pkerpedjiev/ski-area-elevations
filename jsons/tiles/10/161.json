@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 2029, 
+      "cumarea": 2829.4771482876936, 
+      "area": 8.06, 
+      "num_lifts": 55, 
+      "name": "Ski Juwel Alpbachtal Wildsch\u00f6nau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 830, 
+      "uid": "28d78cb8-7d99-4d6a-9487-cb253032c5d2"
+    }, 
+    {
+      "max_elev": 2029, 
+      "uid": "7a02210f-a5dd-41c7-bae9-30532f8bbfe0", 
+      "area": 4.24, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1597, 
+      "cumarea": 2832.921711556937
+    }, 
+    {
+      "max_elev": 2027, 
+      "uid": "5d97f70c-ab4b-4f6a-845d-e9cb97197845", 
+      "area": 3.1100000000000003, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1049, 
+      "cumarea": 2841.3170654212727
+    }, 
+    {
+      "max_elev": 2028, 
+      "uid": "9a88bf87-e0cb-4cd2-a476-337f56d02f5a", 
+      "area": 1.96, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1254, 
+      "cumarea": 2838.1824426950816
+    }, 
+    {
+      "max_elev": 2027, 
+      "uid": "08eb521f-0606-442e-8fc8-9c5f184059e0", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1658, 
+      "cumarea": 2843.9376419089976
+    }, 
+    {
+      "max_elev": 2029, 
+      "uid": "45567fd9-5238-4ffa-aa6e-7178a91dacef", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2027, 
+      "cumarea": 2835.5094982218393
+    }
+  ], 
+  "end_x": 2844.874682445288, 
+  "num": 161, 
+  "zoom": 10, 
+  "start_x": 2827.3137276153784
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1013, 
+      "cumarea": 8355.780304687343, 
+      "area": 5.93, 
+      "num_lifts": 63, 
+      "name": "Hafjell Apinsenter", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 195, 
+      "uid": "7a17c868-609c-4fd3-a04a-9c8127c8700c"
+    }, 
+    {
+      "max_elev": 1014, 
+      "uid": "f24ea0cd-07f7-46cf-b0fe-37de67f8a510", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 792, 
+      "cumarea": 8352.000280474334
+    }
+  ], 
+  "end_x": 8359.01449903677, 
+  "num": 951, 
+  "zoom": 11, 
+  "start_x": 8350.234021621814
+}

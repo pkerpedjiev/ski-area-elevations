@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1314, 
+      "cumarea": 6354.967920718488, 
+      "area": 2.23, 
+      "num_lifts": 6, 
+      "name": "Obermatt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 551, 
+      "uid": "bfe91d72-7f83-42d4-a5af-595486542e24"
+    }, 
+    {
+      "max_elev": 1315, 
+      "uid": "de992156-5c8b-41f5-9d16-8328bb17df28", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 911, 
+      "cumarea": 6352.165919133016
+    }, 
+    {
+      "max_elev": 1316, 
+      "uid": "c9971f48-330b-4bc3-a629-727e7ad680a2", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1297, 
+      "cumarea": 6349.467784410946
+    }
+  ], 
+  "end_x": 6357.065648427124, 
+  "num": 723, 
+  "zoom": 11, 
+  "start_x": 6348.2851710121695
+}

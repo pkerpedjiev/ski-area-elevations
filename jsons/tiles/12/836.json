@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1831, 
+      "cumarea": 3671.241437763361, 
+      "area": 5.89, 
+      "num_lifts": 18, 
+      "name": "Kagura", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 629, 
+      "uid": "5c73ac53-95d6-4b3d-8e17-87c207a57239"
+    }, 
+    {
+      "max_elev": 1830, 
+      "uid": "17b106ec-a9b7-48c4-b5a3-26c455b0a294", 
+      "area": 1.98, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 880, 
+      "cumarea": 3673.9245346080675
+    }
+  ], 
+  "end_x": 3674.629798158496, 
+  "num": 836, 
+  "zoom": 12, 
+  "start_x": 3670.239559451019
+}

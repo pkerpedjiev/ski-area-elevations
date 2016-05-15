@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1169, 
+      "uid": "3df143f6-155b-4a2a-ae94-5b1f6adb4c0e", 
+      "area": 1.98, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 274, 
+      "cumarea": 7243.160273096833
+    }, 
+    {
+      "max_elev": 1168, 
+      "uid": "99a2040f-d16d-485f-be7c-afc4f441a81c", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 935, 
+      "cumarea": 7245.796849925905
+    }, 
+    {
+      "max_elev": 1168, 
+      "uid": "4dec8db8-2823-436e-83d2-ce3aae843cec", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1025, 
+      "cumarea": 7248.4281217027465
+    }, 
+    {
+      "max_elev": 1168, 
+      "uid": "8def295d-cb54-4273-8b8e-2e41499fc413", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 811, 
+      "cumarea": 7251.054060133613
+    }, 
+    {
+      "max_elev": 1171, 
+      "uid": "4c7a0681-34c2-41c9-80d4-f33aba54e191", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 814, 
+      "cumarea": 7235.290553086135
+    }, 
+    {
+      "max_elev": 1171, 
+      "uid": "b2104e89-0ab5-4dae-81c0-2bff04c1da79", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1051, 
+      "cumarea": 7237.889389587224
+    }, 
+    {
+      "max_elev": 1171, 
+      "uid": "a440a3f3-d6b7-4d43-9fc8-1ce462a8e172", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1104, 
+      "cumarea": 7240.477176252127
+    }
+  ], 
+  "end_x": 7252.674344752493, 
+  "num": 412, 
+  "zoom": 10, 
+  "start_x": 7235.113389922583
+}

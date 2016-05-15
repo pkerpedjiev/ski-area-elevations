@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2309, 
+      "cumarea": 1792.6854835587944, 
+      "area": 7.52, 
+      "num_lifts": 49, 
+      "name": "Port del Comte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1706, 
+      "uid": "2a015eab-8104-42f1-9252-5ef633a69532"
+    }, 
+    {
+      "max_elev": 2309, 
+      "uid": "056cd481-facb-43c8-bf20-0f30c184691a", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1887, 
+      "cumarea": 1795.2952491304154
+    }
+  ], 
+  "end_x": 1795.607631358214, 
+  "num": 408, 
+  "zoom": 12, 
+  "start_x": 1791.2173926507367
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1083, 
+      "cumarea": 7802.606591808875, 
+      "area": 10.31, 
+      "num_lifts": 88, 
+      "name": "Gore Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 322, 
+      "uid": "dd10cae8-6fe9-4519-bbd7-0bba9196e443"
+    }, 
+    {
+      "max_elev": 1082, 
+      "uid": "dd99e45b-b224-4593-b51e-74bd3d81829d", 
+      "area": 2.42, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 775, 
+      "cumarea": 7805.4903593490435
+    }, 
+    {
+      "max_elev": 1083, 
+      "uid": "dd2e8cc2-5232-4bf6-9af5-8031c4b20e9c", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 911, 
+      "cumarea": 7798.2734775108465
+    }
+  ], 
+  "end_x": 7805.8444218946315, 
+  "num": 888, 
+  "zoom": 11, 
+  "start_x": 7797.063944479677
+}

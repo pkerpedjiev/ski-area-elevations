@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 264, 
+      "uid": "a6074f62-dde9-4e0a-bd4e-f2a24a1faa77", 
+      "area": 1.96, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 201, 
+      "cumarea": 15394.317019870166
+    }, 
+    {
+      "max_elev": 264, 
+      "cumarea": 15396.942958301033, 
+      "area": 1.87, 
+      "num_lifts": 4, 
+      "name": "Mt Holiday", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 205, 
+      "uid": "c21b9381-a74b-4a7c-a1a4-d4626b601a86"
+    }, 
+    {
+      "max_elev": 264, 
+      "uid": "a4606a76-d326-4f40-a49a-150aa3f876bc", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 158, 
+      "cumarea": 15399.5688967319
+    }
+  ], 
+  "end_x": 15400.957385830354, 
+  "num": 1753, 
+  "zoom": 11, 
+  "start_x": 15392.1769084154
+}

@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 2483, 
+      "cumarea": 1308.8183874543254, 
+      "area": 20.51, 
+      "num_lifts": 138, 
+      "name": "Zillertal Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 574, 
+      "uid": "33d7078a-b84d-4193-b52e-a8ddcc85cc9a"
+    }, 
+    {
+      "max_elev": 2478, 
+      "cumarea": 1329.3918287855536, 
+      "area": 12.350000000000001, 
+      "num_lifts": 75, 
+      "name": "Saint Lary Soulan", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 800, 
+      "uid": "05d25245-8d20-4d85-824e-d19dd0434eec"
+    }, 
+    {
+      "max_elev": 2485, 
+      "cumarea": 1303.797474882241, 
+      "area": 6.67, 
+      "num_lifts": 27, 
+      "name": "Discovery Ski Area", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1742, 
+      "uid": "37d229a7-64cb-4bbe-a305-70dbeb65a03b"
+    }, 
+    {
+      "max_elev": 2482, 
+      "cumarea": 1315.6339997458404, 
+      "area": 5.819999999999999, 
+      "num_lifts": 58, 
+      "name": "Dodge Ridge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2001, 
+      "uid": "7b1c5a72-7419-4522-a258-b30f4650c08e"
+    }, 
+    {
+      "max_elev": 2480, 
+      "uid": "96f328ad-80a3-4463-824e-c9a809782a09", 
+      "area": 5.04, 
+      "num_lifts": 57, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1683, 
+      "cumarea": 1319.2514058279237
+    }, 
+    {
+      "max_elev": 2485, 
+      "uid": "d6057835-972c-44cf-9b75-45e3bda3da23", 
+      "area": 3.4000000000000004, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1449, 
+      "cumarea": 1299.8998550223134
+    }, 
+    {
+      "max_elev": 2483, 
+      "uid": "c990160a-1461-416d-bfb0-c4a3e6b217d7", 
+      "area": 2.87, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1958, 
+      "cumarea": 1311.872699484097
+    }, 
+    {
+      "max_elev": 2480, 
+      "uid": "bc2b21e7-76a3-4abf-963b-9b9e0f0df4e5", 
+      "area": 2.7800000000000002, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1120, 
+      "cumarea": 1322.2738567556262
+    }, 
+    {
+      "max_elev": 2477, 
+      "cumarea": 1332.271455533056, 
+      "area": 2.41, 
+      "num_lifts": 8, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1449, 
+      "uid": "132d2a51-d474-4eac-8cea-bb801d470259"
+    }, 
+    {
+      "max_elev": 2479, 
+      "uid": "553f0e4f-ddeb-4e50-b9d6-a9fc27996566", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2296, 
+      "cumarea": 1324.8781727224796
+    }
+  ], 
+  "end_x": 1334.632567073098, 
+  "num": 37, 
+  "zoom": 9, 
+  "start_x": 1299.5106574132797
+}

@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1128, 
+      "uid": "b37d3977-ff8e-47f2-8860-f3e999f621b3", 
+      "area": 2.6, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 735, 
+      "cumarea": 7475.831167526644
+    }, 
+    {
+      "max_elev": 1130, 
+      "uid": "12137f80-cbff-4335-9a59-86d0fa5ec77c", 
+      "area": 2.1, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 754, 
+      "cumarea": 7467.587250221316
+    }, 
+    {
+      "max_elev": 1129, 
+      "cumarea": 7472.875656081616, 
+      "area": 1.95, 
+      "num_lifts": 6, 
+      "name": "(urban: Les Houches)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1004, 
+      "uid": "0b03e926-0d7b-47c9-b944-9b06bae7a796"
+    }, 
+    {
+      "max_elev": 1130, 
+      "uid": "925400ea-02fa-4ee6-b3b6-860e26fd428e", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 922, 
+      "cumarea": 7470.207826709041
+    }, 
+    {
+      "max_elev": 1131, 
+      "uid": "bd3ca8cf-f9a5-4bde-acd6-8fd3930b525a", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1022, 
+      "cumarea": 7464.845312876587
+    }, 
+    {
+      "max_elev": 1128, 
+      "uid": "2116c3ce-e70f-49e4-8a80-611b5e65f4e8", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1054, 
+      "cumarea": 7478.424494371922
+    }
+  ], 
+  "end_x": 7480.966757541311, 
+  "num": 425, 
+  "zoom": 10, 
+  "start_x": 7463.405802711402
+}

@@ -1,0 +1,100 @@
+{
+  "shown": [
+    {
+      "max_elev": 1567, 
+      "cumarea": 5063.980808298247, 
+      "area": 5.25, 
+      "num_lifts": 29, 
+      "name": "Spitzingsee-Tegernsee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 982, 
+      "uid": "5ddabada-fe17-42b3-8476-a1cfc0fc09b8"
+    }, 
+    {
+      "max_elev": 1562, 
+      "uid": "9db60e48-4e45-419d-9b31-decf318fca01", 
+      "area": 4.97, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1191, 
+      "cumarea": 5098.655622224712
+    }, 
+    {
+      "max_elev": 1566, 
+      "uid": "34d0e81a-45eb-41f8-99c6-41e9d8f3cfbb", 
+      "area": 4.06, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 994, 
+      "cumarea": 5072.9481040595565
+    }, 
+    {
+      "max_elev": 1564, 
+      "uid": "9038e085-e244-4f32-9fe5-7d1cdea8c56a", 
+      "area": 3.7800000000000002, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1173, 
+      "cumarea": 5084.493899261432
+    }, 
+    {
+      "max_elev": 1557, 
+      "cumarea": 5120.657842374277, 
+      "area": 3.6500000000000004, 
+      "num_lifts": 10, 
+      "name": "Radstadt - Altenmarkt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 854, 
+      "uid": "d7bea4fc-d262-4ba8-a34b-e82e8c89a789"
+    }, 
+    {
+      "max_elev": 1568, 
+      "uid": "a9859a67-66c8-43be-8029-42766b81b363", 
+      "area": 3.08, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1035, 
+      "cumarea": 5060.322580221644
+    }, 
+    {
+      "max_elev": 1557, 
+      "uid": "7e0dbddd-c42d-4c2c-bdbe-07cacf032ad6", 
+      "area": 2.9299999999999997, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 487, 
+      "cumarea": 5123.732844797306
+    }, 
+    {
+      "max_elev": 1566, 
+      "uid": "d7c2fe75-3016-4dde-88f0-5f1dc12b6e19", 
+      "area": 2.68, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1354, 
+      "cumarea": 5075.93392085408
+    }, 
+    {
+      "max_elev": 1567, 
+      "uid": "14765261-af8d-4628-b83b-9cce104dd88a", 
+      "area": 2.52, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 782, 
+      "cumarea": 5066.90506719977
+    }, 
+    {
+      "max_elev": 1560, 
+      "uid": "a601fb6e-985b-4bf7-9914-6dc5fb5eed36", 
+      "area": 2.34, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1251, 
+      "cumarea": 5109.51274883614
+    }
+  ], 
+  "end_x": 5127.798810333482, 
+  "num": 72, 
+  "zoom": 8, 
+  "start_x": 5057.554991013845
+}

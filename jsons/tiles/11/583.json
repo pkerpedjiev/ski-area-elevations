@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1557, 
+      "cumarea": 5120.657842374277, 
+      "area": 3.6500000000000004, 
+      "num_lifts": 10, 
+      "name": "Radstadt - Altenmarkt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 854, 
+      "uid": "d7bea4fc-d262-4ba8-a34b-e82e8c89a789"
+    }, 
+    {
+      "max_elev": 1557, 
+      "uid": "7e0dbddd-c42d-4c2c-bdbe-07cacf032ad6", 
+      "area": 2.9299999999999997, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 487, 
+      "cumarea": 5123.732844797306
+    }, 
+    {
+      "max_elev": 1557, 
+      "uid": "a7753a6f-cd62-47ca-8c64-7926d3e2e8f5", 
+      "area": 2.13, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1052, 
+      "cumarea": 5126.488966777028
+    }
+  ], 
+  "end_x": 5127.798810333482, 
+  "num": 583, 
+  "zoom": 11, 
+  "start_x": 5119.018332918527
+}

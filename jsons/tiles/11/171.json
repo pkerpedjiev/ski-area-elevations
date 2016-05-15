@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2415, 
+      "cumarea": 1503.959020668872, 
+      "area": 7.46, 
+      "num_lifts": 46, 
+      "name": "Brigels - Breil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1105, 
+      "uid": "f702b401-a6a4-49b8-9349-ae7a1efcbc38"
+    }, 
+    {
+      "max_elev": 2415, 
+      "uid": "d698fc85-5c9a-4d12-b8db-34ea5c8cb55a", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2040, 
+      "cumarea": 1506.5902924457139
+    }, 
+    {
+      "max_elev": 2415, 
+      "uid": "f853fc4b-cb6e-41ff-868a-55f2691db986", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2400, 
+      "cumarea": 1509.1836192909916
+    }
+  ], 
+  "end_x": 1510.2421153721898, 
+  "num": 171, 
+  "zoom": 11, 
+  "start_x": 1501.4616379572353
+}

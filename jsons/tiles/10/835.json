@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 350, 
+      "cumarea": 14667.369647712216, 
+      "area": 3.13, 
+      "num_lifts": 11, 
+      "name": "Boyne Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 219, 
+      "uid": "96a24d5e-cd4e-4cba-b051-5abe5f219f0f"
+    }, 
+    {
+      "max_elev": 350, 
+      "uid": "ad97f46f-cd0a-4459-835e-3e8847cd2119", 
+      "area": 2.27, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 176, 
+      "cumarea": 14672.907267336861
+    }, 
+    {
+      "max_elev": 350, 
+      "uid": "bf05c7af-d867-4293-bfe9-dd00fa7ea86f", 
+      "area": 2.05, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 205, 
+      "cumarea": 14670.087487505367
+    }, 
+    {
+      "max_elev": 350, 
+      "uid": "24c52866-31ec-4bd0-93fc-c0191bf18d6c", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 336, 
+      "cumarea": 14664.228614707663
+    }, 
+    {
+      "max_elev": 350, 
+      "uid": "29d1bd75-e7b0-4ddf-b01c-4ff4299c8207", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 163, 
+      "cumarea": 14675.50610383795
+    }, 
+    {
+      "max_elev": 349, 
+      "uid": "ac835023-8a79-4275-b9de-be0af3915f1c", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 219, 
+      "cumarea": 14678.104940339039
+    }
+  ], 
+  "end_x": 14680.958237804076, 
+  "num": 835, 
+  "zoom": 10, 
+  "start_x": 14663.397282974167
+}

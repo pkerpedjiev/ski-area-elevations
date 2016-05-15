@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2625, 
+      "cumarea": 968.6497800426048, 
+      "area": 12.9, 
+      "num_lifts": 96, 
+      "name": "Northstar", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1922, 
+      "uid": "f32c5fd3-faf6-4eed-b199-70e97496b253"
+    }
+  ], 
+  "end_x": 970.2427543524823, 
+  "num": 220, 
+  "zoom": 12, 
+  "start_x": 965.852515645005
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 909, 
+      "cumarea": 9206.20584519327, 
+      "area": 2.25, 
+      "num_lifts": 5, 
+      "name": "Brenna W\u0119gierski", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 550, 
+      "uid": "0410a46c-e933-4cd6-8325-4cc630299141"
+    }, 
+    {
+      "max_elev": 910, 
+      "uid": "468706a8-a793-4c6e-8803-b8bffef8e2e7", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 605, 
+      "cumarea": 9203.394914977054
+    }, 
+    {
+      "max_elev": 909, 
+      "uid": "c6df2c19-8ea5-414e-95d6-7856af4d2bc1", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 783, 
+      "cumarea": 9208.863365196186
+    }
+  ], 
+  "end_x": 9210.720808287366, 
+  "num": 1048, 
+  "zoom": 11, 
+  "start_x": 9201.940330872412
+}

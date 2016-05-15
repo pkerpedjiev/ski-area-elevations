@@ -1,0 +1,66 @@
+{
+  "shown": [
+    {
+      "max_elev": 3969, 
+      "cumarea": 30.948936163585074, 
+      "area": 8.38, 
+      "num_lifts": 23, 
+      "name": "Polyana Azau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2317, 
+      "uid": "c79cd976-4c6f-40ac-b03a-29f40976a653"
+    }, 
+    {
+      "max_elev": 3969, 
+      "cumarea": 35.07478407807906, 
+      "area": 8.38, 
+      "num_lifts": 23, 
+      "name": "Mt. Elbrus", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2317, 
+      "uid": "743e9b03-240c-477f-b098-c64918f5d8fa"
+    }, 
+    {
+      "max_elev": 4073, 
+      "cumarea": 21.492597337836628, 
+      "area": 2.33, 
+      "num_lifts": 3, 
+      "name": "(city)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 3281, 
+      "uid": "8223a087-b34c-48ad-be92-e0fe3db45eef"
+    }, 
+    {
+      "max_elev": 3970, 
+      "uid": "27245c21-cd7e-424a-bd9b-298825589fc5", 
+      "area": 2.09, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3615, 
+      "cumarea": 26.823088249091082
+    }, 
+    {
+      "max_elev": 4110, 
+      "cumarea": 18.646729070259017, 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "name": "(urban, La Paz)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 3706, 
+      "uid": "149969d9-ce99-41f7-997c-35a02e14043b"
+    }, 
+    {
+      "max_elev": 4031, 
+      "uid": "ed0beef1-b56a-4345-9016-f16e5be6c927", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 4016, 
+      "cumarea": 24.08592418311436
+    }
+  ], 
+  "end_x": 35.121909659818364, 
+  "num": 1, 
+  "zoom": 10, 
+  "start_x": 17.560954829909182
+}

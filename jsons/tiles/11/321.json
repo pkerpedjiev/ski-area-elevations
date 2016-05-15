@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2031, 
+      "cumarea": 2819.5053492839575, 
+      "area": 7.17, 
+      "num_lifts": 18, 
+      "name": "Diedamskopf - Schoppernau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 839, 
+      "uid": "5861bd1c-1e0c-4f62-84ce-4c696fa75185"
+    }, 
+    {
+      "max_elev": 2031, 
+      "uid": "bff800e3-24e8-4721-8936-0616ff2be60e", 
+      "area": 3.4299999999999997, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1140, 
+      "cumarea": 2822.737909545135
+    }, 
+    {
+      "max_elev": 2030, 
+      "uid": "5064b173-cb4b-4008-8b37-005f73df76b8", 
+      "area": 1.92, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 790, 
+      "cumarea": 2825.390234731175
+    }
+  ], 
+  "end_x": 2827.3137276153784, 
+  "num": 321, 
+  "zoom": 11, 
+  "start_x": 2818.533250200424
+}

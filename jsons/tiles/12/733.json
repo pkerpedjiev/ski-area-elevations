@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1941, 
+      "uid": "a9b10b0e-f103-4914-bbe8-5dce5528833e", 
+      "area": 3.35, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1123, 
+      "cumarea": 3218.3627214135468
+    }, 
+    {
+      "max_elev": 1941, 
+      "cumarea": 3221.474578928965, 
+      "area": 3.04, 
+      "num_lifts": 8, 
+      "name": "Biel-Kinzig", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 650, 
+      "uid": "5a1da647-213b-4fd4-b09d-fc5211bf96c2"
+    }
+  ], 
+  "end_x": 3222.4352112883353, 
+  "num": 733, 
+  "zoom": 12, 
+  "start_x": 3218.044972580858
+}

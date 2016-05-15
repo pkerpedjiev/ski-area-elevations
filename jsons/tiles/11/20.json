@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3510, 
+      "cumarea": 180.4616200378252, 
+      "area": 21.86, 
+      "num_lifts": 171, 
+      "name": "Les Deux Alpes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 955, 
+      "uid": "66d77664-4f12-451c-86a9-fc3d9bbfd396"
+    }, 
+    {
+      "max_elev": 3509, 
+      "uid": "01ce6ebf-f0d8-4bd8-b429-09b5879afb51", 
+      "area": 3.77, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2797, 
+      "cumarea": 183.78869503928513
+    }
+  ], 
+  "end_x": 184.39002571404643, 
+  "num": 20, 
+  "zoom": 11, 
+  "start_x": 175.60954829909184
+}

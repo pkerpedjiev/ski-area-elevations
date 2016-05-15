@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 8, 
+      "cumarea": 17872.95761773741, 
+      "area": 2.05, 
+      "num_lifts": 1, 
+      "name": "(urban, Buenos Aires)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 8, 
+      "uid": "ee7e0bb4-a82c-417f-b557-c5bb39f2ea5b"
+    }, 
+    {
+      "max_elev": 8, 
+      "uid": "f20284be-4cf9-4cab-8840-63df30015f94", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": -250, 
+      "cumarea": 17875.578194225138
+    }
+  ], 
+  "end_x": 17877.052016847545, 
+  "num": 4071, 
+  "zoom": 12, 
+  "start_x": 17872.66177814007
+}

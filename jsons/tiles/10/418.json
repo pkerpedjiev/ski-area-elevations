@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1151, 
+      "uid": "b875ba18-9963-412d-9f04-724528af5ac1", 
+      "area": 3.3, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 860, 
+      "cumarea": 7352.404510724945
+    }, 
+    {
+      "max_elev": 1154, 
+      "uid": "b01b3684-be68-4cc3-853b-a9b6217d855e", 
+      "area": 2.09, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 773, 
+      "cumarea": 7343.949432038619
+    }, 
+    {
+      "max_elev": 1151, 
+      "uid": "ab5fe041-c1d5-420d-9949-fb2a8b83cc18", 
+      "area": 1.98, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 832, 
+      "cumarea": 7355.0876075696515
+    }, 
+    {
+      "max_elev": 1152, 
+      "uid": "0461022b-8cc3-497b-a6ee-a8c3d260bacf", 
+      "area": 1.95, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 840, 
+      "cumarea": 7346.617261411195
+    }, 
+    {
+      "max_elev": 1151, 
+      "uid": "626a9996-9727-4e8a-88b0-e5edfb4989bb", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 526, 
+      "cumarea": 7357.73471081171
+    }, 
+    {
+      "max_elev": 1155, 
+      "uid": "9cffbd8c-b7c1-44ee-93ea-3ce8c94c10bd", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1110, 
+      "cumarea": 7341.212267972643
+    }, 
+    {
+      "max_elev": 1152, 
+      "uid": "f25a2805-0a81-41db-81b3-fb26183157c8", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1077, 
+      "cumarea": 7349.210588256473
+    }
+  ], 
+  "end_x": 7358.040073731947, 
+  "num": 418, 
+  "zoom": 10, 
+  "start_x": 7340.479118902038
+}

@@ -1,0 +1,45 @@
+{
+  "shown": [
+    {
+      "max_elev": 695, 
+      "cumarea": 11344.625574005568, 
+      "area": 2.19, 
+      "num_lifts": 5, 
+      "name": "Panorama \u0160t\u011bdr\u00e1kova Lhota", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 494, 
+      "uid": "e511be37-f3a4-4b3c-90ae-31448153f990"
+    }, 
+    {
+      "max_elev": 695, 
+      "uid": "8e5b240f-12bb-4bd4-b6a0-d77935d33439", 
+      "area": 2.14, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 494, 
+      "cumarea": 11347.386379834601
+    }, 
+    {
+      "max_elev": 695, 
+      "uid": "5d168503-9381-4588-ab1c-01b7bf63230f", 
+      "area": 2.0, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 564, 
+      "cumarea": 11350.079527015161
+    }, 
+    {
+      "max_elev": 695, 
+      "uid": "298ed423-4517-40c2-9285-9798d4b0e36d", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 659, 
+      "cumarea": 11352.700103502886
+    }
+  ], 
+  "end_x": 11353.157297536287, 
+  "num": 1292, 
+  "zoom": 11, 
+  "start_x": 11344.376820121332
+}

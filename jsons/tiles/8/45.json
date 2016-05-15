@@ -1,0 +1,105 @@
+{
+  "shown": [
+    {
+      "max_elev": 1952, 
+      "cumarea": 3165.063852468338, 
+      "area": 13.39, 
+      "num_lifts": 67, 
+      "name": "Zell am See - Kaprun", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "dac5e24d-e4ac-4283-b76a-51cb0d17ed27"
+    }, 
+    {
+      "max_elev": 1948, 
+      "cumarea": 3194.7619818649127, 
+      "area": 11.16, 
+      "num_lifts": 97, 
+      "name": "Schweitzer Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1217, 
+      "uid": "ff85c407-a1e8-4d4b-a9eb-89317000c224"
+    }, 
+    {
+      "max_elev": 1945, 
+      "cumarea": 3204.9884983773863, 
+      "area": 9.930000000000001, 
+      "num_lifts": 40, 
+      "name": "Praz de Lys Sommand", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1253, 
+      "uid": "8d0d572e-01ab-4ce5-842b-ca5d48aed147"
+    }, 
+    {
+      "max_elev": 1951, 
+      "cumarea": 3178.1816553442045, 
+      "area": 8.84, 
+      "num_lifts": 23, 
+      "name": "Kitzb\u00fchel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 763, 
+      "uid": "43a0ba4f-1f00-455a-8e77-87af042efbeb"
+    }, 
+    {
+      "max_elev": 1951, 
+      "cumarea": 3182.1543465159375, 
+      "area": 7.1899999999999995, 
+      "num_lifts": 21, 
+      "name": "St Johann In Tirol", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 668, 
+      "uid": "eab5d8e0-35aa-4cd0-a1f1-a85b473c35ee"
+    }, 
+    {
+      "max_elev": 1944, 
+      "cumarea": 3208.8447963677518, 
+      "area": 6.3999999999999995, 
+      "num_lifts": 43, 
+      "name": "Ravascletto / Zoncolan", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 807, 
+      "uid": "1d7ee534-9a4e-4aa8-89d2-cae2209a02aa"
+    }, 
+    {
+      "max_elev": 1952, 
+      "uid": "712d06a5-6cf7-486e-a456-c82e0c127a71", 
+      "area": 5.64, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "cumarea": 3168.793736533848
+    }, 
+    {
+      "max_elev": 1942, 
+      "uid": "7ad37aca-77ce-4772-874b-8fc606ad5a8d", 
+      "area": 5.44, 
+      "num_lifts": 34, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1138, 
+      "cumarea": 3212.5385754286194
+    }, 
+    {
+      "max_elev": 1947, 
+      "cumarea": 3198.0996110540514, 
+      "area": 3.8099999999999996, 
+      "num_lifts": 37, 
+      "name": "Krvavec", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 617, 
+      "uid": "378e0108-4b5e-408f-93d4-0e9676346dad"
+    }, 
+    {
+      "max_elev": 1938, 
+      "uid": "f48fa240-e5d6-413c-bb45-96465a7b6a34", 
+      "area": 3.41, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1404, 
+      "cumarea": 3230.2459985931227
+    }
+  ], 
+  "end_x": 3231.2156887032897, 
+  "num": 45, 
+  "zoom": 8, 
+  "start_x": 3160.971869383653
+}

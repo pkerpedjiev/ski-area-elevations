@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1281, 
+      "cumarea": 6538.026587412471, 
+      "area": 3.64, 
+      "num_lifts": 11, 
+      "name": "Hakubaiwatake Ski Area", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 748, 
+      "uid": "7b2febf0-313a-439e-a241-89efd8047906"
+    }, 
+    {
+      "max_elev": 1281, 
+      "uid": "2b52f93a-a78e-4cb5-a0ca-349fc15520d0", 
+      "area": 2.08, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1075, 
+      "cumarea": 6534.734603730822
+    }, 
+    {
+      "max_elev": 1280, 
+      "uid": "f745dcc9-7ba7-48cb-b3b8-574fb8dca327", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1229, 
+      "cumarea": 6540.619914257749
+    }
+  ], 
+  "end_x": 6541.455674141171, 
+  "num": 744, 
+  "zoom": 11, 
+  "start_x": 6532.675196726216
+}

@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2128, 
+      "cumarea": 2422.4925589598042, 
+      "area": 13.57, 
+      "num_lifts": 68, 
+      "name": "Alto Sangro", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1313, 
+      "uid": "8f8f27f6-a254-4521-8441-c29ef021a6f3"
+    }, 
+    {
+      "max_elev": 2129, 
+      "cumarea": 2414.891445712947, 
+      "area": 7.99, 
+      "num_lifts": 60, 
+      "name": "Crystal Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1333, 
+      "uid": "344f4573-80dc-4a49-9eb7-7351b9a17ce6"
+    }, 
+    {
+      "max_elev": 2129, 
+      "uid": "3ac207ac-ac4c-4513-918d-ce0b03b504f1", 
+      "area": 3.52, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1554, 
+      "cumarea": 2410.813254953169
+    }, 
+    {
+      "max_elev": 2129, 
+      "uid": "8598208b-c710-44d6-8fea-6e7e9447457f", 
+      "area": 2.7, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1805, 
+      "cumarea": 2417.8846974859575
+    }, 
+    {
+      "max_elev": 2130, 
+      "uid": "cd42ed96-c29b-40da-91ee-a8baee8bca5b", 
+      "area": 2.0700000000000003, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1524, 
+      "cumarea": 2407.554793963559
+    }
+  ], 
+  "end_x": 2423.4117665274675, 
+  "num": 137, 
+  "zoom": 10, 
+  "start_x": 2405.850811697558
+}

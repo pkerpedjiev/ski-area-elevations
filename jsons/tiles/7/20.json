@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2031, 
+      "cumarea": 2815.535443629346, 
+      "area": 41.059999999999995, 
+      "num_lifts": 231, 
+      "name": "Espace Diamant", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 954, 
+      "uid": "00cc16ad-f5de-447d-96f2-e5057673a906"
+    }, 
+    {
+      "max_elev": 2003, 
+      "cumarea": 2948.539446326348, 
+      "area": 22.470000000000002, 
+      "num_lifts": 68, 
+      "name": "Sch\u00f6nfeld - Thomatal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 945, 
+      "uid": "35bac140-b5d6-4c12-86f2-c2d7d485d35a"
+    }, 
+    {
+      "max_elev": 2011, 
+      "cumarea": 2897.3642408291266, 
+      "area": 15.370000000000001, 
+      "num_lifts": 143, 
+      "name": "Heuberg Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "uid": "f5f961d6-609e-48b4-9cf0-9789b6ff59ba"
+    }, 
+    {
+      "max_elev": 2014, 
+      "cumarea": 2889.3620627267123, 
+      "area": 13.770000000000001, 
+      "num_lifts": 88, 
+      "name": "Dam\u00fcls", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 690, 
+      "uid": "bb6710bf-0c9f-484d-b9c3-85a9003f2c83"
+    }, 
+    {
+      "max_elev": 2021, 
+      "cumarea": 2873.061973176893, 
+      "area": 11.530000000000001, 
+      "num_lifts": 70, 
+      "name": "Le Grand-Bornand", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 936, 
+      "uid": "9d492f65-8ba2-427a-8c0a-ac620a3e3c54"
+    }, 
+    {
+      "max_elev": 2009, 
+      "cumarea": 2904.245773638356, 
+      "area": 9.44, 
+      "num_lifts": 66, 
+      "name": "Valberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1416, 
+      "uid": "dd7e3227-9955-4767-9aa7-fe9f8f7a63cf"
+    }, 
+    {
+      "max_elev": 2008, 
+      "cumarea": 2912.053923909719, 
+      "area": 9.35, 
+      "num_lifts": 67, 
+      "name": "Dorfgastein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 867, 
+      "uid": "4e74ef6b-4015-4a6d-a5aa-10a9e3ebcaed"
+    }, 
+    {
+      "max_elev": 2026, 
+      "cumarea": 2848.0670633829827, 
+      "area": 8.41, 
+      "num_lifts": 61, 
+      "name": "Nieveleon San Isidro", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1493, 
+      "uid": "2bd3e670-a9ef-4888-ad6f-f54144f5440d"
+    }, 
+    {
+      "max_elev": 2029, 
+      "cumarea": 2829.4771482876936, 
+      "area": 8.06, 
+      "num_lifts": 55, 
+      "name": "Ski Juwel Alpbachtal Wildsch\u00f6nau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 830, 
+      "uid": "28d78cb8-7d99-4d6a-9487-cb253032c5d2"
+    }, 
+    {
+      "max_elev": 2031, 
+      "cumarea": 2819.5053492839575, 
+      "area": 7.17, 
+      "num_lifts": 18, 
+      "name": "Diedamskopf - Schoppernau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 839, 
+      "uid": "5861bd1c-1e0c-4f62-84ce-4c696fa75185"
+    }
+  ], 
+  "end_x": 2950.240411424743, 
+  "num": 20, 
+  "zoom": 7, 
+  "start_x": 2809.7527727854695
+}

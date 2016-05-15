@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2064, 
+      "uid": "80f4d2c1-2b88-442c-a0de-71367e76880f", 
+      "area": 4.69, 
+      "num_lifts": 36, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1393, 
+      "cumarea": 2652.0185054761732
+    }, 
+    {
+      "max_elev": 2062, 
+      "cumarea": 2655.5248026296877, 
+      "area": 4.51, 
+      "num_lifts": 25, 
+      "name": "Engelberg-Titlis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1002, 
+      "uid": "89185e00-65bc-4f5e-a14d-5a429278e6b7"
+    }
+  ], 
+  "end_x": 2656.0944180237643, 
+  "num": 604, 
+  "zoom": 12, 
+  "start_x": 2651.704179316287
+}

@@ -1,0 +1,44 @@
+{
+  "shown": [
+    {
+      "max_elev": 1389, 
+      "uid": "3df517ab-ef30-4e69-8c3d-41f58c65a79b", 
+      "area": 3.59, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 844, 
+      "cumarea": 5971.190878483335
+    }, 
+    {
+      "max_elev": 1387, 
+      "uid": "4e661dc7-64cf-4084-8c5f-0bfd2a066c0e", 
+      "area": 2.69, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 913, 
+      "cumarea": 5976.79560531604
+    }, 
+    {
+      "max_elev": 1387, 
+      "uid": "6571b56e-9a6e-45fc-aad4-451f9b35119c", 
+      "area": 1.98, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1235, 
+      "cumarea": 5979.478702160746
+    }, 
+    {
+      "max_elev": 1389, 
+      "uid": "0d049b8c-0fbc-47d8-b0ba-e5f42f203c55", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1226, 
+      "cumarea": 5973.806064122426
+    }
+  ], 
+  "end_x": 5979.505119584077, 
+  "num": 680, 
+  "zoom": 11, 
+  "start_x": 5970.7246421691225
+}

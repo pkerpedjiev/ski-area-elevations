@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1314, 
+      "uid": "141c65e3-ad44-46b9-addd-3998103fb95d", 
+      "area": 2.2800000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 980, 
+      "cumarea": 6365.815196954914
+    }, 
+    {
+      "max_elev": 1314, 
+      "uid": "c586e3f4-118e-4702-8eb1-3418a0e8dd10", 
+      "area": 2.21, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 973, 
+      "cumarea": 6357.760913234018
+    }, 
+    {
+      "max_elev": 1312, 
+      "uid": "e78b84a4-03d0-4cea-978c-a716ed6556cb", 
+      "area": 1.98, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1240, 
+      "cumarea": 6371.091620644899
+    }, 
+    {
+      "max_elev": 1314, 
+      "uid": "9c324bef-d0b1-415a-9b30-fd20b9210bb9", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1259, 
+      "cumarea": 6360.392185010859
+    }, 
+    {
+      "max_elev": 1311, 
+      "uid": "6afcc8a6-d61e-4960-8b09-7f9959681ad3", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 923, 
+      "cumarea": 6373.70138621652
+    }, 
+    {
+      "max_elev": 1314, 
+      "uid": "1d17817d-d44c-495d-9baf-fe5db8bce218", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1200, 
+      "cumarea": 6362.991021511948
+    }, 
+    {
+      "max_elev": 1313, 
+      "uid": "c1a98c81-5bd3-4ab1-93c4-2c7d36ba8747", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1271, 
+      "cumarea": 6368.408523800193
+    }
+  ], 
+  "end_x": 6374.626603257033, 
+  "num": 362, 
+  "zoom": 10, 
+  "start_x": 6357.065648427124
+}

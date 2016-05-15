@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 3236, 
+      "cumarea": 314.92097170377923, 
+      "area": 19.75, 
+      "num_lifts": 71, 
+      "name": "Monterosa Ski - Champoluc", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1166, 
+      "uid": "963bc883-03e7-4d03-8d13-d5ab8d6950e3"
+    }, 
+    {
+      "max_elev": 3246, 
+      "cumarea": 307.2699888398564, 
+      "area": 7.2, 
+      "num_lifts": 39, 
+      "name": "Argenti\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1230, 
+      "uid": "1964bd6e-29ce-4fef-bf65-8c4ce9603a04"
+    }, 
+    {
+      "max_elev": 3251, 
+      "cumarea": 300.34811841490085, 
+      "area": 2.59, 
+      "num_lifts": 6, 
+      "name": "Oukaimeden", 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 2619, 
+      "uid": "9e9c99aa-de73-451d-af98-f4f84a94e303"
+    }, 
+    {
+      "max_elev": 3250, 
+      "uid": "3915c6b6-9214-43b7-b95c-8fd08acc8e46", 
+      "area": 2.58, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2612, 
+      "cumarea": 303.2959078138344
+    }, 
+    {
+      "max_elev": 3246, 
+      "uid": "e8caa155-e927-4fbe-8c2f-886cd1277925", 
+      "area": 1.95, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3064, 
+      "cumarea": 309.9378182124321
+    }
+  ], 
+  "end_x": 316.0971869383653, 
+  "num": 17, 
+  "zoom": 10, 
+  "start_x": 298.53623210845615
+}

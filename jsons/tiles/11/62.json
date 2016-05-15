@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2975, 
+      "cumarea": 546.4051024482637, 
+      "area": 42.91, 
+      "num_lifts": 86, 
+      "name": "Flims Laax Falera", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1085, 
+      "uid": "f6f3eaf3-bf01-4da7-a335-0ad9c17e5d8c"
+    }, 
+    {
+      "max_elev": 2974, 
+      "cumarea": 549.2805711856176, 
+      "area": 2.4, 
+      "num_lifts": 5, 
+      "name": "Shemshak", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2506, 
+      "uid": "07208c64-0314-43c7-8781-f750c44819bb"
+    }
+  ], 
+  "end_x": 553.1700771421392, 
+  "num": 62, 
+  "zoom": 11, 
+  "start_x": 544.3895997271846
+}

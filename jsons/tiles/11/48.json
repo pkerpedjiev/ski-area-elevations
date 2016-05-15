@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3133, 
+      "cumarea": 427.3982045105031, 
+      "area": 8.41, 
+      "num_lifts": 36, 
+      "name": "Belalp - Blatten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1333, 
+      "uid": "d2513ef7-b0ed-430b-b9e8-ad8f6cb39332"
+    }, 
+    {
+      "max_elev": 3134, 
+      "cumarea": 423.26878303651824, 
+      "area": 3.79, 
+      "num_lifts": 14, 
+      "name": "Dombai", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1588, 
+      "uid": "4e5eb624-7509-481c-b326-d2329b7c3a2c"
+    }
+  ], 
+  "end_x": 430.243393332775, 
+  "num": 48, 
+  "zoom": 11, 
+  "start_x": 421.4629159178204
+}

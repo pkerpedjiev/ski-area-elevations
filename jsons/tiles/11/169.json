@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2419, 
+      "cumarea": 1487.6798534970194, 
+      "area": 8.66, 
+      "num_lifts": 49, 
+      "name": "Latemar - Obereggen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1072, 
+      "uid": "473162eb-97e2-48b2-99b4-032f79125881"
+    }, 
+    {
+      "max_elev": 2419, 
+      "cumarea": 1490.4406593260533, 
+      "area": 2.14, 
+      "num_lifts": 3, 
+      "name": "Lagunillas Ski Center", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2211, 
+      "uid": "8f09dee6-f7cb-446e-a593-a022a09fed9f"
+    }
+  ], 
+  "end_x": 1492.6811605422806, 
+  "num": 169, 
+  "zoom": 11, 
+  "start_x": 1483.900683127326
+}

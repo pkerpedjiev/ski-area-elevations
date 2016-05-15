@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1194, 
+      "cumarea": 7074.2728416521195, 
+      "area": 4.01, 
+      "num_lifts": 56, 
+      "name": "Pico Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 610, 
+      "uid": "6f71fd7c-fa65-4461-95e8-faaaffda32ff"
+    }, 
+    {
+      "max_elev": 1195, 
+      "uid": "56b7e287-e3f0-4efa-9640-f44395d210a4", 
+      "area": 3.01, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 539, 
+      "cumarea": 7070.884050410801
+    }
+  ], 
+  "end_x": 7077.0647964534, 
+  "num": 805, 
+  "zoom": 11, 
+  "start_x": 7068.284319038446
+}

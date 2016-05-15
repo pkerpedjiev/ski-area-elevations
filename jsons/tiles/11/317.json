@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2034, 
+      "cumarea": 2791.1208845383126, 
+      "area": 5.76, 
+      "num_lifts": 28, 
+      "name": "Albiez Montrond", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1490, 
+      "uid": "9ae510b4-7814-4f4c-95f0-44f2c5a2dfed"
+    }, 
+    {
+      "max_elev": 2035, 
+      "uid": "3ef7d7bc-7603-4d23-9a5d-d51e511c67fe", 
+      "area": 2.24, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1824, 
+      "cumarea": 2784.7547614245145
+    }, 
+    {
+      "max_elev": 2035, 
+      "uid": "ea65bb10-a235-4756-9545-17fe71785aaf", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1633, 
+      "cumarea": 2787.3699470636047
+    }
+  ], 
+  "end_x": 2792.1918179555605, 
+  "num": 317, 
+  "zoom": 11, 
+  "start_x": 2783.411340540606
+}

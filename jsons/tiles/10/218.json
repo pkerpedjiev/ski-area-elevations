@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1802, 
+      "cumarea": 3842.133386562424, 
+      "area": 5.13, 
+      "num_lifts": 41, 
+      "name": "Ancelle", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1320, 
+      "uid": "466f219c-f072-4570-908f-579da0233789"
+    }, 
+    {
+      "max_elev": 1802, 
+      "uid": "7ad524db-9c96-4c1d-9d65-ea555a6aed33", 
+      "area": 4.26, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1242, 
+      "cumarea": 3845.5826557227056
+    }, 
+    {
+      "max_elev": 1803, 
+      "uid": "a2156ab6-0ac0-4d09-863c-597d265ff6fc", 
+      "area": 2.68, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1105, 
+      "cumarea": 3833.2951884863432
+    }, 
+    {
+      "max_elev": 1804, 
+      "uid": "2b6706fb-c2a4-4647-bc8e-22037aa3cbf8", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1574, 
+      "cumarea": 3830.3093716918206
+    }, 
+    {
+      "max_elev": 1803, 
+      "uid": "f2018513-f843-4109-af83-bcf6ebbcd17d", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1349, 
+      "cumarea": 3835.904954057964
+    }, 
+    {
+      "max_elev": 1803, 
+      "uid": "10529aa6-51ab-4baa-8cf0-3ea83da95b69", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1709, 
+      "cumarea": 3838.4982809032417
+    }
+  ], 
+  "end_x": 3845.849107750111, 
+  "num": 218, 
+  "zoom": 10, 
+  "start_x": 3828.288152920202
+}

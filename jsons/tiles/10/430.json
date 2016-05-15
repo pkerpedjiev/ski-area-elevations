@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1113, 
+      "uid": "da9bed8a-2bab-44fa-a268-ceb858503125", 
+      "area": 3.4299999999999997, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 826, 
+      "cumarea": 7560.570870736567
+    }, 
+    {
+      "max_elev": 1114, 
+      "uid": "a80a928d-c6a2-4d34-a61a-38e214a40402", 
+      "area": 3.25, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 704, 
+      "cumarea": 7557.338310475388
+    }, 
+    {
+      "max_elev": 1113, 
+      "uid": "36e6000b-ccfc-4932-badd-e89777041efc", 
+      "area": 2.1, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 917, 
+      "cumarea": 7563.312808081296
+    }, 
+    {
+      "max_elev": 1113, 
+      "uid": "0af003af-99ff-492d-bb24-d60593b72498", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1037, 
+      "cumarea": 7568.575323341234
+    }, 
+    {
+      "max_elev": 1113, 
+      "uid": "51c22106-880d-4965-85cc-61e37720bb29", 
+      "area": 1.87, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 448, 
+      "cumarea": 7565.938746512163
+    }, 
+    {
+      "max_elev": 1114, 
+      "uid": "8ec5c561-acca-429a-816b-6609f5a1b009", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 784, 
+      "cumarea": 7551.5663286337685
+    }, 
+    {
+      "max_elev": 1114, 
+      "uid": "a6903df1-297d-4456-9981-f39a266177cf", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1089, 
+      "cumarea": 7554.159655479047
+    }
+  ], 
+  "end_x": 7568.771531690858, 
+  "num": 430, 
+  "zoom": 10, 
+  "start_x": 7551.210576860949
+}

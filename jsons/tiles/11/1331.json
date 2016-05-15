@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 664, 
+      "cumarea": 11691.722326333927, 
+      "area": 1.96, 
+      "num_lifts": 13, 
+      "name": "Sunridge Ski Area", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 613, 
+      "uid": "376b1b33-7167-4fbe-9eae-3193ccc495ad"
+    }, 
+    {
+      "max_elev": 663, 
+      "uid": "d32967e2-64b0-402b-a9c2-592039cc3ff5", 
+      "area": 1.87, 
+      "num_lifts": 0, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 663, 
+      "cumarea": 11694.348264764794
+    }, 
+    {
+      "max_elev": 664, 
+      "uid": "b5bd2744-d27a-4aa0-8b4d-4260195159a1", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 634, 
+      "cumarea": 11689.049381860685
+    }
+  ], 
+  "end_x": 11695.595916719518, 
+  "num": 1331, 
+  "zoom": 11, 
+  "start_x": 11686.815439304562
+}

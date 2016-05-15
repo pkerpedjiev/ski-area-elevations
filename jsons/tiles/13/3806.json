@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 1013, 
+      "cumarea": 8355.780304687343, 
+      "area": 5.93, 
+      "num_lifts": 63, 
+      "name": "Hafjell Apinsenter", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 195, 
+      "uid": "7a17c868-609c-4fd3-a04a-9c8127c8700c"
+    }
+  ], 
+  "end_x": 8356.819379683031, 
+  "num": 3806, 
+  "zoom": 13, 
+  "start_x": 8354.624260329292
+}

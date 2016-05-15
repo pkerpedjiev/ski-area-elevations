@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1262, 
+      "cumarea": 6643.515749961498, 
+      "area": 3.04, 
+      "num_lifts": 14, 
+      "name": "G\u00f6tschen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 626, 
+      "uid": "562e2b89-0ab7-4ce3-a147-b52b687df9c5"
+    }, 
+    {
+      "max_elev": 1262, 
+      "uid": "5338b44a-3214-43c7-8694-f7f709a06bb1", 
+      "area": 2.34, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 971, 
+      "cumarea": 6646.365900890867
+    }
+  ], 
+  "end_x": 6646.821403120625, 
+  "num": 1513, 
+  "zoom": 12, 
+  "start_x": 6642.4311644131485
+}

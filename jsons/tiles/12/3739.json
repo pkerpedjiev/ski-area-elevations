@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 159, 
+      "cumarea": 16418.26676853423, 
+      "area": 1.87, 
+      "num_lifts": 10, 
+      "name": "Ski Ward", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 104, 
+      "uid": "587a3947-36c3-4c61-b506-83c3b6d41e44"
+    }, 
+    {
+      "max_elev": 159, 
+      "uid": "aed2a8ba-b280-47b4-9e39-645a9a6322a3", 
+      "area": 1.81, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 141, 
+      "cumarea": 16415.640830103366
+    }
+  ], 
+  "end_x": 16419.492765965086, 
+  "num": 3739, 
+  "zoom": 12, 
+  "start_x": 16415.102527257608
+}

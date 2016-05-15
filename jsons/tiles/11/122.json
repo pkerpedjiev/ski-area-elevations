@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2572, 
+      "cumarea": 1075.0245280153583, 
+      "area": 29.400000000000002, 
+      "num_lifts": 173, 
+      "name": "Les Sybelles", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1085, 
+      "uid": "44ae0a02-b7bb-42a0-9459-489c97a39b4b"
+    }, 
+    {
+      "max_elev": 2572, 
+      "uid": "2b9d8a52-5788-4e92-883e-9a0fd314ccca", 
+      "area": 2.62, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1372, 
+      "cumarea": 1077.9877023331314
+    }
+  ], 
+  "end_x": 1079.9987220394146, 
+  "num": 122, 
+  "zoom": 11, 
+  "start_x": 1071.21824462446
+}

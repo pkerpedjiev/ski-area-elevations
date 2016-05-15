@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2372, 
+      "cumarea": 1627.2137081705498, 
+      "area": 11.88, 
+      "num_lifts": 44, 
+      "name": "Panorama Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1141, 
+      "uid": "afd7443c-daad-40ab-988f-c2988b17e375"
+    }, 
+    {
+      "max_elev": 2372, 
+      "cumarea": 1630.029072983834, 
+      "area": 2.2600000000000002, 
+      "num_lifts": 1, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 1555, 
+      "uid": "27739509-4cd7-4b72-805e-c31c8907c575"
+    }
+  ], 
+  "end_x": 1633.168799181554, 
+  "num": 185, 
+  "zoom": 11, 
+  "start_x": 1624.3883217665993
+}

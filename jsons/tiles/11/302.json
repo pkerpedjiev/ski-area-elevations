@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 2064, 
+      "uid": "80f4d2c1-2b88-442c-a0de-71367e76880f", 
+      "area": 4.69, 
+      "num_lifts": 36, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1393, 
+      "cumarea": 2652.0185054761732
+    }, 
+    {
+      "max_elev": 2062, 
+      "cumarea": 2655.5248026296877, 
+      "area": 4.51, 
+      "num_lifts": 25, 
+      "name": "Engelberg-Titlis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1002, 
+      "uid": "89185e00-65bc-4f5e-a14d-5a429278e6b7"
+    }, 
+    {
+      "max_elev": 2061, 
+      "cumarea": 2658.8780571367292, 
+      "area": 3.87, 
+      "num_lifts": 16, 
+      "name": "Monte Bondone", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1196, 
+      "uid": "2a581adb-8de6-41e9-86fc-74ccbce76205"
+    }
+  ], 
+  "end_x": 2660.4846567312416, 
+  "num": 302, 
+  "zoom": 11, 
+  "start_x": 2651.704179316287
+}

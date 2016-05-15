@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1535, 
+      "cumarea": 5196.73456627415, 
+      "area": 3.88, 
+      "num_lifts": 26, 
+      "name": "Rossfeld / Gmerk / Oberau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 713, 
+      "uid": "25c130ea-0a49-4851-a85b-2e61e8a4025b"
+    }, 
+    {
+      "max_elev": 1537, 
+      "uid": "6d8f6b36-a301-4c98-aec5-006aae447eb2", 
+      "area": 2.63, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "cumarea": 5190.537163934837
+    }, 
+    {
+      "max_elev": 1536, 
+      "uid": "e53e2afb-280d-48a5-9c1b-1006e16b0dcd", 
+      "area": 2.3200000000000003, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1029, 
+      "cumarea": 5193.378731120515
+    }
+  ], 
+  "end_x": 5198.042629653119, 
+  "num": 591, 
+  "zoom": 11, 
+  "start_x": 5189.262152238164
+}

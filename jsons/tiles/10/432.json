@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1110, 
+      "cumarea": 7602.961870913037, 
+      "area": 13.97, 
+      "num_lifts": 196, 
+      "name": "Stowe / Smuggler's Notch", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 327, 
+      "uid": "d4c24080-01ac-4206-bb5b-0238558fe1cb"
+    }, 
+    {
+      "max_elev": 1111, 
+      "uid": "34ca3b41-9074-40c4-ba75-7124d82b4734", 
+      "area": 2.45, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 933, 
+      "cumarea": 7587.853897074326
+    }, 
+    {
+      "max_elev": 1110, 
+      "uid": "a7bd9fe2-b288-4a48-b027-4b554504913e", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 951, 
+      "cumarea": 7598.324958739769
+    }, 
+    {
+      "max_elev": 1111, 
+      "uid": "f032aabf-85ae-42dd-9897-9f08fe28751b", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 480, 
+      "cumarea": 7590.469082713416
+    }, 
+    {
+      "max_elev": 1111, 
+      "uid": "a20477ed-a6be-4b01-ac95-e6caef0ff855", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1035, 
+      "cumarea": 7593.084268352507
+    }, 
+    {
+      "max_elev": 1111, 
+      "uid": "27f567fd-4edc-4827-9792-61bb4a4a3a6d", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 924, 
+      "cumarea": 7595.683104853596
+    }
+  ], 
+  "end_x": 7603.893441350676, 
+  "num": 432, 
+  "zoom": 10, 
+  "start_x": 7586.332486520767
+}

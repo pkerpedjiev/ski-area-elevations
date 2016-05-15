@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1166, 
+      "cumarea": 7277.9081682889655, 
+      "area": 5.95, 
+      "num_lifts": 83, 
+      "name": "Jay Peak", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 560, 
+      "uid": "36d7d2f4-b72e-41e2-a3d5-7cc33f738464"
+    }, 
+    {
+      "max_elev": 1165, 
+      "uid": "89a37cf2-bb24-4a1e-a8b0-80817a3bd2e9", 
+      "area": 2.66, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 888, 
+      "cumarea": 7283.485330912848
+    }, 
+    {
+      "max_elev": 1164, 
+      "uid": "fcd7175f-41ee-49d0-8a71-d3ab183c9d9e", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1051, 
+      "cumarea": 7286.11660268969
+    }, 
+    {
+      "max_elev": 1166, 
+      "uid": "c3988f35-d122-4e4d-87d9-9ec49c41fd90", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1090, 
+      "cumarea": 7271.536990404506
+    }, 
+    {
+      "max_elev": 1165, 
+      "uid": "2f8f0c24-1428-41aa-9328-9f36d3a7de52", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1028, 
+      "cumarea": 7280.507004790054
+    }, 
+    {
+      "max_elev": 1166, 
+      "uid": "d50b3299-8be2-44bf-9b14-1b7d37ff7684", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1150, 
+      "cumarea": 7274.124777069408
+    }
+  ], 
+  "end_x": 7287.796254412311, 
+  "num": 414, 
+  "zoom": 10, 
+  "start_x": 7270.235299582402
+}

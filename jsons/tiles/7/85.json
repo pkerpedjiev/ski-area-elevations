@@ -1,0 +1,100 @@
+{
+  "shown": [
+    {
+      "max_elev": 630, 
+      "cumarea": 11976.960391134131, 
+      "area": 3.16, 
+      "num_lifts": 22, 
+      "name": "Blafjoll", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 439, 
+      "uid": "03cc5f0a-4dfa-47f7-91b5-6980bcaa28e4"
+    }, 
+    {
+      "max_elev": 633, 
+      "uid": "24e5f555-7382-4cbf-bec0-fe81adec6d81", 
+      "area": 2.89, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 405, 
+      "cumarea": 11955.221969034317
+    }, 
+    {
+      "max_elev": 622, 
+      "uid": "9f9d8886-810a-4229-807b-51ac1a37e708", 
+      "area": 2.84, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 350, 
+      "cumarea": 12067.300794590186
+    }, 
+    {
+      "max_elev": 623, 
+      "uid": "5a59a28b-40f2-456a-8446-7b9584077a49", 
+      "area": 2.33, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 501, 
+      "cumarea": 12048.605626374398
+    }, 
+    {
+      "max_elev": 626, 
+      "uid": "8e28e945-3e0f-4b08-a028-4cb559e86c75", 
+      "area": 2.27, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 310, 
+      "cumarea": 12022.134944479376
+    }, 
+    {
+      "max_elev": 631, 
+      "uid": "b5e92850-374b-4bcc-b07f-bbf4a8e1227f", 
+      "area": 2.25, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 459, 
+      "cumarea": 11963.214012760713
+    }, 
+    {
+      "max_elev": 628, 
+      "uid": "557657f1-9d85-4a8c-b64d-d82af5dd66df", 
+      "area": 2.21, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 538, 
+      "cumarea": 12011.438454534627
+    }, 
+    {
+      "max_elev": 631, 
+      "uid": "7dcc3265-bfbd-46f9-8dba-a378337911cc", 
+      "area": 2.2, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 260, 
+      "cumarea": 11966.002470121077
+    }, 
+    {
+      "max_elev": 635, 
+      "cumarea": 11941.653734210424, 
+      "area": 2.08, 
+      "num_lifts": 1, 
+      "name": "(urban, Santiago)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 516, 
+      "uid": "bc7f4e19-d79f-4fa0-ba5e-356669decdb1"
+    }, 
+    {
+      "max_elev": 630, 
+      "uid": "faaa1bde-a612-4db5-8f07-e88a696e7c87", 
+      "area": 2.08, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 434, 
+      "cumarea": 11979.692759027845
+    }
+  ], 
+  "end_x": 12081.936922977518, 
+  "num": 85, 
+  "zoom": 7, 
+  "start_x": 11941.449284338245
+}

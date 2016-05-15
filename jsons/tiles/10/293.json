@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1553, 
+      "uid": "83d8c72c-8369-4e93-b9db-5c716f864b8c", 
+      "area": 4.5200000000000005, 
+      "num_lifts": 32, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1130, 
+      "cumarea": 5146.830543868304
+    }, 
+    {
+      "max_elev": 1552, 
+      "cumarea": 5150.300719713405, 
+      "area": 4.35, 
+      "num_lifts": 47, 
+      "name": "Kranjska Gora", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 806, 
+      "uid": "762792d9-b5a3-403d-b498-cc3f867ca3df"
+    }, 
+    {
+      "max_elev": 1548, 
+      "uid": "d9e44de1-211f-47e3-9480-f55443edd0f2", 
+      "area": 3.06, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 865, 
+      "cumarea": 5156.076654632286
+    }, 
+    {
+      "max_elev": 1552, 
+      "uid": "e71c1533-3395-4a57-9314-f4b25310fec6", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 706, 
+      "cumarea": 5152.958239716321
+    }, 
+    {
+      "max_elev": 1546, 
+      "uid": "4a425725-8802-49e3-a785-29c5f0571736", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1100, 
+      "cumarea": 5161.290557965289
+    }, 
+    {
+      "max_elev": 1548, 
+      "uid": "abdcf529-2a8d-427a-9e78-aaabeebe82b4", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1469, 
+      "cumarea": 5158.669981477564
+    }
+  ], 
+  "end_x": 5162.920719993301, 
+  "num": 293, 
+  "zoom": 10, 
+  "start_x": 5145.359765163392
+}

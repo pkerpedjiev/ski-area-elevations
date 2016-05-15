@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 1631, 
+      "cumarea": 4735.550622460941, 
+      "area": 5.59, 
+      "num_lifts": 20, 
+      "name": "Nozawa-onsen", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 580, 
+      "uid": "c71a2575-f953-475d-ae98-77a8721109da"
+    }, 
+    {
+      "max_elev": 1631, 
+      "cumarea": 4738.941904363572, 
+      "area": 4.0200000000000005, 
+      "num_lifts": 16, 
+      "name": "Hakubagoryu", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 758, 
+      "uid": "cb893366-9775-40db-92e7-b73939c39df9"
+    }, 
+    {
+      "max_elev": 1632, 
+      "uid": "d2b460eb-8937-41e5-85fa-3ce918f83fe2", 
+      "area": 3.39, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1038, 
+      "cumarea": 4731.829643173774
+    }, 
+    {
+      "max_elev": 1633, 
+      "uid": "9207e038-c9e1-40ac-a514-7340de2ce67e", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1061, 
+      "cumarea": 4726.004497285528
+    }, 
+    {
+      "max_elev": 1633, 
+      "uid": "2f6bdbcd-8937-4fe6-a196-b763ac272025", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1328, 
+      "cumarea": 4728.608813252381
+    }
+  ], 
+  "end_x": 4741.45780407548, 
+  "num": 269, 
+  "zoom": 10, 
+  "start_x": 4723.8968492455715
+}

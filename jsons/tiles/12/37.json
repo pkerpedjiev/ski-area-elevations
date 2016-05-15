@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3526, 
+      "cumarea": 166.76019783457903, 
+      "area": 7.58, 
+      "num_lifts": 42, 
+      "name": "Aspen", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2398, 
+      "uid": "08ef8b09-75e1-4ccf-8a78-ca6f9f34c4ac"
+    }, 
+    {
+      "max_elev": 3537, 
+      "uid": "b11677a2-910f-44b7-bc01-df9ab484ed5d", 
+      "area": 1.99, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3030, 
+      "cumarea": 162.73468463492475
+    }
+  ], 
+  "end_x": 166.82907088413725, 
+  "num": 37, 
+  "zoom": 12, 
+  "start_x": 162.43883217665996
+}

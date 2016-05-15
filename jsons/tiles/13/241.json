@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 2981, 
+      "cumarea": 530.6426757443211, 
+      "area": 14.14, 
+      "num_lifts": 80, 
+      "name": "Adamello", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "3ebd52c5-5e03-46d2-bf24-be88e22845c9"
+    }
+  ], 
+  "end_x": 531.2188836047528, 
+  "num": 241, 
+  "zoom": 13, 
+  "start_x": 529.0237642510142
+}

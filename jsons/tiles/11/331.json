@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2008, 
+      "cumarea": 2912.053923909719, 
+      "area": 9.35, 
+      "num_lifts": 67, 
+      "name": "Dorfgastein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 867, 
+      "uid": "4e74ef6b-4015-4a6d-a5aa-10a9e3ebcaed"
+    }, 
+    {
+      "max_elev": 2009, 
+      "uid": "220611dd-a8df-43b9-beee-63b508fb79a4", 
+      "area": 4.82, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1528, 
+      "cumarea": 2907.818547566418
+    }
+  ], 
+  "end_x": 2915.1185017649245, 
+  "num": 331, 
+  "zoom": 11, 
+  "start_x": 2906.3380243499696
+}

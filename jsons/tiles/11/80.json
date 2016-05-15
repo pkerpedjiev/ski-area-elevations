@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2803, 
+      "cumarea": 707.5181382355645, 
+      "area": 4.35, 
+      "num_lifts": 11, 
+      "name": "Tsakhkadzor", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1965, 
+      "uid": "c270c1a4-cb11-4648-86fb-292efc6f25ec"
+    }, 
+    {
+      "max_elev": 2805, 
+      "cumarea": 704.0479623904639, 
+      "area": 1.99, 
+      "num_lifts": 10, 
+      "name": "Los Puquios", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2685, 
+      "uid": "6813f1ce-e04e-4de1-bcba-32b2f7c69997"
+    }
+  ], 
+  "end_x": 711.218670611322, 
+  "num": 80, 
+  "zoom": 11, 
+  "start_x": 702.4381931963674
+}

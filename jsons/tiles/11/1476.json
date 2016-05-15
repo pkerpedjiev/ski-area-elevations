@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 532, 
+      "cumarea": 12961.165971830174, 
+      "area": 3.05, 
+      "num_lifts": 47, 
+      "name": "Oslo Winter Park (Tryvann Ski Resort)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 161, 
+      "uid": "6c8b2254-8c46-46be-bb0c-cf6b6a5d6803"
+    }, 
+    {
+      "max_elev": 532, 
+      "uid": "979765e3-e1eb-4bbf-bd2a-506b4d853ab9", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 151, 
+      "cumarea": 12963.781157469264
+    }, 
+    {
+      "max_elev": 532, 
+      "uid": "e5cc6d03-4a2e-4db4-a2b7-21ed5af4c146", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 446, 
+      "cumarea": 12966.379993970353
+    }
+  ], 
+  "end_x": 12968.765141887932, 
+  "num": 1476, 
+  "zoom": 11, 
+  "start_x": 12959.984664472977
+}

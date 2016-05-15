@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 2553, 
+      "cumarea": 1117.1351624364945, 
+      "area": 16.44, 
+      "num_lifts": 83, 
+      "name": "Val d'Allos", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1503, 
+      "uid": "193d2d1d-b1e2-49d1-ad63-85b6d20becec"
+    }, 
+    {
+      "max_elev": 2555, 
+      "uid": "98777b0e-105e-4e16-b26a-c26f2e33c775", 
+      "area": 2.02, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 808, 
+      "cumarea": 1112.3354450468664
+    }, 
+    {
+      "max_elev": 2552, 
+      "uid": "419ff584-4952-4550-a3a0-e8157f12253d", 
+      "area": 1.95, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2264, 
+      "cumarea": 1119.8029918090701
+    }, 
+    {
+      "max_elev": 2558, 
+      "uid": "1260b30e-ebde-4198-badd-bb01c45f2d1f", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2005, 
+      "cumarea": 1107.0171618963632
+    }, 
+    {
+      "max_elev": 2556, 
+      "uid": "3ee15d9b-c26f-48a9-881a-cb39ce43754a", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2467, 
+      "cumarea": 1109.6323475354534
+    }
+  ], 
+  "end_x": 1123.9011091141876, 
+  "num": 63, 
+  "zoom": 10, 
+  "start_x": 1106.3401542842785
+}

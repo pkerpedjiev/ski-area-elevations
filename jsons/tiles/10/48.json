@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 2689, 
+      "cumarea": 851.1443056540079, 
+      "area": 9.540000000000001, 
+      "num_lifts": 83, 
+      "name": "Les Orres", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1552, 
+      "uid": "a6b499da-9dc2-4331-b863-74e9ca22fbf4"
+    }, 
+    {
+      "max_elev": 2689, 
+      "cumarea": 855.2960678572673, 
+      "area": 8.6, 
+      "num_lifts": 25, 
+      "name": "Lagazuoi - Cinque Torri / Passo Falzarego", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1888, 
+      "uid": "77a22292-0f5f-40c5-ab7a-d00f33130c3d"
+    }, 
+    {
+      "max_elev": 2698, 
+      "cumarea": 844.2736265294575, 
+      "area": 7.06, 
+      "num_lifts": 54, 
+      "name": "Sierra at Tahoe", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2025, 
+      "uid": "57644f87-70de-4a64-8213-f10ffe19da7c"
+    }, 
+    {
+      "max_elev": 2693, 
+      "uid": "72b463aa-5f8b-4da0-8f8c-e0683170c07e", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2390, 
+      "cumarea": 846.8888121685477
+    }, 
+    {
+      "max_elev": 2689, 
+      "uid": "ee34e9bc-e769-4c7a-ab85-1f6115b0b65c", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2661, 
+      "cumarea": 857.889394702545
+    }
+  ], 
+  "end_x": 860.48678666555, 
+  "num": 48, 
+  "zoom": 10, 
+  "start_x": 842.9258318356408
+}

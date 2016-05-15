@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2457, 
+      "cumarea": 1384.526145271091, 
+      "area": 21.57, 
+      "num_lifts": 158, 
+      "name": "Mayrhofen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "uid": "2642e621-4837-41b6-8cee-4adb877cef17"
+    }, 
+    {
+      "max_elev": 2458, 
+      "uid": "1bd99d0a-6ede-4b54-883e-a2c391ee262d", 
+      "area": 4.74, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1324, 
+      "cumarea": 1379.45484181069
+    }
+  ], 
+  "end_x": 1387.3154315628256, 
+  "num": 157, 
+  "zoom": 11, 
+  "start_x": 1378.5349541478708
+}

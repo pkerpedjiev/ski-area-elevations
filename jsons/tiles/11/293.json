@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2085, 
+      "cumarea": 2577.1164689699103, 
+      "area": 3.39, 
+      "num_lifts": 22, 
+      "name": "La Hoya", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1422, 
+      "uid": "5d2be706-6b89-4255-86cb-fadbe7d3b2f1"
+    }, 
+    {
+      "max_elev": 2085, 
+      "uid": "f1d27f2e-653d-4c26-8c17-b4627af308ba", 
+      "area": 2.21, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1736, 
+      "cumarea": 2573.8956390485178
+    }
+  ], 
+  "end_x": 2581.4603599966504, 
+  "num": 293, 
+  "zoom": 11, 
+  "start_x": 2572.679882581696
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2098, 
+      "cumarea": 2520.0238533160846, 
+      "area": 8.18, 
+      "num_lifts": 48, 
+      "name": "Paganella - Andalo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1036, 
+      "uid": "1171ce09-2f5f-448e-be84-87874c4f5f9f"
+    }, 
+    {
+      "max_elev": 2098, 
+      "uid": "8d8d9c6d-0f60-4f75-b412-00d5d8c32527", 
+      "area": 5.2, 
+      "num_lifts": 44, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "cumarea": 2523.672511941672
+    }, 
+    {
+      "max_elev": 2098, 
+      "uid": "863a3028-aecc-4123-a8b4-5e64907c66da", 
+      "area": 4.01, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1643, 
+      "cumarea": 2527.0613031829903
+    }
+  ], 
+  "end_x": 2528.7774955069226, 
+  "num": 287, 
+  "zoom": 11, 
+  "start_x": 2519.997018091968
+}

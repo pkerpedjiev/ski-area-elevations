@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2363, 
+      "cumarea": 1661.1587161346758, 
+      "area": 13.14, 
+      "num_lifts": 108, 
+      "name": "Hochf\u00fcgen - Zillertal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 562, 
+      "uid": "35022a09-6498-469c-9b4d-3231612076a9"
+    }, 
+    {
+      "max_elev": 2362, 
+      "uid": "8d2ef5e2-b354-4301-8b33-5e78291b8a3c", 
+      "area": 2.16, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1155, 
+      "cumarea": 1666.5863443592887
+    }, 
+    {
+      "max_elev": 2363, 
+      "uid": "5b4581c8-eb44-4089-b599-c053bb3f8322", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1352, 
+      "cumarea": 1663.8162361375926
+    }
+  ], 
+  "end_x": 1668.2907088413724, 
+  "num": 189, 
+  "zoom": 11, 
+  "start_x": 1659.5102314264177
+}

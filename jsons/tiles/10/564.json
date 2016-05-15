@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 828, 
+      "cumarea": 9919.35558927295, 
+      "area": 5.0200000000000005, 
+      "num_lifts": 69, 
+      "name": "Mount Sunapee Resort", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 383, 
+      "uid": "859637e2-0998-4ac1-a4da-cb978798b853"
+    }, 
+    {
+      "max_elev": 831, 
+      "uid": "c396143c-7684-4e23-b20a-2022c7665366", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 109, 
+      "cumarea": 9907.91892881962
+    }, 
+    {
+      "max_elev": 830, 
+      "uid": "2d4d13f4-3dcd-4580-a244-ea5be8ec2625", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 626, 
+      "cumarea": 9910.55550564869
+    }, 
+    {
+      "max_elev": 831, 
+      "uid": "4d9af324-b152-4b46-8aa3-6e3ad3122bbf", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 724, 
+      "cumarea": 9905.277074933447
+    }, 
+    {
+      "max_elev": 829, 
+      "uid": "f4f628f4-f284-4f6d-81fb-21f5ccc8951e", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 771, 
+      "cumarea": 9913.148832493967
+    }, 
+    {
+      "max_elev": 828, 
+      "uid": "682af63e-e06c-49c4-af11-abbe919331c4", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 792, 
+      "cumarea": 9915.742159339245
+    }
+  ], 
+  "end_x": 9921.939478898688, 
+  "num": 564, 
+  "zoom": 10, 
+  "start_x": 9904.37852406878
+}

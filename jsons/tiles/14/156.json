@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3523, 
+      "cumarea": 172.27502147631606, 
+      "area": 33.61, 
+      "num_lifts": 230, 
+      "name": "Vail", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2454, 
+      "uid": "312edb1b-e5b2-4dfc-90ef-25f290a40384"
+    }
+  ], 
+  "end_x": 172.31686926848386, 
+  "num": 156, 
+  "zoom": 14, 
+  "start_x": 171.21930959161455
+}

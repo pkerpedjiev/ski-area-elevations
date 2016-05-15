@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1947, 
+      "cumarea": 3198.0996110540514, 
+      "area": 3.8099999999999996, 
+      "num_lifts": 37, 
+      "name": "Krvavec", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 617, 
+      "uid": "378e0108-4b5e-408f-93d4-0e9676346dad"
+    }, 
+    {
+      "max_elev": 1946, 
+      "uid": "97eb6e88-637a-40f2-b85d-de2943c5a42d", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1808, 
+      "cumarea": 3200.692937899329
+    }
+  ], 
+  "end_x": 3204.8742564584263, 
+  "num": 364, 
+  "zoom": 11, 
+  "start_x": 3196.0937790434714
+}

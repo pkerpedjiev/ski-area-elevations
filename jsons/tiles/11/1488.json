@@ -1,0 +1,45 @@
+{
+  "shown": [
+    {
+      "max_elev": 524, 
+      "cumarea": 13068.197894260711, 
+      "area": 1.97, 
+      "num_lifts": 2, 
+      "name": "Martial Glacier", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 338, 
+      "uid": "c5deb519-9dab-44e2-90c0-347deeb81ea3"
+    }, 
+    {
+      "max_elev": 524, 
+      "uid": "481dfbfd-7a1e-4c47-bf91-8c787a803b5e", 
+      "area": 1.82, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 476, 
+      "cumarea": 13065.519860717961
+    }, 
+    {
+      "max_elev": 523, 
+      "uid": "e7324913-d674-4cd6-8631-98c702f406e9", 
+      "area": 1.82, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 490, 
+      "cumarea": 13070.7967307618
+    }, 
+    {
+      "max_elev": 523, 
+      "uid": "23198330-900f-41a5-8a54-2bd78befa620", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 456, 
+      "cumarea": 13073.390057607077
+    }
+  ], 
+  "end_x": 13074.130870867386, 
+  "num": 1488, 
+  "zoom": 11, 
+  "start_x": 13065.350393452432
+}

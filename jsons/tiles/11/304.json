@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2058, 
+      "cumarea": 2676.4778271405867, 
+      "area": 9.97, 
+      "num_lifts": 39, 
+      "name": "Yamanouchi", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1334, 
+      "uid": "d3ba2879-3a44-42a2-90d6-e58264f97d49"
+    }, 
+    {
+      "max_elev": 2058, 
+      "uid": "bc2aee1b-d9d2-413d-946f-4ee09db6d106", 
+      "area": 2.16, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1588, 
+      "cumarea": 2669.5311433145544
+    }, 
+    {
+      "max_elev": 2058, 
+      "uid": "283ef21b-6b42-42a3-a39b-ac4b1842450f", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1378, 
+      "cumarea": 2672.178246556613
+    }
+  ], 
+  "end_x": 2678.0456115611505, 
+  "num": 304, 
+  "zoom": 11, 
+  "start_x": 2669.265134146196
+}

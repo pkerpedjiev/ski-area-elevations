@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1659, 
+      "uid": "46eaf63e-822c-4d79-af91-c8fbfeebcf79", 
+      "area": 4.87, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 959, 
+      "cumarea": 4598.170793608852
+    }, 
+    {
+      "max_elev": 1659, 
+      "uid": "6c76f18f-5dca-4839-a2ae-c53c4e4c0c08", 
+      "area": 2.05, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1489, 
+      "cumarea": 4600.888633402003
+    }, 
+    {
+      "max_elev": 1660, 
+      "uid": "718b5ca7-e4d9-4541-9fc8-1d2d32ae9310", 
+      "area": 1.95, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1533, 
+      "cumarea": 4584.154294732811
+    }, 
+    {
+      "max_elev": 1660, 
+      "uid": "7f56b6c8-eb8f-42e3-ab6e-bb0252e778ad", 
+      "area": 1.86, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1501, 
+      "cumarea": 4594.587699671758
+    }, 
+    {
+      "max_elev": 1660, 
+      "uid": "ff84edc0-5b56-497d-9abc-e9417ffa7c4a", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1486, 
+      "cumarea": 4586.769480371901
+    }, 
+    {
+      "max_elev": 1660, 
+      "uid": "916aae9d-06c9-4eec-a17f-fa72e9fe4346", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1155, 
+      "cumarea": 4589.373796338755
+    }, 
+    {
+      "max_elev": 1660, 
+      "uid": "f85d88fa-729c-4e71-967b-44dc5a36bb10", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1545, 
+      "cumarea": 4591.967123184033
+    }
+  ], 
+  "end_x": 4600.970165436206, 
+  "num": 261, 
+  "zoom": 10, 
+  "start_x": 4583.409210606296
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1181, 
+      "cumarea": 7156.067220256879, 
+      "area": 10.010000000000002, 
+      "num_lifts": 78, 
+      "name": "Niseko Mt. Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 260, 
+      "uid": "9990d135-4a98-455f-aa1e-afef9011ce52"
+    }, 
+    {
+      "max_elev": 1181, 
+      "uid": "1fb2d005-b9bd-4d1f-b905-83e74961d1b1", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1058, 
+      "cumarea": 7151.763635663552
+    }
+  ], 
+  "end_x": 7156.089093187992, 
+  "num": 1629, 
+  "zoom": 12, 
+  "start_x": 7151.698854480515
+}

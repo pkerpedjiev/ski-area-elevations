@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2698, 
+      "cumarea": 844.2736265294575, 
+      "area": 7.06, 
+      "num_lifts": 54, 
+      "name": "Sierra at Tahoe", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2025, 
+      "uid": "57644f87-70de-4a64-8213-f10ffe19da7c"
+    }, 
+    {
+      "max_elev": 2693, 
+      "uid": "72b463aa-5f8b-4da0-8f8c-e0683170c07e", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2390, 
+      "cumarea": 846.8888121685477
+    }
+  ], 
+  "end_x": 847.316070543118, 
+  "num": 192, 
+  "zoom": 12, 
+  "start_x": 842.9258318356408
+}

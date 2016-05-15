@@ -1,0 +1,99 @@
+{
+  "shown": [
+    {
+      "max_elev": 1310, 
+      "uid": "66200b06-4630-4904-84d6-cff0685fddaf", 
+      "area": 5.2700000000000005, 
+      "num_lifts": 42, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 614, 
+      "cumarea": 6377.363416579074
+    }, 
+    {
+      "max_elev": 1310, 
+      "uid": "799bbec2-7c85-463e-b14f-4e8d066e0d2c", 
+      "area": 3.4000000000000004, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 696, 
+      "cumarea": 6380.587192010696
+    }, 
+    {
+      "max_elev": 1314, 
+      "uid": "141c65e3-ad44-46b9-addd-3998103fb95d", 
+      "area": 2.2800000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 980, 
+      "cumarea": 6365.815196954914
+    }, 
+    {
+      "max_elev": 1314, 
+      "uid": "c586e3f4-118e-4702-8eb1-3418a0e8dd10", 
+      "area": 2.21, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 973, 
+      "cumarea": 6357.760913234018
+    }, 
+    {
+      "max_elev": 1309, 
+      "uid": "f444272b-08f5-4f80-9275-2a250349cb12", 
+      "area": 2.05, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 971, 
+      "cumarea": 6385.9468856900185
+    }, 
+    {
+      "max_elev": 1312, 
+      "uid": "e78b84a4-03d0-4cea-978c-a716ed6556cb", 
+      "area": 1.98, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1240, 
+      "cumarea": 6371.091620644899
+    }, 
+    {
+      "max_elev": 1309, 
+      "uid": "fb07fffb-dc40-4a42-8a61-6ffe3648c9cb", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 677, 
+      "cumarea": 6388.593988932077
+    }, 
+    {
+      "max_elev": 1310, 
+      "cumarea": 6383.229045896868, 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "name": "Cerro Otto", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1187, 
+      "uid": "cf647c5f-a55e-42b9-bf38-4764b02827e1"
+    }, 
+    {
+      "max_elev": 1314, 
+      "uid": "9c324bef-d0b1-415a-9b30-fd20b9210bb9", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1259, 
+      "cumarea": 6360.392185010859
+    }, 
+    {
+      "max_elev": 1311, 
+      "uid": "6afcc8a6-d61e-4960-8b09-7f9959681ad3", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 923, 
+      "cumarea": 6373.70138621652
+    }
+  ], 
+  "end_x": 6392.187558086943, 
+  "num": 181, 
+  "zoom": 9, 
+  "start_x": 6357.065648427124
+}

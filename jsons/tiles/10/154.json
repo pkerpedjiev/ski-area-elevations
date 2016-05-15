@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 2046, 
+      "cumarea": 2718.9553587073947, 
+      "area": 5.48, 
+      "num_lifts": 31, 
+      "name": "Campo Felice-Rocca di Cambio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1425, 
+      "uid": "713d91aa-8acc-46fa-bd75-fb59b1bd3e9e"
+    }, 
+    {
+      "max_elev": 2050, 
+      "uid": "cfe07839-9618-4794-b2f7-2c552f291141", 
+      "area": 3.63, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1268, 
+      "cumarea": 2706.322264010786
+    }, 
+    {
+      "max_elev": 2049, 
+      "uid": "f0c794c5-b35e-483f-a737-8cbdf2ad8aec", 
+      "area": 3.58, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1503, 
+      "cumarea": 2715.2542536064348
+    }, 
+    {
+      "max_elev": 2050, 
+      "uid": "5aca24ef-5ca5-4440-8d02-7c944e6fa4e1", 
+      "area": 2.88, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1387, 
+      "cumarea": 2709.3800543049338
+    }, 
+    {
+      "max_elev": 2050, 
+      "uid": "1c2ac31c-160b-4e6a-ba07-58e9e6b921c3", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1555, 
+      "cumarea": 2711.9788908060223
+    }
+  ], 
+  "end_x": 2721.947998635924, 
+  "num": 154, 
+  "zoom": 10, 
+  "start_x": 2704.3870438060144
+}

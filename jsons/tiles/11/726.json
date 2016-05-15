@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1310, 
+      "uid": "66200b06-4630-4904-84d6-cff0685fddaf", 
+      "area": 5.2700000000000005, 
+      "num_lifts": 42, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 614, 
+      "cumarea": 6377.363416579074
+    }, 
+    {
+      "max_elev": 1310, 
+      "uid": "799bbec2-7c85-463e-b14f-4e8d066e0d2c", 
+      "area": 3.4000000000000004, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 696, 
+      "cumarea": 6380.587192010696
+    }, 
+    {
+      "max_elev": 1310, 
+      "cumarea": 6383.229045896868, 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "name": "Cerro Otto", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1187, 
+      "uid": "cf647c5f-a55e-42b9-bf38-4764b02827e1"
+    }
+  ], 
+  "end_x": 6383.407080671988, 
+  "num": 726, 
+  "zoom": 11, 
+  "start_x": 6374.626603257033
+}

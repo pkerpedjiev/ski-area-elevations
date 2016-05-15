@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 811, 
+      "cumarea": 10093.878536508468, 
+      "area": 8.32, 
+      "num_lifts": 69, 
+      "name": "Mont Sainte-Anne", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 181, 
+      "uid": "63ff72e2-5414-4dfc-a4f3-ce5c5a93b536"
+    }, 
+    {
+      "max_elev": 821, 
+      "cumarea": 9974.23156856199, 
+      "area": 6.02, 
+      "num_lifts": 30, 
+      "name": "St\u00f6ten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 438, 
+      "uid": "da7cfec7-8f6c-4b19-b431-bdd86fb92b29"
+    }, 
+    {
+      "max_elev": 828, 
+      "cumarea": 9919.35558927295, 
+      "area": 5.0200000000000005, 
+      "num_lifts": 69, 
+      "name": "Mount Sunapee Resort", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 383, 
+      "uid": "859637e2-0998-4ac1-a4da-cb978798b853"
+    }, 
+    {
+      "max_elev": 824, 
+      "uid": "a3415389-bd1d-4beb-bf9e-e26ffb9d6d29", 
+      "area": 4.91, 
+      "num_lifts": 74, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 615, 
+      "cumarea": 9959.992469691737
+    }, 
+    {
+      "max_elev": 835, 
+      "uid": "dea8d301-3743-4576-b790-cd549abdd5d6", 
+      "area": 4.04, 
+      "num_lifts": 25, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 319, 
+      "cumarea": 9856.871405934824
+    }, 
+    {
+      "max_elev": 831, 
+      "uid": "b01ef568-47f9-485e-b16d-fe4bd612033e", 
+      "area": 3.66, 
+      "num_lifts": 31, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 584, 
+      "cumarea": 9902.672758966593
+    }, 
+    {
+      "max_elev": 819, 
+      "cumarea": 10009.282713439714, 
+      "area": 3.1799999999999997, 
+      "num_lifts": 9, 
+      "name": "Alyeska", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 90, 
+      "uid": "78055e86-4795-457c-9ef3-f8d38ae350ab"
+    }, 
+    {
+      "max_elev": 811, 
+      "cumarea": 10097.025938961306, 
+      "area": 3.1500000000000004, 
+      "num_lifts": 35, 
+      "name": "Elk Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 532, 
+      "uid": "0e68e59f-4ec2-41ba-a32d-70d41584b2fd"
+    }, 
+    {
+      "max_elev": 816, 
+      "uid": "7d0aea28-2a53-4dd8-ac98-03a469eaba88", 
+      "area": 2.81, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 425, 
+      "cumarea": 10031.513356304753
+    }, 
+    {
+      "max_elev": 817, 
+      "uid": "11d62d04-e618-4b95-8548-9a4b2fb80f54", 
+      "area": 2.7800000000000002, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 354, 
+      "cumarea": 10025.85423339054
+    }
+  ], 
+  "end_x": 10115.10998202769, 
+  "num": 35, 
+  "zoom": 6, 
+  "start_x": 9834.134704749144
+}

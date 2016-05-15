@@ -1,0 +1,102 @@
+{
+  "shown": [
+    {
+      "max_elev": 450, 
+      "cumarea": 13751.943671922601, 
+      "area": 7.55, 
+      "num_lifts": 160, 
+      "name": "Blue Mountains", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 228, 
+      "uid": "ea90e88b-aa03-4e57-8528-d1e49e25e1c7"
+    }, 
+    {
+      "max_elev": 469, 
+      "cumarea": 13563.066541556815, 
+      "area": 5.3, 
+      "num_lifts": 31, 
+      "name": "Ski Bromont", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 198, 
+      "uid": "29bc4890-58c9-425f-bc9a-be73840f01fe"
+    }, 
+    {
+      "max_elev": 447, 
+      "uid": "91b07617-cabf-4822-ad7d-5765dc3322fd", 
+      "area": 5.06, 
+      "num_lifts": 38, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 139, 
+      "cumarea": 13777.248669124863
+    }, 
+    {
+      "max_elev": 470, 
+      "uid": "f483f550-ac60-4adb-8a72-13225a922ac4", 
+      "area": 3.9400000000000004, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 17, 
+      "cumarea": 13551.575047024458
+    }, 
+    {
+      "max_elev": 413, 
+      "cumarea": 14115.766756089466, 
+      "area": 3.8499999999999996, 
+      "num_lifts": 74, 
+      "name": "Romme Alpin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 139, 
+      "uid": "4ff28be7-d44e-4d65-8d0a-8dd921b0699d"
+    }, 
+    {
+      "max_elev": 381, 
+      "uid": "61ad3408-0d2b-4728-81d8-c1f90b33c9a2", 
+      "area": 3.41, 
+      "num_lifts": 26, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 188, 
+      "cumarea": 14382.131632493309
+    }, 
+    {
+      "max_elev": 346, 
+      "uid": "287051b6-712b-44d6-937f-4b46c8664984", 
+      "area": 3.27, 
+      "num_lifts": 29, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 172, 
+      "cumarea": 14721.95942197841
+    }, 
+    {
+      "max_elev": 290, 
+      "uid": "164d4d56-e240-4deb-a911-aa45df658a0f", 
+      "area": 3.2, 
+      "num_lifts": 43, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 96, 
+      "cumarea": 15187.595230218567
+    }, 
+    {
+      "max_elev": 471, 
+      "uid": "1873c35d-a91b-4470-bb3b-3ffac9a04fc4", 
+      "area": 3.19, 
+      "num_lifts": 24, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 198, 
+      "cumarea": 13535.237262599325
+    }, 
+    {
+      "max_elev": 468, 
+      "cumarea": 13571.421095755784, 
+      "area": 3.1799999999999997, 
+      "num_lifts": 36, 
+      "name": "Blue Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 138, 
+      "uid": "51a02f24-b5e7-4879-a902-32f2d9b0d7fe"
+    }
+  ], 
+  "end_x": 15734.615527598628, 
+  "num": 6, 
+  "zoom": 3, 
+  "start_x": 13486.813309370253
+}

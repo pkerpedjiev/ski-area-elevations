@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2417, 
+      "cumarea": 1497.1209134370902, 
+      "area": 7.52, 
+      "num_lifts": 35, 
+      "name": "Anz\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1520, 
+      "uid": "00e6f1af-eb29-44a9-ad64-18f0276f9f54"
+    }, 
+    {
+      "max_elev": 2416, 
+      "uid": "a88a8d36-359e-47d0-9f21-d42bfc5c4285", 
+      "area": 2.29, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2173, 
+      "cumarea": 1499.9494652546564
+    }, 
+    {
+      "max_elev": 2418, 
+      "uid": "3e270f2f-623b-4d6e-be77-323071adb4ad", 
+      "area": 1.94, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1576, 
+      "cumarea": 1493.1033472991285
+    }
+  ], 
+  "end_x": 1501.4616379572353, 
+  "num": 170, 
+  "zoom": 11, 
+  "start_x": 1492.6811605422806
+}

@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 1302, 
+      "cumarea": 6431.5572486529, 
+      "area": 5.7700000000000005, 
+      "num_lifts": 25, 
+      "name": "Szklarska Por\u0119ba - Ski Arena Szrenica", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 641, 
+      "uid": "977369c1-3bfd-4cfa-a954-b1d0e9cfdee4"
+    }, 
+    {
+      "max_elev": 1302, 
+      "uid": "6c5f0b85-1aed-4631-a01f-14f561cd196e", 
+      "area": 2.09, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1047, 
+      "cumarea": 6436.887739564155
+    }, 
+    {
+      "max_elev": 1300, 
+      "uid": "fb32d388-f806-4d62-ad13-12c9e346710a", 
+      "area": 1.95, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1198, 
+      "cumarea": 6444.769472269733
+    }, 
+    {
+      "max_elev": 1300, 
+      "uid": "ff06d539-22c4-4237-8fa3-11c6ee523388", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1015, 
+      "cumarea": 6439.50831605188
+    }, 
+    {
+      "max_elev": 1303, 
+      "uid": "4554182d-37cf-41e2-8a24-11f0d8c43709", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1160, 
+      "cumarea": 6427.80457657238
+    }, 
+    {
+      "max_elev": 1302, 
+      "uid": "8b6a2e6a-d501-4b88-8f24-be3b4e757b7f", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1232, 
+      "cumarea": 6434.150575498178
+    }, 
+    {
+      "max_elev": 1300, 
+      "uid": "cf48535b-1823-4d85-bef4-5e0eec593006", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1217, 
+      "cumarea": 6442.101642897158
+    }
+  ], 
+  "end_x": 6444.8704225766705, 
+  "num": 366, 
+  "zoom": 10, 
+  "start_x": 6427.309467746762
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 695, 
+      "cumarea": 11366.770859673752, 
+      "area": 5.43, 
+      "num_lifts": 66, 
+      "name": "Attitash", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 188, 
+      "uid": "b8c8e54f-514e-4f7d-a447-d9497305916d"
+    }, 
+    {
+      "max_elev": 695, 
+      "uid": "b8a05028-c308-41b6-9303-ef2b7800ed4b", 
+      "area": 1.87, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 532, 
+      "cumarea": 11369.396798104619
+    }, 
+    {
+      "max_elev": 695, 
+      "uid": "9ef130b6-c6b8-4ace-9cc9-1d783d2aa0b7", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 666, 
+      "cumarea": 11363.078920539807
+    }
+  ], 
+  "end_x": 11370.718252366198, 
+  "num": 1294, 
+  "zoom": 11, 
+  "start_x": 11361.937774951242
+}

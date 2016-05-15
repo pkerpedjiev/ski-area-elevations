@@ -1,0 +1,106 @@
+{
+  "shown": [
+    {
+      "max_elev": 1828, 
+      "cumarea": 3708.1152144535386, 
+      "area": 22.52, 
+      "num_lifts": 95, 
+      "name": "Schwyz - Rotenfluh (Mythen)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 583, 
+      "uid": "59909f2f-dbce-4fa0-9afa-83b56a1c060b"
+    }, 
+    {
+      "max_elev": 1799, 
+      "cumarea": 3866.0749334872125, 
+      "area": 10.05, 
+      "num_lifts": 74, 
+      "name": "Folgariaski", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1224, 
+      "uid": "3861e775-fbf1-4a70-b6a8-bb5f00036dde"
+    }, 
+    {
+      "max_elev": 1815, 
+      "cumarea": 3770.5170725244893, 
+      "area": 8.71, 
+      "num_lifts": 82, 
+      "name": "Le Lioran", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1161, 
+      "uid": "3c830e77-d625-48e7-9ed1-f858f3389675"
+    }, 
+    {
+      "max_elev": 1817, 
+      "cumarea": 3761.019074438044, 
+      "area": 8.46, 
+      "num_lifts": 115, 
+      "name": "Super Besse", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1222, 
+      "uid": "16287e0a-f0fd-415a-a629-ae2c3083c260"
+    }, 
+    {
+      "max_elev": 1831, 
+      "cumarea": 3671.241437763361, 
+      "area": 5.89, 
+      "num_lifts": 18, 
+      "name": "Kagura", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 629, 
+      "uid": "5c73ac53-95d6-4b3d-8e17-87c207a57239"
+    }, 
+    {
+      "max_elev": 1826, 
+      "cumarea": 3720.426574012456, 
+      "area": 5.5, 
+      "num_lifts": 20, 
+      "name": "Tsugaike kogen Ski Area", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 778, 
+      "uid": "02b3ba73-d846-4e2d-b9cb-e11a23eae323"
+    }, 
+    {
+      "max_elev": 1830, 
+      "cumarea": 3680.200549827519, 
+      "area": 5.38, 
+      "num_lifts": 20, 
+      "name": "Hakuba Happoone Winter Resort", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 753, 
+      "uid": "5f6b0de6-9652-41c9-ac93-fe7530da3901"
+    }, 
+    {
+      "max_elev": 1811, 
+      "uid": "f7ea020e-df8c-40ba-8f91-4402c78cc22f", 
+      "area": 5.35, 
+      "num_lifts": 34, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1166, 
+      "cumarea": 3795.54758360608
+    }, 
+    {
+      "max_elev": 1810, 
+      "uid": "2247fc18-894d-4bb3-93ee-9e04eb14447a", 
+      "area": 5.14, 
+      "num_lifts": 22, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 959, 
+      "cumarea": 3799.184636685547
+    }, 
+    {
+      "max_elev": 1802, 
+      "cumarea": 3842.133386562424, 
+      "area": 5.13, 
+      "num_lifts": 41, 
+      "name": "Ancelle", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1320, 
+      "uid": "466f219c-f072-4570-908f-579da0233789"
+    }
+  ], 
+  "end_x": 3933.653881899657, 
+  "num": 13, 
+  "zoom": 6, 
+  "start_x": 3652.67860462111
+}

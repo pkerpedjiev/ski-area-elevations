@@ -1,0 +1,107 @@
+{
+  "shown": [
+    {
+      "max_elev": 2664, 
+      "cumarea": 891.6230502940098, 
+      "area": 10.46, 
+      "num_lifts": 88, 
+      "name": "Squaw", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1890, 
+      "uid": "5bd161a4-b032-415f-aadb-c9cac3d96dc7"
+    }, 
+    {
+      "max_elev": 2689, 
+      "cumarea": 851.1443056540079, 
+      "area": 9.540000000000001, 
+      "num_lifts": 83, 
+      "name": "Les Orres", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1552, 
+      "uid": "a6b499da-9dc2-4331-b863-74e9ca22fbf4"
+    }, 
+    {
+      "max_elev": 2689, 
+      "cumarea": 855.2960678572673, 
+      "area": 8.6, 
+      "num_lifts": 25, 
+      "name": "Lagazuoi - Cinque Torri / Passo Falzarego", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1888, 
+      "uid": "77a22292-0f5f-40c5-ab7a-d00f33130c3d"
+    }, 
+    {
+      "max_elev": 2675, 
+      "cumarea": 867.9708317871957, 
+      "area": 7.76, 
+      "num_lifts": 48, 
+      "name": "Ramsau am Dachstein", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1132, 
+      "uid": "7a79d4d9-8448-48d5-beb4-e56691336426"
+    }, 
+    {
+      "max_elev": 2669, 
+      "cumarea": 884.4296235677954, 
+      "area": 7.12, 
+      "num_lifts": 42, 
+      "name": "Puy Saint Vincent", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1405, 
+      "uid": "4e42e516-e757-4cbf-bfc2-601adff928f1"
+    }, 
+    {
+      "max_elev": 2698, 
+      "cumarea": 844.2736265294575, 
+      "area": 7.06, 
+      "num_lifts": 54, 
+      "name": "Sierra at Tahoe", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2025, 
+      "uid": "57644f87-70de-4a64-8213-f10ffe19da7c"
+    }, 
+    {
+      "max_elev": 2663, 
+      "cumarea": 895.4840248322593, 
+      "area": 6.43, 
+      "num_lifts": 34, 
+      "name": "Aussois", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1524, 
+      "uid": "f91b792c-fc29-4caf-a1cb-8c58ee4f28f9"
+    }, 
+    {
+      "max_elev": 2659, 
+      "cumarea": 907.1212484262666, 
+      "area": 5.75, 
+      "num_lifts": 37, 
+      "name": "Puigmal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1852, 
+      "uid": "969b9ea4-3a45-4069-8b40-4a7f3a028f74"
+    }, 
+    {
+      "max_elev": 2670, 
+      "cumarea": 880.4667158423715, 
+      "area": 5.24, 
+      "num_lifts": 31, 
+      "name": "Beaver mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2183, 
+      "uid": "74ce41d4-d1ba-4992-a131-f2563014facc"
+    }, 
+    {
+      "max_elev": 2670, 
+      "uid": "465fdde2-2af9-47ab-aad2-7f74d74e5096", 
+      "area": 4.2, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1447, 
+      "cumarea": 876.8103943440385
+    }
+  ], 
+  "end_x": 913.1696511552775, 
+  "num": 12, 
+  "zoom": 8, 
+  "start_x": 842.9258318356408
+}

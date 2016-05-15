@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1273, 
+      "cumarea": 6587.5830789536, 
+      "area": 7.819999999999999, 
+      "num_lifts": 95, 
+      "name": "Sugarloaf", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 425, 
+      "uid": "41976541-f8e6-4d03-851a-3240a48f9cb9"
+    }, 
+    {
+      "max_elev": 1273, 
+      "uid": "6337a734-ecc0-48b4-b8f9-3c68ef287464", 
+      "area": 2.0, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 633, 
+      "cumarea": 6590.27622613416
+    }, 
+    {
+      "max_elev": 1272, 
+      "uid": "d193e260-aa5a-4218-b7ea-653e4bfaad40", 
+      "area": 1.83, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1183, 
+      "cumarea": 6592.880542101014
+    }
+  ], 
+  "end_x": 6594.138538630898, 
+  "num": 750, 
+  "zoom": 11, 
+  "start_x": 6585.358061215944
+}

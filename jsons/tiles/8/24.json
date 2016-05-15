@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 2340, 
+      "cumarea": 1703.8078887193924, 
+      "area": 10.81, 
+      "num_lifts": 49, 
+      "name": "Ax les Thermes", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 735, 
+      "uid": "e3d6a99f-2589-492a-bd05-fdf7c27d68ef"
+    }, 
+    {
+      "max_elev": 2330, 
+      "cumarea": 1739.5431927939114, 
+      "area": 6.95, 
+      "num_lifts": 37, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 520, 
+      "uid": "27cc8c60-d684-428e-b662-54629232f9cd"
+    }, 
+    {
+      "max_elev": 2330, 
+      "cumarea": 1743.481934453488, 
+      "area": 6.95, 
+      "num_lifts": 37, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 520, 
+      "uid": "c326f600-075e-439d-944d-d71a188c0367"
+    }, 
+    {
+      "max_elev": 2340, 
+      "cumarea": 1707.630823806089, 
+      "area": 6.1899999999999995, 
+      "num_lifts": 29, 
+      "name": "Grosseck - Speiereck", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1092, 
+      "uid": "f820df8c-d491-4bd0-b2c8-d02e83f01f95"
+    }, 
+    {
+      "max_elev": 2337, 
+      "cumarea": 1717.3250537209253, 
+      "area": 5.7700000000000005, 
+      "num_lifts": 23, 
+      "name": "Moena - Alpe Lusia - Bellamonte / Trevalli", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1367, 
+      "uid": "b1d9d274-3410-484b-8c72-4ddc71bee13f"
+    }, 
+    {
+      "max_elev": 2332, 
+      "uid": "14a7d207-3057-4a29-9bd1-dd78dd2bc8d5", 
+      "area": 5.51, 
+      "num_lifts": 42, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1409, 
+      "cumarea": 1735.6044511343348
+    }, 
+    {
+      "max_elev": 2336, 
+      "uid": "c4e24d84-2fef-475e-a0be-4be99a2278f6", 
+      "area": 4.66, 
+      "num_lifts": 18, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 985, 
+      "cumarea": 1723.5006459981346
+    }, 
+    {
+      "max_elev": 2348, 
+      "uid": "4e51648a-5a89-4073-b548-8ea824e567aa", 
+      "area": 3.9000000000000004, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1395, 
+      "cumarea": 1690.625167323341
+    }, 
+    {
+      "max_elev": 2349, 
+      "uid": "6b2110e7-c0a0-4cde-9ea3-d004cbefe260", 
+      "area": 3.56, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1972, 
+      "cumarea": 1687.2641907702055
+    }, 
+    {
+      "max_elev": 2328, 
+      "uid": "0f420a10-bf1a-488d-8768-54d519903d4d", 
+      "area": 3.31, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1478, 
+      "cumarea": 1746.678882642877
+    }
+  ], 
+  "end_x": 1756.0954829909183, 
+  "num": 24, 
+  "zoom": 8, 
+  "start_x": 1685.8516636712816
+}

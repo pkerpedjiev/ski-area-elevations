@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1932, 
+      "cumarea": 3248.039596483917, 
+      "area": 5.13, 
+      "num_lifts": 23, 
+      "name": "Klewenalp/Stockh\u00fctte \u2013 Beckenried/Emmetten", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 450, 
+      "uid": "bd089c7c-c067-4e59-bfd6-846267d2b513"
+    }, 
+    {
+      "max_elev": 1933, 
+      "uid": "fc55e046-8257-4b52-ae18-667242b0e975", 
+      "area": 2.35, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1637, 
+      "cumarea": 3244.4044908247347
+    }, 
+    {
+      "max_elev": 1934, 
+      "uid": "9e6a5fb7-4aae-4f28-8ad8-9cc31fca6e58", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1541, 
+      "cumarea": 3241.5500754965788
+    }
+  ], 
+  "end_x": 3248.7766435331987, 
+  "num": 369, 
+  "zoom": 11, 
+  "start_x": 3239.996166118244
+}

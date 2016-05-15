@@ -1,0 +1,101 @@
+{
+  "shown": [
+    {
+      "max_elev": 1631, 
+      "cumarea": 4735.550622460941, 
+      "area": 5.59, 
+      "num_lifts": 20, 
+      "name": "Nozawa-onsen", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 580, 
+      "uid": "c71a2575-f953-475d-ae98-77a8721109da"
+    }, 
+    {
+      "max_elev": 1626, 
+      "uid": "de485086-babf-4b7d-8b4b-374b747e75e5", 
+      "area": 4.08, 
+      "num_lifts": 28, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1291, 
+      "cumarea": 4756.576948672463
+    }, 
+    {
+      "max_elev": 1631, 
+      "cumarea": 4738.941904363572, 
+      "area": 4.0200000000000005, 
+      "num_lifts": 16, 
+      "name": "Hakubagoryu", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 758, 
+      "uid": "cb893366-9775-40db-92e7-b73939c39df9"
+    }, 
+    {
+      "max_elev": 1645, 
+      "uid": "5efad9b9-a5e5-440e-bc6f-3d44215bff28", 
+      "area": 3.8200000000000003, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1094, 
+      "cumarea": 4670.725042893811
+    }, 
+    {
+      "max_elev": 1627, 
+      "uid": "74b14582-4688-4c00-b2fb-6c8075323f71", 
+      "area": 3.76, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 435, 
+      "cumarea": 4753.170851684047
+    }, 
+    {
+      "max_elev": 1632, 
+      "uid": "d2b460eb-8937-41e5-85fa-3ce918f83fe2", 
+      "area": 3.39, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1038, 
+      "cumarea": 4731.829643173774
+    }, 
+    {
+      "max_elev": 1643, 
+      "uid": "78c6c876-88b9-4086-993a-ea306459e19d", 
+      "area": 3.2800000000000002, 
+      "num_lifts": 25, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 891, 
+      "cumarea": 4679.844494680552
+    }, 
+    {
+      "max_elev": 1644, 
+      "uid": "d59d89a0-9dcd-4d3a-8111-788055fa8edd", 
+      "area": 3.1799999999999997, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 497, 
+      "cumarea": 4673.881924090603
+    }, 
+    {
+      "max_elev": 1650, 
+      "cumarea": 4641.837072313582, 
+      "area": 3.08, 
+      "num_lifts": 16, 
+      "name": "Spitzingsee-Tegernsee", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1093, 
+      "uid": "8064e085-210e-4abe-a1b4-3444e1a09d82"
+    }, 
+    {
+      "max_elev": 1637, 
+      "uid": "87942b70-3424-4046-82a1-7321689c2701", 
+      "area": 2.79, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1351, 
+      "cumarea": 4704.3970019302205
+    }
+  ], 
+  "end_x": 4776.579713735298, 
+  "num": 33, 
+  "zoom": 7, 
+  "start_x": 4636.092075096025
+}

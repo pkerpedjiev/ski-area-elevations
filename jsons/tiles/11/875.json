@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1100, 
+      "cumarea": 7687.531153309665, 
+      "area": 3.88, 
+      "num_lifts": 21, 
+      "name": "Jaworzyna Krynicka", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "uid": "efc9be82-7d9b-46c9-a51a-456b69985a34"
+    }, 
+    {
+      "max_elev": 1101, 
+      "uid": "223c109a-3481-4c0c-8a20-a4e02bbfc6a1", 
+      "area": 1.99, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 893, 
+      "cumarea": 7684.17531815603
+    }, 
+    {
+      "max_elev": 1100, 
+      "uid": "3cc1314a-f6da-4b78-a880-584ab3da8b93", 
+      "area": 1.99, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 779, 
+      "cumarea": 7690.219287948401
+    }
+  ], 
+  "end_x": 7691.698215500222, 
+  "num": 875, 
+  "zoom": 11, 
+  "start_x": 7682.917738085268
+}

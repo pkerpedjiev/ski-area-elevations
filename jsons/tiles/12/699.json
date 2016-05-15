@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1974, 
+      "cumarea": 3069.333773825509, 
+      "area": 7.1, 
+      "num_lifts": 51, 
+      "name": "Hinterstoder", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 594, 
+      "uid": "d64e7287-c973-4ca9-9435-65cdbacab517"
+    }, 
+    {
+      "max_elev": 1974, 
+      "uid": "f007e71e-a9ee-4b8b-bdcc-86eeb73668da", 
+      "area": 4.04, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1110, 
+      "cumarea": 3072.730018517482
+    }
+  ], 
+  "end_x": 3073.1670952341074, 
+  "num": 699, 
+  "zoom": 12, 
+  "start_x": 3068.77685652663
+}

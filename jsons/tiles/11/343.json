@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1985, 
+      "cumarea": 3016.8059444352107, 
+      "area": 26.11, 
+      "num_lifts": 166, 
+      "name": "Schladming", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 726, 
+      "uid": "cd2186dc-1e96-4022-abc4-bd2af5f10c80"
+    }, 
+    {
+      "max_elev": 1985, 
+      "uid": "bb9e851b-a19e-42dd-965c-9812b829edc0", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1617, 
+      "cumarea": 3019.4157100068314
+    }
+  ], 
+  "end_x": 3020.4842307443796, 
+  "num": 343, 
+  "zoom": 11, 
+  "start_x": 3011.703753329425
+}

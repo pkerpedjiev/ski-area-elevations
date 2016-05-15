@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3258, 
+      "cumarea": 297.39646053918943, 
+      "area": 24.0, 
+      "num_lifts": 135, 
+      "name": "S\u00f6lden", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1353, 
+      "uid": "23ee062c-4f8c-4427-94d6-a20680ad0298"
+    }, 
+    {
+      "max_elev": 3266, 
+      "uid": "a7d0c98e-4d2d-450b-801b-ed9c58a74988", 
+      "area": 2.24, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2270, 
+      "cumarea": 292.2184067088415
+    }
+  ], 
+  "end_x": 298.53623210845615, 
+  "num": 33, 
+  "zoom": 11, 
+  "start_x": 289.75575469350156
+}

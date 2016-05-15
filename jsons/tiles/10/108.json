@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 2276, 
+      "cumarea": 1901.531658253259, 
+      "area": 6.38, 
+      "num_lifts": 36, 
+      "name": "Sonnenkopf am Arlberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 999, 
+      "uid": "9133766f-7216-4f18-8071-7976bf5bd730"
+    }, 
+    {
+      "max_elev": 2276, 
+      "uid": "be19a28b-55fa-4ef5-950a-398c370f254d", 
+      "area": 4.78, 
+      "num_lifts": 48, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1495, 
+      "cumarea": 1905.0960987997623
+    }, 
+    {
+      "max_elev": 2273, 
+      "uid": "47b431a5-1ae4-45af-ab31-12e6a873c7c0", 
+      "area": 4.1, 
+      "num_lifts": 21, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 906, 
+      "cumarea": 1911.5223164532017
+    }, 
+    {
+      "max_elev": 2276, 
+      "uid": "84036d4b-eb3f-46d4-82ef-0ffdda21ff74", 
+      "area": 2.76, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1924, 
+      "cumarea": 1908.1113294794914
+    }, 
+    {
+      "max_elev": 2277, 
+      "uid": "2d18bef5-bcd5-4a13-85ee-e76f43d105fc", 
+      "area": 1.95, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1650, 
+      "cumarea": 1897.6784901559022
+    }
+  ], 
+  "end_x": 1914.144076460101, 
+  "num": 108, 
+  "zoom": 10, 
+  "start_x": 1896.5831216301917
+}

@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2478, 
+      "cumarea": 1329.3918287855536, 
+      "area": 12.350000000000001, 
+      "num_lifts": 75, 
+      "name": "Saint Lary Soulan", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 800, 
+      "uid": "05d25245-8d20-4d85-824e-d19dd0434eec"
+    }, 
+    {
+      "max_elev": 2477, 
+      "cumarea": 1332.271455533056, 
+      "area": 2.41, 
+      "num_lifts": 8, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1449, 
+      "uid": "132d2a51-d474-4eac-8cea-bb801d470259"
+    }
+  ], 
+  "end_x": 1334.632567073098, 
+  "num": 151, 
+  "zoom": 11, 
+  "start_x": 1325.8520896581435
+}

@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 2227, 
+      "cumarea": 2110.4570976887403, 
+      "area": 8.32, 
+      "num_lifts": 80, 
+      "name": "Mt Hood Meadows", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1382, 
+      "uid": "4b30cf26-e16a-43f3-ba04-5adf59b9b8ed"
+    }, 
+    {
+      "max_elev": 2225, 
+      "uid": "766ed52b-13b3-4606-bd62-a24c9e93c96c", 
+      "area": 2.63, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1488, 
+      "cumarea": 2113.42408153493
+    }, 
+    {
+      "max_elev": 2224, 
+      "uid": "b38040e2-1514-41f7-9284-671d946af9d6", 
+      "area": 2.2800000000000002, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1038, 
+      "cumarea": 2118.916086350472
+    }, 
+    {
+      "max_elev": 2224, 
+      "uid": "2a0ec3a7-8c11-45f3-b6cc-8f787dd82943", 
+      "area": 2.02, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2063, 
+      "cumarea": 2124.261037748058
+    }, 
+    {
+      "max_elev": 2225, 
+      "uid": "1f9beb72-9f16-44fa-83d6-e41e84058f00", 
+      "area": 1.95, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1899, 
+      "cumarea": 2116.0919109075057
+    }, 
+    {
+      "max_elev": 2224, 
+      "uid": "376d86fd-a3ff-4c99-913e-86f5c41b928a", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1440, 
+      "cumarea": 2121.5579402366448
+    }
+  ], 
+  "end_x": 2124.8755344190113, 
+  "num": 120, 
+  "zoom": 10, 
+  "start_x": 2107.314579589102
+}

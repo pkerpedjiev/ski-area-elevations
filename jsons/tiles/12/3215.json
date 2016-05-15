@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 413, 
+      "cumarea": 14115.766756089466, 
+      "area": 3.8499999999999996, 
+      "num_lifts": 74, 
+      "name": "Romme Alpin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 139, 
+      "uid": "4ff28be7-d44e-4d65-8d0a-8dd921b0699d"
+    }, 
+    {
+      "max_elev": 413, 
+      "uid": "14202ed2-b4da-4a5b-be67-5fd473e271c8", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 300, 
+      "cumarea": 14118.376521661086
+    }
+  ], 
+  "end_x": 14119.007683246982, 
+  "num": 3215, 
+  "zoom": 12, 
+  "start_x": 14114.617444539505
+}

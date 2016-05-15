@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 1354, 
+      "cumarea": 6128.066906814892, 
+      "area": 9.73, 
+      "num_lifts": 78, 
+      "name": "Bukovel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 882, 
+      "uid": "452c65bc-f93d-4e98-a6f7-dca735c5c84b"
+    }, 
+    {
+      "max_elev": 1355, 
+      "uid": "dd885122-9033-49de-be27-4af4fa27301e", 
+      "area": 2.51, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 930, 
+      "cumarea": 6123.791692918694
+    }, 
+    {
+      "max_elev": 1357, 
+      "uid": "d1e2351d-5f18-4457-9027-94283cc32177", 
+      "area": 2.24, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1097, 
+      "cumarea": 6115.548694786074
+    }, 
+    {
+      "max_elev": 1357, 
+      "uid": "5d82fb88-6b2f-4146-b585-966e419cd9d7", 
+      "area": 2.04, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1217, 
+      "cumarea": 6118.261644593929
+    }, 
+    {
+      "max_elev": 1356, 
+      "uid": "3d48727f-6feb-4455-922c-ec0eb4804f21", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 969, 
+      "cumarea": 6120.8714101655505
+    }, 
+    {
+      "max_elev": 1359, 
+      "uid": "22ceaaf9-aec8-4915-8df5-1253481fee40", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1245, 
+      "cumarea": 6112.742218920207
+    }
+  ], 
+  "end_x": 6128.773235638306, 
+  "num": 348, 
+  "zoom": 10, 
+  "start_x": 6111.212280808396
+}

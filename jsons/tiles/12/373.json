@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2370, 
+      "cumarea": 1638.294779262614, 
+      "area": 12.56, 
+      "num_lifts": 83, 
+      "name": "Les 7 Laux", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1335, 
+      "uid": "b9486aa7-d482-4de2-97fd-76529edb78c8"
+    }, 
+    {
+      "max_elev": 2370, 
+      "uid": "677fb499-abbd-46e4-aca3-e59f49edb327", 
+      "area": 2.7800000000000002, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1896, 
+      "cumarea": 1641.3172301903164
+    }
+  ], 
+  "end_x": 1641.9492765965088, 
+  "num": 373, 
+  "zoom": 12, 
+  "start_x": 1637.5590378890315
+}

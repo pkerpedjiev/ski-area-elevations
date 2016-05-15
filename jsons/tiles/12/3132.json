@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 450, 
+      "cumarea": 13751.943671922601, 
+      "area": 7.55, 
+      "num_lifts": 160, 
+      "name": "Blue Mountains", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 228, 
+      "uid": "ea90e88b-aa03-4e57-8528-d1e49e25e1c7"
+    }
+  ], 
+  "end_x": 13754.617870526366, 
+  "num": 3132, 
+  "zoom": 12, 
+  "start_x": 13750.22763181889
+}

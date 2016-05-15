@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 155, 
+      "uid": "173598c6-5346-4e38-acd2-567d10e56066", 
+      "area": 1.99, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 70, 
+      "cumarea": 16465.166780834737
+    }, 
+    {
+      "max_elev": 156, 
+      "uid": "97dfe3cb-c737-4f52-824f-c33822827b79", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 108, 
+      "cumarea": 16454.704236365105
+    }, 
+    {
+      "max_elev": 155, 
+      "uid": "f4c222a3-f37c-4f81-ad3c-4377ae1a9c80", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 24, 
+      "cumarea": 16467.79805261158
+    }, 
+    {
+      "max_elev": 155, 
+      "uid": "832fd923-845d-4a25-90ba-876e4c5a54d6", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 130, 
+      "cumarea": 16470.40236857843
+    }, 
+    {
+      "max_elev": 156, 
+      "uid": "73cec350-6c5e-4f4e-b135-8537c3972da9", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 96, 
+      "cumarea": 16457.303072866194
+    }, 
+    {
+      "max_elev": 156, 
+      "uid": "552139bd-754c-431d-a6db-e4da96f29e7b", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 148, 
+      "cumarea": 16459.890859531097
+    }, 
+    {
+      "max_elev": 156, 
+      "uid": "cdc2566c-a1a9-45bc-a359-f5a3530f2d3c", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 155, 
+      "cumarea": 16462.478646196
+    }
+  ], 
+  "end_x": 16472.175630454814, 
+  "num": 937, 
+  "zoom": 10, 
+  "start_x": 16454.614675624907
+}

@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 4073, 
+      "cumarea": 21.492597337836628, 
+      "area": 2.33, 
+      "num_lifts": 3, 
+      "name": "(city)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 3281, 
+      "uid": "8223a087-b34c-48ad-be92-e0fe3db45eef"
+    }, 
+    {
+      "max_elev": 4110, 
+      "cumarea": 18.646729070259017, 
+      "area": 2.0100000000000002, 
+      "num_lifts": 2, 
+      "name": "(urban, La Paz)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 3706, 
+      "uid": "149969d9-ce99-41f7-997c-35a02e14043b"
+    }, 
+    {
+      "max_elev": 4031, 
+      "uid": "ed0beef1-b56a-4345-9016-f16e5be6c927", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 4016, 
+      "cumarea": 24.08592418311436
+    }
+  ], 
+  "end_x": 26.341432244863775, 
+  "num": 2, 
+  "zoom": 11, 
+  "start_x": 17.560954829909182
+}

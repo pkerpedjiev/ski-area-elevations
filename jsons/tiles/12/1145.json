@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1573, 
+      "cumarea": 5028.493380554961, 
+      "area": 2.19, 
+      "num_lifts": 5, 
+      "name": "Silbertal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 881, 
+      "uid": "05b07ce1-d753-4cad-9b77-63b4391b01b3"
+    }, 
+    {
+      "max_elev": 1573, 
+      "uid": "1f69edaa-449a-42a7-9759-d98714e33926", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 690, 
+      "cumarea": 5031.135234441133
+    }
+  ], 
+  "end_x": 5031.213558768982, 
+  "num": 1145, 
+  "zoom": 12, 
+  "start_x": 5026.823320061505
+}

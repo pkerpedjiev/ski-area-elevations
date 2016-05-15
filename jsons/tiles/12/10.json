@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3928, 
+      "cumarea": 45.670119177773074, 
+      "area": 16.53, 
+      "num_lifts": 124, 
+      "name": "Breckenridge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2914, 
+      "uid": "691431f3-fe50-4648-8883-d7971df1dc3e"
+    }, 
+    {
+      "max_elev": 3919, 
+      "uid": "8e28218c-d2d4-418e-9b51-7dbdbdcb0988", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3913, 
+      "cumarea": 48.25790584267519
+    }
+  ], 
+  "end_x": 48.292625782250255, 
+  "num": 10, 
+  "zoom": 12, 
+  "start_x": 43.90238707477296
+}

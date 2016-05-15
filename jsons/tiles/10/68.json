@@ -1,0 +1,55 @@
+{
+  "shown": [
+    {
+      "max_elev": 2510, 
+      "cumarea": 1210.4591299420913, 
+      "area": 22.220000000000002, 
+      "num_lifts": 177, 
+      "name": "Baqueira-Beret", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1465, 
+      "uid": "609d007f-aab8-4d97-bad1-33ab29f08ac3"
+    }, 
+    {
+      "max_elev": 2514, 
+      "cumarea": 1195.0812194732869, 
+      "area": 10.22, 
+      "num_lifts": 38, 
+      "name": "Bansko", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 993, 
+      "uid": "3a1692b0-4dd5-421a-846f-6d6db9f7db1c"
+    }, 
+    {
+      "max_elev": 2513, 
+      "uid": "51b5734f-3914-4021-bd49-a5ac133993fa", 
+      "area": 5.15, 
+      "num_lifts": 19, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1050, 
+      "cumarea": 1202.1139825639211
+    }, 
+    {
+      "max_elev": 2514, 
+      "uid": "f8aa6d25-4cb3-4ec8-b14f-05610784a552", 
+      "area": 4.03, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1640, 
+      "cumarea": 1198.4749858492455
+    }, 
+    {
+      "max_elev": 2511, 
+      "uid": "55593ef5-245c-4a99-984f-456b8c547286", 
+      "area": 3.4699999999999998, 
+      "num_lifts": 23, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1855, 
+      "cumarea": 1205.3581371578798
+    }
+  ], 
+  "end_x": 1211.7058832637338, 
+  "num": 68, 
+  "zoom": 10, 
+  "start_x": 1194.1449284338246
+}

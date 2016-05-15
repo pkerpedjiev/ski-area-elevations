@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 630, 
+      "cumarea": 11985.017895812653, 
+      "area": 1.9100000000000001, 
+      "num_lifts": 3, 
+      "name": "Bled", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 505, 
+      "uid": "01e253fb-4aad-4ab1-8900-309dc85a0a04"
+    }
+  ], 
+  "end_x": 11985.35167141302, 
+  "num": 5459, 
+  "zoom": 13, 
+  "start_x": 11983.156552059281
+}

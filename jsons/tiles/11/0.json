@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 4734, 
+      "cumarea": 4.144761007800478, 
+      "area": 3.05, 
+      "num_lifts": 6, 
+      "name": "M\u00e9rida cable car", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1412, 
+      "uid": "7962369f-522d-40a7-9338-d4e5b2bad3c8"
+    }, 
+    {
+      "max_elev": 4509, 
+      "uid": "8b30adeb-9266-4b10-8fa4-1b97ee434c00", 
+      "area": 1.99, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 3350, 
+      "cumarea": 6.83289564653688
+    }, 
+    {
+      "max_elev": 5204, 
+      "cumarea": 1.0296194171811581, 
+      "area": "1.00", 
+      "num_lifts": 1, 
+      "name": "(mine)", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 4034, 
+      "uid": "b9843d94-a87d-4b36-95a4-7ca56621bd0d"
+    }
+  ], 
+  "end_x": 8.780477414954591, 
+  "num": 0, 
+  "zoom": 11, 
+  "start_x": 0.0
+}

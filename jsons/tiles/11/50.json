@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 3118, 
+      "cumarea": 439.1548279812385, 
+      "area": 11.0, 
+      "num_lifts": 42, 
+      "name": "Cortina d'Ampezzo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1204, 
+      "uid": "f5d262b7-ae7f-47ac-b949-5dd58a164a70"
+    }, 
+    {
+      "max_elev": 3114, 
+      "uid": "40721b6c-b1f2-4aa7-876b-66e988a70b90", 
+      "area": 4.91, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2179, 
+      "cumarea": 442.74610192304493
+    }, 
+    {
+      "max_elev": 3096, 
+      "uid": "80d43d51-7a84-4298-bb44-99077cf0654a", 
+      "area": 2.15, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2098, 
+      "cumarea": 445.5115697651845
+    }
+  ], 
+  "end_x": 447.80434816268416, 
+  "num": 50, 
+  "zoom": 11, 
+  "start_x": 439.0238707477296
+}

@@ -1,0 +1,71 @@
+{
+  "shown": [
+    {
+      "max_elev": 1025, 
+      "uid": "bb21bb0e-2dcb-4a45-a358-c68f0c6cf370", 
+      "area": 2.75, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 766, 
+      "cumarea": 8253.86850278993
+    }, 
+    {
+      "max_elev": 1024, 
+      "uid": "90006f7f-eddd-4d44-9be9-3f65af4a10df", 
+      "area": 2.3200000000000003, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 734, 
+      "cumarea": 8259.34134175245
+    }, 
+    {
+      "max_elev": 1021, 
+      "uid": "5d961ed5-c648-4b72-85b7-232bd15f9507", 
+      "area": 1.98, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 744, 
+      "cumarea": 8267.2439402031
+    }, 
+    {
+      "max_elev": 1025, 
+      "uid": "6e71d96e-1828-43f9-a992-6d7dd918e608", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 943, 
+      "cumarea": 8256.499774566772
+    }, 
+    {
+      "max_elev": 1022, 
+      "uid": "c11a2b21-f744-4380-afa1-ed3913076b98", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 982, 
+      "cumarea": 8264.560843358393
+    }, 
+    {
+      "max_elev": 1023, 
+      "uid": "e622cbc2-bc8d-4e01-9f5a-2cd1e17fec3b", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 746, 
+      "cumarea": 8261.945657719303
+    }, 
+    {
+      "max_elev": 1021, 
+      "uid": "432aaaee-2b68-46bb-9aa7-b811ea8d0fb4", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 997, 
+      "cumarea": 8269.837267048377
+    }
+  ], 
+  "end_x": 8271.209724887225, 
+  "num": 470, 
+  "zoom": 10, 
+  "start_x": 8253.648770057316
+}

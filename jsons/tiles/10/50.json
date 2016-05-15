@@ -1,0 +1,57 @@
+{
+  "shown": [
+    {
+      "max_elev": 2664, 
+      "cumarea": 891.6230502940098, 
+      "area": 10.46, 
+      "num_lifts": 88, 
+      "name": "Squaw", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1890, 
+      "uid": "5bd161a4-b032-415f-aadb-c9cac3d96dc7"
+    }, 
+    {
+      "max_elev": 2669, 
+      "cumarea": 884.4296235677954, 
+      "area": 7.12, 
+      "num_lifts": 42, 
+      "name": "Puy Saint Vincent", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1405, 
+      "uid": "4e42e516-e757-4cbf-bfc2-601adff928f1"
+    }, 
+    {
+      "max_elev": 2663, 
+      "cumarea": 895.4840248322593, 
+      "area": 6.43, 
+      "num_lifts": 34, 
+      "name": "Aussois", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1524, 
+      "uid": "f91b792c-fc29-4caf-a1cb-8c58ee4f28f9"
+    }, 
+    {
+      "max_elev": 2670, 
+      "cumarea": 880.4667158423715, 
+      "area": 5.24, 
+      "num_lifts": 31, 
+      "name": "Beaver mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2183, 
+      "uid": "74ce41d4-d1ba-4992-a131-f2563014facc"
+    }, 
+    {
+      "max_elev": 2668, 
+      "uid": "6a5cbf28-dee1-49a2-a0f3-a84532d92350", 
+      "area": 2.33, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1620, 
+      "cumarea": 887.275491835373
+    }
+  ], 
+  "end_x": 895.6086963253683, 
+  "num": 50, 
+  "zoom": 10, 
+  "start_x": 878.0477414954591
+}

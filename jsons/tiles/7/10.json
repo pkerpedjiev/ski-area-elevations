@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2400, 
+      "cumarea": 1542.0414449835612, 
+      "area": 28.91, 
+      "num_lifts": 68, 
+      "name": "Wengen / Kleine Scheidegg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "uid": "434cc57d-dcf1-4816-a28b-d6cc2d62557a"
+    }, 
+    {
+      "max_elev": 2427, 
+      "cumarea": 1459.1661954853623, 
+      "area": 25.91, 
+      "num_lifts": 196, 
+      "name": "Z\u00fcrs / Lech / Warth", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1326, 
+      "uid": "a83d080e-0b63-412d-b6d4-efd0d17dc42c"
+    }, 
+    {
+      "max_elev": 2407, 
+      "cumarea": 1528.5996613376522, 
+      "area": 21.82, 
+      "num_lifts": 188, 
+      "name": "Silvretta Montafon", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 691, 
+      "uid": "866561f5-5107-4445-9aff-78dbdbb609b3"
+    }, 
+    {
+      "max_elev": 2419, 
+      "cumarea": 1483.521138774445, 
+      "area": 16.03, 
+      "num_lifts": 67, 
+      "name": "Auron", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1170, 
+      "uid": "0dcd874b-b913-48a7-b967-9e35d6fb01e0"
+    }, 
+    {
+      "max_elev": 2432, 
+      "cumarea": 1435.5946708272218, 
+      "area": 13.860000000000001, 
+      "num_lifts": 58, 
+      "name": "Meiringen-Hasliberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 626, 
+      "uid": "2cf80ebf-88b8-417e-b145-059bd6c5529f"
+    }, 
+    {
+      "max_elev": 2429, 
+      "cumarea": 1449.8258943993578, 
+      "area": 12.700000000000001, 
+      "num_lifts": 68, 
+      "name": "Les Contamines Montjoie", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1149, 
+      "uid": "df37a228-9d6c-4c02-9373-ba2433839787"
+    }, 
+    {
+      "max_elev": 2432, 
+      "cumarea": 1439.76486673217, 
+      "area": 8.76, 
+      "num_lifts": 34, 
+      "name": "Melchsee - Frutt", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1076, 
+      "uid": "5aa0b9ee-79d0-48f0-9b44-467de3870ebb"
+    }, 
+    {
+      "max_elev": 2419, 
+      "cumarea": 1487.6798534970194, 
+      "area": 8.66, 
+      "num_lifts": 49, 
+      "name": "Latemar - Obereggen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1072, 
+      "uid": "473162eb-97e2-48b2-99b4-032f79125881"
+    }, 
+    {
+      "max_elev": 2429, 
+      "cumarea": 1453.9115664907883, 
+      "area": 8.05, 
+      "num_lifts": 39, 
+      "name": "Bardonecchia", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1294, 
+      "uid": "fe94a0d3-6759-417a-b9ad-73e8d24ea996"
+    }, 
+    {
+      "max_elev": 2417, 
+      "cumarea": 1497.1209134370902, 
+      "area": 7.52, 
+      "num_lifts": 35, 
+      "name": "Anz\u00e8re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1520, 
+      "uid": "00e6f1af-eb29-44a9-ad64-18f0276f9f54"
+    }
+  ], 
+  "end_x": 1545.3640250320082, 
+  "num": 10, 
+  "zoom": 7, 
+  "start_x": 1404.8763863927347
+}

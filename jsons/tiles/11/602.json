@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1517, 
+      "cumarea": 5287.98366914768, 
+      "area": 3.23, 
+      "num_lifts": 14, 
+      "name": "Antillanca", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1054, 
+      "uid": "723e6de7-a8d9-45e6-8643-e55a0742ee21"
+    }, 
+    {
+      "max_elev": 1516, 
+      "uid": "2d93cdb3-5484-4420-a8ef-a6ed9d1ac711", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1319, 
+      "cumarea": 5290.587985114534
+    }, 
+    {
+      "max_elev": 1516, 
+      "uid": "68f92ad4-2cf2-4fa1-b9b0-c383df7c12b3", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1342, 
+      "cumarea": 5293.186821615623
+    }
+  ], 
+  "end_x": 5294.62788121762, 
+  "num": 602, 
+  "zoom": 11, 
+  "start_x": 5285.847403802665
+}

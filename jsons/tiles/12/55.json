@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3360, 
+      "cumarea": 245.14926901904786, 
+      "area": 13.100000000000001, 
+      "num_lifts": 163, 
+      "name": "Mammoth", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2456, 
+      "uid": "b2e81829-2d6c-4c40-a7f8-1f24b7fb19b9"
+    }
+  ], 
+  "end_x": 245.85336761872856, 
+  "num": 55, 
+  "zoom": 12, 
+  "start_x": 241.46312891125126
+}

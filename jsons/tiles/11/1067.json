@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 885, 
+      "cumarea": 9373.27957594887, 
+      "area": 6.6, 
+      "num_lifts": 95, 
+      "name": "S\u00e4ls\u00e4tern (S\u00e4len)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 576, 
+      "uid": "e3af6532-5254-49f2-9313-f7dbc92efad5"
+    }, 
+    {
+      "max_elev": 885, 
+      "cumarea": 9376.235087393898, 
+      "area": 2.6, 
+      "num_lifts": 2, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 691, 
+      "uid": "49683675-edd7-41e0-a355-b084ae1e3a26"
+    }, 
+    {
+      "max_elev": 886, 
+      "uid": "5dba769f-eec4-4c69-bfb4-30683fde6820", 
+      "area": 1.8900000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 239, 
+      "cumarea": 9369.392506299839
+    }
+  ], 
+  "end_x": 9377.549879171504, 
+  "num": 1067, 
+  "zoom": 11, 
+  "start_x": 9368.769401756548
+}

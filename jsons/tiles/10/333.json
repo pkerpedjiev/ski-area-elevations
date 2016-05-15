@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 1412, 
+      "uid": "13a17d67-b089-4ace-9d48-7c39908f9de5", 
+      "area": 2.25, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1178, 
+      "cumarea": 5848.572763557042
+    }, 
+    {
+      "max_elev": 1410, 
+      "uid": "07b69e00-fe50-4974-8f1e-68c7e3e647d0", 
+      "area": 2.22, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1200, 
+      "cumarea": 5859.188490052783
+    }, 
+    {
+      "max_elev": 1406, 
+      "cumarea": 5864.537938877783, 
+      "area": 2.13, 
+      "num_lifts": 10, 
+      "name": "Sappada", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1197, 
+      "uid": "60001199-5e5e-417c-990c-ededcd7d87c4"
+    }, 
+    {
+      "max_elev": 1411, 
+      "uid": "779ea1f9-5d24-4f6b-bf82-a050f674e696", 
+      "area": 1.86, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 689, 
+      "cumarea": 5853.79765601162
+    }, 
+    {
+      "max_elev": 1412, 
+      "uid": "968c116a-18eb-491c-ba96-f62cd1c22ad6", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1226, 
+      "cumarea": 5851.177079523895
+    }, 
+    {
+      "max_elev": 1411, 
+      "uid": "b5611ba8-1e35-4489-ac05-ed66e55c3fca", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1363, 
+      "cumarea": 5856.3909828568985
+    }, 
+    {
+      "max_elev": 1410, 
+      "uid": "afec95bc-817e-4b44-9f30-5198b5d3b75a", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1400, 
+      "cumarea": 5861.781816898061
+    }
+  ], 
+  "end_x": 5865.358913189668, 
+  "num": 333, 
+  "zoom": 10, 
+  "start_x": 5847.797958359759
+}

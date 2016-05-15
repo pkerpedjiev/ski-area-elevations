@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2026, 
+      "cumarea": 2848.0670633829827, 
+      "area": 8.41, 
+      "num_lifts": 61, 
+      "name": "Nieveleon San Isidro", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1493, 
+      "uid": "2bd3e670-a9ef-4888-ad6f-f54144f5440d"
+    }, 
+    {
+      "max_elev": 2026, 
+      "uid": "55732da4-34f1-4634-b26c-a5db23142d53", 
+      "area": 4.46, 
+      "num_lifts": 17, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 886, 
+      "cumarea": 2851.5622121490146
+    }
+  ], 
+  "end_x": 2853.6551598602427, 
+  "num": 324, 
+  "zoom": 11, 
+  "start_x": 2844.874682445288
+}

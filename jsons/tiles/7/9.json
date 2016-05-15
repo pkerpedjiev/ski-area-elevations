@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2470, 
+      "cumarea": 1356.3553152276927, 
+      "area": 35.61, 
+      "num_lifts": 167, 
+      "name": "Flaine", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 692, 
+      "uid": "71fc5102-499c-4cee-8a6d-2173e3902c56"
+    }, 
+    {
+      "max_elev": 2465, 
+      "cumarea": 1367.9063691841036, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 545, 
+      "uid": "1141a029-c589-4f2c-9faa-0b19452a7314"
+    }, 
+    {
+      "max_elev": 2465, 
+      "cumarea": 1375.898804674983, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 545, 
+      "uid": "c88bdcb4-0ed8-44c9-9108-52ed20d0aa67"
+    }, 
+    {
+      "max_elev": 2457, 
+      "cumarea": 1384.526145271091, 
+      "area": 21.57, 
+      "num_lifts": 158, 
+      "name": "Mayrhofen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 622, 
+      "uid": "2642e621-4837-41b6-8cee-4adb877cef17"
+    }, 
+    {
+      "max_elev": 2451, 
+      "cumarea": 1393.0660780250937, 
+      "area": 20.59, 
+      "num_lifts": 111, 
+      "name": "La Clusaz", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1021, 
+      "uid": "d7d13a31-dd05-49c6-9907-cf41b2494168"
+    }, 
+    {
+      "max_elev": 2483, 
+      "cumarea": 1308.8183874543254, 
+      "area": 20.51, 
+      "num_lifts": 138, 
+      "name": "Zillertal Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 574, 
+      "uid": "33d7078a-b84d-4193-b52e-a8ddcc85cc9a"
+    }, 
+    {
+      "max_elev": 2478, 
+      "cumarea": 1329.3918287855536, 
+      "area": 12.350000000000001, 
+      "num_lifts": 75, 
+      "name": "Saint Lary Soulan", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 800, 
+      "uid": "05d25245-8d20-4d85-824e-d19dd0434eec"
+    }, 
+    {
+      "max_elev": 2487, 
+      "cumarea": 1296.6760795906914, 
+      "area": 9.64, 
+      "num_lifts": 69, 
+      "name": "Chamonix", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1033, 
+      "uid": "942ed9f5-61a4-4ef1-b142-d13b52602469"
+    }, 
+    {
+      "max_elev": 2471, 
+      "cumarea": 1345.3685846686437, 
+      "area": 9.36, 
+      "num_lifts": 41, 
+      "name": "Les Karellis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1531, 
+      "uid": "7a27678c-c7dc-4478-bfff-3fa81b0a4951"
+    }, 
+    {
+      "max_elev": 2488, 
+      "cumarea": 1283.5964913981736, 
+      "area": 8.3, 
+      "num_lifts": 42, 
+      "name": "Valles/Vals / Jochtal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 756, 
+      "uid": "83819585-199b-48bc-a59f-4d373b55abeb"
+    }
+  ], 
+  "end_x": 1404.8763863927347, 
+  "num": 9, 
+  "zoom": 7, 
+  "start_x": 1264.3887477534613
+}

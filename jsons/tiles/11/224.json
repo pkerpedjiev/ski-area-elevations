@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2266, 
+      "cumarea": 1969.5924080479622, 
+      "area": 5.04, 
+      "num_lifts": 31, 
+      "name": "Vitosha", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 721, 
+      "uid": "bb3fd327-73a2-45d8-98da-3c9a8b415ec5"
+    }, 
+    {
+      "max_elev": 2266, 
+      "uid": "24a09647-c304-4e1a-9a07-147080f4a7e0", 
+      "area": 1.92, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2061, 
+      "cumarea": 1972.2447332340018
+    }
+  ], 
+  "end_x": 1975.607418364783, 
+  "num": 224, 
+  "zoom": 11, 
+  "start_x": 1966.8269409498284
+}

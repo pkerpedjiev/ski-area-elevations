@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2246, 
+      "cumarea": 2043.1572639781343, 
+      "area": 91.42, 
+      "num_lifts": 482, 
+      "name": "Portes du Soleil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 946, 
+      "uid": "57b10664-312b-4882-9f1e-ee404ee74aff"
+    }, 
+    {
+      "max_elev": 2367, 
+      "cumarea": 1653.1769581332032, 
+      "area": 41.3, 
+      "num_lifts": 214, 
+      "name": "Meg\u00e9ve", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 827, 
+      "uid": "f68e82a4-3081-4533-88fc-887a782f42c1"
+    }, 
+    {
+      "max_elev": 2273, 
+      "cumarea": 1925.1464947045918, 
+      "area": 41.3, 
+      "num_lifts": 312, 
+      "name": "Whistler Blackcomb", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 659, 
+      "uid": "8e8aa042-bd64-4b74-931a-f3b6f66443f0"
+    }, 
+    {
+      "max_elev": 2470, 
+      "cumarea": 1356.3553152276927, 
+      "area": 35.61, 
+      "num_lifts": 167, 
+      "name": "Flaine", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 692, 
+      "uid": "71fc5102-499c-4cee-8a6d-2173e3902c56"
+    }, 
+    {
+      "max_elev": 2400, 
+      "cumarea": 1542.0414449835612, 
+      "area": 28.91, 
+      "num_lifts": 68, 
+      "name": "Wengen / Kleine Scheidegg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 940, 
+      "uid": "434cc57d-dcf1-4816-a28b-d6cc2d62557a"
+    }, 
+    {
+      "max_elev": 2465, 
+      "cumarea": 1367.9063691841036, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 545, 
+      "uid": "1141a029-c589-4f2c-9faa-0b19452a7314"
+    }, 
+    {
+      "max_elev": 2465, 
+      "cumarea": 1375.898804674983, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 545, 
+      "uid": "c88bdcb4-0ed8-44c9-9108-52ed20d0aa67"
+    }, 
+    {
+      "max_elev": 2499, 
+      "cumarea": 1252.1852053417476, 
+      "area": 28.12, 
+      "num_lifts": 134, 
+      "name": "Valmorel", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1220, 
+      "uid": "918f88aa-c5c0-4a1b-94ba-bfd1023136e6"
+    }, 
+    {
+      "max_elev": 2270, 
+      "cumarea": 1943.8629802025566, 
+      "area": 27.39, 
+      "num_lifts": 70, 
+      "name": "Obersaxen Meierhof", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1246, 
+      "uid": "aef73628-f112-4f23-b641-8ec2b7df70c5"
+    }, 
+    {
+      "max_elev": 2427, 
+      "cumarea": 1459.1661954853623, 
+      "area": 25.91, 
+      "num_lifts": 196, 
+      "name": "Z\u00fcrs / Lech / Warth", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1326, 
+      "uid": "a83d080e-0b63-412d-b6d4-efd0d17dc42c"
+    }
+  ], 
+  "end_x": 2247.8022182283753, 
+  "num": 1, 
+  "zoom": 4, 
+  "start_x": 1123.9011091141876
+}

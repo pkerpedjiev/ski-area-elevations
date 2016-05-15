@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1254, 
+      "cumarea": 6684.338843230303, 
+      "area": 3.06, 
+      "num_lifts": 6, 
+      "name": "Mariazeller B\u00fcrgeralpe", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 870, 
+      "uid": "cfae18f4-1809-45e0-8029-bd61e96e2fff"
+    }, 
+    {
+      "max_elev": 1254, 
+      "uid": "179be35d-e3df-4890-b740-3ebf9756c8c8", 
+      "area": 2.0300000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 854, 
+      "cumarea": 6687.046879023356
+    }, 
+    {
+      "max_elev": 1254, 
+      "uid": "4fa39838-e7fa-4b4c-8592-7d56d31d76a9", 
+      "area": 1.85, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 847, 
+      "cumarea": 6689.662064662447
+    }
+  ], 
+  "end_x": 6690.7237901953995, 
+  "num": 761, 
+  "zoom": 11, 
+  "start_x": 6681.943312780444
+}

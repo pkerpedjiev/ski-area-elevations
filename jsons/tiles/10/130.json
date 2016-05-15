@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 2179, 
+      "cumarea": 2284.203257211103, 
+      "area": 7.06, 
+      "num_lifts": 48, 
+      "name": "Turracher H\u00f6he", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1391, 
+      "uid": "5d303211-5d6f-4650-8f79-a3f7b608b5a7"
+    }, 
+    {
+      "max_elev": 2176, 
+      "uid": "cc49cbd9-8b30-43d1-9ae7-0f1815085ebc", 
+      "area": 2.95, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1608, 
+      "cumarea": 2292.992080622228
+    }, 
+    {
+      "max_elev": 2179, 
+      "uid": "c981af7b-e2d7-4bfd-8bde-1d83b227c218", 
+      "area": 2.45, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1610, 
+      "cumarea": 2287.0993452356597
+    }, 
+    {
+      "max_elev": 2177, 
+      "uid": "4497fa66-2d12-49ae-b80c-d9357a7aa8e4", 
+      "area": 2.25, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1636, 
+      "cumarea": 2289.9102754518763
+    }, 
+    {
+      "max_elev": 2174, 
+      "uid": "8cf1b9de-8738-4aab-8260-3ebfedfeb7dd", 
+      "area": 2.2, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1539, 
+      "cumarea": 2295.7805379825923
+    }, 
+    {
+      "max_elev": 2174, 
+      "uid": "971d9737-b603-4782-abe4-b8c04755672e", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2007, 
+      "cumarea": 2298.3793744836807
+    }
+  ], 
+  "end_x": 2300.485082718103, 
+  "num": 130, 
+  "zoom": 10, 
+  "start_x": 2282.9241278881937
+}

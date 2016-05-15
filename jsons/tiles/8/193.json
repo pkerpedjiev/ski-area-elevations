@@ -1,0 +1,100 @@
+{
+  "shown": [
+    {
+      "max_elev": 469, 
+      "cumarea": 13563.066541556815, 
+      "area": 5.3, 
+      "num_lifts": 31, 
+      "name": "Ski Bromont", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 198, 
+      "uid": "29bc4890-58c9-425f-bc9a-be73840f01fe"
+    }, 
+    {
+      "max_elev": 468, 
+      "cumarea": 13571.421095755784, 
+      "area": 3.1799999999999997, 
+      "num_lifts": 36, 
+      "name": "Blue Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 138, 
+      "uid": "51a02f24-b5e7-4879-a902-32f2d9b0d7fe"
+    }, 
+    {
+      "max_elev": 465, 
+      "uid": "ca94c640-5331-43dd-857c-65e481c4ee6c", 
+      "area": 3.02, 
+      "num_lifts": 40, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 177, 
+      "cumarea": 13614.07473368785
+    }, 
+    {
+      "max_elev": 466, 
+      "uid": "9bc48bc5-3062-48db-9953-faa7ec088b07", 
+      "area": 2.2600000000000002, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 320, 
+      "cumarea": 13595.263355102205
+    }, 
+    {
+      "max_elev": 464, 
+      "uid": "cb2d3bcc-5140-49f3-86fa-cda61fb2cea1", 
+      "area": 2.12, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 322, 
+      "cumarea": 13619.457421553376
+    }, 
+    {
+      "max_elev": 467, 
+      "uid": "e69c0daa-08d7-4381-a55c-846401069bd9", 
+      "area": 2.05, 
+      "num_lifts": 7, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 361, 
+      "cumarea": 13581.929905206343
+    }, 
+    {
+      "max_elev": 464, 
+      "uid": "1548066d-a676-4e20-b4a6-08dd95a650ae", 
+      "area": 2.05, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 337, 
+      "cumarea": 13622.175261346527
+    }, 
+    {
+      "max_elev": 467, 
+      "uid": "5c1ad2fe-2448-4844-b5e6-c1b5720bb346", 
+      "area": 1.95, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 50, 
+      "cumarea": 13587.244837820977
+    }, 
+    {
+      "max_elev": 467, 
+      "uid": "97d104d4-fbb1-4ead-b3f9-d2d579ef38e7", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 415, 
+      "cumarea": 13584.577008448401
+    }, 
+    {
+      "max_elev": 465, 
+      "uid": "c1f2a812-789b-47cc-a053-ef516edb44e0", 
+      "area": 1.9000000000000001, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 423, 
+      "cumarea": 13608.376150011187
+    }
+  ], 
+  "end_x": 13627.300948009526, 
+  "num": 193, 
+  "zoom": 8, 
+  "start_x": 13557.057128689888
+}

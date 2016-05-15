@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3187, 
+      "cumarea": 380.0274318976269, 
+      "area": 75.48, 
+      "num_lifts": 498, 
+      "name": "Les Arcs", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1202, 
+      "uid": "594b2549-d83a-4c80-84c4-3aeae60acbad"
+    }, 
+    {
+      "max_elev": 3186, 
+      "cumarea": 382.9982108147851, 
+      "area": 2.64, 
+      "num_lifts": 4, 
+      "name": "Shymbulak", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1622, 
+      "uid": "7053389a-b423-417d-9a67-30f00629b0d9"
+    }
+  ], 
+  "end_x": 386.34100625800204, 
+  "num": 43, 
+  "zoom": 11, 
+  "start_x": 377.56052884304745
+}

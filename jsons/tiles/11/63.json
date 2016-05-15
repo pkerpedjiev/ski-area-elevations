@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2973, 
+      "cumarea": 553.1915940756725, 
+      "area": 6.76, 
+      "num_lifts": 42, 
+      "name": "Bormio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1197, 
+      "uid": "a4a57bd3-1d68-44b9-bc71-adbf053cb1ba"
+    }, 
+    {
+      "max_elev": 2967, 
+      "uid": "0b7dae5b-16bf-4f4d-a5a6-9ef3bd01f53d", 
+      "area": 4.03, 
+      "num_lifts": 26, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1800, 
+      "cumarea": 559.4051402831244
+    }, 
+    {
+      "max_elev": 2970, 
+      "uid": "a0e5a65a-d3bf-430b-927e-8e5d078a9b95", 
+      "area": 2.27, 
+      "num_lifts": 3, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1385, 
+      "cumarea": 556.0113739071658
+    }
+  ], 
+  "end_x": 561.9505545570938, 
+  "num": 63, 
+  "zoom": 11, 
+  "start_x": 553.1700771421392
+}

@@ -1,0 +1,72 @@
+{
+  "shown": [
+    {
+      "max_elev": 1010, 
+      "cumarea": 8402.888132746413, 
+      "area": 4.41, 
+      "num_lifts": 31, 
+      "name": "Sahoro", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 410, 
+      "uid": "997354f3-7788-47bf-9d6f-cf006ca9ba9b"
+    }, 
+    {
+      "max_elev": 1010, 
+      "uid": "727bb489-516c-4719-bf04-d08e6597bbab", 
+      "area": 2.05, 
+      "num_lifts": 6, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 707, 
+      "cumarea": 8405.605972539564
+    }, 
+    {
+      "max_elev": 1009, 
+      "uid": "b0668bd8-ca11-4e13-820f-e98e0422473f", 
+      "area": 2.0100000000000002, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 454, 
+      "cumarea": 8408.304107261636
+    }, 
+    {
+      "max_elev": 1010, 
+      "uid": "85491cf2-a6f0-461b-be4c-992dc8f5e844", 
+      "area": 1.9300000000000002, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 796, 
+      "cumarea": 8394.212094710589
+    }, 
+    {
+      "max_elev": 1009, 
+      "uid": "369a1db2-8188-4e1f-8cdd-4edc6a3dec0a", 
+      "area": 1.92, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 956, 
+      "cumarea": 8410.956432447676
+    }, 
+    {
+      "max_elev": 1010, 
+      "uid": "b1180705-f2f0-48ad-a47e-7f2393795cbf", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 864, 
+      "cumarea": 8396.810931211678
+    }, 
+    {
+      "max_elev": 1010, 
+      "uid": "a1325db8-232a-4105-997d-3d04a65ba4d5", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 934, 
+      "cumarea": 8399.404258056955
+    }
+  ], 
+  "end_x": 8411.697363526499, 
+  "num": 478, 
+  "zoom": 10, 
+  "start_x": 8394.136408696588
+}

@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2156, 
+      "cumarea": 2338.6258188932247, 
+      "area": 11.790000000000001, 
+      "num_lifts": 37, 
+      "name": "Gstaad", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 967, 
+      "uid": "7edab5a8-c7fc-445d-a479-a2c8db790792"
+    }, 
+    {
+      "max_elev": 2154, 
+      "uid": "9149d876-f9ff-45d6-8389-c8aa7b0e094d", 
+      "area": 3.8200000000000003, 
+      "num_lifts": 23, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1066, 
+      "cumarea": 2341.966069315843
+    }
+  ], 
+  "end_x": 2344.387469792876, 
+  "num": 266, 
+  "zoom": 11, 
+  "start_x": 2335.6069923779214
+}

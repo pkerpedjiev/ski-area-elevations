@@ -1,0 +1,105 @@
+{
+  "shown": [
+    {
+      "max_elev": 1845, 
+      "cumarea": 3601.4996186073668, 
+      "area": 48.269999999999996, 
+      "num_lifts": 327, 
+      "name": "SkiWelt Wilder Kaiser", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 649, 
+      "uid": "65646b20-4208-40eb-859e-aa8f946acce9"
+    }, 
+    {
+      "max_elev": 1877, 
+      "cumarea": 3422.337211954918, 
+      "area": 16.9, 
+      "num_lifts": 129, 
+      "name": "Dienten - Hochk\u00f6nig", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 830, 
+      "uid": "aba0d8ca-0826-4136-bdcb-b4d742f05bc4"
+    }, 
+    {
+      "max_elev": 1888, 
+      "cumarea": 3381.583794862113, 
+      "area": 14.34, 
+      "num_lifts": 131, 
+      "name": "Silver Star", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1142, 
+      "uid": "a2b627c0-ad9e-4762-a58b-b225db233a60"
+    }, 
+    {
+      "max_elev": 1836, 
+      "cumarea": 3645.1250221253167, 
+      "area": 10.99, 
+      "num_lifts": 44, 
+      "name": "Waidring - Steinplatte", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 771, 
+      "uid": "6fa992e8-8e04-4d6e-9243-65c5ef363a01"
+    }, 
+    {
+      "max_elev": 1877, 
+      "cumarea": 3426.451054923315, 
+      "area": 8.280000000000001, 
+      "num_lifts": 52, 
+      "name": "Les Houches", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 979, 
+      "uid": "89e6441f-f54a-4409-95db-0e7bfc044f3e"
+    }, 
+    {
+      "max_elev": 1870, 
+      "cumarea": 3479.4540513485053, 
+      "area": 7.8, 
+      "num_lifts": 54, 
+      "name": "Abetone", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1248, 
+      "uid": "09eccca9-e4fd-4a4b-b06d-00a394c487ac"
+    }, 
+    {
+      "max_elev": 1870, 
+      "cumarea": 3483.311910619438, 
+      "area": 6.41, 
+      "num_lifts": 23, 
+      "name": "Hinterstoder", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 826, 
+      "uid": "87d6e93e-c1b4-4de4-8336-3c8ce31b490e"
+    }, 
+    {
+      "max_elev": 1880, 
+      "uid": "11c3a561-f636-4e81-8872-4309a5d277d4", 
+      "area": 4.99, 
+      "num_lifts": 27, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1299, 
+      "cumarea": 3409.3486406570864
+    }, 
+    {
+      "max_elev": 1872, 
+      "uid": "79c7c587-be66-472b-ad11-d964c1333d3f", 
+      "area": 4.84, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1384, 
+      "cumarea": 3463.9812350188236
+    }, 
+    {
+      "max_elev": 1873, 
+      "uid": "bfd7b74e-bb39-4668-b0be-1ef8206bc5e4", 
+      "area": 4.69, 
+      "num_lifts": 36, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1031, 
+      "cumarea": 3454.9190859891205
+    }
+  ], 
+  "end_x": 3652.67860462111, 
+  "num": 12, 
+  "zoom": 6, 
+  "start_x": 3371.703327342563
+}

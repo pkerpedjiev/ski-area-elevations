@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1042, 
+      "cumarea": 8122.031689712943, 
+      "area": 11.14, 
+      "num_lifts": 65, 
+      "name": "Belleayre", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 618, 
+      "uid": "ed3118f1-9fe0-4bb9-92d2-f1b7e5483f5d"
+    }, 
+    {
+      "max_elev": 1041, 
+      "uid": "367f3f7e-4eb8-4f48-8268-a423df67a99b", 
+      "area": 3.0700000000000003, 
+      "num_lifts": 29, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 673, 
+      "cumarea": 8125.153367274543
+    }
+  ], 
+  "end_x": 8126.331847540474, 
+  "num": 1850, 
+  "zoom": 12, 
+  "start_x": 8121.941608832997
+}

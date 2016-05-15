@@ -1,0 +1,63 @@
+{
+  "shown": [
+    {
+      "max_elev": 2471, 
+      "cumarea": 1345.3685846686437, 
+      "area": 9.36, 
+      "num_lifts": 41, 
+      "name": "Les Karellis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1531, 
+      "uid": "7a27678c-c7dc-4478-bfff-3fa81b0a4951"
+    }, 
+    {
+      "max_elev": 2472, 
+      "uid": "89024789-aa2d-4175-ae3b-c9567537ca02", 
+      "area": 3.14, 
+      "num_lifts": 16, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2022, 
+      "cumarea": 1335.4156783329763
+    }, 
+    {
+      "max_elev": 2472, 
+      "uid": "72dbfca5-296c-4ab8-874b-ad5f1bcbc7c6", 
+      "area": 2.96, 
+      "num_lifts": 11, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1684, 
+      "cumarea": 1338.5008676013124
+    }, 
+    {
+      "max_elev": 2471, 
+      "uid": "1a06d625-489b-48fa-bfef-5990cf98a1f2", 
+      "area": 2.12, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1364, 
+      "cumarea": 1348.1200007573277
+    }, 
+    {
+      "max_elev": 2471, 
+      "uid": "f1d3492b-256d-41fe-97dc-6c2f1ff09271", 
+      "area": 1.94, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1364, 
+      "cumarea": 1350.782688730403
+    }, 
+    {
+      "max_elev": 2472, 
+      "uid": "fec700d7-5bc1-4e53-b758-4f8344eab8eb", 
+      "area": 1.8800000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1878, 
+      "cumarea": 1341.1321393781543
+    }
+  ], 
+  "end_x": 1352.1935219030072, 
+  "num": 76, 
+  "zoom": 10, 
+  "start_x": 1334.632567073098
+}

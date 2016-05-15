@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1984, 
+      "cumarea": 3026.7926146959244, 
+      "area": 16.0, 
+      "num_lifts": 134, 
+      "name": "Nassfeld", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 610, 
+      "uid": "dd9e6748-f2a8-460e-a502-083f98cdd707"
+    }, 
+    {
+      "max_elev": 1985, 
+      "uid": "fb74ea45-4fce-44f4-a95f-17445412fe8e", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1849, 
+      "cumarea": 3022.020025973685
+    }
+  ], 
+  "end_x": 3029.264708159334, 
+  "num": 344, 
+  "zoom": 11, 
+  "start_x": 3020.4842307443796
+}

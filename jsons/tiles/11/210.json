@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2295, 
+      "cumarea": 1845.5449765286223, 
+      "area": 6.4399999999999995, 
+      "num_lifts": 40, 
+      "name": "Castle Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1423, 
+      "uid": "6747ae6f-7c19-476b-9a6e-29b07e5a6d8b"
+    }, 
+    {
+      "max_elev": 2294, 
+      "uid": "1292e405-18ca-4436-bf8c-f17fec2caf87", 
+      "area": 4.72, 
+      "num_lifts": 38, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1652, 
+      "cumarea": 1849.0967853282198
+    }, 
+    {
+      "max_elev": 2294, 
+      "uid": "7da2528d-009d-4c97-a9d9-0b3fea9781bd", 
+      "area": 1.96, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1229, 
+      "cumarea": 1851.7697298014623
+    }
+  ], 
+  "end_x": 1852.680734555419, 
+  "num": 210, 
+  "zoom": 11, 
+  "start_x": 1843.9002571404642
+}

@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 1279, 
+      "cumarea": 6545.396868437499, 
+      "area": 16.07, 
+      "num_lifts": 152, 
+      "name": "Killington", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 354, 
+      "uid": "9223c9de-54e0-4047-a2ae-0bd0b77da174"
+    }, 
+    {
+      "max_elev": 1396, 
+      "cumarea": 5930.093939626323, 
+      "area": 14.8, 
+      "num_lifts": 141, 
+      "name": "\u00c5re", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 376, 
+      "uid": "43c6acd9-7d42-4080-a29e-5f8b79230d94"
+    }, 
+    {
+      "max_elev": 1110, 
+      "cumarea": 7602.961870913037, 
+      "area": 13.97, 
+      "num_lifts": 196, 
+      "name": "Stowe / Smuggler's Notch", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 327, 
+      "uid": "d4c24080-01ac-4206-bb5b-0238558fe1cb"
+    }, 
+    {
+      "max_elev": 1103, 
+      "cumarea": 7665.554398041705, 
+      "area": 13.4, 
+      "num_lifts": 138, 
+      "name": "Trysil", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 389, 
+      "uid": "0c02945b-7762-4735-ad36-7df91250a971"
+    }, 
+    {
+      "max_elev": 1269, 
+      "cumarea": 6612.53516044624, 
+      "area": 11.48, 
+      "num_lifts": 53, 
+      "name": "Oppdal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 588, 
+      "uid": "553b29b3-82ae-4343-bc8d-c980e9660681"
+    }, 
+    {
+      "max_elev": 1237, 
+      "cumarea": 6800.623954486493, 
+      "area": 11.190000000000001, 
+      "num_lifts": 128, 
+      "name": "Sugarbush", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 455, 
+      "uid": "f3fd3d8e-a3ee-4d6c-a532-6d7b2479a4e9"
+    }, 
+    {
+      "max_elev": 1042, 
+      "cumarea": 8122.031689712943, 
+      "area": 11.14, 
+      "num_lifts": 65, 
+      "name": "Belleayre", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 618, 
+      "uid": "ed3118f1-9fe0-4bb9-92d2-f1b7e5483f5d"
+    }, 
+    {
+      "max_elev": 1582, 
+      "cumarea": 4970.446755224819, 
+      "area": 11.030000000000001, 
+      "num_lifts": 70, 
+      "name": "Annaberg - Lung\u00f6tz - Dachstein West", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 748, 
+      "uid": "3882b889-f5ca-438d-9501-6fb263b69d76"
+    }, 
+    {
+      "max_elev": 1270, 
+      "cumarea": 6608.094554055348, 
+      "area": 10.360000000000001, 
+      "num_lifts": 59, 
+      "name": "Sheregesh", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 595, 
+      "uid": "785c10cd-4914-42c7-bd1e-6cd21ebf93bc"
+    }, 
+    {
+      "max_elev": 1337, 
+      "cumarea": 6223.030150087402, 
+      "area": 10.350000000000001, 
+      "num_lifts": 62, 
+      "name": "Bandai", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 699, 
+      "uid": "915f5502-f136-4047-bf64-f481a0ad8122"
+    }
+  ], 
+  "end_x": 8991.208872913501, 
+  "num": 1, 
+  "zoom": 2, 
+  "start_x": 4495.604436456751
+}

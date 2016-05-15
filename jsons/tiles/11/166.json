@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2427, 
+      "cumarea": 1459.1661954853623, 
+      "area": 25.91, 
+      "num_lifts": 196, 
+      "name": "Z\u00fcrs / Lech / Warth", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1326, 
+      "uid": "a83d080e-0b63-412d-b6d4-efd0d17dc42c"
+    }, 
+    {
+      "max_elev": 2425, 
+      "uid": "492e5467-2f73-40d8-8f8f-4fe1ec929352", 
+      "area": 2.08, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1886, 
+      "cumarea": 1464.5456666211342
+    }, 
+    {
+      "max_elev": 2427, 
+      "uid": "f5928290-eaed-47f4-b3a8-b286c9d0bda4", 
+      "area": 1.9100000000000001, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1420, 
+      "cumarea": 1461.813298727421
+    }
+  ], 
+  "end_x": 1466.339728297417, 
+  "num": 166, 
+  "zoom": 11, 
+  "start_x": 1457.5592508824623
+}

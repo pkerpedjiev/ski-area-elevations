@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1269, 
+      "cumarea": 6612.53516044624, 
+      "area": 11.48, 
+      "num_lifts": 53, 
+      "name": "Oppdal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 588, 
+      "uid": "553b29b3-82ae-4343-bc8d-c980e9660681"
+    }, 
+    {
+      "max_elev": 1269, 
+      "uid": "5074e88a-0e59-4691-a606-8256d0a78c83", 
+      "area": 3.04, 
+      "num_lifts": 4, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 963, 
+      "cumarea": 6615.647017961658
+    }, 
+    {
+      "max_elev": 1268, 
+      "uid": "5d56bfc5-2024-4293-ac56-c617cba47b09", 
+      "area": 1.82, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1199, 
+      "cumarea": 6618.245854462747
+    }
+  ], 
+  "end_x": 6620.479970875762, 
+  "num": 753, 
+  "zoom": 11, 
+  "start_x": 6611.699493460807
+}

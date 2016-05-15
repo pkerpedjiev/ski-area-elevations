@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1778, 
+      "cumarea": 3987.2860687819057, 
+      "area": 4.23, 
+      "num_lifts": 18, 
+      "name": "Loser", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 860, 
+      "uid": "4cd81792-9cc2-47d2-a580-27b011b4a0f7"
+    }, 
+    {
+      "max_elev": 1776, 
+      "uid": "8e6e0983-1da7-4b71-81a8-38b8ea8ef5a9", 
+      "area": 3.33, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 625, 
+      "cumarea": 3990.489041085898
+    }
+  ], 
+  "end_x": 3990.726985096862, 
+  "num": 908, 
+  "zoom": 12, 
+  "start_x": 3986.3367463893846
+}

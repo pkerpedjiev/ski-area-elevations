@@ -1,0 +1,37 @@
+{
+  "shown": [
+    {
+      "max_elev": 3420, 
+      "cumarea": 218.60926106857426, 
+      "area": 4.85, 
+      "num_lifts": 27, 
+      "name": "Las Le\u00f1as", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2222, 
+      "uid": "37ba74a3-82fa-4a84-85ab-a213a68f0bbf"
+    }, 
+    {
+      "max_elev": 3429, 
+      "uid": "5a48376b-4c9e-44e7-ad0a-dfa5f8ad6435", 
+      "area": 2.37, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 2093, 
+      "cumarea": 215.03028236362488
+    }, 
+    {
+      "max_elev": 3435, 
+      "cumarea": 212.16739240847784, 
+      "area": 2.12, 
+      "num_lifts": 6, 
+      "name": "Vallecitos", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2985, 
+      "uid": "7b7a316c-5ad1-451c-a024-5a931d695cff"
+    }
+  ], 
+  "end_x": 219.5119353738648, 
+  "num": 24, 
+  "zoom": 11, 
+  "start_x": 210.7314579589102
+}

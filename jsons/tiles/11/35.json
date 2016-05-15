@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 3236, 
+      "cumarea": 314.92097170377923, 
+      "area": 19.75, 
+      "num_lifts": 71, 
+      "name": "Monterosa Ski - Champoluc", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1166, 
+      "uid": "963bc883-03e7-4d03-8d13-d5ab8d6950e3"
+    }, 
+    {
+      "max_elev": 3246, 
+      "uid": "e8caa155-e927-4fbe-8c2f-886cd1277925", 
+      "area": 1.95, 
+      "num_lifts": 8, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3064, 
+      "cumarea": 309.9378182124321
+    }
+  ], 
+  "end_x": 316.0971869383653, 
+  "num": 35, 
+  "zoom": 11, 
+  "start_x": 307.31670952341074
+}

@@ -1,0 +1,46 @@
+{
+  "shown": [
+    {
+      "max_elev": 2470, 
+      "cumarea": 1356.3553152276927, 
+      "area": 35.61, 
+      "num_lifts": 167, 
+      "name": "Flaine", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 692, 
+      "uid": "71fc5102-499c-4cee-8a6d-2173e3902c56"
+    }, 
+    {
+      "max_elev": 2465, 
+      "cumarea": 1367.9063691841036, 
+      "area": 28.37, 
+      "num_lifts": 138, 
+      "name": "Krasnaya Polyana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 545, 
+      "uid": "1141a029-c589-4f2c-9faa-0b19452a7314"
+    }, 
+    {
+      "max_elev": 2470, 
+      "uid": "0a36bf21-5ea1-46fc-badd-db29e850c072", 
+      "area": 3.66, 
+      "num_lifts": 13, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1453, 
+      "cumarea": 1359.652778375106
+    }, 
+    {
+      "max_elev": 2470, 
+      "uid": "b0ccd6a6-5780-465a-9beb-adc4b9d65dcc", 
+      "area": 2.48, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1420, 
+      "cumarea": 1362.5610369352828
+    }
+  ], 
+  "end_x": 1369.7544767329164, 
+  "num": 77, 
+  "zoom": 10, 
+  "start_x": 1352.1935219030072
+}

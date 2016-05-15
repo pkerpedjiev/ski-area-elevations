@@ -1,0 +1,54 @@
+{
+  "shown": [
+    {
+      "max_elev": 3598, 
+      "uid": "d050db47-1fe2-4c04-8325-e03812ab323b", 
+      "area": 4.49, 
+      "num_lifts": 56, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3289, 
+      "cumarea": 132.11810334736856
+    }, 
+    {
+      "max_elev": 3596, 
+      "cumarea": 135.54841459390522, 
+      "area": 4.18, 
+      "num_lifts": 7, 
+      "name": "Dizin", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2678, 
+      "uid": "8ab8ac77-360c-4a44-bf59-b47432e972b9"
+    }, 
+    {
+      "max_elev": 3602, 
+      "uid": "b1c846a0-729c-44fb-904f-105d7e869811", 
+      "area": 3.9800000000000004, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2851, 
+      "cumarea": 128.6162506456144
+    }, 
+    {
+      "max_elev": 3580, 
+      "uid": "b403eb5b-4b4d-453c-8167-977fa16bade3", 
+      "area": 3.75, 
+      "num_lifts": 34, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3225, 
+      "cumarea": 138.87017043388755
+    }, 
+    {
+      "max_elev": 3603, 
+      "uid": "b01df9ab-54d8-469a-baeb-6a4be519173c", 
+      "area": 1.92, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3298, 
+      "cumarea": 125.23496882631807
+    }
+  ], 
+  "end_x": 140.48763863927346, 
+  "num": 7, 
+  "zoom": 10, 
+  "start_x": 122.92668380936428
+}

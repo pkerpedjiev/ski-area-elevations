@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2585, 
+      "cumarea": 1061.1273856438545, 
+      "area": 5.81, 
+      "num_lifts": 47, 
+      "name": "Timberline Lodge", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1477, 
+      "uid": "05f65c7e-d81c-4533-a07d-86bbc4f2910a"
+    }, 
+    {
+      "max_elev": 2587, 
+      "uid": "a7768ad6-bfd0-43b9-941e-c0eff9516d68", 
+      "area": 2.72, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2015, 
+      "cumarea": 1054.7580395013697
+    }, 
+    {
+      "max_elev": 2587, 
+      "uid": "d1651029-ba7c-4340-9ea4-8aa53536390a", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2394, 
+      "cumarea": 1057.3678050729907
+    }
+  ], 
+  "end_x": 1062.4377672095056, 
+  "num": 120, 
+  "zoom": 11, 
+  "start_x": 1053.657289794551
+}

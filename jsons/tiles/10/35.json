@@ -1,0 +1,47 @@
+{
+  "shown": [
+    {
+      "max_elev": 2880, 
+      "cumarea": 628.170790233101, 
+      "area": 15.63, 
+      "num_lifts": 95, 
+      "name": "Crans-Montana", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1431, 
+      "uid": "e33f2f8a-b8c2-4895-9b82-ce6dd2022259"
+    }, 
+    {
+      "max_elev": 2881, 
+      "cumarea": 623.4215980886676, 
+      "area": 9.06, 
+      "num_lifts": 28, 
+      "name": "Madesimo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1542, 
+      "uid": "d3c23e02-199f-4449-97bb-d9ab180aa616"
+    }, 
+    {
+      "max_elev": 2885, 
+      "cumarea": 619.2177289686127, 
+      "area": 5.9399999999999995, 
+      "num_lifts": 23, 
+      "name": "Santa Caterina", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1727, 
+      "uid": "3f200010-9ac1-47f7-aa72-2166f90f3d76"
+    }, 
+    {
+      "max_elev": 2890, 
+      "uid": "f7107a6b-a002-45e8-90f0-8334f6d8d8cc", 
+      "area": 2.0, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2501, 
+      "cumarea": 615.4360198352382
+    }
+  ], 
+  "end_x": 632.1943738767307, 
+  "num": 35, 
+  "zoom": 10, 
+  "start_x": 614.6334190468215
+}

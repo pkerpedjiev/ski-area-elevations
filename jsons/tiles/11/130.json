@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 2538, 
+      "cumarea": 1143.5964063118533, 
+      "area": 6.47, 
+      "num_lifts": 71, 
+      "name": "Vallnord / Pal-Arinsal", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1236, 
+      "uid": "558e0979-760c-4239-86d2-3e4f471a41ac"
+    }, 
+    {
+      "max_elev": 2530, 
+      "cumarea": 1147.2197471294564, 
+      "area": 5.07, 
+      "num_lifts": 20, 
+      "name": "Bormio", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1340, 
+      "uid": "1f00b4e4-49ce-4979-8520-1770d3d4cbfd"
+    }
+  ], 
+  "end_x": 1150.2425413590515, 
+  "num": 130, 
+  "zoom": 11, 
+  "start_x": 1141.4620639440968
+}

@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 343, 
+      "cumarea": 14758.823240094087, 
+      "area": 1.94, 
+      "num_lifts": 6, 
+      "name": "Nordic Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 281, 
+      "uid": "4a231792-1487-44db-833f-06bf4d6c1dcb"
+    }
+  ], 
+  "end_x": 14759.982534538667, 
+  "num": 6723, 
+  "zoom": 13, 
+  "start_x": 14757.787415184928
+}

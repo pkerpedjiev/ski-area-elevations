@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2716, 
+      "cumarea": 821.6644049652335, 
+      "area": 10.09, 
+      "num_lifts": 30, 
+      "name": "Valfr\u00e9jus", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1557, 
+      "uid": "1b53cf05-48af-46c2-98b0-f25269ed7014"
+    }, 
+    {
+      "max_elev": 2712, 
+      "uid": "104725bd-d0c2-4706-b90c-952da81ec1bc", 
+      "area": 4.6, 
+      "num_lifts": 9, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2104, 
+      "cumarea": 825.1904612687285
+    }
+  ], 
+  "end_x": 825.3648770057316, 
+  "num": 187, 
+  "zoom": 12, 
+  "start_x": 820.9746382982544
+}

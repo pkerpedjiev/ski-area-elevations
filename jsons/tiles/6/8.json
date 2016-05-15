@@ -1,0 +1,108 @@
+{
+  "shown": [
+    {
+      "max_elev": 2110, 
+      "cumarea": 2465.22071560512, 
+      "area": 20.720000000000002, 
+      "num_lifts": 107, 
+      "name": "Les Diablerets", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1127, 
+      "uid": "347dbdbb-c28c-4fa1-bd97-d5fa2716f0ab"
+    }, 
+    {
+      "max_elev": 2128, 
+      "cumarea": 2422.4925589598042, 
+      "area": 13.57, 
+      "num_lifts": 68, 
+      "name": "Alto Sangro", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1313, 
+      "uid": "8f8f27f6-a254-4521-8441-c29ef021a6f3"
+    }, 
+    {
+      "max_elev": 2112, 
+      "cumarea": 2449.1653707749524, 
+      "area": 13.4, 
+      "num_lifts": 59, 
+      "name": "Wildkogel Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "c24088fd-ef15-45b6-90e8-62f4592b7e7d"
+    }, 
+    {
+      "max_elev": 2156, 
+      "cumarea": 2338.6258188932247, 
+      "area": 11.790000000000001, 
+      "num_lifts": 37, 
+      "name": "Gstaad", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 967, 
+      "uid": "7edab5a8-c7fc-445d-a479-a2c8db790792"
+    }, 
+    {
+      "max_elev": 2102, 
+      "cumarea": 2494.092046982806, 
+      "area": 11.14, 
+      "num_lifts": 83, 
+      "name": "Flachau", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1001, 
+      "uid": "f22aaa48-b599-4ce1-a6d6-7c0a4f90e0d5"
+    }, 
+    {
+      "max_elev": 2098, 
+      "cumarea": 2520.0238533160846, 
+      "area": 8.18, 
+      "num_lifts": 48, 
+      "name": "Paganella - Andalo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1036, 
+      "uid": "1171ce09-2f5f-448e-be84-87874c4f5f9f"
+    }, 
+    {
+      "max_elev": 2129, 
+      "cumarea": 2414.891445712947, 
+      "area": 7.99, 
+      "num_lifts": 60, 
+      "name": "Crystal Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1333, 
+      "uid": "344f4573-80dc-4a49-9eb7-7351b9a17ce6"
+    }, 
+    {
+      "max_elev": 2179, 
+      "cumarea": 2284.203257211103, 
+      "area": 7.06, 
+      "num_lifts": 48, 
+      "name": "Turracher H\u00f6he", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1391, 
+      "uid": "5d303211-5d6f-4650-8f79-a3f7b608b5a7"
+    }, 
+    {
+      "max_elev": 2108, 
+      "cumarea": 2472.600352214855, 
+      "area": 6.51, 
+      "num_lifts": 29, 
+      "name": "Kreischberg", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 868, 
+      "uid": "583544d8-8fa5-4c4b-b9b9-4ef7108a63a1"
+    }, 
+    {
+      "max_elev": 2101, 
+      "cumarea": 2501.234279316114, 
+      "area": 6.45, 
+      "num_lifts": 17, 
+      "name": "Elm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1016, 
+      "uid": "df7f0fbb-eda1-4f45-84eb-6e5728e10b10"
+    }
+  ], 
+  "end_x": 2528.7774955069226, 
+  "num": 8, 
+  "zoom": 6, 
+  "start_x": 2247.8022182283753
+}

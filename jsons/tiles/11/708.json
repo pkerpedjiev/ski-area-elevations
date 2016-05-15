@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1337, 
+      "cumarea": 6223.030150087402, 
+      "area": 10.350000000000001, 
+      "num_lifts": 62, 
+      "name": "Bandai", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 699, 
+      "uid": "915f5502-f136-4047-bf64-f481a0ad8122"
+    }, 
+    {
+      "max_elev": 1337, 
+      "uid": "552de192-030b-475b-9523-600aca41f8c1", 
+      "area": 1.8, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1313, 
+      "cumarea": 6218.693163567691
+    }
+  ], 
+  "end_x": 6225.358487202805, 
+  "num": 708, 
+  "zoom": 11, 
+  "start_x": 6216.5780097878505
+}

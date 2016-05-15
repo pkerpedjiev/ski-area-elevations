@@ -1,0 +1,104 @@
+{
+  "shown": [
+    {
+      "max_elev": 2128, 
+      "cumarea": 2422.4925589598042, 
+      "area": 13.57, 
+      "num_lifts": 68, 
+      "name": "Alto Sangro", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1313, 
+      "uid": "8f8f27f6-a254-4521-8441-c29ef021a6f3"
+    }, 
+    {
+      "max_elev": 2112, 
+      "cumarea": 2449.1653707749524, 
+      "area": 13.4, 
+      "num_lifts": 59, 
+      "name": "Wildkogel Arena", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 822, 
+      "uid": "c24088fd-ef15-45b6-90e8-62f4592b7e7d"
+    }, 
+    {
+      "max_elev": 2129, 
+      "cumarea": 2414.891445712947, 
+      "area": 7.99, 
+      "num_lifts": 60, 
+      "name": "Crystal Mountain", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1333, 
+      "uid": "344f4573-80dc-4a49-9eb7-7351b9a17ce6"
+    }, 
+    {
+      "max_elev": 2131, 
+      "cumarea": 2401.047221143272, 
+      "area": 6.41, 
+      "num_lifts": 37, 
+      "name": "La Pierre St Martin", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1532, 
+      "uid": "a897b6d2-4494-4f58-9872-f9bdc9a6b938"
+    }, 
+    {
+      "max_elev": 2130, 
+      "cumarea": 2404.8272453562818, 
+      "area": 5.93, 
+      "num_lifts": 27, 
+      "name": "Ratschings-Jaufen/Kalcheralm", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1289, 
+      "uid": "30fa64ac-8ce5-461d-9b2d-750a5618600a"
+    }, 
+    {
+      "max_elev": 2133, 
+      "uid": "b4fdf021-5728-4f00-afbb-cb67196f67f0", 
+      "area": 5.38, 
+      "num_lifts": 14, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1229, 
+      "cumarea": 2393.953890400954
+    }, 
+    {
+      "max_elev": 2129, 
+      "uid": "3ac207ac-ac4c-4513-918d-ce0b03b504f1", 
+      "area": 3.52, 
+      "num_lifts": 30, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1554, 
+      "cumarea": 2410.813254953169
+    }, 
+    {
+      "max_elev": 2133, 
+      "uid": "7c2afc4d-eef2-40b9-9203-f7716582c894", 
+      "area": 3.44, 
+      "num_lifts": 12, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1378, 
+      "cumarea": 2397.1893618723393
+    }, 
+    {
+      "max_elev": 2113, 
+      "cumarea": 2444.5701160679955, 
+      "area": 2.9000000000000004, 
+      "num_lifts": 14, 
+      "name": "Caviahue", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1687, 
+      "uid": "e4685f09-ee71-47ea-a60c-9596e2be9e00"
+    }, 
+    {
+      "max_elev": 2111, 
+      "uid": "d16550b8-4506-495a-b466-e13b7722b63c", 
+      "area": 2.8200000000000003, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 783, 
+      "cumarea": 2454.890242298639
+    }
+  ], 
+  "end_x": 2458.533676187286, 
+  "num": 34, 
+  "zoom": 8, 
+  "start_x": 2388.289856867649
+}

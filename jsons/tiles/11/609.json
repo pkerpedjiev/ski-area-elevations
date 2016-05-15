@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1508, 
+      "cumarea": 5348.941050181003, 
+      "area": 5.49, 
+      "num_lifts": 47, 
+      "name": "Sudelfeld - Bayrischzell", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 861, 
+      "uid": "0513c1c6-f1d5-4c0c-9995-b5618097af4e"
+    }, 
+    {
+      "max_elev": 1508, 
+      "uid": "b11eaf95-fbc6-4966-9d0c-723f9bd76580", 
+      "area": 2.47, 
+      "num_lifts": 15, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1178, 
+      "cumarea": 5351.845268331644
+    }, 
+    {
+      "max_elev": 1508, 
+      "uid": "1416b19a-701a-44da-82f6-476cedeffd26", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1243, 
+      "cumarea": 5354.460453970734
+    }
+  ], 
+  "end_x": 5356.091223122301, 
+  "num": 609, 
+  "zoom": 11, 
+  "start_x": 5347.3107457073465
+}

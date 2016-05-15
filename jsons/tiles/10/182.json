@@ -1,0 +1,56 @@
+{
+  "shown": [
+    {
+      "max_elev": 1945, 
+      "cumarea": 3204.9884983773863, 
+      "area": 9.930000000000001, 
+      "num_lifts": 40, 
+      "name": "Praz de Lys Sommand", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1253, 
+      "uid": "8d0d572e-01ab-4ce5-842b-ca5d48aed147"
+    }, 
+    {
+      "max_elev": 1944, 
+      "cumarea": 3208.8447963677518, 
+      "area": 6.3999999999999995, 
+      "num_lifts": 43, 
+      "name": "Ravascletto / Zoncolan", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 807, 
+      "uid": "1d7ee534-9a4e-4aa8-89d2-cae2209a02aa"
+    }, 
+    {
+      "max_elev": 1942, 
+      "uid": "7ad37aca-77ce-4772-874b-8fc606ad5a8d", 
+      "area": 5.44, 
+      "num_lifts": 34, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1138, 
+      "cumarea": 3212.5385754286194
+    }, 
+    {
+      "max_elev": 1947, 
+      "cumarea": 3198.0996110540514, 
+      "area": 3.8099999999999996, 
+      "num_lifts": 37, 
+      "name": "Krvavec", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 617, 
+      "uid": "378e0108-4b5e-408f-93d4-0e9676346dad"
+    }, 
+    {
+      "max_elev": 1946, 
+      "uid": "97eb6e88-637a-40f2-b85d-de2943c5a42d", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1808, 
+      "cumarea": 3200.692937899329
+    }
+  ], 
+  "end_x": 3213.654733873381, 
+  "num": 182, 
+  "zoom": 10, 
+  "start_x": 3196.0937790434714
+}

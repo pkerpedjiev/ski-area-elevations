@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 2197, 
+      "cumarea": 2214.045209412186, 
+      "area": 5.5, 
+      "num_lifts": 27, 
+      "name": "Venet - Landeck/Zams/Fliess", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 770, 
+      "uid": "ed2cb6f0-d3bb-46a5-9f4e-0946c4dd7db2"
+    }, 
+    {
+      "max_elev": 2197, 
+      "uid": "7deaa882-1f8a-46d8-beb4-7cda8feb3a03", 
+      "area": 2.63, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1618, 
+      "cumarea": 2217.0121932583756
+    }
+  ], 
+  "end_x": 2217.070547276034, 
+  "num": 504, 
+  "zoom": 12, 
+  "start_x": 2212.680308568557
+}

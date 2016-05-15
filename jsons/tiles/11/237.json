@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 2236, 
+      "cumarea": 2082.7252861493243, 
+      "area": 7.28, 
+      "num_lifts": 58, 
+      "name": "Chamrousse", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1433, 
+      "uid": "2360d9b0-0b61-4d44-bad2-70340505c18e"
+    }, 
+    {
+      "max_elev": 2235, 
+      "uid": "ea5947d8-7dac-406d-a2d9-e33ac1591cef", 
+      "area": 5.15, 
+      "num_lifts": 67, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1519, 
+      "cumarea": 2089.3612314988914
+    }, 
+    {
+      "max_elev": 2236, 
+      "uid": "c3e16459-bc9d-4605-a6c2-318e8f632360", 
+      "area": 2.71, 
+      "num_lifts": 5, 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 1683, 
+      "cumarea": 2085.7222347842157
+    }
+  ], 
+  "end_x": 2089.7536247591925, 
+  "num": 237, 
+  "zoom": 11, 
+  "start_x": 2080.973147344238
+}

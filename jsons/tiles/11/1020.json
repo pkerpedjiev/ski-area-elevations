@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 942, 
+      "cumarea": 8963.815010609138, 
+      "area": 5.68, 
+      "num_lifts": 41, 
+      "name": "Cerro Castor", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 195, 
+      "uid": "28254fee-65a2-4eb3-a149-f90f3bb987af"
+    }, 
+    {
+      "max_elev": 942, 
+      "uid": "023489ed-6f5f-4ca9-ab0e-34dd57afe493", 
+      "area": 2.0, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 677, 
+      "cumarea": 8957.468293804784
+    }, 
+    {
+      "max_elev": 942, 
+      "uid": "a0b71184-3f34-4076-b136-c5399706a0fe", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 825, 
+      "cumarea": 8960.078059376405
+    }
+  ], 
+  "end_x": 8964.867440668637, 
+  "num": 1020, 
+  "zoom": 11, 
+  "start_x": 8956.086963253681
+}

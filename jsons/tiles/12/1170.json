@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1555, 
+      "cumarea": 5138.11342980175, 
+      "area": 4.89, 
+      "num_lifts": 29, 
+      "name": "Mt. Baker", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1106, 
+      "uid": "09c79daf-5502-4745-8186-14c78995321a"
+    }, 
+    {
+      "max_elev": 1555, 
+      "uid": "302a4bb2-4472-4d87-9b98-11b13a979a1f", 
+      "area": 1.84, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 1517, 
+      "cumarea": 5140.723195373371
+    }
+  ], 
+  "end_x": 5140.969526455914, 
+  "num": 1170, 
+  "zoom": 12, 
+  "start_x": 5136.579287748436
+}

@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 3620, 
+      "cumarea": 122.58264364027838, 
+      "area": 5.67, 
+      "num_lifts": 15, 
+      "name": "Crested Butte", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2782, 
+      "uid": "ee927948-e2db-47f0-9629-b6e06fbc24cb"
+    }
+  ], 
+  "end_x": 122.92668380936428, 
+  "num": 55, 
+  "zoom": 13, 
+  "start_x": 120.73156445562563
+}

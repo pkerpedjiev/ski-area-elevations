@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3672, 
+      "cumarea": 107.21341199836348, 
+      "area": 17.79, 
+      "num_lifts": 83, 
+      "name": "Valle Nevado", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2411, 
+      "uid": "ca3ae54b-f3a7-4798-bc18-4067841e9634"
+    }, 
+    {
+      "max_elev": 3654, 
+      "cumarea": 111.72463595646886, 
+      "area": 12.32, 
+      "num_lifts": 49, 
+      "name": "Winter Park", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2770, 
+      "uid": "2bedad4a-b26f-46d6-a47d-015eee15a0da"
+    }
+  ], 
+  "end_x": 114.14620639440969, 
+  "num": 12, 
+  "zoom": 11, 
+  "start_x": 105.3657289794551
+}

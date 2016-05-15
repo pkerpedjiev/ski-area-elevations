@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3036, 
+      "cumarea": 478.24896995278095, 
+      "area": 13.680000000000001, 
+      "num_lifts": 129, 
+      "name": "Heavenly", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 1917, 
+      "uid": "5bfd7d67-9135-44ee-aa41-710f17de1603"
+    }, 
+    {
+      "max_elev": 3035, 
+      "cumarea": 482.69565538974877, 
+      "area": 11.55, 
+      "num_lifts": 69, 
+      "name": "Engelberg-Titlis", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1002, 
+      "uid": "8d398c3f-8041-4ca3-b217-ec0f2eb3bfb1"
+    }
+  ], 
+  "end_x": 482.9262578225025, 
+  "num": 54, 
+  "zoom": 11, 
+  "start_x": 474.14578040754793
+}

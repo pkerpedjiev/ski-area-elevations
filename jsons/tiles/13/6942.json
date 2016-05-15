@@ -1,0 +1,18 @@
+{
+  "shown": [
+    {
+      "max_elev": 283, 
+      "cumarea": 15238.625887852504, 
+      "area": 3.08, 
+      "num_lifts": 28, 
+      "name": "Ski Wentworth", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 55, 
+      "uid": "c97dfd4e-5eb5-4519-bca1-3d3ac1ab657c"
+    }
+  ], 
+  "end_x": 15240.71367300743, 
+  "num": 6942, 
+  "zoom": 13, 
+  "start_x": 15238.518553653692
+}

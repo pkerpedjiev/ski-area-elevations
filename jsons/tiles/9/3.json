@@ -1,0 +1,103 @@
+{
+  "shown": [
+    {
+      "max_elev": 3672, 
+      "cumarea": 107.21341199836348, 
+      "area": 17.79, 
+      "num_lifts": 83, 
+      "name": "Valle Nevado", 
+      "source": "jsons/ski_area_elevations//south-america-latest.json", 
+      "min_elev": 2411, 
+      "uid": "ca3ae54b-f3a7-4798-bc18-4067841e9634"
+    }, 
+    {
+      "max_elev": 3637, 
+      "cumarea": 116.24313855568538, 
+      "area": 12.41, 
+      "num_lifts": 90, 
+      "name": "Keystone", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2829, 
+      "uid": "e141e7c9-33fb-4744-a277-aa7c74bdc9b5"
+    }, 
+    {
+      "max_elev": 3654, 
+      "cumarea": 111.72463595646886, 
+      "area": 12.32, 
+      "num_lifts": 49, 
+      "name": "Winter Park", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2770, 
+      "uid": "2bedad4a-b26f-46d6-a47d-015eee15a0da"
+    }, 
+    {
+      "max_elev": 3620, 
+      "cumarea": 122.58264364027838, 
+      "area": 5.67, 
+      "num_lifts": 15, 
+      "name": "Crested Butte", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2782, 
+      "uid": "ee927948-e2db-47f0-9629-b6e06fbc24cb"
+    }, 
+    {
+      "max_elev": 3598, 
+      "uid": "d050db47-1fe2-4c04-8325-e03812ab323b", 
+      "area": 4.49, 
+      "num_lifts": 56, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3289, 
+      "cumarea": 132.11810334736856
+    }, 
+    {
+      "max_elev": 3596, 
+      "cumarea": 135.54841459390522, 
+      "area": 4.18, 
+      "num_lifts": 7, 
+      "name": "Dizin", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2678, 
+      "uid": "8ab8ac77-360c-4a44-bf59-b47432e972b9"
+    }, 
+    {
+      "max_elev": 3602, 
+      "uid": "b1c846a0-729c-44fb-904f-105d7e869811", 
+      "area": 3.9800000000000004, 
+      "num_lifts": 20, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2851, 
+      "cumarea": 128.6162506456144
+    }, 
+    {
+      "max_elev": 3580, 
+      "uid": "b403eb5b-4b4d-453c-8167-977fa16bade3", 
+      "area": 3.75, 
+      "num_lifts": 34, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3225, 
+      "cumarea": 138.87017043388755
+    }, 
+    {
+      "max_elev": 3603, 
+      "uid": "b01df9ab-54d8-469a-baeb-6a4be519173c", 
+      "area": 1.92, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3298, 
+      "cumarea": 125.23496882631807
+    }, 
+    {
+      "max_elev": 3629, 
+      "uid": "0003eb4a-4256-4aa8-a55a-5bc1e2d9ec82", 
+      "area": 1.83, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 3448, 
+      "cumarea": 118.84745452253871
+    }
+  ], 
+  "end_x": 140.48763863927346, 
+  "num": 3, 
+  "zoom": 9, 
+  "start_x": 105.3657289794551
+}

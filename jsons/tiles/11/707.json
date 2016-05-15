@@ -1,0 +1,45 @@
+{
+  "shown": [
+    {
+      "max_elev": 1338, 
+      "cumarea": 6213.51205005751, 
+      "area": 2.55, 
+      "num_lifts": 1, 
+      "name": "(not a ski area)", 
+      "source": "jsons/ski_area_elevations//africa-latest.json", 
+      "min_elev": 656, 
+      "uid": "73568e9b-852a-4d32-8680-21637ddeb2f9"
+    }, 
+    {
+      "max_elev": 1340, 
+      "uid": "510d737d-9732-4666-976b-7d22c4f51011", 
+      "area": 1.97, 
+      "num_lifts": 2, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1208, 
+      "cumarea": 6207.960771059249
+    }, 
+    {
+      "max_elev": 1338, 
+      "uid": "03a4523b-2dff-4409-b9c4-eb2d186c8c35", 
+      "area": 1.85, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1020, 
+      "cumarea": 6210.57595669834
+    }, 
+    {
+      "max_elev": 1337, 
+      "uid": "69e48aed-0383-4266-90b5-e3779f242a12", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1292, 
+      "cumarea": 6216.1053769027885
+    }
+  ], 
+  "end_x": 6216.5780097878505, 
+  "num": 707, 
+  "zoom": 11, 
+  "start_x": 6207.797532372896
+}

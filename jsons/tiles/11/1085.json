@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 870, 
+      "cumarea": 9528.01404549628, 
+      "area": 6.58, 
+      "num_lifts": 91, 
+      "name": "Tand\u00e5dalen", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 567, 
+      "uid": "b167dfea-3d19-4fb2-9e9d-04c4fc54566a"
+    }, 
+    {
+      "max_elev": 870, 
+      "uid": "e0b77cc5-a3d3-4328-b412-003c0f24251f", 
+      "area": 2.38, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 632, 
+      "cumarea": 9530.881145983964
+    }, 
+    {
+      "max_elev": 870, 
+      "uid": "05fee80c-4723-4ff5-a464-4af22896866c", 
+      "area": 1.81, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 780, 
+      "cumarea": 9533.47447282924
+    }
+  ], 
+  "end_x": 9535.598472640688, 
+  "num": 1085, 
+  "zoom": 11, 
+  "start_x": 9526.817995225734
+}

@@ -1,0 +1,36 @@
+{
+  "shown": [
+    {
+      "max_elev": 1661, 
+      "cumarea": 4581.486465360235, 
+      "area": 3.12, 
+      "num_lifts": 23, 
+      "name": "Alpental", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 962, 
+      "uid": "c12ffb75-5019-4ed0-953f-8edb1d5a472e"
+    }, 
+    {
+      "max_elev": 1662, 
+      "uid": "19098dc8-4ff0-4520-95b7-f8e50a2c0a99", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1307, 
+      "cumarea": 4575.738866786793
+    }, 
+    {
+      "max_elev": 1661, 
+      "uid": "a3f64df7-9e38-4ed5-a5f6-b84491c3fae4", 
+      "area": 1.84, 
+      "num_lifts": 1, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1548, 
+      "cumarea": 4578.348632358414
+    }
+  ], 
+  "end_x": 4583.409210606296, 
+  "num": 521, 
+  "zoom": 11, 
+  "start_x": 4574.628733191342
+}

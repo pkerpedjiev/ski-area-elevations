@@ -1,0 +1,27 @@
+{
+  "shown": [
+    {
+      "max_elev": 1929, 
+      "cumarea": 3262.346207478212, 
+      "area": 5.33, 
+      "num_lifts": 24, 
+      "name": "Pamporovo", 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1467, 
+      "uid": "6fb22814-29b5-4fd7-babf-5fe2f6a61fcf"
+    }, 
+    {
+      "max_elev": 1929, 
+      "uid": "3fdd73a8-03ee-49dc-8e45-412117d5b7e9", 
+      "area": 4.08, 
+      "num_lifts": 10, 
+      "source": "jsons/ski_area_elevations//europe-latest.json", 
+      "min_elev": 1219, 
+      "cumarea": 3265.752304466628
+    }
+  ], 
+  "end_x": 3266.337598363108, 
+  "num": 743, 
+  "zoom": 12, 
+  "start_x": 3261.947359655631
+}

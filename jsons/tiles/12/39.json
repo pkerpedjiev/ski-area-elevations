@@ -1,0 +1,28 @@
+{
+  "shown": [
+    {
+      "max_elev": 3523, 
+      "cumarea": 172.27502147631606, 
+      "area": 33.61, 
+      "num_lifts": 230, 
+      "name": "Vail", 
+      "source": "jsons/ski_area_elevations//north-america-latest.json", 
+      "min_elev": 2454, 
+      "uid": "312edb1b-e5b2-4dfc-90ef-25f290a40384"
+    }, 
+    {
+      "max_elev": 3511, 
+      "cumarea": 175.37696155507683, 
+      "area": 3.01, 
+      "num_lifts": 13, 
+      "name": "Darbandsar Ski", 
+      "source": "jsons/ski_area_elevations//asia-latest.json", 
+      "min_elev": 2626, 
+      "uid": "041a2f8f-3e6a-432a-863c-1dab1ffb058b"
+    }
+  ], 
+  "end_x": 175.60954829909184, 
+  "num": 39, 
+  "zoom": 12, 
+  "start_x": 171.21930959161455
+}
