@@ -17,13 +17,7 @@ var bestPictures = new Bloodhound({
             // replace multiple spaces with a single underscore
 
             let tokenizer = Bloodhound.tokenizers.whitespace;
-            let tokenizedQuery = tokenizer(query)
-
-            console.log('tokenizer(query)', tokenizedQuery);
-
-            tokenizedQuery = [tokenizedQuery[tokenizedQuery.length - 1]]
-
-            let filename = tokenizedQuery.join('_')
+            let filename = tokenizer(query.trim()).join('_')
             let url = settings.url.replace('%QUERY', filename)
 
             settings.url = url;
