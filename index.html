@@ -48,8 +48,15 @@
         display: 'name',
         source: bestPictures
     }).on('typeahead:selected', function(evt, data) {
-        console.log('data', data);   
-        elevationsPlot.zoomTo()(+data.cumarea, +data.area);
+        //console.log('data', data);   
+        console.log('selected');
+        //elevationsPlot.zoomTo()(+data.cumarea, +data.area);
+    }).on('typeahead:select', function(evt, data) {
+        console.log('select', evt);   
+    }).on('typeahead:change', function(evt, data) {
+        console.log('change', evt);    
+    }).on('typehead:cursorchange', function(evt, data) {
+        console.log('cursorchange', data);
     });
 
     </script>
